@@ -3,7 +3,6 @@ from __future__ import annotations
 
 import html as _html
 from pathlib import Path
-from urllib.parse import quote
 
 import pwa
 
@@ -42,7 +41,7 @@ _CARD = '<a class="card" href="__HREF__"><img src="__COVER__" alt=""><span>__LAB
 def write_menu(dist, app_label: str, entries, icon_rel: str = pwa.ICON_REL) -> Path:
     cards = []
     for e in entries:
-        href = "play.html?game=" + quote(e["slug"])
+        href = "play-" + e["slug"] + ".html"
         cover = e["cover_rel"] or icon_rel
         card = (
             _CARD.replace("__HREF__", _html.escape(href, quote=True))

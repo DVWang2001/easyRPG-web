@@ -48,17 +48,15 @@ def test_build_library_two_games(tmp_path):
     assert "serviceWorker" in play
     grid = (out / "index.html").read_text(encoding="utf-8")
     assert "我的遊戲庫" in grid
-    assert "play.html?game=" in grid
     assert grid.count('class="card"') == 2
-    # CJK 顯示名稱仍出現在網格，但資料夾 slug 是 ASCII（player 的 ?game= 不解碼）
     assert "花嫁之冠" in grid
     assert "勇者傳說" in grid
+    assert 'href="play-game.html"' in grid
+    assert 'href="play-game-2.html"' in grid
+    assert (out / "play-game.html").exists()
+    assert (out / "play-game-2.html").exists()
     assert (out / "games" / "game" / "index.json").exists()
     assert (out / "games" / "game-2" / "index.json").exists()
-    # 網格連結必須是純 ASCII 的 ?game=
-    import re as _re
-    for href in _re.findall(r'href="(play\.html\?game=[^"]*)"', grid):
-        assert href.isascii()
     manifest = json.loads((out / "manifest.webmanifest").read_text(encoding="utf-8"))
     assert manifest["start_url"] == "."
     sw = (out / "service-worker.js").read_text(encoding="utf-8")
