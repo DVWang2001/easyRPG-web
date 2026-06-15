@@ -106,3 +106,22 @@ def test_build_library_assigns_unique_slugs(tmp_path):
     )
     assert (out / "games" / "dungeon" / "index.json").exists()
     assert (out / "games" / "dungeon-2" / "index.json").exists()
+
+
+def test_build_library_passes_rtp_through(tmp_path):
+    tarball = tmp_path / "player.tar.gz"
+    _fake_player_tarball(tarball)
+    g1 = tmp_path / "Game"
+    _game(g1, "1")
+    rtp = tmp_path / "rtp"
+    rtp.mkdir()
+    (rtp / "extra.png").write_text("rtp-asset")
+    out = tmp_path / "dist"
+
+    core.build_library(
+        games=[{"folder": g1, "label": "遊戲", "cover": None, "rtp": rtp}],
+        app_icon=None, soundfont=None, out=out,
+        player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
+    )
+
+    assert (out / "games" / "遊戲" / "extra.png").read_text() == "rtp-asset"

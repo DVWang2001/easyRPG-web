@@ -48,3 +48,20 @@ def test_stage_library_cover_not_in_index_json(tmp_path):
     import json
     idx = json.loads((out / "games" / "g" / "index.json").read_text(encoding="utf-8"))
     assert "cover" not in idx["cache"]
+
+
+def test_stage_library_with_rtp(tmp_path):
+    out = tmp_path / "dist"
+    g1 = tmp_path / "g1"
+    g1.mkdir()
+    (g1 / "RPG_RT.ldb").write_text("game-version")
+    rtp = tmp_path / "rtp"
+    rtp.mkdir()
+    (rtp / "shared.png").write_text("from-rtp")
+    (rtp / "RPG_RT.ldb").write_text("rtp-version")
+    games = [{"folder": g1, "label": "G", "slug": "g", "cover": None, "rtp": rtp}]
+
+    library.stage_library(out, games, soundfont=None)
+
+    assert (out / "games" / "g" / "shared.png").read_text() == "from-rtp"
+    assert (out / "games" / "g" / "RPG_RT.ldb").read_text() == "game-version"
