@@ -16,7 +16,8 @@ def stage_library(out, games, *, soundfont=None, ignore_globs=staging.DEFAULT_IG
     for g in games:
         slug = g["slug"]
         dest = out / "games" / slug
-        staging.stage_game(g["folder"], dest, ignore_globs=ignore_globs, soundfont=soundfont)
+        staging.stage_game(g["folder"], dest, ignore_globs=ignore_globs,
+                           soundfont=soundfont, rtp=g.get("rtp"))
         gencache.write_index(dest)  # 在複製封面前產索引，封面就不會進 index.json
         cover_rel = None
         if g.get("cover"):

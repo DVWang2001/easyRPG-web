@@ -1,3 +1,133 @@
+# 每遊戲可選 RTP Implementation Plan
+
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+
+**Goal:** 讓多遊戲庫的每個遊戲，由使用者在「遊戲設定」對話框勾選是否加入 RTP 並選 RTP 資料夾；勾了就把該資料夾接給既有 staging（程式不判斷、不驗證）。
+
+**Architecture:** `staging.stage_game(..., rtp=)` 既有能力（先鋪 RTP、遊戲覆蓋）已存在；本計畫只把 `rtp` 接通 `library.stage_library`，並在 `easyrpg_web_gui.py` 的 `GameDialog` 加「加入 RTP」勾選框 + RTP 資料夾欄、Treeview 加 RTP 欄。`build_library` 因 `specs=[dict(g) for g in games]` 已自動帶過 `rtp`，零改動。
+
+**Tech Stack:** Python 3.8+（標準庫 + tkinter）；pytest。
+
+**Spec:** `docs/superpowers/specs/2026-06-15-per-game-rtp-design.md`
+**專案根目錄：** `C:\opensource\easyRPG-web\`（分支 `feat/per-game-rtp`）
+
+---
+
+## 檔案結構
+
+| 檔案 | 變更 | 職責 |
+|---|---|---|
+| `library.py` | 修改 | `stage_game` 呼叫加 `rtp=g.get("rtp")` |
+| `easyrpg_web_gui.py` | 整檔重寫 | `GameDialog` 加「加入 RTP」勾選框 + RTP 資料夾欄；`App` Treeview 加 RTP 欄、編輯時預填 rtp |
+| `tests/test_library.py` | 加測試 | 帶 rtp → RTP 檔進遊戲夾、遊戲覆蓋 RTP |
+| `tests/test_build_library.py` | 加測試 | 端對端：某遊戲帶 rtp → RTP 檔進 `games/<slug>/` |
+
+---
+
+### Task 1: 把 RTP 接通 `library.stage_library`（含端對端）
+
+**Files:**
+- Modify: `library.py`
+- Test: `tests/test_library.py`（新增一案）、`tests/test_build_library.py`（新增一案）
+
+- [ ] **Step 1: 在 `tests/test_library.py` 末尾新增失敗測試**
+
+```python
+def test_stage_library_with_rtp(tmp_path):
+    out = tmp_path / "dist"
+    g1 = tmp_path / "g1"
+    g1.mkdir()
+    (g1 / "RPG_RT.ldb").write_text("game-version")
+    rtp = tmp_path / "rtp"
+    rtp.mkdir()
+    (rtp / "shared.png").write_text("from-rtp")
+    (rtp / "RPG_RT.ldb").write_text("rtp-version")
+    games = [{"folder": g1, "label": "G", "slug": "g", "cover": None, "rtp": rtp}]
+
+    library.stage_library(out, games, soundfont=None)
+
+    # RTP 補進來的素材
+    assert (out / "games" / "g" / "shared.png").read_text() == "from-rtp"
+    # 遊戲自有檔覆蓋 RTP 同名檔
+    assert (out / "games" / "g" / "RPG_RT.ldb").read_text() == "game-version"
+```
+
+- [ ] **Step 2: 在 `tests/test_build_library.py` 末尾新增失敗測試**
+
+（此檔頂部已有 `_fake_player_tarball` 與 `_game` 輔助函式，沿用。）
+```python
+def test_build_library_passes_rtp_through(tmp_path):
+    tarball = tmp_path / "player.tar.gz"
+    _fake_player_tarball(tarball)
+    g1 = tmp_path / "Game"
+    _game(g1, "1")
+    rtp = tmp_path / "rtp"
+    rtp.mkdir()
+    (rtp / "extra.png").write_text("rtp-asset")
+    out = tmp_path / "dist"
+
+    core.build_library(
+        games=[{"folder": g1, "label": "遊戲", "cover": None, "rtp": rtp}],
+        app_icon=None, soundfont=None, out=out,
+        player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
+    )
+
+    assert (out / "games" / "遊戲" / "extra.png").read_text() == "rtp-asset"
+```
+
+- [ ] **Step 3: 跑兩個新測試確認失敗**
+
+Run: `python -m pytest tests/test_library.py::test_stage_library_with_rtp tests/test_build_library.py::test_build_library_passes_rtp_through -v`
+Expected: 兩個都 FAIL（RTP 未接通 → `shared.png`/`extra.png` 不存在）。
+
+- [ ] **Step 4: 修改 `library.py` 接通 rtp**
+
+把現有 `stage_library` 中的這行：
+```python
+        staging.stage_game(g["folder"], dest, ignore_globs=ignore_globs, soundfont=soundfont)
+```
+改成：
+```python
+        staging.stage_game(g["folder"], dest, ignore_globs=ignore_globs,
+                           soundfont=soundfont, rtp=g.get("rtp"))
+```
+
+- [ ] **Step 5: 跑兩個新測試確認通過**
+
+Run: `python -m pytest tests/test_library.py::test_stage_library_with_rtp tests/test_build_library.py::test_build_library_passes_rtp_through -v`
+Expected: 兩個都 PASS。
+
+- [ ] **Step 6: 跑全部測試確認沒退步**
+
+Run: `python -m pytest -q`
+Expected: 全部 PASS（原 36 + 新 2 = 38）。
+
+- [ ] **Step 7: Commit**
+
+```bash
+git add library.py tests/test_library.py tests/test_build_library.py
+git commit -m "feat: 多遊戲庫把每遊戲 RTP 接通 staging"
+```
+
+---
+
+### Task 2: GUI —— `GameDialog` 加「加入 RTP」勾選 + RTP 欄
+
+**Files:**
+- Modify（整檔重寫）: `easyrpg_web_gui.py`
+
+> 此任務無法用單元測試驗證對話框互動（Tkinter 需開視窗）；以「整檔重寫 + import 煙霧測試保持綠燈 + 手動開窗確認」驗收。RTP 真正接通的行為已由 Task 1 的測試涵蓋。
+
+- [ ] **Step 1: 確認既有 smoke 測試仍綠（基準）**
+
+Run: `python -m pytest tests/test_gui_smoke.py -q`
+Expected: PASS（沿用現有 `tests/test_gui_smoke.py`，本任務不改它）。
+
+- [ ] **Step 2: 整檔重寫 `easyrpg_web_gui.py` 為以下內容**
+
+（相對現狀的差異：`GameDialog` 增加 `rtp` 參數、`v_rtp_on` 勾選與 `v_rtp` 路徑列與 `_pick_rtp`，`_ok` 產出 `rtp`；`App` 的 Treeview 多一欄 `rtp`、`_refresh_tree` 顯示 RTP、`_edit` 預填 rtp。）
+
+```python
 # easyrpg_web_gui.py
 """easyRPG-web 遊戲庫 GUI（Tkinter 清單編輯器，呼叫 build_library 核心）。"""
 from __future__ import annotations
@@ -243,3 +373,35 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
+
+- [ ] **Step 3: 跑全部測試**
+
+Run: `python -m pytest -q`
+Expected: 全部 PASS（仍 38）。
+
+- [ ] **Step 4: 匯入煙霧檢查（不開窗）**
+
+Run: `python -c "import easyrpg_web_gui as g; print(hasattr(g,'GameDialog'), hasattr(g,'App'))"`
+Expected: `True True`
+
+- [ ] **Step 5: 手動開窗確認（建議）**
+
+Run: `python easyrpg_web_gui.py`
+Expected: 「＋ 加入遊戲」→ 對話框可見「加入 RTP」勾選框與「RTP 資料夾」選夾按鈕；勾選並選資料夾後，清單 RTP 欄顯示該資料夾名；不勾顯示「（無）」。關閉即可。
+
+- [ ] **Step 6: Commit**
+
+```bash
+git add easyrpg_web_gui.py
+git commit -m "feat: GameDialog 加「加入 RTP」勾選與資料夾欄、清單顯示 RTP"
+```
+
+---
+
+## 自我審查結果（對照 spec）
+
+- **Spec 覆蓋：** 每遊戲 `rtp` 鍵（Task 1 測試資料）、`library` 接通（Task 1 Step 4）、`build_library` 零改動帶過（Task 1 Step 2 端對端測試）、GUI 勾選框 + RTP 資料夾欄 + 編輯預填（Task 2 GameDialog）、Treeview RTP 欄（Task 2 `_refresh_tree`/欄定義）、不判斷不驗證（無任何 RTP 驗證碼）。✔
+- **Placeholder 掃描：** 無 TBD/TODO；每段含完整可執行碼與預期輸出。Task 2 已說明為何用「重寫 + 煙霧 + 手動」而非單元測試（Tkinter 互動）。✔
+- **型別/簽章一致性：** 遊戲規格 dict 鍵 `{folder,label,slug,cover,rtp}`；`stage_game(..., rtp=)`、`stage_library` 內 `g.get("rtp")`、`GameDialog(parent, folder, label, cover, rtp)`、`_ok` 產出含 `rtp` 在各處一致。✔
+- **既有行為不變：** 不帶 `rtp`（既有測試與單一遊戲路徑）→ `g.get("rtp")` 回 `None` → `stage_game(rtp=None)`（與現狀相同）。✔
