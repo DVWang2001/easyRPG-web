@@ -86,3 +86,40 @@ def write_service_worker(dist) -> Path:
     out = dist / "service-worker.js"
     out.write_text(SW_TEMPLATE % json.dumps(files, ensure_ascii=False), encoding="utf-8")
     return out
+
+
+import html as _html
+
+
+def _pwa_head(app_label: str, icon_rel: str) -> str:
+    title = _html.escape(app_label)
+    return (
+        '\n<link rel="manifest" href="manifest.webmanifest">'
+        f'\n<link rel="apple-touch-icon" href="{icon_rel}">'
+        '\n<meta name="apple-mobile-web-app-capable" content="yes">'
+        '\n<meta name="apple-mobile-web-app-status-bar-style" content="black">'
+        f'\n<meta name="apple-mobile-web-app-title" content="{title}">'
+        '\n<meta name="theme-color" content="#000000">'
+        '\n<meta name="viewport" content="width=device-width, initial-scale=1, '
+        'viewport-fit=cover, user-scalable=no">'
+        '\n<script>'
+        "if('serviceWorker' in navigator){"
+        "window.addEventListener('load',function(){"
+        "navigator.serviceWorker.register('service-worker.js');});}"
+        '</script>\n'
+    )
+
+
+def patch_index_html(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
+    dist = Path(dist)
+    index = dist / "index.html"
+    html = index.read_text(encoding="utf-8")
+    snippet = _pwa_head(app_label, icon_rel)
+    if "</head>" in html:
+        html = html.replace("</head>", snippet + "</head>", 1)
+    elif "</body>" in html:
+        html = html.replace("</body>", snippet + "</body>", 1)
+    else:
+        html = html + snippet
+    index.write_text(html, encoding="utf-8")
+    return index
