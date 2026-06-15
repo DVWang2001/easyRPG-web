@@ -23,3 +23,7 @@ def test_uniqueness_with_taken_set():
     assert slugify.slugify("Hero", taken) == "hero"
     assert slugify.slugify("Hero", taken) == "hero-2"
     assert slugify.slugify("Hero", taken) == "hero-3"
+
+
+def test_removes_ampersand():
+    assert slugify.slugify("A & B") == "a-b"

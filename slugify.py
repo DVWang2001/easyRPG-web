@@ -4,7 +4,7 @@ from __future__ import annotations
 import re
 import unicodedata
 
-_UNSAFE = re.compile(r'[\\/:*?"<>|]')
+_UNSAFE = re.compile(r'[\\/:*?"<>|&]')
 _SPACES = re.compile(r"\s+")
 _DASHES = re.compile(r"-+")
 

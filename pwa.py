@@ -91,7 +91,7 @@ def write_service_worker(dist) -> Path:
 import html as _html
 
 
-def _pwa_head(app_label: str, icon_rel: str) -> str:
+def pwa_head(app_label: str, icon_rel: str) -> str:
     title = _html.escape(app_label)
     return (
         '\n<link rel="manifest" href="manifest.webmanifest">'
@@ -114,7 +114,7 @@ def patch_index_html(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
     dist = Path(dist)
     index = dist / "index.html"
     html = index.read_text(encoding="utf-8")
-    snippet = _pwa_head(app_label, icon_rel)
+    snippet = pwa_head(app_label, icon_rel)
     if "</head>" in html:
         html = html.replace("</head>", snippet + "</head>", 1)
     elif "</body>" in html:

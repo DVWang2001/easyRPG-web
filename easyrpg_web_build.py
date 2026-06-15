@@ -123,7 +123,11 @@ def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
     for name in PLAYER_FILES:
         shutil.copy2(player_dir / name, out / name)
 
-    icon_rel = pwa.install_icon(out, app_icon) if app_icon else pwa.ICON_REL
+    if app_icon:
+        icon_rel = pwa.install_icon(out, app_icon)
+    else:
+        _log("警告：未提供 app_icon，PWA 安裝圖示將缺失（icons/icon.png 不存在）。", log)
+        icon_rel = pwa.ICON_REL
     pwa.patch_index_html(out, app_label, icon_rel)   # 先 patch player 的 index.html
     (out / "index.html").rename(out / "play.html")    # player → play.html
 

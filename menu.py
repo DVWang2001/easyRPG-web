@@ -51,7 +51,7 @@ def write_menu(dist, app_label: str, entries, icon_rel: str = pwa.ICON_REL) -> P
         )
         cards.append(card)
     page = (
-        _PAGE.replace("__PWAHEAD__", pwa._pwa_head(app_label, icon_rel))
+        _PAGE.replace("__PWAHEAD__", pwa.pwa_head(app_label, icon_rel))
         .replace("__TITLE__", _html.escape(app_label))
         .replace("__CARDS__", "\n".join(cards))
     )

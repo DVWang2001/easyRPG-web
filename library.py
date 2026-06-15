@@ -20,7 +20,8 @@ def stage_library(out, games, *, soundfont=None, ignore_globs=staging.DEFAULT_IG
         gencache.write_index(dest)  # 在複製封面前產索引，封面就不會進 index.json
         cover_rel = None
         if g.get("cover"):
-            shutil.copy2(Path(g["cover"]), dest / "cover.png")
-            cover_rel = f"games/{slug}/cover.png"
+            ext = Path(g["cover"]).suffix or ".png"
+            shutil.copy2(Path(g["cover"]), dest / f"cover{ext}")
+            cover_rel = f"games/{slug}/cover{ext}"
         entries.append({"label": g["label"], "slug": slug, "cover_rel": cover_rel})
     return entries
