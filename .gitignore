@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+dist/
+.player-cache/
+.gh-pages-worktree/
+.pytest_cache/
