@@ -25,6 +25,7 @@
 - 在純 Windows 上，把一個 RPG Maker 2000/2003 遊戲資料夾，打包成一個**自包含的靜態網頁 App**。
 - 部署到 GitHub Pages 後，iPhone 用 Safari 開、按「加入主畫面」即得一個**全螢幕、有圖示、可離線**的 App。
 - MIDI 音色比照 Windows（沿用既有 `easyrpg.soundfont`）。
+- 提供 **GUI 系統**（圖形介面），讓不想打指令的人也能選遊戲、設定、一鍵打包/部署。
 
 **非目標**
 - 原生 `.ipa`、App Store 上架。
@@ -54,11 +55,13 @@ PWA 外殼 ─► dist/manifest.webmanifest + dist/icons/ + dist/service-worker.
 | 檔案 | 角色 | 依賴 |
 |---|---|---|
 | `easyrpg_web_build.py` | 跨平台 CLI 核心：驗證遊戲 → staging → 注入 SF2 →（選）灌 RTP → 呼叫 gencache → 鋪 PWA 外殼 → 輸出 `dist/` | Python 標準庫 |
+| `easyrpg_web_gui.py` | **跨平台 GUI**（Tkinter，鏡射既有 `easyrpg_gui.py` 風格）：表單選遊戲/音色/圖示/RTP/輸出、deploy 勾選、Build 按鈕、threading+queue 跑非阻塞建置並即時顯示 log。**薄前端**，`import easyrpg_web_build as core` 呼叫核心，不重複邏輯 | Python 標準庫（Tkinter） |
 | `gencache.py` | **純 Python 重寫**官方 gencache：遞迴掃 `games/default/`，輸出符合 EasyRPG 格式、帶副檔名的 `index.json` | Python 標準庫 |
 | `player/`（快取夾） | 首次下載的官方預編 web player；之後走快取，`--refresh-player` 強制更新 | 網路（僅首次） |
 | `pwa/`（模板夾） | `manifest.webmanifest` 模板、`service-worker.js` 模板、由 `--app-icon` 產各尺寸圖示的邏輯 | Python 標準庫（PNG 縮放：優先標準庫/無依賴方案，必要時記為待確認） |
 | `deploy`（`--deploy` 旗標或 `deploy.py`） | 一鍵把 `dist/` push 到 `gh-pages`（用 `git` / `gh`） | git / gh CLI |
-| `啟動.bat` | Windows 啟動器（UTF-8 BOM，依既有專案的中文 .ps1/.bat 規則） | — |
+| `啟動GUI.bat` | Windows 主入口：啟動 `easyrpg_web_gui.py`（UTF-8 BOM，依既有專案的中文 .ps1/.bat 規則） | — |
+| `啟動.bat` | Windows CLI 啟動器（進階／批次用） | — |
 | `run.sh` | macOS/Linux 啟動器（LF、no-BOM） | — |
 | `README.md` | 安裝、用法、iPhone 加入主畫面步驟 | — |
 
@@ -78,6 +81,21 @@ python easyrpg_web_build.py --game "C:/Games/花嫁之冠" --app-label 花嫁之
 
 產物：`dist/`（自包含靜態網站）。
 
+## GUI 系統（Tkinter，跨平台）
+
+設計原則：GUI 是 CLI 核心的**薄前端**——所有實際工作（驗證／staging／gencache／PWA／deploy）都在 `easyrpg_web_build.py`，GUI 只負責收集參數、呼叫核心、顯示進度。鏡射既有 `easyrpg_gui.py` 的結構（Tkinter + ttk + ScrolledText、`threading`+`queue` 非阻塞、`import easyrpg_web_build as core`）。
+
+版面（單一視窗）：
+- **遊戲資料夾**：`filedialog` 選夾 + 路徑欄。
+- **App 名稱**：文字欄（預設＝資料夾名）。
+- **音色 SF2**：路徑欄 + 選檔（預設內附 Windows 音色）。
+- **App 圖示**：路徑欄 + 選檔（預設內附 `app_icon.png`）。
+- **RTP（選填）**：路徑欄 + 選夾。
+- **輸出夾**：路徑欄（預設 `dist/`）。
+- **勾選：完成後部署到 GitHub Pages（`--deploy`）**、**勾選：強制更新 web player（`--refresh-player`）**。
+- **「開始打包」按鈕** → 背景執行緒跑核心，**即時 log**（ScrolledText，透過 queue 由工作執行緒回報），完成跳出成功/失敗訊息與輸出路徑。
+- 主入口：`啟動GUI.bat`（Windows）/ `run.sh`（macOS/Linux）。
+
 ## PWA / 離線（GitHub Pages = HTTPS，故 service worker 可用）
 
 - `manifest.webmanifest`：`display: standalone`、`orientation`、`name`/`short_name` = `--app-label`、`start_url`、圖示 180 / 192 / 512。
@@ -96,6 +114,7 @@ python easyrpg_web_build.py --game "C:/Games/花嫁之冠" --app-label 花嫁之
 - **音色注入測試**：斷言 `easyrpg.soundfont` 出現在 `dist/games/default/` 且被 `index.json` 收錄。
 - **端對端煙霧測試**：以 `python -m http.server` 起 `dist/`，確認 `index.html` 可載入、單一遊戲自動啟動（無選單）。
 - **PWA 檢查**：斷言 `manifest.webmanifest`、各尺寸圖示、`service-worker.js` 皆產出且被 `index.html` 正確引用。
+- **GUI 煙霧測試**：`easyrpg_web_gui.py` 能匯入並建構視窗（可用無頭/虛擬顯示或僅測核心呼叫封裝），確認它只透過 `core` 呼叫、不重複邏輯。
 
 ## 已知風險 / 待實作時確認
 
