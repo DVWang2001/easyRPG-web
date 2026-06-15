@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import re
 import shutil
 from pathlib import Path
 
@@ -163,3 +164,24 @@ def inject_play_game_info(dist, entries) -> Path:
         html = html + script
     play.write_text(html, encoding="utf-8")
     return play
+
+
+def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
+    """以 dist/play.html 為模板，為每個遊戲產出 play-<slug>.html：
+    靜態 <title>＝遊戲名、<link rel=icon>＝封面（無封面用主圖示）、game baked-in。
+    icon 靜態寫在 head → iOS Safari 也能換分頁圖示。"""
+    dist = Path(dist)
+    template = (dist / "play.html").read_text(encoding="utf-8")
+    for e in entries:
+        slug = e["slug"]
+        cover = e.get("cover_rel") or icon_rel
+        cover_esc = _html.escape(cover, quote=True)
+        html = template.replace("game: undefined", "game: " + json.dumps(slug))
+        new_head = (
+            "\n<title>" + _html.escape(e["label"]) + "</title>"
+            '\n<link rel="icon" href="' + cover_esc + '">'
+            '\n<link rel="apple-touch-icon" href="' + cover_esc + '">\n'
+        )
+        html = re.sub(r"<title>.*?</title>", "", html, count=1, flags=re.S)
+        html = html.replace("</head>", new_head + "</head>", 1)
+        (dist / ("play-" + slug + ".html")).write_text(html, encoding="utf-8")
