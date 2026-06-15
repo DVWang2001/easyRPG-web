@@ -10,7 +10,7 @@ def _fake_player_tarball(path: Path):
     buf = io.BytesIO()
     with tarfile.open(fileobj=buf, mode="w:gz") as tar:
         for name, data in [
-            ("index.html", b"<html><head></head><body></body></html>"),
+            ("index.html", b"<html><head><title>EasyRPG Player</title></head><body><script>createEasyRpgPlayer({ game: undefined, saveFs: undefined });</script></body></html>"),
             ("index.js", b"// js"),
             ("index.wasm", b"\0asm"),
         ]:
@@ -135,7 +135,7 @@ def test_build_library_passes_rtp_through(tmp_path):
     assert (out / "games" / "game" / "extra.png").read_text() == "rtp-asset"
 
 
-def test_build_library_injects_play_game_info(tmp_path):
+def test_build_library_per_game_page(tmp_path):
     tarball = tmp_path / "player.tar.gz"
     _fake_player_tarball(tarball)
     g1 = tmp_path / "Hanayome"
@@ -150,8 +150,7 @@ def test_build_library_injects_play_game_info(tmp_path):
         player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
     )
 
-    play = (out / "play.html").read_text(encoding="utf-8")
-    assert "__EASYRPG_GAMES__" in play
-    assert "花嫁之冠" in play
-    assert "games/game/cover.png" in play
-    assert "document.title" in play
+    page = (out / "play-game.html").read_text(encoding="utf-8")  # 花嫁之冠 → slug "game"
+    assert "<title>花嫁之冠</title>" in page
+    assert '<link rel="icon" href="games/game/cover.png">' in page
+    assert 'game: "game"' in page
