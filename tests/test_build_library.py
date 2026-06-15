@@ -133,3 +133,25 @@ def test_build_library_passes_rtp_through(tmp_path):
 
     # label「遊戲」是 CJK → slug 退回 ASCII "game"
     assert (out / "games" / "game" / "extra.png").read_text() == "rtp-asset"
+
+
+def test_build_library_injects_play_game_info(tmp_path):
+    tarball = tmp_path / "player.tar.gz"
+    _fake_player_tarball(tarball)
+    g1 = tmp_path / "Hanayome"
+    _game(g1, "1")
+    cover = tmp_path / "c.png"
+    cover.write_bytes(b"\x89PNG")
+    out = tmp_path / "dist"
+
+    core.build_library(
+        games=[{"folder": g1, "label": "花嫁之冠", "cover": cover}],
+        app_icon=None, soundfont=None, out=out,
+        player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
+    )
+
+    play = (out / "play.html").read_text(encoding="utf-8")
+    assert "__EASYRPG_GAMES__" in play
+    assert "花嫁之冠" in play
+    assert "games/game/cover.png" in play
+    assert "document.title" in play

@@ -137,6 +137,7 @@ def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
 
     _log("產生遊戲庫選單…", log)
     menu.write_menu(out, app_label, entries, icon_rel)  # 寫新的 index.html（網格）
+    pwa.inject_play_game_info(out, entries)             # play.html 依 ?game 設標題與 favicon
 
     pwa.write_manifest(out, app_label, icon_rel)
     pwa.write_service_worker(out)                        # 最後：precache 全部資產
