@@ -1,3 +1,4 @@
+# easyrpg_web_gui.py
 """easyRPG-web 遊戲庫 GUI（Tkinter 清單編輯器，呼叫 build_library 核心）。"""
 from __future__ import annotations
 
@@ -13,9 +14,9 @@ import easyrpg_web_build as core
 
 
 class GameDialog(tk.Toplevel):
-    """加入/編輯單一遊戲：名稱 + 封面（選填）。回傳 dict 或 None。"""
+    """加入/編輯單一遊戲：名稱 + 封面（選填）+ RTP（勾選＋資料夾）。回傳 dict 或 None。"""
 
-    def __init__(self, parent, folder, label="", cover=""):
+    def __init__(self, parent, folder, label="", cover="", rtp=""):
         super().__init__(parent)
         self.title("遊戲設定")
         self.result = None
@@ -24,6 +25,8 @@ class GameDialog(tk.Toplevel):
 
         self.v_label = tk.StringVar(value=label or Path(folder).name)
         self.v_cover = tk.StringVar(value=cover)
+        self.v_rtp_on = tk.BooleanVar(value=bool(rtp))
+        self.v_rtp = tk.StringVar(value=rtp)
 
         ttk.Label(self, text=f"資料夾：{folder}").grid(row=0, column=0, columnspan=3,
                                                      sticky="w", padx=8, pady=6)
@@ -32,8 +35,13 @@ class GameDialog(tk.Toplevel):
         ttk.Label(self, text="封面圖（選填）").grid(row=2, column=0, sticky="w", padx=8)
         ttk.Entry(self, textvariable=self.v_cover, width=36).grid(row=2, column=1, padx=4)
         ttk.Button(self, text="…", width=3, command=self._pick_cover).grid(row=2, column=2)
+        ttk.Checkbutton(self, text="加入 RTP", variable=self.v_rtp_on).grid(
+            row=3, column=0, columnspan=2, sticky="w", padx=8, pady=(6, 0))
+        ttk.Label(self, text="RTP 資料夾").grid(row=4, column=0, sticky="w", padx=8)
+        ttk.Entry(self, textvariable=self.v_rtp, width=36).grid(row=4, column=1, padx=4)
+        ttk.Button(self, text="…", width=3, command=self._pick_rtp).grid(row=4, column=2)
         bar = ttk.Frame(self)
-        bar.grid(row=3, column=0, columnspan=3, pady=8)
+        bar.grid(row=5, column=0, columnspan=3, pady=8)
         ttk.Button(bar, text="確定", command=self._ok).pack(side="left", padx=4)
         ttk.Button(bar, text="取消", command=self.destroy).pack(side="left", padx=4)
 
@@ -45,14 +53,22 @@ class GameDialog(tk.Toplevel):
         if p:
             self.v_cover.set(p)
 
+    def _pick_rtp(self):
+        d = filedialog.askdirectory(title="選擇 RTP 資料夾")
+        if d:
+            self.v_rtp.set(d)
+            self.v_rtp_on.set(True)
+
     def _ok(self):
         if not self.v_label.get().strip():
             messagebox.showerror("缺少名稱", "請輸入顯示名稱", parent=self)
             return
+        rtp = self.v_rtp.get().strip() if self.v_rtp_on.get() else ""
         self.result = {
             "folder": self._folder,
             "label": self.v_label.get().strip(),
             "cover": self.v_cover.get().strip() or None,
+            "rtp": rtp or None,
         }
         self.destroy()
 
@@ -87,10 +103,10 @@ class App:
         ttk.Button(top, text="…", width=3,
                    command=lambda: self._pick_file(self.icon)).grid(row=0, column=4)
 
-        self.tree = ttk.Treeview(f, columns=("label", "folder", "cover"),
+        self.tree = ttk.Treeview(f, columns=("label", "folder", "cover", "rtp"),
                                  show="headings", height=8)
-        for col, txt, w in [("label", "名稱", 140), ("folder", "資料夾", 320),
-                            ("cover", "封面", 120)]:
+        for col, txt, w in [("label", "名稱", 130), ("folder", "資料夾", 280),
+                            ("cover", "封面", 100), ("rtp", "RTP", 100)]:
             self.tree.heading(col, text=txt)
             self.tree.column(col, width=w)
         self.tree.grid(row=1, column=0, sticky="nsew")
@@ -128,7 +144,8 @@ class App:
         self.tree.delete(*self.tree.get_children())
         for g in self.games:
             cover = Path(g["cover"]).name if g.get("cover") else "（預設）"
-            self.tree.insert("", "end", values=(g["label"], str(g["folder"]), cover))
+            rtp = Path(g["rtp"]).name if g.get("rtp") else "（無）"
+            self.tree.insert("", "end", values=(g["label"], str(g["folder"]), cover, rtp))
 
     def _selected_index(self):
         sel = self.tree.selection()
@@ -151,7 +168,8 @@ class App:
         if i is None:
             return
         g = self.games[i]
-        dlg = GameDialog(self.root, g["folder"], g["label"], g.get("cover") or "")
+        dlg = GameDialog(self.root, g["folder"], g["label"],
+                         g.get("cover") or "", g.get("rtp") or "")
         self.root.wait_window(dlg)
         if dlg.result:
             self.games[i] = dlg.result
