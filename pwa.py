@@ -36,3 +36,53 @@ def write_manifest(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
     out = dist / "manifest.webmanifest"
     out.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
     return out
+
+
+SW_TEMPLATE = """\
+// 由 easyrpg_web_build 產生：全資產 precache + cache-first，安裝後可完全離線。
+const CACHE = 'easyrpg-web-v1';
+const PRECACHE = %s;
+
+self.addEventListener('install', (e) => {
+  e.waitUntil(
+    caches.open(CACHE).then((c) => c.addAll(PRECACHE)).then(() => self.skipWaiting())
+  );
+});
+
+self.addEventListener('activate', (e) => {
+  e.waitUntil(
+    caches.keys().then((keys) =>
+      Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k)))
+    ).then(() => self.clients.claim())
+  );
+});
+
+self.addEventListener('fetch', (e) => {
+  if (e.request.method !== 'GET') return;
+  e.respondWith(
+    caches.match(e.request).then((hit) =>
+      hit || fetch(e.request).then((res) => {
+        const copy = res.clone();
+        caches.open(CACHE).then((c) => c.put(e.request, copy));
+        return res;
+      }).catch(() => caches.match('index.html'))
+    )
+  );
+});
+"""
+
+
+def _precache_list(dist: Path) -> list:
+    files = []
+    for p in sorted(dist.rglob("*")):
+        if p.is_file() and p.name != "service-worker.js":
+            files.append(p.relative_to(dist).as_posix())
+    return files
+
+
+def write_service_worker(dist) -> Path:
+    dist = Path(dist)
+    files = _precache_list(dist)
+    out = dist / "service-worker.js"
+    out.write_text(SW_TEMPLATE % json.dumps(files, ensure_ascii=False), encoding="utf-8")
+    return out
