@@ -9,6 +9,11 @@ from pathlib import Path
 PLAYER_URL = "https://easyrpg.org/downloads/player/latest/easyrpg-player-latest-js.tar.gz"
 
 
+def _download(url: str, dest: Path, timeout: int = 120) -> None:
+    with urllib.request.urlopen(url, timeout=timeout) as resp, open(dest, "wb") as f:
+        shutil.copyfileobj(resp, f)
+
+
 def _find_player_root(extracted: Path) -> Path:
     """回傳含 index.wasm 的目錄（tarball 可能多包一層）。"""
     for wasm in extracted.rglob("index.wasm"):
@@ -29,11 +34,11 @@ def ensure_player(cache_dir, url: str = PLAYER_URL, refresh: bool = False) -> Pa
             shutil.rmtree(extracted)
 
     if not tarball.exists():
-        urllib.request.urlretrieve(url, tarball)
+        _download(url, tarball)
 
     if not extracted.exists():
         extracted.mkdir(parents=True)
         with tarfile.open(tarball, "r:gz") as tar:
-            tar.extractall(extracted)
+            tar.extractall(extracted, filter="data")
 
     return _find_player_root(extracted)

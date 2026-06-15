@@ -74,7 +74,11 @@ def build(*, game, app_label=None, soundfont=DEFAULT_SOUNDFONT, app_icon=DEFAULT
     gencache.write_index(game_dest)
 
     _log("鋪 PWA 外殼…", log)
-    icon_rel = pwa.install_icon(out, app_icon) if app_icon else pwa.ICON_REL
+    if app_icon:
+        icon_rel = pwa.install_icon(out, app_icon)
+    else:
+        _log("警告：未提供 app_icon，PWA 安裝圖示將缺失（icons/icon.png 不存在）。", log)
+        icon_rel = pwa.ICON_REL
     pwa.write_manifest(out, app_label, icon_rel)
     pwa.patch_index_html(out, app_label, icon_rel)
     pwa.write_service_worker(out)
