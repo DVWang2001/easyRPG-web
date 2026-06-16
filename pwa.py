@@ -54,18 +54,25 @@ self.addEventListener('install', (e) => {
   e.waitUntil((async () => {
     const c = await caches.open(CACHE);
     const total = PRECACHE.length;
-    let done = 0;
+    let done = 0, idx = 0;
     async function notify() {
       const cls = await self.clients.matchAll({ includeUncontrolled: true });
       for (const cl of cls) cl.postMessage({ type: 'precache', done: done, total: total });
     }
     await notify();
-    // 逐檔下載：容錯（單檔失敗不中斷）、不併發（避免塞滿頻寬），每檔回報進度
-    for (const u of PRECACHE) {
-      try { await c.add(u); } catch (err) {}
-      done++;
-      await notify();
+    // 限併發下載：同時 N 個（比逐檔快很多，又不會上百個一起塞爆頻寬），
+    // 容錯（單檔失敗不中斷），每檔回報進度。
+    async function worker() {
+      while (idx < total) {
+        const u = PRECACHE[idx++];
+        try { await c.add(u); } catch (err) {}
+        done++;
+        notify();
+      }
     }
+    const CONCURRENCY = 6;
+    await Promise.all(Array.from({ length: Math.min(CONCURRENCY, total) }, worker));
+    await notify();
     await self.skipWaiting();
   })());
 });
