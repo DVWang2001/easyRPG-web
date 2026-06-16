@@ -84,6 +84,42 @@ def test_tags_roundtrip_normalized(tmp_path):
     assert proj["games"][0]["tags"] == ["RPG", "漢化", "神作"]
 
 
+def test_all_tags_defaults_empty():
+    assert project.default_project()["all_tags"] == []
+
+
+def test_all_tags_union_from_games_when_absent(tmp_path):
+    # 舊檔沒有 all_tags，但遊戲有 tags → all_tags 自動＝各遊戲 tags 的聯集（保序去重）
+    f = tmp_path / "library.json"
+    f.write_text(json.dumps({
+        "games": [{"folder": "a", "label": "甲", "tags": ["RPG", "漢化"]},
+                  {"folder": "b", "label": "乙", "tags": ["漢化", "動作"]}],
+    }), encoding="utf-8")
+    proj, _ = project.load_project(f)
+    assert proj["all_tags"] == ["RPG", "漢化", "動作"]
+
+
+def test_all_tags_merges_explicit_and_used(tmp_path):
+    f = tmp_path / "library.json"
+    f.write_text(json.dumps({
+        "all_tags": ["A", "A", " B "],  # 含重複與空白
+        "games": [{"folder": "g", "label": "甲", "tags": ["B", "C"]}],
+    }), encoding="utf-8")
+    proj, _ = project.load_project(f)
+    # 明確清單先（去重去空白），再補上遊戲用到但不在清單的
+    assert proj["all_tags"] == ["A", "B", "C"]
+
+
+def test_all_tags_roundtrip(tmp_path):
+    f = tmp_path / "library.json"
+    data = project.default_project()
+    data["all_tags"] = ["RPG", "漢化"]
+    project.save_project(f, data)
+    assert "漢化" in f.read_text(encoding="utf-8")
+    proj, _ = project.load_project(f)
+    assert proj["all_tags"] == ["RPG", "漢化"]
+
+
 def test_missing_sources_flags_empty_and_invalid(tmp_path):
     good = tmp_path / "Good"
     good.mkdir()

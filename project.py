@@ -21,6 +21,7 @@ def default_project() -> dict:
         "icon": str(DEFAULT_ICON),
         "soundfont": str(DEFAULT_SOUNDFONT),
         "out": "dist",
+        "all_tags": [],
         "games": [],
     }
 
@@ -47,6 +48,19 @@ def _normalize(data) -> dict:
                              if str(t).strip()],
                 })
             proj["games"] = norm
+        # 全域標籤清單：明確清單（去重去空白）優先，再補上各遊戲用到但不在清單的
+        ordered, seen = [], set()
+        for t in (data.get("all_tags") or []):
+            t = str(t).strip()
+            if t and t not in seen:
+                seen.add(t)
+                ordered.append(t)
+        for g in proj["games"]:
+            for t in g["tags"]:
+                if t not in seen:
+                    seen.add(t)
+                    ordered.append(t)
+        proj["all_tags"] = ordered
     return proj
 
 

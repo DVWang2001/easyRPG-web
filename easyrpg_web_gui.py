@@ -19,7 +19,8 @@ LIBRARY_JSON = Path(__file__).resolve().parent / "library.json"
 class GameDialog(tk.Toplevel):
     """加入/編輯單一遊戲：原始資料夾 + 名稱 + 封面（選填）+ RTP（勾選＋資料夾）。回傳 dict 或 None。"""
 
-    def __init__(self, parent, folder="", label="", cover="", rtp="", tags=""):
+    def __init__(self, parent, folder="", label="", cover="", rtp="", tags=(),
+                 available_tags=()):
         super().__init__(parent)
         self.title("遊戲設定")
         self.result = None
@@ -31,7 +32,7 @@ class GameDialog(tk.Toplevel):
         self.v_cover = tk.StringVar(value=cover)
         self.v_rtp_on = tk.BooleanVar(value=bool(rtp))
         self.v_rtp = tk.StringVar(value=rtp)
-        self.v_tags = tk.StringVar(value=tags)
+        self.selected_tags = list(tags)
 
         ttk.Label(self, text="原始資料夾").grid(row=0, column=0, sticky="w", padx=8, pady=6)
         ttk.Entry(self, textvariable=self.v_folder, width=36).grid(row=0, column=1, padx=4)
@@ -46,10 +47,18 @@ class GameDialog(tk.Toplevel):
         ttk.Label(self, text="RTP 資料夾").grid(row=4, column=0, sticky="w", padx=8)
         ttk.Entry(self, textvariable=self.v_rtp, width=36).grid(row=4, column=1, padx=4)
         ttk.Button(self, text="…", width=3, command=self._pick_rtp).grid(row=4, column=2)
-        ttk.Label(self, text="標籤（逗號分隔）").grid(row=5, column=0, sticky="w", padx=8)
-        ttk.Entry(self, textvariable=self.v_tags, width=36).grid(row=5, column=1, padx=4)
+        ttk.Label(self, text="標籤").grid(row=5, column=0, sticky="nw", padx=8, pady=(6, 0))
+        self.cb_tag = ttk.Combobox(self, values=list(available_tags), width=22)
+        self.cb_tag.grid(row=5, column=1, sticky="w", padx=4, pady=(6, 0))
+        ttk.Button(self, text="加入標籤", width=8,
+                   command=self._add_tag).grid(row=5, column=2, pady=(6, 0))
+        self.tag_lb = tk.Listbox(self, height=4, width=34)
+        self.tag_lb.grid(row=6, column=1, sticky="w", padx=4)
+        ttk.Button(self, text="移除", width=8,
+                   command=self._remove_tag).grid(row=6, column=2, sticky="n")
+        self._refresh_tag_lb()
         bar = ttk.Frame(self)
-        bar.grid(row=6, column=0, columnspan=3, pady=8)
+        bar.grid(row=7, column=0, columnspan=3, pady=8)
         ttk.Button(bar, text="確定", command=self._ok).pack(side="left", padx=4)
         ttk.Button(bar, text="取消", command=self.destroy).pack(side="left", padx=4)
 
@@ -72,6 +81,26 @@ class GameDialog(tk.Toplevel):
             self.v_rtp.set(d)
             self.v_rtp_on.set(True)
 
+    def _refresh_tag_lb(self):
+        self.tag_lb.delete(0, "end")
+        for t in self.selected_tags:
+            self.tag_lb.insert("end", t)
+
+    def _add_tag(self):
+        # 從下拉選現有標籤，或直接打字新增；加入這個遊戲的已選清單。
+        t = self.cb_tag.get().strip()
+        if t and t not in self.selected_tags:
+            self.selected_tags.append(t)
+            self._refresh_tag_lb()
+        self.cb_tag.set("")
+
+    def _remove_tag(self):
+        # 只把標籤從「這個遊戲」移除，不影響全域標籤清單。
+        sel = self.tag_lb.curselection()
+        if sel:
+            del self.selected_tags[sel[0]]
+            self._refresh_tag_lb()
+
     def _ok(self):
         if not self.v_folder.get().strip():
             messagebox.showerror("缺少資料夾", "請選擇遊戲的原始資料夾", parent=self)
@@ -80,13 +109,12 @@ class GameDialog(tk.Toplevel):
             messagebox.showerror("缺少名稱", "請輸入顯示名稱", parent=self)
             return
         rtp = self.v_rtp.get().strip() if self.v_rtp_on.get() else ""
-        tags = [t.strip() for t in self.v_tags.get().split(",") if t.strip()]
         self.result = {
             "folder": self.v_folder.get().strip(),
             "label": self.v_label.get().strip(),
             "cover": self.v_cover.get().strip() or None,
             "rtp": rtp or None,
-            "tags": tags,
+            "tags": list(self.selected_tags),
         }
         self.destroy()
 
@@ -100,6 +128,8 @@ class App:
 
         proj, warning = project.load_project(self.project_path)
         self.games: list = [dict(g) for g in proj["games"]]
+        self.all_tags: list = list(proj["all_tags"])
+        self.new_tag = tk.StringVar()
         self.lib_name = tk.StringVar(value=proj["lib_name"])
         self.icon = tk.StringVar(value=proj["icon"])
         self.soundfont = tk.StringVar(value=proj["soundfont"])
@@ -108,6 +138,7 @@ class App:
 
         self._build_ui()
         self._refresh_tree()
+        self._refresh_tags_list()
 
         # 初值設定完才掛 trace，避免初始化時誤觸發寫檔
         for var in (self.lib_name, self.icon, self.soundfont, self.out):
@@ -147,8 +178,17 @@ class App:
         ttk.Button(btns, text="↑", width=3, command=lambda: self._move(-1)).pack(side="left", padx=2)
         ttk.Button(btns, text="↓", width=3, command=lambda: self._move(1)).pack(side="left", padx=2)
 
+        tagmgr = ttk.LabelFrame(f, text="標籤清單（新增可選用的標籤名稱）", padding=6)
+        tagmgr.grid(row=3, column=0, sticky="ew", pady=4)
+        tagmgr.columnconfigure(0, weight=1)
+        self.tags_list = tk.Listbox(tagmgr, height=3)
+        self.tags_list.grid(row=0, column=0, rowspan=2, sticky="ew", padx=(0, 6))
+        ttk.Entry(tagmgr, textvariable=self.new_tag, width=18).grid(
+            row=0, column=1, padx=2, pady=(0, 2))
+        ttk.Button(tagmgr, text="新增標籤", command=self._add_tag).grid(row=0, column=2, padx=2)
+
         opt = ttk.Frame(f)
-        opt.grid(row=3, column=0, sticky="w", pady=4)
+        opt.grid(row=4, column=0, sticky="w", pady=4)
         ttk.Label(opt, text="音色 SF2").grid(row=0, column=0, padx=4)
         ttk.Entry(opt, textvariable=self.soundfont, width=34).grid(row=0, column=1, padx=4)
         ttk.Button(opt, text="…", width=3,
@@ -157,14 +197,14 @@ class App:
         ttk.Entry(opt, textvariable=self.out, width=14).grid(row=0, column=4, padx=4)
 
         chk = ttk.Frame(f)
-        chk.grid(row=4, column=0, sticky="w")
+        chk.grid(row=5, column=0, sticky="w")
         ttk.Checkbutton(chk, text="強制更新 web player",
                         variable=self.refresh).pack(side="left", padx=4)
 
         self.run_btn = ttk.Button(f, text="重建並部署到網頁", command=self._run)
-        self.run_btn.grid(row=5, column=0, sticky="w", pady=6)
+        self.run_btn.grid(row=6, column=0, sticky="w", pady=6)
         self.log = ScrolledText(f, width=78, height=14, state="disabled")
-        self.log.grid(row=6, column=0, pady=6)
+        self.log.grid(row=7, column=0, pady=6)
 
     def _refresh_tree(self):
         self.tree.delete(*self.tree.get_children())
@@ -177,6 +217,30 @@ class App:
             self.tree.insert("", "end",
                              values=(g.get("label") or "", folder_disp, cover, rtp, tags))
 
+    def _refresh_tags_list(self):
+        self.tags_list.delete(0, "end")
+        for t in self.all_tags:
+            self.tags_list.insert("end", t)
+
+    def _add_tag(self):
+        # 主視窗新增「全域標籤名稱」（不套用到任何遊戲，只是讓它出現在下拉選單可選）。
+        t = self.new_tag.get().strip()
+        if t and t not in self.all_tags:
+            self.all_tags.append(t)
+            self._refresh_tags_list()
+            self._save()
+        self.new_tag.set("")
+
+    def _merge_tags(self, tags):
+        # 在遊戲設定裡新打的標籤，自動補進全域清單。
+        changed = False
+        for t in tags or []:
+            if t and t not in self.all_tags:
+                self.all_tags.append(t)
+                changed = True
+        if changed:
+            self._refresh_tags_list()
+
     def _save(self):
         project.save_project(self.project_path, {
             "version": project.VERSION,
@@ -184,6 +248,7 @@ class App:
             "icon": self.icon.get(),
             "soundfont": self.soundfont.get(),
             "out": self.out.get(),
+            "all_tags": list(self.all_tags),
             "games": [
                 {"folder": str(g.get("folder") or ""), "label": g.get("label") or "",
                  "cover": g.get("cover") or None, "rtp": g.get("rtp") or None,
@@ -199,10 +264,11 @@ class App:
         return self.tree.index(sel[0])
 
     def _add(self):
-        dlg = GameDialog(self.root)
+        dlg = GameDialog(self.root, available_tags=list(self.all_tags))
         self.root.wait_window(dlg)
         if dlg.result:
             self.games.append(dlg.result)
+            self._merge_tags(dlg.result.get("tags"))
             self._refresh_tree()
             self._save()
 
@@ -213,10 +279,12 @@ class App:
         g = self.games[i]
         dlg = GameDialog(self.root, str(g.get("folder") or ""), g.get("label") or "",
                          g.get("cover") or "", g.get("rtp") or "",
-                         ", ".join(g.get("tags") or []))
+                         tags=list(g.get("tags") or []),
+                         available_tags=list(self.all_tags))
         self.root.wait_window(dlg)
         if dlg.result:
             self.games[i] = dlg.result
+            self._merge_tags(dlg.result.get("tags"))
             self._refresh_tree()
             self._save()
 
