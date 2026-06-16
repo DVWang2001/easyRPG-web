@@ -134,7 +134,7 @@ def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
         _validate_game(folder, label)
         g["folder"] = folder
         g["label"] = label
-        g["slug"] = slugify.slugify(label, taken)
+        g["slug"] = slugify.hash_slug(label, taken)
 
     _log("下載/取用 web player…", log)
     player_dir = player_fetch.ensure_player(player_cache, url=player_url, refresh=refresh_player)

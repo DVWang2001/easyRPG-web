@@ -5,6 +5,7 @@
 """
 from __future__ import annotations
 
+import hashlib
 import re
 import unicodedata
 
@@ -21,6 +22,23 @@ def _base_slug(name: str) -> str:
 def slugify(name: str, taken=None) -> str:
     """回傳唯一、純 ASCII 的 slug；若提供 taken 集合，會避開已用過的並把結果加入。"""
     base = _base_slug(name)
+    slug = base
+    i = 2
+    if taken is not None:
+        while slug in taken:
+            slug = f"{base}-{i}"
+            i += 1
+        taken.add(slug)
+    return slug
+
+
+def hash_slug(name: str, taken=None, length: int = 16) -> str:
+    """以名稱的 sha256（NFKC 正規化後）前 length 碼當 slug；同名碰撞時加 -2/-3… 去重。
+
+    純 [0-9a-f]，天生 ASCII；只取決於名稱，與遊戲排列順序無關 → slug 穩定。
+    """
+    norm = unicodedata.normalize("NFKC", str(name))
+    base = hashlib.sha256(norm.encode("utf-8")).hexdigest()[:length]
     slug = base
     i = 2
     if taken is not None:

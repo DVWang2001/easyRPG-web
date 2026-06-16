@@ -4,6 +4,7 @@ import tarfile
 from pathlib import Path
 
 import easyrpg_web_build as core
+import slugify
 
 
 def _fake_player_tarball(path: Path):
@@ -51,12 +52,14 @@ def test_build_library_two_games(tmp_path):
     assert grid.count('class="card"') == 2
     assert "花嫁之冠" in grid
     assert "勇者傳說" in grid
-    assert 'href="play-game.html"' in grid
-    assert 'href="play-game-2.html"' in grid
-    assert (out / "play-game.html").exists()
-    assert (out / "play-game-2.html").exists()
-    assert (out / "games" / "game" / "index.json").exists()
-    assert (out / "games" / "game-2" / "index.json").exists()
+    s1 = slugify.hash_slug("花嫁之冠")
+    s2 = slugify.hash_slug("勇者傳說")
+    assert f'href="play-{s1}.html"' in grid
+    assert f'href="play-{s2}.html"' in grid
+    assert (out / f"play-{s1}.html").exists()
+    assert (out / f"play-{s2}.html").exists()
+    assert (out / "games" / s1 / "index.json").exists()
+    assert (out / "games" / s2 / "index.json").exists()
     manifest = json.loads((out / "manifest.webmanifest").read_text(encoding="utf-8"))
     assert manifest["start_url"] == "."
     # service worker：cache-first + runtime（不再預載整個庫）
@@ -64,8 +67,8 @@ def test_build_library_two_games(tmp_path):
     assert "easyrpg-games" in sw
     assert "addEventListener('fetch'" in sw
     # 每遊戲離線清單各自存在
-    assert (out / "precache-game.json").exists()
-    assert (out / "precache-game-2.json").exists()
+    assert (out / f"precache-{s1}.json").exists()
+    assert (out / f"precache-{s2}.json").exists()
 
 
 def test_build_library_empty_rejected(tmp_path):
@@ -113,8 +116,11 @@ def test_build_library_assigns_unique_slugs(tmp_path):
         app_icon=None, soundfont=None, out=out,
         player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
     )
-    assert (out / "games" / "dungeon" / "index.json").exists()
-    assert (out / "games" / "dungeon-2" / "index.json").exists()
+    taken = set()
+    d1 = slugify.hash_slug("Dungeon", taken)
+    d2 = slugify.hash_slug("Dungeon", taken)
+    assert (out / "games" / d1 / "index.json").exists()
+    assert (out / "games" / d2 / "index.json").exists()
 
 
 def test_build_library_passes_rtp_through(tmp_path):
@@ -133,8 +139,8 @@ def test_build_library_passes_rtp_through(tmp_path):
         player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
     )
 
-    # label「遊戲」是 CJK → slug 退回 ASCII "game"
-    assert (out / "games" / "game" / "extra.png").read_text() == "rtp-asset"
+    s = slugify.hash_slug("遊戲")
+    assert (out / "games" / s / "extra.png").read_text() == "rtp-asset"
 
 
 def test_build_library_per_game_page(tmp_path):
@@ -152,13 +158,14 @@ def test_build_library_per_game_page(tmp_path):
         player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
     )
 
-    page = (out / "play-game.html").read_text(encoding="utf-8")  # 花嫁之冠 → slug "game"
+    s = slugify.hash_slug("花嫁之冠")
+    page = (out / f"play-{s}.html").read_text(encoding="utf-8")
     assert "<title>花嫁之冠</title>" in page
-    assert '<link rel="icon" href="games/game/cover.png">' in page
-    assert 'game: "game"' in page
+    assert f'<link rel="icon" href="games/{s}/cover.png">' in page
+    assert f'game: "{s}"' in page
     # 每遊戲 manifest：加入主畫面用該遊戲封面/名稱、開啟即進該遊戲
-    assert '<link rel="manifest" href="manifest-game.webmanifest">' in page
-    m = json.loads((out / "manifest-game.webmanifest").read_text(encoding="utf-8"))
+    assert f'<link rel="manifest" href="manifest-{s}.webmanifest">' in page
+    m = json.loads((out / f"manifest-{s}.webmanifest").read_text(encoding="utf-8"))
     assert m["name"] == "花嫁之冠"
-    assert m["start_url"] == "play-game.html"
-    assert all(icon["src"] == "games/game/cover.png" for icon in m["icons"])
+    assert m["start_url"] == f"play-{s}.html"
+    assert all(icon["src"] == f"games/{s}/cover.png" for icon in m["icons"])
