@@ -46,7 +46,9 @@ def write_manifest(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
 
 
 SW_TEMPLATE = """\
-// 由 easyrpg_web_build 產生：cache-first + runtime 快取（不預載整個庫）。
+// 由 easyrpg_web_build 產生：
+//   遊戲大檔（games/ 底下）→ cache-first（離線下載保留，幾乎不變）。
+//   外殼（HTML/JS/WASM/manifest 等）→ network-first（線上永遠拿最新 → 部署即生效；離線退回快取）。
 // 「下載某個遊戲以供離線」由各遊戲頁自己處理（見 precache-<slug>.json），快取進 easyrpg-games。
 const CACHE = 'easyrpg-games';
 
@@ -61,22 +63,42 @@ self.addEventListener('activate', (e) => {
   );
 });
 
+// 路徑含 /games/ 視為遊戲大檔（cache-first）；其餘為外殼（network-first）。
+function isGameAsset(req) {
+  try { return new URL(req.url).pathname.includes('/games/'); }
+  catch (err) { return false; }
+}
+
 self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
-  e.respondWith(
-    caches.match(e.request).then((hit) => {
-      if (hit) return hit;
-      return fetch(e.request).then((res) => {
+  if (isGameAsset(e.request)) {
+    // 遊戲資料：cache-first（離線下載優先用快取，沒有才抓網路並快取）
+    e.respondWith(
+      caches.match(e.request).then((hit) => {
+        if (hit) return hit;
+        return fetch(e.request).then((res) => {
+          const copy = res.clone();
+          caches.open(CACHE).then((c) => c.put(e.request, copy)).catch(() => {});
+          return res;
+        });
+      })
+    );
+  } else {
+    // 外殼：network-first（線上拿最新並更新快取；離線退回快取，導航退回殼頁）
+    e.respondWith(
+      fetch(e.request).then((res) => {
         const copy = res.clone();
         caches.open(CACHE).then((c) => c.put(e.request, copy)).catch(() => {});
         return res;
-      }).catch(() => {
-        // 離線且未快取：導航請求退回殼頁；素材請求回傳錯誤（不要拿 HTML 冒充素材）
-        if (e.request.mode === 'navigate') return caches.match('index.html');
-        return Response.error();
-      });
-    })
-  );
+      }).catch(() =>
+        caches.match(e.request).then((hit) => {
+          if (hit) return hit;
+          if (e.request.mode === 'navigate') return caches.match('index.html');
+          return Response.error();
+        })
+      )
+    );
+  }
 });
 """
 
