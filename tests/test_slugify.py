@@ -44,3 +44,27 @@ def test_uniqueness_with_taken_set():
 
 def test_removes_ampersand():
     assert slugify.slugify("A & B") == "a-b"
+
+
+def test_hash_slug_deterministic_and_format():
+    a = slugify.hash_slug("花嫁之冠")
+    b = slugify.hash_slug("花嫁之冠")
+    assert a == b                       # 同名→同雜湊（與順序無關）
+    assert len(a) == 16                 # sha256 前 16 碼
+    assert all(c in "0123456789abcdef" for c in a)
+
+
+def test_hash_slug_differs_by_name():
+    assert slugify.hash_slug("花嫁之冠") != slugify.hash_slug("勇者傳說")
+
+
+def test_hash_slug_dedupes_same_name():
+    taken = set()
+    first = slugify.hash_slug("Dungeon", taken)
+    second = slugify.hash_slug("Dungeon", taken)
+    assert second == f"{first}-2"
+
+
+def test_hash_slug_nfkc_normalized():
+    # 全形與半形經 NFKC 後相同 → 同雜湊
+    assert slugify.hash_slug("ＡＢＣ") == slugify.hash_slug("ABC")
