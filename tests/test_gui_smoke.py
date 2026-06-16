@@ -56,3 +56,19 @@ def test_app_autosaves_on_mutation(tmp_path):
         assert data["games"][-1]["label"] == "新遊戲"
     finally:
         root.destroy()
+
+
+def test_app_saves_tags(tmp_path):
+    import easyrpg_web_gui as gui
+    lib = tmp_path / "library.json"
+    root = _make_root()
+    try:
+        app = gui.App(root, project_path=lib)
+        app.games.append({"folder": "", "label": "有標籤的遊戲",
+                          "cover": None, "rtp": None, "tags": ["RPG", "漢化"]})
+        app._refresh_tree()
+        app._save()
+        data = json.loads(lib.read_text(encoding="utf-8"))
+        assert data["games"][-1]["tags"] == ["RPG", "漢化"]
+    finally:
+        root.destroy()
