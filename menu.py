@@ -30,11 +30,37 @@ header { padding:20px 16px 8px; text-align:center; font-size:20px; font-weight:6
 .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(110px,1fr));
   gap:16px; padding:8px 16px 32px; }
 .card { display:flex; flex-direction:column; align-items:center;
-  text-decoration:none; color:inherit; }
+  text-decoration:none; color:inherit; -webkit-tap-highlight-color:transparent; }
 .card[hidden] { display:none; }
-.card img { width:100%; aspect-ratio:1/1; object-fit:cover; border-radius:16px;
-  background:#222; box-shadow:0 2px 8px rgba(0,0,0,.5); }
-.card .name { margin-top:8px; font-size:14px; text-align:center; word-break:break-word; }
+.thumb { position:relative; width:100%; aspect-ratio:1/1; border-radius:16px;
+  overflow:hidden; background:#222; box-shadow:0 2px 8px rgba(0,0,0,.5);
+  transition:transform .28s cubic-bezier(.2,.7,.2,1), box-shadow .28s ease; }
+.thumb img { width:100%; height:100%; object-fit:cover; display:block;
+  transition:transform .45s cubic-bezier(.2,.7,.2,1); }
+.thumb::after { content:""; position:absolute; inset:0; pointer-events:none;
+  background:linear-gradient(115deg, transparent 30%, rgba(255,255,255,.28) 47%,
+    rgba(255,255,255,.06) 55%, transparent 70%);
+  transform:translateX(-120%); transition:transform .6s ease; }
+.card .name { margin-top:8px; font-size:14px; text-align:center; word-break:break-word;
+  transition:color .2s ease; }
+/* 高質感 hover：只在真有指標懸停的裝置（手機 hover 不會卡住） */
+@media (hover:hover) and (pointer:fine) {
+  .card:hover .thumb { transform:translateY(-6px) scale(1.02);
+    box-shadow:0 16px 30px rgba(0,0,0,.55), 0 6px 14px rgba(37,99,235,.35); }
+  .card:hover .thumb img { transform:scale(1.08); }
+  .card:hover .thumb::after { transform:translateX(120%); }
+  .card:hover .name { color:#fff; }
+}
+/* 手機點到時的按壓回饋 */
+.card:active .thumb { transform:scale(.96);
+  box-shadow:0 6px 14px rgba(0,0,0,.5); transition:transform .1s ease; }
+/* 鍵盤聚焦清楚可見 */
+.card:focus-visible { outline:none; }
+.card:focus-visible .thumb { box-shadow:0 0 0 3px #2563eb, 0 10px 22px rgba(0,0,0,.5); }
+@media (prefers-reduced-motion:reduce) {
+  .thumb, .thumb img, .thumb::after, .card .name { transition:none; }
+  .card:hover .thumb::after { transform:translateX(-120%); }
+}
 .cardtags { text-align:center; line-height:1.6; }
 .card .tag { display:inline-block; margin:4px 3px 0; padding:1px 8px; border-radius:999px;
   background:#222; color:#9ca3af; font-size:11px; cursor:pointer; }
@@ -108,7 +134,8 @@ __CARDS__
 """
 
 _CARD = ('<a class="card" href="__HREF__" data-label="__DLABEL__" data-tags="__DTAGS__">'
-         '<img src="__COVER__" alt=""><span class="name">__LABEL__</span>'
+         '<span class="thumb"><img src="__COVER__" alt=""></span>'
+         '<span class="name">__LABEL__</span>'
          '<span class="cardtags">__CARDTAGS__</span></a>')
 
 
