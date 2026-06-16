@@ -1,5 +1,5 @@
 # easyrpg_web_gui.py
-"""easyRPG-web 遊戲庫 GUI（Tkinter 清單編輯器，呼叫 build_library 核心）。"""
+"""easyRPG-web 遊戲庫 GUI（持久化清單編輯器：增刪查改 ＋ 一鍵重建並部署）。"""
 from __future__ import annotations
 
 import queue
@@ -11,25 +11,30 @@ from tkinter import ttk, filedialog, messagebox
 from tkinter.scrolledtext import ScrolledText
 
 import easyrpg_web_build as core
+import project
+
+LIBRARY_JSON = Path(__file__).resolve().parent / "library.json"
 
 
 class GameDialog(tk.Toplevel):
-    """加入/編輯單一遊戲：名稱 + 封面（選填）+ RTP（勾選＋資料夾）。回傳 dict 或 None。"""
+    """加入/編輯單一遊戲：原始資料夾 + 名稱 + 封面（選填）+ RTP（勾選＋資料夾）。回傳 dict 或 None。"""
 
-    def __init__(self, parent, folder, label="", cover="", rtp=""):
+    def __init__(self, parent, folder="", label="", cover="", rtp=""):
         super().__init__(parent)
         self.title("遊戲設定")
         self.result = None
         self.transient(parent)
         self.grab_set()
 
-        self.v_label = tk.StringVar(value=label or Path(folder).name)
+        self.v_folder = tk.StringVar(value=folder)
+        self.v_label = tk.StringVar(value=label)
         self.v_cover = tk.StringVar(value=cover)
         self.v_rtp_on = tk.BooleanVar(value=bool(rtp))
         self.v_rtp = tk.StringVar(value=rtp)
 
-        ttk.Label(self, text=f"資料夾：{folder}").grid(row=0, column=0, columnspan=3,
-                                                     sticky="w", padx=8, pady=6)
+        ttk.Label(self, text="原始資料夾").grid(row=0, column=0, sticky="w", padx=8, pady=6)
+        ttk.Entry(self, textvariable=self.v_folder, width=36).grid(row=0, column=1, padx=4)
+        ttk.Button(self, text="…", width=3, command=self._pick_folder).grid(row=0, column=2)
         ttk.Label(self, text="顯示名稱").grid(row=1, column=0, sticky="w", padx=8)
         ttk.Entry(self, textvariable=self.v_label, width=36).grid(row=1, column=1, padx=4)
         ttk.Label(self, text="封面圖（選填）").grid(row=2, column=0, sticky="w", padx=8)
@@ -45,7 +50,12 @@ class GameDialog(tk.Toplevel):
         ttk.Button(bar, text="確定", command=self._ok).pack(side="left", padx=4)
         ttk.Button(bar, text="取消", command=self.destroy).pack(side="left", padx=4)
 
-        self._folder = folder
+    def _pick_folder(self):
+        d = filedialog.askdirectory(title="選擇遊戲資料夾")
+        if d:
+            self.v_folder.set(d)
+            if not self.v_label.get().strip():
+                self.v_label.set(Path(d).name)
 
     def _pick_cover(self):
         p = filedialog.askopenfilename(
@@ -60,12 +70,15 @@ class GameDialog(tk.Toplevel):
             self.v_rtp_on.set(True)
 
     def _ok(self):
+        if not self.v_folder.get().strip():
+            messagebox.showerror("缺少資料夾", "請選擇遊戲的原始資料夾", parent=self)
+            return
         if not self.v_label.get().strip():
             messagebox.showerror("缺少名稱", "請輸入顯示名稱", parent=self)
             return
         rtp = self.v_rtp.get().strip() if self.v_rtp_on.get() else ""
         self.result = {
-            "folder": self._folder,
+            "folder": self.v_folder.get().strip(),
             "label": self.v_label.get().strip(),
             "cover": self.v_cover.get().strip() or None,
             "rtp": rtp or None,
@@ -74,20 +87,29 @@ class GameDialog(tk.Toplevel):
 
 
 class App:
-    def __init__(self, root: tk.Tk):
+    def __init__(self, root: tk.Tk, project_path=None):
         self.root = root
         root.title("EasyRPG → 遊戲庫（網頁版/PWA）打包工具")
         self.log_q: queue.Queue = queue.Queue()
-        self.games: list = []
+        self.project_path = Path(project_path) if project_path else LIBRARY_JSON
 
-        self.lib_name = tk.StringVar(value="我的遊戲庫")
-        self.icon = tk.StringVar(value=str(core.DEFAULT_ICON))
-        self.soundfont = tk.StringVar(value=str(core.DEFAULT_SOUNDFONT))
-        self.out = tk.StringVar(value="dist")
-        self.deploy = tk.BooleanVar(value=False)
+        proj, warning = project.load_project(self.project_path)
+        self.games: list = [dict(g) for g in proj["games"]]
+        self.lib_name = tk.StringVar(value=proj["lib_name"])
+        self.icon = tk.StringVar(value=proj["icon"])
+        self.soundfont = tk.StringVar(value=proj["soundfont"])
+        self.out = tk.StringVar(value=proj["out"])
         self.refresh = tk.BooleanVar(value=False)
 
         self._build_ui()
+        self._refresh_tree()
+
+        # 初值設定完才掛 trace，避免初始化時誤觸發寫檔
+        for var in (self.lib_name, self.icon, self.soundfont, self.out):
+            var.trace_add("write", lambda *_: self._save())
+
+        if warning:
+            messagebox.showwarning("讀取專案檔", warning)
         self.root.after(100, self._drain_log)
 
     def _build_ui(self):
@@ -130,12 +152,10 @@ class App:
 
         chk = ttk.Frame(f)
         chk.grid(row=4, column=0, sticky="w")
-        ttk.Checkbutton(chk, text="完成後部署到 GitHub Pages",
-                        variable=self.deploy).pack(side="left", padx=4)
         ttk.Checkbutton(chk, text="強制更新 web player",
                         variable=self.refresh).pack(side="left", padx=4)
 
-        self.run_btn = ttk.Button(f, text="開始打包遊戲庫", command=self._run)
+        self.run_btn = ttk.Button(f, text="重建並部署到網頁", command=self._run)
         self.run_btn.grid(row=5, column=0, sticky="w", pady=6)
         self.log = ScrolledText(f, width=78, height=14, state="disabled")
         self.log.grid(row=6, column=0, pady=6)
@@ -143,9 +163,25 @@ class App:
     def _refresh_tree(self):
         self.tree.delete(*self.tree.get_children())
         for g in self.games:
+            folder = str(g.get("folder") or "")
+            folder_disp = folder if folder else "⚠ 待指定"
             cover = Path(g["cover"]).name if g.get("cover") else "（預設）"
             rtp = Path(g["rtp"]).name if g.get("rtp") else "（無）"
-            self.tree.insert("", "end", values=(g["label"], str(g["folder"]), cover, rtp))
+            self.tree.insert("", "end", values=(g.get("label") or "", folder_disp, cover, rtp))
+
+    def _save(self):
+        project.save_project(self.project_path, {
+            "version": project.VERSION,
+            "lib_name": self.lib_name.get(),
+            "icon": self.icon.get(),
+            "soundfont": self.soundfont.get(),
+            "out": self.out.get(),
+            "games": [
+                {"folder": str(g.get("folder") or ""), "label": g.get("label") or "",
+                 "cover": g.get("cover") or None, "rtp": g.get("rtp") or None}
+                for g in self.games
+            ],
+        })
 
     def _selected_index(self):
         sel = self.tree.selection()
@@ -154,33 +190,38 @@ class App:
         return self.tree.index(sel[0])
 
     def _add(self):
-        folder = filedialog.askdirectory(title="選擇遊戲資料夾")
-        if not folder:
-            return
-        dlg = GameDialog(self.root, folder)
+        dlg = GameDialog(self.root)
         self.root.wait_window(dlg)
         if dlg.result:
             self.games.append(dlg.result)
             self._refresh_tree()
+            self._save()
 
     def _edit(self):
         i = self._selected_index()
         if i is None:
             return
         g = self.games[i]
-        dlg = GameDialog(self.root, g["folder"], g["label"],
+        dlg = GameDialog(self.root, str(g.get("folder") or ""), g.get("label") or "",
                          g.get("cover") or "", g.get("rtp") or "")
         self.root.wait_window(dlg)
         if dlg.result:
             self.games[i] = dlg.result
             self._refresh_tree()
+            self._save()
 
     def _remove(self):
         i = self._selected_index()
         if i is None:
             return
+        name = self.games[i].get("label") or "這個遊戲"
+        if not messagebox.askyesno(
+                "移除遊戲",
+                f"確定要從清單移除「{name}」嗎？\n（只移除清單，不會刪除遊戲原始資料夾）"):
+            return
         del self.games[i]
         self._refresh_tree()
+        self._save()
 
     def _move(self, delta):
         i = self._selected_index()
@@ -191,6 +232,7 @@ class App:
             self.games[i], self.games[j] = self.games[j], self.games[i]
             self._refresh_tree()
             self.tree.selection_set(self.tree.get_children()[j])
+            self._save()
 
     def _pick_file(self, var):
         p = filedialog.askopenfilename()
@@ -213,6 +255,13 @@ class App:
         if not self.games:
             messagebox.showerror("沒有遊戲", "請先用「＋ 加入遊戲」加至少一個遊戲")
             return
+        missing = project.missing_sources(self.games)
+        if missing:
+            messagebox.showerror(
+                "尚未指定原始資料夾",
+                "以下遊戲還沒指定有效的原始資料夾（含 RPG_RT.ldb/.lmt），"
+                "請先用「編輯」補上再部署：\n\n" + "\n".join("• " + m for m in missing))
+            return
         self.run_btn.configure(state="disabled")
         threading.Thread(target=self._worker, daemon=True).start()
 
@@ -225,10 +274,10 @@ class App:
                 soundfont=self.soundfont.get() or None,
                 out=self.out.get() or "dist",
                 refresh_player=self.refresh.get(),
-                deploy=self.deploy.get(),
+                deploy=True,
                 log=self._emit,
             )
-            self._emit(f"✓ 完成，輸出在：{out}")
+            self._emit(f"✓ 完成並已部署，輸出在：{out}")
         except Exception as e:  # noqa: BLE001 — GUI 需把任何錯誤回報給使用者
             self._emit(f"✗ 失敗：{e}")
         finally:
