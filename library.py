@@ -9,8 +9,8 @@ import staging
 
 
 def stage_library(out, games, *, soundfont=None, ignore_globs=staging.DEFAULT_IGNORE):
-    """games: list of {folder, label, slug, cover(optional)}。
-    回傳選單用 entries: list of {label, slug, cover_rel}。"""
+    """games: list of {folder, label, slug, cover(optional), tags(optional)}。
+    回傳選單用 entries: list of {label, slug, cover_rel, tags}。"""
     out = Path(out)
     entries = []
     for g in games:
@@ -24,5 +24,6 @@ def stage_library(out, games, *, soundfont=None, ignore_globs=staging.DEFAULT_IG
             ext = Path(g["cover"]).suffix or ".png"
             shutil.copy2(Path(g["cover"]), dest / f"cover{ext}")
             cover_rel = f"games/{slug}/cover{ext}"
-        entries.append({"label": g["label"], "slug": slug, "cover_rel": cover_rel})
+        entries.append({"label": g["label"], "slug": slug, "cover_rel": cover_rel,
+                        "tags": list(g.get("tags") or [])})
     return entries
