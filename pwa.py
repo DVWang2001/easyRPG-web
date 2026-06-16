@@ -17,12 +17,11 @@ def install_icon(dist, icon_path) -> str:
     return ICON_REL
 
 
-def write_manifest(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
-    dist = Path(dist)
-    manifest = {
-        "name": app_label,
-        "short_name": app_label,
-        "start_url": ".",
+def _build_manifest(name: str, start_url: str, icon_rel: str) -> dict:
+    return {
+        "name": name,
+        "short_name": name,
+        "start_url": start_url,
         "scope": ".",
         "display": "standalone",
         "orientation": "landscape",
@@ -34,8 +33,15 @@ def write_manifest(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
             {"src": icon_rel, "sizes": "180x180", "type": "image/png"},
         ],
     }
+
+
+def write_manifest(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
+    dist = Path(dist)
     out = dist / "manifest.webmanifest"
-    out.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+    out.write_text(
+        json.dumps(_build_manifest(app_label, ".", icon_rel), ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
     return out
 
 
@@ -128,21 +134,41 @@ def patch_index_html(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
 
 
 def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
-    """以 dist/play.html 為模板，為每個遊戲產出 play-<slug>.html：
-    靜態 <title>＝遊戲名、<link rel=icon>＝封面（無封面用主圖示）、game baked-in。
-    icon 靜態寫在 head → iOS Safari 也能換分頁圖示。"""
+    """以 dist/play.html 為模板，為每個遊戲產出 play-<slug>.html 與其專屬 manifest。
+
+    每個遊戲頁：靜態 <title>＝遊戲名、<link rel=icon>/apple-touch-icon＝封面、
+    自己的 <link rel=manifest>（icons＝封面、name＝遊戲名、start_url＝該頁），並 baked-in game。
+    模板繼承的整庫 manifest / apple-touch-icon / app-title 會先被移除，
+    讓 iOS「加入主畫面」用的是該遊戲封面（而非遊戲庫主圖示）。"""
     dist = Path(dist)
     template = (dist / "play.html").read_text(encoding="utf-8")
     for e in entries:
         slug = e["slug"]
+        label = e["label"]
         cover = e.get("cover_rel") or icon_rel
         cover_esc = _html.escape(cover, quote=True)
-        html = template.replace("game: undefined", "game: " + json.dumps(slug))
-        new_head = (
-            "\n<title>" + _html.escape(e["label"]) + "</title>"
-            '\n<link rel="icon" href="' + cover_esc + '">'
-            '\n<link rel="apple-touch-icon" href="' + cover_esc + '">\n'
+        title_esc = _html.escape(label, quote=True)
+        manifest_name = "manifest-" + slug + ".webmanifest"
+        # 每遊戲 manifest：icons＝封面、start_url＝該遊戲頁 → 加入主畫面得到該遊戲圖示/名稱
+        (dist / manifest_name).write_text(
+            json.dumps(
+                _build_manifest(label, "play-" + slug + ".html", cover),
+                ensure_ascii=False, indent=2,
+            ),
+            encoding="utf-8",
         )
+        html = template.replace("game: undefined", "game: " + json.dumps(slug))
+        # 移除模板繼承的整庫 tag，避免 iOS 採用庫圖示
+        html = re.sub(r'<link[^>]*rel="manifest"[^>]*>', "", html, count=1, flags=re.S)
+        html = re.sub(r'<link[^>]*rel="apple-touch-icon"[^>]*>', "", html, count=1, flags=re.S)
+        html = re.sub(r'<meta[^>]*name="apple-mobile-web-app-title"[^>]*>', "", html, count=1, flags=re.S)
         html = re.sub(r"<title>.*?</title>", "", html, count=1, flags=re.S)
+        new_head = (
+            "\n<title>" + title_esc + "</title>"
+            '\n<meta name="apple-mobile-web-app-title" content="' + title_esc + '">'
+            '\n<link rel="icon" href="' + cover_esc + '">'
+            '\n<link rel="apple-touch-icon" href="' + cover_esc + '">'
+            '\n<link rel="manifest" href="' + manifest_name + '">\n'
+        )
         html = html.replace("</head>", new_head + "</head>", 1)
         (dist / ("play-" + slug + ".html")).write_text(html, encoding="utf-8")

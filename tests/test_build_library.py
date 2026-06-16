@@ -152,3 +152,9 @@ def test_build_library_per_game_page(tmp_path):
     assert "<title>花嫁之冠</title>" in page
     assert '<link rel="icon" href="games/game/cover.png">' in page
     assert 'game: "game"' in page
+    # 每遊戲 manifest：加入主畫面用該遊戲封面/名稱、開啟即進該遊戲
+    assert '<link rel="manifest" href="manifest-game.webmanifest">' in page
+    m = json.loads((out / "manifest-game.webmanifest").read_text(encoding="utf-8"))
+    assert m["name"] == "花嫁之冠"
+    assert m["start_url"] == "play-game.html"
+    assert all(icon["src"] == "games/game/cover.png" for icon in m["icons"])
