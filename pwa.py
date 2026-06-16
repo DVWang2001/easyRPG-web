@@ -46,18 +46,28 @@ def write_manifest(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
 
 
 SW_TEMPLATE = """\
-// 由 easyrpg_web_build 產生：容錯 precache + cache-first，離線可玩（已快取的部分）。
+// 由 easyrpg_web_build 產生：逐檔 precache（回報進度）+ cache-first，全部下載後可離線。
 const CACHE = 'easyrpg-web-v1';
 const PRECACHE = %s;
 
 self.addEventListener('install', (e) => {
-  e.waitUntil(
-    // 容錯：用 allSettled + 逐檔 add，單一檔案失敗或配額不足不會讓整個 SW 安裝失敗
-    // （iOS Safari 快取配額較嚴格；atomic 的 addAll 一失敗就完全沒有離線能力）。
-    caches.open(CACHE).then((c) =>
-      Promise.allSettled(PRECACHE.map((u) => c.add(u)))
-    ).then(() => self.skipWaiting())
-  );
+  e.waitUntil((async () => {
+    const c = await caches.open(CACHE);
+    const total = PRECACHE.length;
+    let done = 0;
+    async function notify() {
+      const cls = await self.clients.matchAll({ includeUncontrolled: true });
+      for (const cl of cls) cl.postMessage({ type: 'precache', done: done, total: total });
+    }
+    await notify();
+    // 逐檔下載：容錯（單檔失敗不中斷）、不併發（避免塞滿頻寬），每檔回報進度
+    for (const u of PRECACHE) {
+      try { await c.add(u); } catch (err) {}
+      done++;
+      await notify();
+    }
+    await self.skipWaiting();
+  })());
 });
 
 self.addEventListener('activate', (e) => {

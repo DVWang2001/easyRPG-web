@@ -26,3 +26,6 @@ def test_service_worker_has_install_and_fetch_handlers(tmp_path):
     text = pwa.write_service_worker(dist).read_text(encoding="utf-8")
     assert "addEventListener('install'" in text
     assert "addEventListener('fetch'" in text
+    # 安裝時逐檔回報進度給頁面
+    assert "postMessage" in text
+    assert "type: 'precache'" in text

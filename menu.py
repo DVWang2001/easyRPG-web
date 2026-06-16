@@ -24,6 +24,11 @@ header { padding:20px 16px; text-align:center; font-size:20px; font-weight:600; 
   background:#222; box-shadow:0 2px 8px rgba(0,0,0,.5); }
 .card span { margin-top:8px; font-size:14px; text-align:center; word-break:break-word; }
 .card:active { transform:scale(.96); }
+#dl { position:fixed; left:0; right:0; bottom:0; background:#1f2937;
+  padding:8px 14px calc(8px + env(safe-area-inset-bottom)); font-size:13px; }
+#dltrack { height:5px; background:#374151; border-radius:3px; overflow:hidden; }
+#dlbar { height:100%; width:0; background:#2563eb; transition:width .2s; }
+#dltext { display:block; margin-top:5px; color:#cbd5e1; }
 </style>
 </head>
 <body>
@@ -31,6 +36,27 @@ header { padding:20px 16px; text-align:center; font-size:20px; font-weight:600; 
 <div class="grid">
 __CARDS__
 </div>
+<div id="dl" hidden><div id="dltrack"><div id="dlbar"></div></div><span id="dltext"></span></div>
+<script>
+(function () {
+  if (!('serviceWorker' in navigator)) return;
+  var box = document.getElementById('dl'),
+      bar = document.getElementById('dlbar'),
+      txt = document.getElementById('dltext');
+  navigator.serviceWorker.addEventListener('message', function (e) {
+    if (!e.data || e.data.type !== 'precache') return;
+    box.hidden = false;
+    var pct = e.data.total ? Math.round(e.data.done / e.data.total * 100) : 0;
+    bar.style.width = pct + '%';
+    if (e.data.done >= e.data.total) {
+      txt.textContent = '✓ 已可離線（' + e.data.total + ' 個檔案）';
+      setTimeout(function () { box.hidden = true; }, 4000);
+    } else {
+      txt.textContent = '離線下載中… ' + pct + '%（' + e.data.done + '/' + e.data.total + '）';
+    }
+  });
+})();
+</script>
 </body>
 </html>
 """

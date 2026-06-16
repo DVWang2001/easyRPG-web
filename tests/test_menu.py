@@ -23,6 +23,9 @@ def test_write_menu_generates_grid(tmp_path):
     assert "A &amp; B" in html
     assert 'rel="manifest"' in html
     assert "serviceWorker" in html
+    # 離線下載進度條 + 監聽 SW 進度訊息
+    assert 'id="dl"' in html
+    assert "'precache'" in html
 
 
 def test_write_menu_one_card_per_entry(tmp_path):
