@@ -22,6 +22,7 @@ def default_project() -> dict:
         "soundfont": str(DEFAULT_SOUNDFONT),
         "out": "dist",
         "all_tags": [],
+        "name_table": {"zh_tw_1": "", "zh_tw_2": ""},
         "games": [],
     }
 
@@ -61,6 +62,12 @@ def _normalize(data) -> dict:
                     seen.add(t)
                     ordered.append(t)
         proj["all_tags"] = ordered
+        nt = data.get("name_table")
+        if isinstance(nt, dict):
+            proj["name_table"] = {
+                "zh_tw_1": str(nt.get("zh_tw_1") or ""),
+                "zh_tw_2": str(nt.get("zh_tw_2") or ""),
+            }
     return proj
 
 

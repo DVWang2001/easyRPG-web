@@ -93,6 +93,24 @@ def test_gamedialog_builds_and_collects_tags(tmp_path):
         root.destroy()
 
 
+def test_name_table_dialog_saves(tmp_path):
+    import easyrpg_web_gui as gui
+    lib = tmp_path / "library.json"
+    root = _make_root()
+    try:
+        app = gui.App(root, project_path=lib)
+        dlg = gui.NameTableDialog(app)
+        dlg.t1.insert("end", "甲乙丙")
+        dlg.t2.insert("end", "丁戊")
+        dlg._save()
+        assert app.name_table == {"zh_tw_1": "甲乙丙", "zh_tw_2": "丁戊"}
+        data = json.loads(lib.read_text(encoding="utf-8"))
+        assert data["name_table"] == {"zh_tw_1": "甲乙丙", "zh_tw_2": "丁戊"}
+        dlg.destroy()
+    finally:
+        root.destroy()
+
+
 def test_app_loads_and_saves_all_tags(tmp_path):
     import easyrpg_web_gui as gui
     lib = tmp_path / "library.json"

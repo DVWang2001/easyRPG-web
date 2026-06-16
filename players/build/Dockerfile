@@ -5,9 +5,11 @@
 FROM debian:12-slim
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt-get install -y --no-install-recommends \
-        git cmake python3 build-essential \
-        unzip meson ninja-build pkg-config autoconf automake libtool \
+        git cmake python3 python3-pip build-essential \
+        ninja-build pkg-config autoconf automake libtool \
         curl ca-certificates xz-utils bzip2 patch \
     && rm -rf /var/lib/apt/lists/*
+# harfbuzz 14.x 的 emscripten 交叉建置需要新版 meson（apt 內建太舊會 "Found Pkg-config: NO"）。
+RUN pip3 install --break-system-packages --no-cache-dir "meson>=1.4"
 WORKDIR /work
 CMD ["sleep", "infinity"]

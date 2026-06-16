@@ -10,6 +10,7 @@ import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 from tkinter.scrolledtext import ScrolledText
 
+import customplayer
 import easyrpg_web_build as core
 import project
 
@@ -129,6 +130,7 @@ class App:
         proj, warning = project.load_project(self.project_path)
         self.games: list = [dict(g) for g in proj["games"]]
         self.all_tags: list = list(proj["all_tags"])
+        self.name_table: dict = dict(proj["name_table"])
         self.new_tag = tk.StringVar()
         self.lib_name = tk.StringVar(value=proj["lib_name"])
         self.icon = tk.StringVar(value=proj["icon"])
@@ -203,6 +205,8 @@ class App:
                         variable=self.refresh).pack(side="left", padx=4)
         ttk.Checkbutton(chk, text="使用自訂播放器（自訂取名字表）",
                         variable=self.use_custom).pack(side="left", padx=4)
+        ttk.Button(chk, text="編輯取名字表…",
+                   command=self._edit_name_table).pack(side="left", padx=8)
 
         self.run_btn = ttk.Button(f, text="重建並部署到網頁", command=self._run)
         self.run_btn.grid(row=6, column=0, sticky="w", pady=6)
@@ -252,6 +256,7 @@ class App:
             "soundfont": self.soundfont.get(),
             "out": self.out.get(),
             "all_tags": list(self.all_tags),
+            "name_table": dict(self.name_table),
             "games": [
                 {"folder": str(g.get("folder") or ""), "label": g.get("label") or "",
                  "cover": g.get("cover") or None, "rtp": g.get("rtp") or None,
@@ -315,6 +320,9 @@ class App:
             self.tree.selection_set(self.tree.get_children()[j])
             self._save()
 
+    def _edit_name_table(self):
+        NameTableDialog(self)
+
     def _pick_file(self, var):
         p = filedialog.askopenfilename()
         if p:
@@ -364,6 +372,60 @@ class App:
             self._emit(f"✗ 失敗：{e}")
         finally:
             self.root.after(0, lambda: self.run_btn.configure(state="normal"))
+
+
+class NameTableDialog(tk.Toplevel):
+    """編輯自訂取名字表（漢一/漢二），可一鍵重建自訂播放器（需 Docker 建置環境）。"""
+
+    def __init__(self, app: "App"):
+        super().__init__(app.root)
+        self.app = app
+        self.title("取名字表（自訂播放器）")
+        self.transient(app.root)
+
+        ttk.Label(self, text="漢一（第一頁，依序貼上要出現的中文字）").grid(
+            row=0, column=0, sticky="w", padx=8, pady=(8, 0))
+        self.t1 = ScrolledText(self, width=46, height=5)
+        self.t1.grid(row=1, column=0, padx=8)
+        self.t1.insert("1.0", app.name_table.get("zh_tw_1", ""))
+        ttk.Label(self, text="漢二（第二頁）").grid(
+            row=2, column=0, sticky="w", padx=8, pady=(8, 0))
+        self.t2 = ScrolledText(self, width=46, height=5)
+        self.t2.grid(row=3, column=0, padx=8)
+        self.t2.insert("1.0", app.name_table.get("zh_tw_2", ""))
+
+        bar = ttk.Frame(self)
+        bar.grid(row=4, column=0, pady=8)
+        ttk.Button(bar, text="儲存", command=self._save).pack(side="left", padx=4)
+        self.rebuild_btn = ttk.Button(bar, text="重建自訂播放器", command=self._rebuild)
+        self.rebuild_btn.pack(side="left", padx=4)
+        ttk.Button(bar, text="關閉", command=self.destroy).pack(side="left", padx=4)
+        ttk.Label(self, text="提示：重建需要 Docker 建置環境；進度顯示在主視窗 log 區。",
+                  foreground="#888").grid(row=5, column=0, sticky="w", padx=8, pady=(0, 8))
+
+    def _collect(self):
+        return (self.t1.get("1.0", "end").strip(), self.t2.get("1.0", "end").strip())
+
+    def _save(self):
+        a, b = self._collect()
+        self.app.name_table = {"zh_tw_1": a, "zh_tw_2": b}
+        self.app._save()
+
+    def _rebuild(self):
+        self._save()
+        a, b = self._collect()
+        self.rebuild_btn.configure(state="disabled")
+
+        def work():
+            try:
+                customplayer.rebuild_custom_player(a, b, log=self.app._emit)
+                self.app._emit("✓ 自訂播放器已重建。打包時勾「使用自訂播放器」即可套用。")
+            except Exception as e:  # noqa: BLE001 — 回報任何錯誤給使用者
+                self.app._emit(f"✗ 重建失敗：{e}")
+            finally:
+                self.app.root.after(0, lambda: self.rebuild_btn.configure(state="normal"))
+
+        threading.Thread(target=work, daemon=True).start()
 
 
 def main():

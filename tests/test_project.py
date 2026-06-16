@@ -110,6 +110,28 @@ def test_all_tags_merges_explicit_and_used(tmp_path):
     assert proj["all_tags"] == ["A", "B", "C"]
 
 
+def test_name_table_defaults_empty():
+    nt = project.default_project()["name_table"]
+    assert nt == {"zh_tw_1": "", "zh_tw_2": ""}
+
+
+def test_name_table_roundtrip(tmp_path):
+    f = tmp_path / "library.json"
+    data = project.default_project()
+    data["name_table"] = {"zh_tw_1": "甲乙丙", "zh_tw_2": "丁戊"}
+    project.save_project(f, data)
+    assert "甲乙丙" in f.read_text(encoding="utf-8")
+    proj, _ = project.load_project(f)
+    assert proj["name_table"] == {"zh_tw_1": "甲乙丙", "zh_tw_2": "丁戊"}
+
+
+def test_name_table_fills_missing(tmp_path):
+    f = tmp_path / "library.json"
+    f.write_text(json.dumps({"games": []}), encoding="utf-8")
+    proj, _ = project.load_project(f)
+    assert proj["name_table"] == {"zh_tw_1": "", "zh_tw_2": ""}
+
+
 def test_all_tags_roundtrip(tmp_path):
     f = tmp_path / "library.json"
     data = project.default_project()
