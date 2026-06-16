@@ -46,40 +46,16 @@ def write_manifest(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
 
 
 SW_TEMPLATE = """\
-// 由 easyrpg_web_build 產生：逐檔 precache（回報進度）+ cache-first，全部下載後可離線。
-const CACHE = 'easyrpg-web-v1';
-const PRECACHE = %s;
+// 由 easyrpg_web_build 產生：cache-first + runtime 快取（不預載整個庫）。
+// 「下載某個遊戲以供離線」由各遊戲頁自己處理（見 precache-<slug>.json），快取進 easyrpg-games。
+const CACHE = 'easyrpg-games';
 
-self.addEventListener('install', (e) => {
-  e.waitUntil((async () => {
-    const c = await caches.open(CACHE);
-    const total = PRECACHE.length;
-    let done = 0, idx = 0;
-    async function notify() {
-      const cls = await self.clients.matchAll({ includeUncontrolled: true });
-      for (const cl of cls) cl.postMessage({ type: 'precache', done: done, total: total });
-    }
-    await notify();
-    // 限併發下載：同時 N 個（比逐檔快很多，又不會上百個一起塞爆頻寬），
-    // 容錯（單檔失敗不中斷），每檔回報進度。
-    async function worker() {
-      while (idx < total) {
-        const u = PRECACHE[idx++];
-        try { await c.add(u); } catch (err) {}
-        done++;
-        notify();
-      }
-    }
-    const CONCURRENCY = 6;
-    await Promise.all(Array.from({ length: Math.min(CONCURRENCY, total) }, worker));
-    await notify();
-    await self.skipWaiting();
-  })());
-});
+self.addEventListener('install', () => self.skipWaiting());
 
 self.addEventListener('activate', (e) => {
   e.waitUntil(
     caches.keys().then((keys) =>
+      // 清掉舊版（含早期 easyrpg-web-v* 全庫快取），只保留 easyrpg-games
       Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k)))
     ).then(() => self.clients.claim())
   );
@@ -105,19 +81,10 @@ self.addEventListener('fetch', (e) => {
 """
 
 
-def _precache_list(dist: Path) -> list:
-    files = []
-    for p in sorted(dist.rglob("*")):
-        if p.is_file() and p.name != "service-worker.js":
-            files.append(p.relative_to(dist).as_posix())
-    return files
-
-
 def write_service_worker(dist) -> Path:
     dist = Path(dist)
-    files = _precache_list(dist)
     out = dist / "service-worker.js"
-    out.write_text(SW_TEMPLATE % json.dumps(files, ensure_ascii=False), encoding="utf-8")
+    out.write_text(SW_TEMPLATE, encoding="utf-8")
     return out
 
 
@@ -183,6 +150,21 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
             ),
             encoding="utf-8",
         )
+        # 該遊戲的離線下載清單（殼 + 這個遊戲的所有檔），供遊戲頁自己下載
+        game_dir = dist / "games" / slug
+        game_files = (
+            sorted(
+                p.relative_to(dist).as_posix()
+                for p in game_dir.rglob("*")
+                if p.is_file()
+            )
+            if game_dir.exists()
+            else []
+        )
+        shell = ["index.js", "index.wasm", "play-" + slug + ".html", manifest_name, icon_rel]
+        (dist / ("precache-" + slug + ".json")).write_text(
+            json.dumps(shell + game_files, ensure_ascii=False), encoding="utf-8"
+        )
         # 鎖住 document.title 用的 JS 字串字面值（防 </script> 注入）
         title_js = json.dumps(label).replace("<", "\\u003c")
         html = template.replace("game: undefined", "game: " + json.dumps(slug))
@@ -208,4 +190,35 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
             ".observe(el,{childList:true,characterData:true,subtree:true});}}})();</script>\n"
         )
         html = html.replace("</head>", new_head + "</head>", 1)
+        # 只下載這一個遊戲的進度條：載入時抓 precache-<slug>.json，逐檔快取進 easyrpg-games
+        slug_js = json.dumps(slug)
+        dl_snippet = (
+            "\n<style>#dl{position:fixed;left:0;right:0;bottom:0;background:#1f2937;"
+            "padding:8px 14px calc(8px + env(safe-area-inset-bottom));"
+            "font:13px -apple-system,sans-serif;color:#cbd5e1;z-index:9999}"
+            "#dltrack{height:5px;background:#374151;border-radius:3px;overflow:hidden}"
+            "#dlbar{height:100%;width:0;background:#2563eb;transition:width .2s}"
+            "#dltext{display:block;margin-top:5px}</style>"
+            '\n<div id="dl" hidden><div id="dltrack"><div id="dlbar"></div></div><span id="dltext"></span></div>'
+            '\n<script>(function(){if(!("caches" in window))return;var SLUG=' + slug_js + ";"
+            'fetch("precache-"+SLUG+".json").then(function(r){return r.json();}).then(function(files){'
+            'var box=document.getElementById("dl"),bar=document.getElementById("dlbar"),'
+            'txt=document.getElementById("dltext");'
+            'caches.open("easyrpg-games").then(function(cache){'
+            "var total=files.length,done=0,idx=0;"
+            'function show(){box.hidden=false;var pct=total?Math.round(done/total*100):100;'
+            'bar.style.width=pct+"%";'
+            'if(done>=total){txt.textContent="✓ 此遊戲已可離線";'
+            "setTimeout(function(){box.hidden=true;},3000);}"
+            'else{txt.textContent="下載此遊戲以供離線… "+pct+"% ("+done+"/"+total+")";}}'
+            "show();"
+            "function worker(){return (async function(){while(idx<total){var f=files[idx++];"
+            "try{if(!(await cache.match(f)))await cache.add(f);}catch(e){}done++;show();}})();}"
+            "var n=Math.min(6,total)||1,ws=[];for(var i=0;i<n;i++)ws.push(worker());"
+            "Promise.all(ws);});}).catch(function(){});})();</script>\n"
+        )
+        if "</body>" in html:
+            html = html.replace("</body>", dl_snippet + "</body>", 1)
+        else:
+            html = html + dl_snippet
         (dist / ("play-" + slug + ".html")).write_text(html, encoding="utf-8")

@@ -72,6 +72,36 @@ def test_write_game_pages_per_game_manifest_replaces_library(tmp_path):
     assert all(icon["src"] == "icons/icon.png" for icon in m2["icons"])
 
 
+def test_write_game_pages_per_game_precache(tmp_path):
+    # 每個遊戲頁只下載自己：產出 precache-<slug>.json（殼 + 該遊戲所有檔），頁面有下載進度條
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    # 該遊戲的實體檔
+    g = dist / "games" / "game"
+    g.mkdir(parents=True)
+    (g / "RPG_RT.ldb").write_text("x")
+    (g / "cover.png").write_bytes(b"\x89PNG")
+    sub = g / "CharSet"
+    sub.mkdir()
+    (sub / "Hero.png").write_bytes(b"png")
+    entries = [{"label": "花嫁之冠", "slug": "game", "cover_rel": "games/game/cover.png"}]
+
+    pwa.write_game_pages(dist, entries)
+
+    # 每遊戲 precache 清單：含殼與該遊戲的檔，但「不含」別的遊戲
+    files = json.loads((dist / "precache-game.json").read_text(encoding="utf-8"))
+    assert "index.wasm" in files
+    assert "play-game.html" in files
+    assert "manifest-game.webmanifest" in files
+    assert "games/game/RPG_RT.ldb" in files
+    assert "games/game/CharSet/Hero.png" in files
+
+    page = (dist / "play-game.html").read_text(encoding="utf-8")
+    assert 'fetch("precache-"+SLUG+".json")' in page  # 頁面自己抓清單下載
+    assert 'caches.open("easyrpg-games")' in page
+    assert "下載此遊戲以供離線" in page
+
+
 def test_write_game_pages_locks_title(tmp_path):
     # EasyRPG 引擎會把 document.title 改成遊戲內建標題；頁面需鎖住成導入名稱
     dist = tmp_path / "dist"

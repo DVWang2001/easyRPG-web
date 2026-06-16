@@ -59,9 +59,13 @@ def test_build_library_two_games(tmp_path):
     assert (out / "games" / "game-2" / "index.json").exists()
     manifest = json.loads((out / "manifest.webmanifest").read_text(encoding="utf-8"))
     assert manifest["start_url"] == "."
+    # service worker：cache-first + runtime（不再預載整個庫）
     sw = (out / "service-worker.js").read_text(encoding="utf-8")
-    assert "play.html" in sw
-    assert "games/game/index.json" in sw
+    assert "easyrpg-games" in sw
+    assert "addEventListener('fetch'" in sw
+    # 每遊戲離線清單各自存在
+    assert (out / "precache-game.json").exists()
+    assert (out / "precache-game-2.json").exists()
 
 
 def test_build_library_empty_rejected(tmp_path):
