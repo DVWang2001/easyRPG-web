@@ -72,14 +72,15 @@ def _read_exclude_file(path) -> list:
 def build(*, game, app_label=None, soundfont=DEFAULT_SOUNDFONT, app_icon=DEFAULT_ICON,
           rtp=None, out="dist", ignore=None, exclude_file=None,
           refresh_player=False, deploy=False, player_cache=".player-cache",
-          player_url=player_fetch.PLAYER_URL, log=None) -> Path:
+          player_url=player_fetch.PLAYER_URL, player_variant="auto", log=None) -> Path:
     game = Path(game)
     out = Path(out)
     _validate_game(game)
     app_label = app_label or game.name
 
     _log("下載/取用 web player…", log)
-    player_dir = player_fetch.ensure_player(player_cache, url=player_url, refresh=refresh_player)
+    player_dir = player_fetch.ensure_player(player_cache, url=player_url,
+                                            refresh=refresh_player, variant=player_variant)
 
     if out.exists():
         _force_rmtree(out)
@@ -121,7 +122,7 @@ def build(*, game, app_label=None, soundfont=DEFAULT_SOUNDFONT, app_icon=DEFAULT
 def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
                   soundfont=DEFAULT_SOUNDFONT, out="dist", ignore=None,
                   refresh_player=False, deploy=False, player_cache=".player-cache",
-                  player_url=player_fetch.PLAYER_URL, log=None) -> Path:
+                  player_url=player_fetch.PLAYER_URL, player_variant="auto", log=None) -> Path:
     out = Path(out)
     if not games:
         raise BuildError("遊戲庫至少要一個遊戲。")
@@ -137,7 +138,8 @@ def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
         g["slug"] = slugify.hash_slug(label, taken)
 
     _log("下載/取用 web player…", log)
-    player_dir = player_fetch.ensure_player(player_cache, url=player_url, refresh=refresh_player)
+    player_dir = player_fetch.ensure_player(player_cache, url=player_url,
+                                            refresh=refresh_player, variant=player_variant)
 
     if out.exists():
         _force_rmtree(out)

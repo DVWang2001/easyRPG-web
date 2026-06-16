@@ -135,6 +135,7 @@ class App:
         self.soundfont = tk.StringVar(value=proj["soundfont"])
         self.out = tk.StringVar(value=proj["out"])
         self.refresh = tk.BooleanVar(value=False)
+        self.use_custom = tk.BooleanVar(value=False)
 
         self._build_ui()
         self._refresh_tree()
@@ -200,6 +201,8 @@ class App:
         chk.grid(row=5, column=0, sticky="w")
         ttk.Checkbutton(chk, text="強制更新 web player",
                         variable=self.refresh).pack(side="left", padx=4)
+        ttk.Checkbutton(chk, text="使用自訂播放器（自訂取名字表）",
+                        variable=self.use_custom).pack(side="left", padx=4)
 
         self.run_btn = ttk.Button(f, text="重建並部署到網頁", command=self._run)
         self.run_btn.grid(row=6, column=0, sticky="w", pady=6)
@@ -352,6 +355,7 @@ class App:
                 soundfont=self.soundfont.get() or None,
                 out=self.out.get() or "dist",
                 refresh_player=self.refresh.get(),
+                player_variant="custom" if self.use_custom.get() else "auto",
                 deploy=True,
                 log=self._emit,
             )
