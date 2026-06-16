@@ -56,6 +56,25 @@ def test_write_menu_search_box_tags_and_filter_js(tmp_path):
     assert "c.hidden" in html
 
 
+def test_write_menu_has_card_hover_effect(tmp_path):
+    dist = tmp_path / "dist"
+    dist.mkdir()
+    entries = [{"label": "G", "slug": "g", "cover_rel": None, "tags": []}]
+
+    html = menu.write_menu(dist, "Lib", entries).read_text(encoding="utf-8")
+
+    # 圖片包在可裁切的 .thumb 容器（供 zoom 與光澤掃過）
+    assert 'class="thumb"' in html
+    assert ".thumb img" in html
+    # hover 特效只在真有指標懸停的裝置（手機不會卡住）
+    assert ".card:hover" in html
+    assert "hover: hover" in html or "hover:hover" in html
+    # 觸控按壓回饋、鍵盤聚焦、減少動態
+    assert ".card:active" in html
+    assert "focus-visible" in html
+    assert "prefers-reduced-motion" in html
+
+
 def test_write_menu_one_card_per_entry(tmp_path):
     dist = tmp_path / "dist"
     dist.mkdir()
