@@ -25,6 +25,37 @@ def test_write_menu_generates_grid(tmp_path):
     assert "serviceWorker" in html
 
 
+def test_write_menu_search_box_tags_and_filter_js(tmp_path):
+    dist = tmp_path / "dist"
+    dist.mkdir()
+    entries = [
+        {"label": "花嫁之冠", "slug": "game", "cover_rel": "games/game/cover.png",
+         "tags": ["RPG", "漢化"]},
+        {"label": "Abyss", "slug": "abyss", "cover_rel": None, "tags": ["動作"]},
+        {"label": "無標籤", "slug": "x", "cover_rel": None},  # 沒有 tags 鍵
+    ]
+
+    out = menu.write_menu(dist, "庫", entries)
+    html = out.read_text(encoding="utf-8")
+
+    # 搜尋框
+    assert 'id="q"' in html
+    # 卡片帶 data-label / data-tags（小寫供比對）
+    assert 'data-label="花嫁之冠"' in html
+    assert 'data-tags="rpg,漢化"' in html
+    assert 'data-tags="動作"' in html
+    # 沒有 tags 的卡片 → data-tags=""（不報錯）
+    assert 'data-tags=""' in html
+    # 頂部標籤篩選列：每個不重複標籤一個按鈕（RPG/漢化/動作 = 3）
+    assert html.count('class="tagfilter"') == 3
+    # 卡片內也有可點標籤晶片
+    assert 'class="tag"' in html
+    # 前端篩選 JS 關鍵元素
+    assert "selected" in html
+    assert "tagfilter" in html
+    assert "c.hidden" in html
+
+
 def test_write_menu_one_card_per_entry(tmp_path):
     dist = tmp_path / "dist"
     dist.mkdir()

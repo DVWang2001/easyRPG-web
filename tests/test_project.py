@@ -58,6 +58,32 @@ def test_save_is_atomic_no_tmp_left(tmp_path):
     assert leftovers == []
 
 
+def test_load_fills_missing_tags_as_empty_list(tmp_path):
+    f = tmp_path / "library.json"
+    f.write_text(json.dumps({
+        "games": [{"folder": "C:/g", "label": "甲"}],
+    }), encoding="utf-8")
+    proj, warning = project.load_project(f)
+    assert warning is None
+    assert proj["games"][0]["tags"] == []
+
+
+def test_tags_roundtrip_normalized(tmp_path):
+    f = tmp_path / "library.json"
+    data = {
+        "version": 1, "lib_name": "庫", "icon": "i", "soundfont": "s", "out": "dist",
+        "games": [{"folder": "C:/g", "label": "甲",
+                   "cover": None, "rtp": None,
+                   "tags": ["RPG", " 漢化 ", "", "神作"]}],  # 含空白/空項
+    }
+    project.save_project(f, data)
+    text = f.read_text(encoding="utf-8")
+    assert "漢化" in text  # 中文不被跳脫
+    proj, _ = project.load_project(f)
+    # 去空白、去空項
+    assert proj["games"][0]["tags"] == ["RPG", "漢化", "神作"]
+
+
 def test_missing_sources_flags_empty_and_invalid(tmp_path):
     good = tmp_path / "Good"
     good.mkdir()
