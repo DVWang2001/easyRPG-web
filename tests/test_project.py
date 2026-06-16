@@ -56,3 +56,24 @@ def test_save_is_atomic_no_tmp_left(tmp_path):
     project.save_project(f, project.default_project())
     leftovers = [p.name for p in tmp_path.iterdir() if p.name != "library.json"]
     assert leftovers == []
+
+
+def test_missing_sources_flags_empty_and_invalid(tmp_path):
+    good = tmp_path / "Good"
+    good.mkdir()
+    (good / "RPG_RT.ldb").write_bytes(b"x")
+    games = [
+        {"folder": "", "label": "草稿甲", "cover": None, "rtp": None},
+        {"folder": str(tmp_path / "NotExist"), "label": "壞乙", "cover": None, "rtp": None},
+        {"folder": str(good), "label": "正常丙", "cover": None, "rtp": None},
+    ]
+    bad = project.missing_sources(games)
+    assert bad == ["草稿甲", "壞乙"]
+
+
+def test_missing_sources_all_valid_returns_empty(tmp_path):
+    g = tmp_path / "G"
+    g.mkdir()
+    (g / "RPG_RT.lmt").write_bytes(b"x")
+    assert project.missing_sources(
+        [{"folder": str(g), "label": "丁", "cover": None, "rtp": None}]) == []

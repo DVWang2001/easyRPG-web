@@ -67,3 +67,15 @@ def save_project(path, data) -> None:
     tmp = path.with_name(path.name + ".tmp")
     tmp.write_text(text, encoding="utf-8")
     os.replace(tmp, path)
+
+
+def missing_sources(games) -> list:
+    """回傳『原始資料夾未指定或無效（缺 RPG_RT.ldb/.lmt）』的遊戲顯示名稱清單。"""
+    bad = []
+    for g in games:
+        folder = (g.get("folder") or "").strip()
+        ok = bool(folder) and any(
+            (Path(folder) / n).exists() for n in ("RPG_RT.ldb", "RPG_RT.lmt"))
+        if not ok:
+            bad.append(g.get("label") or folder or "（未命名）")
+    return bad
