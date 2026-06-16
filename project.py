@@ -1,0 +1,69 @@
+# project.py
+"""遊戲庫專案檔（library.json）的載入/儲存與安全閥 —— 純函式，與 GUI 隔離。"""
+from __future__ import annotations
+
+import json
+import os
+from pathlib import Path
+
+HERE = Path(__file__).resolve().parent
+DEFAULT_ICON = HERE / "assets" / "app_icon.png"
+DEFAULT_SOUNDFONT = HERE / "assets" / "easyrpg.soundfont"
+
+VERSION = 1
+
+
+def default_project() -> dict:
+    """完整 schema 的空專案。"""
+    return {
+        "version": VERSION,
+        "lib_name": "我的遊戲庫",
+        "icon": str(DEFAULT_ICON),
+        "soundfont": str(DEFAULT_SOUNDFONT),
+        "out": "dist",
+        "games": [],
+    }
+
+
+def _normalize(data) -> dict:
+    """以 default 為底補齊缺欄位；games 內每筆補齊 folder/label/cover/rtp。"""
+    proj = default_project()
+    if isinstance(data, dict):
+        for k in ("version", "lib_name", "icon", "soundfont", "out"):
+            if data.get(k) is not None:
+                proj[k] = data[k]
+        games = data.get("games")
+        if isinstance(games, list):
+            norm = []
+            for g in games:
+                if not isinstance(g, dict):
+                    continue
+                norm.append({
+                    "folder": g.get("folder") or "",
+                    "label": g.get("label") or "",
+                    "cover": g.get("cover") or None,
+                    "rtp": g.get("rtp") or None,
+                })
+            proj["games"] = norm
+    return proj
+
+
+def load_project(path):
+    """讀 library.json。缺檔→(default, None)；壞檔→(default, 警告字串)。永不丟例外。"""
+    path = Path(path)
+    if not path.exists():
+        return default_project(), None
+    try:
+        raw = json.loads(path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError, UnicodeDecodeError) as e:
+        return default_project(), f"讀取 {path.name} 失敗：{e}（已以空庫開啟）"
+    return _normalize(raw), None
+
+
+def save_project(path, data) -> None:
+    """原子寫入 library.json（UTF-8、不跳脫中文、縮排 2）。"""
+    path = Path(path)
+    text = json.dumps(data, ensure_ascii=False, indent=2)
+    tmp = path.with_name(path.name + ".tmp")
+    tmp.write_text(text, encoding="utf-8")
+    os.replace(tmp, path)
