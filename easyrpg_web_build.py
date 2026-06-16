@@ -2,7 +2,9 @@
 from __future__ import annotations
 
 import argparse
+import os
 import shutil
+import stat
 import sys
 from pathlib import Path
 
@@ -29,6 +31,26 @@ def _log(msg, cb=None):
         cb(msg)
     else:
         print(msg)
+
+
+def _force_rmtree(path):
+    """像 shutil.rmtree，但會清掉唯讀屬性再刪。
+
+    Windows 上 shutil.rmtree 遇到唯讀檔會 WinError 5（存取被拒）。RPG Maker 素材
+    常帶唯讀旗標、被 copy2 原樣帶進 dist，重建時清理舊 dist 就會卡住。
+    """
+    if not os.path.exists(path):
+        return
+
+    def on_error(func, p, _exc):
+        os.chmod(p, stat.S_IWRITE)
+        func(p)
+
+    # Python 3.12+ 用 onexc，較舊版用 onerror（簽章同為 func, path, exc）。
+    if sys.version_info >= (3, 12):
+        shutil.rmtree(path, onexc=on_error)
+    else:
+        shutil.rmtree(path, onerror=on_error)
 
 
 def _validate_game(game: Path, label=None):
@@ -60,7 +82,7 @@ def build(*, game, app_label=None, soundfont=DEFAULT_SOUNDFONT, app_icon=DEFAULT
     player_dir = player_fetch.ensure_player(player_cache, url=player_url, refresh=refresh_player)
 
     if out.exists():
-        shutil.rmtree(out)
+        _force_rmtree(out)
     out.mkdir(parents=True)
     for name in PLAYER_FILES:
         shutil.copy2(player_dir / name, out / name)
@@ -118,7 +140,7 @@ def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
     player_dir = player_fetch.ensure_player(player_cache, url=player_url, refresh=refresh_player)
 
     if out.exists():
-        shutil.rmtree(out)
+        _force_rmtree(out)
     out.mkdir(parents=True)
     for name in PLAYER_FILES:
         shutil.copy2(player_dir / name, out / name)
