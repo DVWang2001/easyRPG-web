@@ -159,6 +159,20 @@ def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
     ignore_globs = tuple(ignore) if ignore else staging.DEFAULT_IGNORE
     entries = library.stage_library(out, specs, soundfont=soundfont, ignore_globs=ignore_globs)
 
+    # 有遊戲勾「使用自訂取名字表」→ 多放一套自訂引擎到 player-custom/（只有這些遊戲用它）。
+    if any(e.get("custom") for e in entries):
+        _log("放入自訂播放器引擎（player-custom/）…", log)
+        try:
+            custom_dir = player_fetch.ensure_player(player_cache, variant="custom")
+        except FileNotFoundError as e:
+            raise BuildError(
+                "有遊戲勾選「使用自訂取名字表」，但尚未建置自訂播放器（players/custom 不存在）。"
+                "請先在 GUI「編輯取名字表 → 重建自訂播放器」。") from e
+        pc = out / "player-custom"
+        pc.mkdir(parents=True, exist_ok=True)
+        for name in ("index.js", "index.wasm"):
+            shutil.copy2(custom_dir / name, pc / name)
+
     _log("產生遊戲庫選單…", log)
     menu.write_menu(out, app_label, entries, icon_rel)  # 寫新的 index.html（網格）
     pwa.write_game_pages(out, entries, icon_rel)        # 每遊戲靜態頁 play-<slug>.html（title/icon 寫死）

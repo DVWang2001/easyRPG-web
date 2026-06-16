@@ -93,6 +93,25 @@ def test_gamedialog_builds_and_collects_tags(tmp_path):
         root.destroy()
 
 
+def test_game_custom_player_persists(tmp_path):
+    import easyrpg_web_gui as gui
+    lib = tmp_path / "library.json"
+    root = _make_root()
+    try:
+        app = gui.App(root, project_path=lib)
+        app.games.append({"folder": "", "label": "自訂遊戲", "cover": None,
+                          "rtp": None, "tags": [], "custom_player": True})
+        app._refresh_tree()
+        app._save()
+        data = json.loads(lib.read_text(encoding="utf-8"))
+        assert data["games"][-1]["custom_player"] is True
+        dlg = gui.GameDialog(root, folder="x", label="甲", custom_player=True)
+        assert dlg.v_custom.get() is True
+        dlg.destroy()
+    finally:
+        root.destroy()
+
+
 def test_name_table_dialog_saves(tmp_path):
     import easyrpg_web_gui as gui
     lib = tmp_path / "library.json"

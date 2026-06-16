@@ -47,6 +47,7 @@ def _normalize(data) -> dict:
                     "rtp": g.get("rtp") or None,
                     "tags": [str(t).strip() for t in (g.get("tags") or [])
                              if str(t).strip()],
+                    "custom_player": bool(g.get("custom_player")),
                 })
             proj["games"] = norm
         # 全域標籤清單：明確清單（去重去空白）優先，再補上各遊戲用到但不在清單的

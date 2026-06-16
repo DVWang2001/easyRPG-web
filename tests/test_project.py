@@ -142,6 +142,17 @@ def test_all_tags_roundtrip(tmp_path):
     assert proj["all_tags"] == ["RPG", "漢化"]
 
 
+def test_game_custom_player_flag(tmp_path):
+    f = tmp_path / "library.json"
+    f.write_text(json.dumps({"games": [
+        {"folder": "a", "label": "甲", "custom_player": True},
+        {"folder": "b", "label": "乙"},
+    ]}), encoding="utf-8")
+    proj, _ = project.load_project(f)
+    assert proj["games"][0]["custom_player"] is True
+    assert proj["games"][1]["custom_player"] is False  # 預設 False
+
+
 def test_missing_sources_flags_empty_and_invalid(tmp_path):
     good = tmp_path / "Good"
     good.mkdir()

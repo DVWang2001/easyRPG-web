@@ -11,7 +11,8 @@ TEMPLATE = (
     '<meta name="apple-mobile-web-app-title" content="RM作品收藏">'
     "<title>EasyRPG Player</title>"
     "</head>"
-    "<body><script>createEasyRpgPlayer({ game: undefined, saveFs: undefined });"
+    '<body><script async type="text/javascript" src="index.js"></script>'
+    "<script>createEasyRpgPlayer({ game: undefined, saveFs: undefined });"
     "</script></body></html>"
 )
 
@@ -100,6 +101,31 @@ def test_write_game_pages_per_game_precache(tmp_path):
     assert 'fetch("precache-"+SLUG+".json")' in page  # 頁面自己抓清單下載
     assert 'caches.open("easyrpg-games")' in page
     assert "下載此遊戲以供離線" in page
+
+
+def test_write_game_pages_custom_uses_player_custom_engine(tmp_path):
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    entries = [
+        {"label": "甲", "slug": "g1", "cover_rel": None, "custom": True},
+        {"label": "乙", "slug": "g2", "cover_rel": None, "custom": False},
+    ]
+
+    pwa.write_game_pages(dist, entries)
+
+    a = (dist / "play-g1.html").read_text(encoding="utf-8")
+    b = (dist / "play-g2.html").read_text(encoding="utf-8")
+    # 自訂遊戲頁載入 player-custom/ 引擎；非自訂用根目錄官方引擎
+    assert 'src="player-custom/index.js"' in a
+    assert 'src="index.js"' not in a
+    assert 'src="index.js"' in b
+    assert "player-custom" not in b
+    # precache 帶各自的引擎檔
+    pa = json.loads((dist / "precache-g1.json").read_text(encoding="utf-8"))
+    pb = json.loads((dist / "precache-g2.json").read_text(encoding="utf-8"))
+    assert "player-custom/index.js" in pa and "player-custom/index.wasm" in pa
+    assert "index.js" in pb and "index.wasm" in pb
+    assert "player-custom/index.js" not in pb
 
 
 def test_write_game_pages_locks_title(tmp_path):

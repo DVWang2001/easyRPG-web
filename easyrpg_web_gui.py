@@ -21,7 +21,7 @@ class GameDialog(tk.Toplevel):
     """加入/編輯單一遊戲：原始資料夾 + 名稱 + 封面（選填）+ RTP（勾選＋資料夾）。回傳 dict 或 None。"""
 
     def __init__(self, parent, folder="", label="", cover="", rtp="", tags=(),
-                 available_tags=()):
+                 available_tags=(), custom_player=False):
         super().__init__(parent)
         self.title("遊戲設定")
         self.result = None
@@ -34,6 +34,7 @@ class GameDialog(tk.Toplevel):
         self.v_rtp_on = tk.BooleanVar(value=bool(rtp))
         self.v_rtp = tk.StringVar(value=rtp)
         self.selected_tags = list(tags)
+        self.v_custom = tk.BooleanVar(value=bool(custom_player))
 
         ttk.Label(self, text="原始資料夾").grid(row=0, column=0, sticky="w", padx=8, pady=6)
         ttk.Entry(self, textvariable=self.v_folder, width=36).grid(row=0, column=1, padx=4)
@@ -58,8 +59,11 @@ class GameDialog(tk.Toplevel):
         ttk.Button(self, text="移除", width=8,
                    command=self._remove_tag).grid(row=6, column=2, sticky="n")
         self._refresh_tag_lb()
+        ttk.Checkbutton(self, text="使用自訂取名字表（自建播放器）",
+                        variable=self.v_custom).grid(
+            row=7, column=0, columnspan=3, sticky="w", padx=8, pady=(6, 0))
         bar = ttk.Frame(self)
-        bar.grid(row=7, column=0, columnspan=3, pady=8)
+        bar.grid(row=8, column=0, columnspan=3, pady=8)
         ttk.Button(bar, text="確定", command=self._ok).pack(side="left", padx=4)
         ttk.Button(bar, text="取消", command=self.destroy).pack(side="left", padx=4)
 
@@ -116,6 +120,7 @@ class GameDialog(tk.Toplevel):
             "cover": self.v_cover.get().strip() or None,
             "rtp": rtp or None,
             "tags": list(self.selected_tags),
+            "custom_player": bool(self.v_custom.get()),
         }
         self.destroy()
 
@@ -137,7 +142,6 @@ class App:
         self.soundfont = tk.StringVar(value=proj["soundfont"])
         self.out = tk.StringVar(value=proj["out"])
         self.refresh = tk.BooleanVar(value=False)
-        self.use_custom = tk.BooleanVar(value=False)
 
         self._build_ui()
         self._refresh_tree()
@@ -164,11 +168,11 @@ class App:
         ttk.Button(top, text="…", width=3,
                    command=lambda: self._pick_file(self.icon)).grid(row=0, column=4)
 
-        self.tree = ttk.Treeview(f, columns=("label", "folder", "cover", "rtp", "tags"),
+        self.tree = ttk.Treeview(f, columns=("label", "folder", "cover", "rtp", "tags", "custom"),
                                  show="headings", height=8)
-        for col, txt, w in [("label", "名稱", 130), ("folder", "資料夾", 240),
-                            ("cover", "封面", 90), ("rtp", "RTP", 80),
-                            ("tags", "標籤", 160)]:
+        for col, txt, w in [("label", "名稱", 120), ("folder", "資料夾", 220),
+                            ("cover", "封面", 80), ("rtp", "RTP", 70),
+                            ("tags", "標籤", 150), ("custom", "自訂字表", 70)]:
             self.tree.heading(col, text=txt)
             self.tree.column(col, width=w)
         self.tree.grid(row=1, column=0, sticky="nsew")
@@ -203,8 +207,6 @@ class App:
         chk.grid(row=5, column=0, sticky="w")
         ttk.Checkbutton(chk, text="強制更新 web player",
                         variable=self.refresh).pack(side="left", padx=4)
-        ttk.Checkbutton(chk, text="使用自訂播放器（自訂取名字表）",
-                        variable=self.use_custom).pack(side="left", padx=4)
         ttk.Button(chk, text="編輯取名字表…",
                    command=self._edit_name_table).pack(side="left", padx=8)
 
@@ -221,8 +223,9 @@ class App:
             cover = Path(g["cover"]).name if g.get("cover") else "（預設）"
             rtp = Path(g["rtp"]).name if g.get("rtp") else "（無）"
             tags = "、".join(g.get("tags") or [])
+            custom = "✓" if g.get("custom_player") else ""
             self.tree.insert("", "end",
-                             values=(g.get("label") or "", folder_disp, cover, rtp, tags))
+                             values=(g.get("label") or "", folder_disp, cover, rtp, tags, custom))
 
     def _refresh_tags_list(self):
         self.tags_list.delete(0, "end")
@@ -260,7 +263,8 @@ class App:
             "games": [
                 {"folder": str(g.get("folder") or ""), "label": g.get("label") or "",
                  "cover": g.get("cover") or None, "rtp": g.get("rtp") or None,
-                 "tags": list(g.get("tags") or [])}
+                 "tags": list(g.get("tags") or []),
+                 "custom_player": bool(g.get("custom_player"))}
                 for g in self.games
             ],
         })
@@ -288,7 +292,8 @@ class App:
         dlg = GameDialog(self.root, str(g.get("folder") or ""), g.get("label") or "",
                          g.get("cover") or "", g.get("rtp") or "",
                          tags=list(g.get("tags") or []),
-                         available_tags=list(self.all_tags))
+                         available_tags=list(self.all_tags),
+                         custom_player=bool(g.get("custom_player")))
         self.root.wait_window(dlg)
         if dlg.result:
             self.games[i] = dlg.result
@@ -363,7 +368,6 @@ class App:
                 soundfont=self.soundfont.get() or None,
                 out=self.out.get() or "dist",
                 refresh_player=self.refresh.get(),
-                player_variant="custom" if self.use_custom.get() else "auto",
                 deploy=True,
                 log=self._emit,
             )

@@ -11,7 +11,7 @@ def _fake_player_tarball(path: Path):
     buf = io.BytesIO()
     with tarfile.open(fileobj=buf, mode="w:gz") as tar:
         for name, data in [
-            ("index.html", b"<html><head><title>EasyRPG Player</title></head><body><script>createEasyRpgPlayer({ game: undefined, saveFs: undefined });</script></body></html>"),
+            ("index.html", b'<html><head><title>EasyRPG Player</title></head><body><script async type="text/javascript" src="index.js"></script><script>createEasyRpgPlayer({ game: undefined, saveFs: undefined });</script></body></html>'),
             ("index.js", b"// js"),
             ("index.wasm", b"\0asm"),
         ]:
@@ -69,6 +69,59 @@ def test_build_library_two_games(tmp_path):
     # 每遊戲離線清單各自存在
     assert (out / f"precache-{s1}.json").exists()
     assert (out / f"precache-{s2}.json").exists()
+
+
+def test_build_library_per_game_custom_player(tmp_path, monkeypatch):
+    import player_fetch
+    tarball = tmp_path / "player.tar.gz"
+    _fake_player_tarball(tarball)
+    custom = tmp_path / "customengine"
+    custom.mkdir()
+    (custom / "index.html").write_text("<html></html>")
+    (custom / "index.js").write_text("// custom js")
+    (custom / "index.wasm").write_bytes(b"\0custom")
+    monkeypatch.setitem(player_fetch.BUNDLED, "custom", custom)
+    g1 = tmp_path / "A"
+    _game(g1, "1")
+    g2 = tmp_path / "B"
+    _game(g2, "2")
+    out = tmp_path / "dist"
+
+    core.build_library(
+        games=[{"folder": g1, "label": "自訂遊戲", "cover": None, "custom_player": True},
+               {"folder": g2, "label": "一般遊戲", "cover": None}],
+        app_icon=None, soundfont=None, out=out,
+        player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
+    )
+
+    s1 = slugify.hash_slug("自訂遊戲")
+    s2 = slugify.hash_slug("一般遊戲")
+    # 自訂引擎被放進 player-custom/
+    assert (out / "player-custom" / "index.js").read_text() == "// custom js"
+    assert (out / "player-custom" / "index.wasm").exists()
+    # 自訂遊戲頁載入 player-custom 引擎；一般遊戲頁用根目錄引擎
+    assert 'src="player-custom/index.js"' in (out / f"play-{s1}.html").read_text(encoding="utf-8")
+    b = (out / f"play-{s2}.html").read_text(encoding="utf-8")
+    assert 'src="index.js"' in b and "player-custom" not in b
+
+
+def test_build_library_custom_player_missing_engine_errors(tmp_path, monkeypatch):
+    import player_fetch
+    tarball = tmp_path / "player.tar.gz"
+    _fake_player_tarball(tarball)
+    monkeypatch.setitem(player_fetch.BUNDLED, "custom", tmp_path / "nope")
+    g1 = tmp_path / "A"
+    _game(g1, "1")
+    out = tmp_path / "dist"
+    try:
+        core.build_library(
+            games=[{"folder": g1, "label": "自訂", "cover": None, "custom_player": True}],
+            app_icon=None, soundfont=None, out=out,
+            player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
+        )
+        assert False, "缺自訂引擎應報錯"
+    except core.BuildError as e:
+        assert "自訂播放器" in str(e)
 
 
 def test_build_library_empty_rejected(tmp_path):

@@ -160,6 +160,8 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
     for e in entries:
         slug = e["slug"]
         label = e["label"]
+        # 自訂取名字表的遊戲載入 player-custom/ 引擎；其餘用根目錄官方引擎。
+        engine = "player-custom/" if e.get("custom") else ""
         cover = e.get("cover_rel") or icon_rel
         cover_esc = _html.escape(cover, quote=True)
         title_esc = _html.escape(label, quote=True)
@@ -183,13 +185,16 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
             if game_dir.exists()
             else []
         )
-        shell = ["index.js", "index.wasm", "play-" + slug + ".html", manifest_name, icon_rel]
+        shell = [engine + "index.js", engine + "index.wasm",
+                 "play-" + slug + ".html", manifest_name, icon_rel]
         (dist / ("precache-" + slug + ".json")).write_text(
             json.dumps(shell + game_files, ensure_ascii=False), encoding="utf-8"
         )
         # 鎖住 document.title 用的 JS 字串字面值（防 </script> 注入）
         title_js = json.dumps(label).replace("<", "\\u003c")
-        html = template.replace("game: undefined", "game: " + json.dumps(slug))
+        tmpl = (template.replace('src="index.js"', 'src="' + engine + 'index.js"')
+                if engine else template)
+        html = tmpl.replace("game: undefined", "game: " + json.dumps(slug))
         # 移除模板繼承的整庫 tag，避免 iOS 採用庫圖示
         html = re.sub(r'<link[^>]*rel="manifest"[^>]*>', "", html, count=1, flags=re.S)
         html = re.sub(r'<link[^>]*rel="apple-touch-icon"[^>]*>', "", html, count=1, flags=re.S)
