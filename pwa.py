@@ -157,6 +157,8 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
             ),
             encoding="utf-8",
         )
+        # 鎖住 document.title 用的 JS 字串字面值（防 </script> 注入）
+        title_js = json.dumps(label).replace("<", "\\u003c")
         html = template.replace("game: undefined", "game: " + json.dumps(slug))
         # 移除模板繼承的整庫 tag，避免 iOS 採用庫圖示
         html = re.sub(r'<link[^>]*rel="manifest"[^>]*>', "", html, count=1, flags=re.S)
@@ -168,7 +170,16 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
             '\n<meta name="apple-mobile-web-app-title" content="' + title_esc + '">'
             '\n<link rel="icon" href="' + cover_esc + '">'
             '\n<link rel="apple-touch-icon" href="' + cover_esc + '">'
-            '\n<link rel="manifest" href="' + manifest_name + '">\n'
+            '\n<link rel="manifest" href="' + manifest_name + '">'
+            # 鎖標題：EasyRPG 引擎載入後會把 document.title 改成遊戲內建標題（可能是 untitled），
+            # 這裡把 title 鎖成導入的名稱，讓 iOS「加入主畫面」讀到正確名稱。
+            "\n<script>(function(){var t=" + title_js + ";"
+            "try{Object.defineProperty(document,'title',{configurable:true,"
+            "get:function(){return t;},set:function(){}});}catch(e){}"
+            "document.title=t;"
+            "if(window.MutationObserver){var el=document.querySelector('title');"
+            "if(el){new MutationObserver(function(){if(document.title!==t){document.title=t;}})"
+            ".observe(el,{childList:true,characterData:true,subtree:true});}}})();</script>\n"
         )
         html = html.replace("</head>", new_head + "</head>", 1)
         (dist / ("play-" + slug + ".html")).write_text(html, encoding="utf-8")

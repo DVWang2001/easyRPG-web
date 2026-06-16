@@ -72,6 +72,20 @@ def test_write_game_pages_per_game_manifest_replaces_library(tmp_path):
     assert all(icon["src"] == "icons/icon.png" for icon in m2["icons"])
 
 
+def test_write_game_pages_locks_title(tmp_path):
+    # EasyRPG 引擎會把 document.title 改成遊戲內建標題；頁面需鎖住成導入名稱
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    entries = [{"label": "花嫁之冠", "slug": "game", "cover_rel": None}]
+
+    pwa.write_game_pages(dist, entries)
+
+    html = (dist / "play-game.html").read_text(encoding="utf-8")
+    assert "Object.defineProperty(document,'title'" in html
+    assert "MutationObserver" in html
+    assert '"花嫁之冠"' in html  # 鎖定的目標名稱（JS 字串字面值）
+
+
 def test_write_game_pages_escapes_label(tmp_path):
     dist = tmp_path / "dist"
     _write_template(dist)
