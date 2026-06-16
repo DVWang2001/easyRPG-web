@@ -46,13 +46,17 @@ def write_manifest(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
 
 
 SW_TEMPLATE = """\
-// 由 easyrpg_web_build 產生：全資產 precache + cache-first，安裝後可完全離線。
+// 由 easyrpg_web_build 產生：容錯 precache + cache-first，離線可玩（已快取的部分）。
 const CACHE = 'easyrpg-web-v1';
 const PRECACHE = %s;
 
 self.addEventListener('install', (e) => {
   e.waitUntil(
-    caches.open(CACHE).then((c) => c.addAll(PRECACHE)).then(() => self.skipWaiting())
+    // 容錯：用 allSettled + 逐檔 add，單一檔案失敗或配額不足不會讓整個 SW 安裝失敗
+    // （iOS Safari 快取配額較嚴格；atomic 的 addAll 一失敗就完全沒有離線能力）。
+    caches.open(CACHE).then((c) =>
+      Promise.allSettled(PRECACHE.map((u) => c.add(u)))
+    ).then(() => self.skipWaiting())
   );
 });
 
@@ -67,13 +71,18 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
   e.respondWith(
-    caches.match(e.request).then((hit) =>
-      hit || fetch(e.request).then((res) => {
+    caches.match(e.request).then((hit) => {
+      if (hit) return hit;
+      return fetch(e.request).then((res) => {
         const copy = res.clone();
-        caches.open(CACHE).then((c) => c.put(e.request, copy));
+        caches.open(CACHE).then((c) => c.put(e.request, copy)).catch(() => {});
         return res;
-      }).catch(() => caches.match('index.html'))
-    )
+      }).catch(() => {
+        // 離線且未快取：導航請求退回殼頁；素材請求回傳錯誤（不要拿 HTML 冒充素材）
+        if (e.request.mode === 'navigate') return caches.match('index.html');
+        return Response.error();
+      });
+    })
   );
 });
 """
