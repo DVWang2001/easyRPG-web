@@ -72,3 +72,44 @@ def test_app_saves_tags(tmp_path):
         assert data["games"][-1]["tags"] == ["RPG", "漢化"]
     finally:
         root.destroy()
+
+
+def test_gamedialog_builds_and_collects_tags(tmp_path):
+    import easyrpg_web_gui as gui
+    root = _make_root()
+    try:
+        dlg = gui.GameDialog(root, folder="C:/g", label="甲",
+                             tags=["RPG"], available_tags=["RPG", "漢化", "動作"])
+        # 下拉選一個現有標籤 → 加入這個遊戲
+        dlg.cb_tag.set("漢化")
+        dlg._add_tag()
+        assert dlg.selected_tags == ["RPG", "漢化"]
+        # 重複加入不會變兩次
+        dlg.cb_tag.set("漢化")
+        dlg._add_tag()
+        assert dlg.selected_tags == ["RPG", "漢化"]
+        dlg.destroy()
+    finally:
+        root.destroy()
+
+
+def test_app_loads_and_saves_all_tags(tmp_path):
+    import easyrpg_web_gui as gui
+    lib = tmp_path / "library.json"
+    lib.write_text(json.dumps({
+        "all_tags": ["RPG", "漢化"],
+        "games": [{"folder": "", "label": "甲", "tags": ["動作"]}],
+    }, ensure_ascii=False), encoding="utf-8")
+    root = _make_root()
+    try:
+        app = gui.App(root, project_path=lib)
+        # 載入時 all_tags＝明確清單＋遊戲用到的聯集
+        assert app.all_tags == ["RPG", "漢化", "動作"]
+        # 主視窗新增全域標籤名稱
+        app.new_tag.set("神作")
+        app._add_tag()
+        assert "神作" in app.all_tags
+        data = json.loads(lib.read_text(encoding="utf-8"))
+        assert "神作" in data["all_tags"]
+    finally:
+        root.destroy()
