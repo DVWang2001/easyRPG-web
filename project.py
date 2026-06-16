@@ -43,6 +43,8 @@ def _normalize(data) -> dict:
                     "label": g.get("label") or "",
                     "cover": g.get("cover") or None,
                     "rtp": g.get("rtp") or None,
+                    "tags": [str(t).strip() for t in (g.get("tags") or [])
+                             if str(t).strip()],
                 })
             proj["games"] = norm
     return proj
