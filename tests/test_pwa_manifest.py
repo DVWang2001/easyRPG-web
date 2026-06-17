@@ -27,4 +27,7 @@ def test_write_manifest_contents(tmp_path):
     assert data["name"] == "花嫁之冠"
     assert data["display"] == "standalone"
     assert data["start_url"] == "."
+    # 整庫主頁：scope 涵蓋全站、id 穩定
+    assert data["scope"] == "."
+    assert data["id"] == "."
     assert any(i["src"] == "icons/icon.png" for i in data["icons"])

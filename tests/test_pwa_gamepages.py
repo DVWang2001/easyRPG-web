@@ -68,9 +68,16 @@ def test_write_game_pages_per_game_manifest_replaces_library(tmp_path):
     assert m["name"] == "花嫁之冠"
     assert m["start_url"] == "play-game.html"
     assert all(icon["src"] == "games/game/cover.png" for icon in m["icons"])
+    # 每遊戲獨立身分：id 與收窄的 scope（避免 Android Chrome 把各遊戲視為同一 App）
+    assert m["id"] == "play-game.html"
+    assert m["scope"] == "play-game.html"
     # 無封面者 manifest icons 退回庫主圖示
     m2 = json.loads((dist / "manifest-game-2.webmanifest").read_text(encoding="utf-8"))
     assert all(icon["src"] == "icons/icon.png" for icon in m2["icons"])
+    # 不同遊戲 → 不同 id / 不重疊 scope
+    assert m2["id"] == "play-game-2.html"
+    assert m2["scope"] == "play-game-2.html"
+    assert m2["scope"] != m["scope"]
 
 
 def test_write_game_pages_per_game_precache(tmp_path):

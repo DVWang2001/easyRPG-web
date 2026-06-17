@@ -17,12 +17,17 @@ def install_icon(dist, icon_path) -> str:
     return ICON_REL
 
 
-def _build_manifest(name: str, start_url: str, icon_rel: str) -> dict:
+def _build_manifest(
+    name: str, start_url: str, icon_rel: str, scope: str = ".", app_id: str | None = None
+) -> dict:
     return {
         "name": name,
         "short_name": name,
+        # id 決定 Android Chrome 眼中的 App 身分；預設＝start_url（與 Chrome 自動推算一致、且穩定）。
+        "id": app_id or start_url,
         "start_url": start_url,
-        "scope": ".",
+        # scope 決定 App「範圍」；每遊戲收窄到自己的頁，避免裝了一個就被視為已涵蓋其他遊戲。
+        "scope": scope,
         "display": "standalone",
         "orientation": "landscape",
         "background_color": "#000000",
@@ -166,10 +171,12 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
         cover_esc = _html.escape(cover, quote=True)
         title_esc = _html.escape(label, quote=True)
         manifest_name = "manifest-" + slug + ".webmanifest"
-        # 每遊戲 manifest：icons＝封面、start_url＝該遊戲頁 → 加入主畫面得到該遊戲圖示/名稱
+        # 每遊戲 manifest：icons＝封面、start_url＝該遊戲頁 → 加入主畫面得到該遊戲圖示/名稱。
+        # scope/id 收窄到該遊戲頁，讓 Android Chrome 視各遊戲為獨立 App（否則裝一個就裝不了其他）。
+        page_url = "play-" + slug + ".html"
         (dist / manifest_name).write_text(
             json.dumps(
-                _build_manifest(label, "play-" + slug + ".html", cover),
+                _build_manifest(label, page_url, cover, scope=page_url),
                 ensure_ascii=False, indent=2,
             ),
             encoding="utf-8",
