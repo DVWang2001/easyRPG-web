@@ -200,7 +200,12 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
         html = re.sub(r'<link[^>]*rel="apple-touch-icon"[^>]*>', "", html, count=1, flags=re.S)
         html = re.sub(r'<meta[^>]*name="apple-mobile-web-app-title"[^>]*>', "", html, count=1, flags=re.S)
         html = re.sub(r"<title>.*?</title>", "", html, count=1, flags=re.S)
+        # 自訂(SDL3)引擎會把 canvas 內聯尺寸設成遊戲解析度(很小);用 !important 強制撐滿
+        # (官方 SDL2 shell 沒這段 → SDL3 在此 shell 下會「畫面小、黑邊大」)。
+        canvas_fix = ("\n<style>#canvas{width:100vw !important;height:100vh !important}</style>"
+                      if engine else "")
         new_head = (
+            canvas_fix +
             "\n<title>" + title_esc + "</title>"
             '\n<meta name="apple-mobile-web-app-title" content="' + title_esc + '">'
             '\n<link rel="icon" href="' + cover_esc + '">'

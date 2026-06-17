@@ -126,6 +126,9 @@ def test_write_game_pages_custom_uses_player_custom_engine(tmp_path):
     assert "player-custom/index.js" in pa and "player-custom/index.wasm" in pa
     assert "index.js" in pb and "index.wasm" in pb
     assert "player-custom/index.js" not in pb
+    # 自訂(SDL3)頁注入 canvas 撐滿覆寫（修「畫面小、黑邊大」）；非自訂頁不注入
+    assert "width:100vw" in a and "!important" in a
+    assert "100vw" not in b
 
 
 def test_write_game_pages_locks_title(tmp_path):
