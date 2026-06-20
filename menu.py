@@ -4,6 +4,7 @@ from __future__ import annotations
 import html as _html
 from pathlib import Path
 
+import project
 import pwa
 
 _PAGE = """<!DOCTYPE html>
@@ -20,7 +21,9 @@ header { padding:20px 16px 8px; text-align:center; font-size:20px; font-weight:6
 .toolbar { padding:0 16px 8px; display:flex; flex-direction:column; gap:8px; }
 #q { width:100%; padding:10px 12px; border-radius:12px; border:1px solid #333;
   background:#1b1b1b; color:#eee; font-size:16px; }
-.tags { display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
+.tags { display:flex; flex-direction:column; gap:6px; align-items:flex-start; }
+.taggroup { display:flex; flex-wrap:wrap; gap:6px; align-items:center; }
+.tagcat { color:#6b7280; font-size:12px; min-width:60px; }
 .tagfilter { padding:4px 10px; border-radius:999px; border:1px solid #3a3a3a;
   background:#1f2937; color:#cbd5e1; font-size:13px; cursor:pointer; }
 .tagfilter.active { background:#2563eb; color:#fff; border-color:#2563eb; }
@@ -139,7 +142,9 @@ _CARD = ('<a class="card" href="__HREF__" data-label="__DLABEL__" data-tags="__D
          '<span class="cardtags">__CARDTAGS__</span></a>')
 
 
-def write_menu(dist, app_label: str, entries, icon_rel: str = pwa.ICON_REL) -> Path:
+def write_menu(dist, app_label: str, entries, icon_rel: str = pwa.ICON_REL,
+               tag_categories=None) -> Path:
+    tag_categories = tag_categories or {}
     # 全庫不重複標籤（以小寫去重，顯示用首次出現的原文）
     tag_display = {}
     for e in entries:
@@ -167,11 +172,25 @@ def write_menu(dist, app_label: str, entries, icon_rel: str = pwa.ICON_REL) -> P
         )
         cards.append(card)
 
-    tagfilters = "".join(
-        '<button class="tagfilter" data-tag="' + _html.escape(key, quote=True) + '">'
-        + _html.escape(disp) + "</button>"
-        for key, disp in sorted(tag_display.items())
-    )
+    # 篩選列依固定類別分組（跳過沒有標籤的類別）
+    by_cat = {c: [] for c in project.CATEGORIES}
+    for key, disp in sorted(tag_display.items()):
+        cat = tag_categories.get(disp)
+        if cat not in by_cat:
+            cat = project.DEFAULT_CATEGORY
+        by_cat[cat].append((key, disp))
+    groups = []
+    for cat in project.CATEGORIES:
+        items = by_cat[cat]
+        if not items:
+            continue
+        buttons = "".join(
+            '<button class="tagfilter" data-tag="' + _html.escape(key, quote=True) + '">'
+            + _html.escape(disp) + "</button>"
+            for key, disp in items)
+        groups.append('<div class="taggroup"><span class="tagcat">'
+                      + _html.escape(cat) + "</span>" + buttons + "</div>")
+    tagfilters = "".join(groups)
     page = (
         _PAGE.replace("__PWAHEAD__", pwa.pwa_head(app_label, icon_rel))
         .replace("__TITLE__", _html.escape(app_label))

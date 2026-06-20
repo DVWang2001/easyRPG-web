@@ -123,7 +123,8 @@ def build(*, game, app_label=None, soundfont=DEFAULT_SOUNDFONT, app_icon=DEFAULT
 def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
                   soundfont=DEFAULT_SOUNDFONT, out="dist", ignore=None,
                   refresh_player=False, deploy=False, player_cache=".player-cache",
-                  player_url=player_fetch.PLAYER_URL, player_variant="auto", log=None) -> Path:
+                  player_url=player_fetch.PLAYER_URL, player_variant="auto",
+                  tag_categories=None, log=None) -> Path:
     out = Path(out)
     if not games:
         raise BuildError("遊戲庫至少要一個遊戲。")
@@ -176,7 +177,8 @@ def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
             shutil.copy2(src / name, pc / name)
 
     _log("產生遊戲庫選單…", log)
-    menu.write_menu(out, app_label, entries, icon_rel)  # 寫新的 index.html（網格）
+    menu.write_menu(out, app_label, entries, icon_rel,
+                    tag_categories=tag_categories)  # 寫新的 index.html（網格）
     pwa.write_game_pages(out, entries, icon_rel)        # 每遊戲靜態頁 play-<slug>.html（title/icon 寫死）
 
     pwa.write_manifest(out, app_label, icon_rel)

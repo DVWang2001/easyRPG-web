@@ -208,6 +208,39 @@ def test_all_tags_roundtrip(tmp_path):
     assert proj["all_tags"] == ["RPG", "漢化"]
 
 
+def test_tag_categories_default_unknown_to_other(tmp_path):
+    f = tmp_path / "library.json"
+    data = project.default_project()
+    data["all_tags"] = ["RM2000", "ATB", "未分類"]
+    data["tag_categories"] = {"RM2000": "遊戲引擎", "ATB": "戰鬥系統",
+                              "未分類": "不存在的類"}   # 無效類別 → 其他
+    project.save_project(f, data)
+    proj, _ = project.load_project(f)
+    assert proj["tag_categories"] == {
+        "RM2000": "遊戲引擎", "ATB": "戰鬥系統", "未分類": "其他"}
+
+
+def test_tag_categories_covers_all_tags(tmp_path):
+    # 每個 all_tags 都要有分類；沒給的預設「其他」；遊戲帶出的新標籤也要有
+    f = tmp_path / "library.json"
+    data = project.default_project()
+    data["all_tags"] = ["A"]
+    data["games"] = [{"folder": "x", "label": "甲", "tags": ["B"]}]
+    project.save_project(f, data)
+    proj, _ = project.load_project(f)
+    assert set(proj["tag_categories"]) == {"A", "B"}
+    assert proj["tag_categories"]["A"] == "其他"
+    assert proj["tag_categories"]["B"] == "其他"
+
+
+def test_legacy_no_tag_categories_field(tmp_path):
+    f = tmp_path / "library.json"
+    f.write_text(__import__("json").dumps(
+        {"version": 1, "all_tags": ["X"]}, ensure_ascii=False), encoding="utf-8")
+    proj, _ = project.load_project(f)
+    assert proj["tag_categories"] == {"X": "其他"}
+
+
 def test_missing_sources_flags_empty_and_invalid(tmp_path):
     good = tmp_path / "Good"
     good.mkdir()

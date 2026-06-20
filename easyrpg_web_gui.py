@@ -243,8 +243,10 @@ class App:
         proj, warning = project.load_project(self.project_path)
         self.games: list = [dict(g) for g in proj["games"]]
         self.all_tags: list = list(proj["all_tags"])
+        self.tag_categories: dict = dict(proj["tag_categories"])
         self.name_tables: list = list(proj["name_tables"])
         self.new_tag = tk.StringVar()
+        self.new_tag_cat = tk.StringVar(value=project.DEFAULT_CATEGORY)
         self.lib_name = tk.StringVar(value=proj["lib_name"])
         self.icon = tk.StringVar(value=proj["icon"])
         self.soundfont = tk.StringVar(value=proj["soundfont"])
@@ -293,14 +295,21 @@ class App:
         ttk.Button(btns, text="↑", width=3, command=lambda: self._move(-1)).pack(side="left", padx=2)
         ttk.Button(btns, text="↓", width=3, command=lambda: self._move(1)).pack(side="left", padx=2)
 
-        tagmgr = ttk.LabelFrame(f, text="標籤清單（新增可選用的標籤名稱）", padding=6)
+        tagmgr = ttk.LabelFrame(f, text="標籤分類（遊戲引擎／戰鬥系統／作者／其他）", padding=6)
         tagmgr.grid(row=3, column=0, sticky="ew", pady=4)
         tagmgr.columnconfigure(0, weight=1)
-        self.tags_list = tk.Listbox(tagmgr, height=3)
-        self.tags_list.grid(row=0, column=0, rowspan=2, sticky="ew", padx=(0, 6))
-        ttk.Entry(tagmgr, textvariable=self.new_tag, width=18).grid(
-            row=0, column=1, padx=2, pady=(0, 2))
-        ttk.Button(tagmgr, text="新增標籤", command=self._add_tag).grid(row=0, column=2, padx=2)
+        self.tags_tree = ttk.Treeview(tagmgr, height=6, show="tree", selectmode="browse")
+        self.tags_tree.grid(row=0, column=0, rowspan=3, sticky="ew", padx=(0, 6))
+        ctl = ttk.Frame(tagmgr)
+        ctl.grid(row=0, column=1, sticky="nw")
+        ttk.Entry(ctl, textvariable=self.new_tag, width=16).grid(row=0, column=0, padx=2, pady=2)
+        ttk.Combobox(ctl, textvariable=self.new_tag_cat, values=project.CATEGORIES,
+                     width=8, state="readonly").grid(row=0, column=1, padx=2)
+        ttk.Button(ctl, text="新增/分類", command=self._add_tag).grid(row=0, column=2, padx=2)
+        ttk.Button(ctl, text="設選取為此類", command=self._set_tag_category).grid(
+            row=1, column=0, columnspan=3, padx=2, pady=2, sticky="ew")
+        ttk.Button(ctl, text="移除選取標籤", command=self._remove_tag).grid(
+            row=2, column=0, columnspan=3, padx=2, sticky="ew")
 
         opt = ttk.Frame(f)
         opt.grid(row=4, column=0, sticky="w", pady=4)
@@ -337,25 +346,64 @@ class App:
                              values=(g.get("label") or "", folder_disp, cover, rtp, tags, custom))
 
     def _refresh_tags_list(self):
-        self.tags_list.delete(0, "end")
+        # 以類別為節點、標籤為子項，分組顯示
+        tr = self.tags_tree
+        tr.delete(*tr.get_children())
+        self._cat_nodes = {c: tr.insert("", "end", text=c, open=True)
+                           for c in project.CATEGORIES}
         for t in self.all_tags:
-            self.tags_list.insert("end", t)
+            cat = self.tag_categories.get(t, project.DEFAULT_CATEGORY)
+            parent = self._cat_nodes.get(cat, self._cat_nodes[project.DEFAULT_CATEGORY])
+            tr.insert(parent, "end", text=t, values=(t,))
+
+    def _selected_tag(self):
+        sel = self.tags_tree.selection()
+        if not sel:
+            return None
+        vals = self.tags_tree.item(sel[0], "values")
+        return vals[0] if vals else None   # 類別節點本身沒有 values
 
     def _add_tag(self):
-        # 主視窗新增「全域標籤名稱」（不套用到任何遊戲，只是讓它出現在下拉選單可選）。
+        # 新增全域標籤並設定其分類（已存在則只更新分類）。
         t = self.new_tag.get().strip()
-        if t and t not in self.all_tags:
+        if not t:
+            return
+        if t not in self.all_tags:
             self.all_tags.append(t)
-            self._refresh_tags_list()
-            self._save()
+        self.tag_categories[t] = self.new_tag_cat.get() or project.DEFAULT_CATEGORY
+        self._refresh_tags_list()
+        self._save()
         self.new_tag.set("")
 
+    def _set_tag_category(self):
+        t = self._selected_tag()
+        if not t:
+            return
+        self.tag_categories[t] = self.new_tag_cat.get() or project.DEFAULT_CATEGORY
+        self._refresh_tags_list()
+        self._save()
+
+    def _remove_tag(self):
+        t = self._selected_tag()
+        if not t:
+            return
+        if t in self.all_tags:
+            self.all_tags.remove(t)
+        self.tag_categories.pop(t, None)
+        for g in self.games:                 # 一併從各遊戲移除這個標籤
+            if t in (g.get("tags") or []):
+                g["tags"] = [x for x in g["tags"] if x != t]
+        self._refresh_tags_list()
+        self._refresh_tree()
+        self._save()
+
     def _merge_tags(self, tags):
-        # 在遊戲設定裡新打的標籤，自動補進全域清單。
+        # 在遊戲設定裡新打的標籤，自動補進全域清單（預設分類「其他」）。
         changed = False
         for t in tags or []:
             if t and t not in self.all_tags:
                 self.all_tags.append(t)
+                self.tag_categories.setdefault(t, project.DEFAULT_CATEGORY)
                 changed = True
         if changed:
             self._refresh_tags_list()
@@ -368,6 +416,7 @@ class App:
             "soundfont": self.soundfont.get(),
             "out": self.out.get(),
             "all_tags": list(self.all_tags),
+            "tag_categories": dict(self.tag_categories),
             "name_tables": list(self.name_tables),
             "games": [
                 {"folder": str(g.get("folder") or ""), "label": g.get("label") or "",
@@ -479,6 +528,7 @@ class App:
                 soundfont=self.soundfont.get() or None,
                 out=self.out.get() or "dist",
                 refresh_player=self.refresh.get(),
+                tag_categories=dict(self.tag_categories),
                 deploy=True,
                 log=self._emit,
             )

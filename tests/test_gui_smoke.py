@@ -243,6 +243,42 @@ def test_gamedialog_preserves_name_table_id():
         root.destroy()
 
 
+def test_app_tag_categories_add_set_remove(tmp_path):
+    import easyrpg_web_gui as gui
+    lib = tmp_path / "library.json"
+    root = _make_root()
+    try:
+        app = gui.App(root, project_path=lib)
+        # 新增標籤並指定類別
+        app.new_tag.set("RM2000")
+        app.new_tag_cat.set("遊戲引擎")
+        app._add_tag()
+        assert app.tag_categories["RM2000"] == "遊戲引擎"
+        data, _ = gui.project.load_project(lib)
+        assert data["tag_categories"]["RM2000"] == "遊戲引擎"
+
+        # 在樹上選取該標籤 → 改類別
+        def _select(tag):
+            for cnode in app.tags_tree.get_children():
+                for ch in app.tags_tree.get_children(cnode):
+                    v = app.tags_tree.item(ch, "values")
+                    if v and v[0] == tag:
+                        app.tags_tree.selection_set(ch)
+                        return
+        _select("RM2000")
+        app.new_tag_cat.set("戰鬥系統")
+        app._set_tag_category()
+        assert app.tag_categories["RM2000"] == "戰鬥系統"
+
+        # 移除標籤
+        _select("RM2000")
+        app._remove_tag()
+        assert "RM2000" not in app.all_tags
+        assert "RM2000" not in app.tag_categories
+    finally:
+        root.destroy()
+
+
 def test_app_loads_and_saves_all_tags(tmp_path):
     import easyrpg_web_gui as gui
     lib = tmp_path / "library.json"

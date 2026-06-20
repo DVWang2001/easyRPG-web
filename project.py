@@ -14,6 +14,10 @@ DEFAULT_SOUNDFONT = HERE / "assets" / "easyrpg.soundfont"
 
 VERSION = 1
 
+# 標籤分類（固定四類，最後一類為預設）。
+CATEGORIES = ["遊戲引擎", "戰鬥系統", "作者", "其他"]
+DEFAULT_CATEGORY = CATEGORIES[-1]
+
 
 def default_project() -> dict:
     """完整 schema 的空專案。"""
@@ -24,6 +28,7 @@ def default_project() -> dict:
         "soundfont": str(DEFAULT_SOUNDFONT),
         "out": "dist",
         "all_tags": [],
+        "tag_categories": {},
         "name_tables": [],
         "games": [],
     }
@@ -120,6 +125,14 @@ def _normalize(data) -> dict:
                     seen.add(t)
                     ordered.append(t)
         proj["all_tags"] = ordered
+
+        # 每個標籤的分類：沿用既有對應，未知/缺漏 → 預設「其他」
+        raw_cat = data.get("tag_categories")
+        raw_cat = raw_cat if isinstance(raw_cat, dict) else {}
+        proj["tag_categories"] = {
+            t: (raw_cat[t] if raw_cat.get(t) in CATEGORIES else DEFAULT_CATEGORY)
+            for t in ordered
+        }
     return proj
 
 

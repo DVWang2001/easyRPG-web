@@ -56,6 +56,27 @@ def test_write_menu_search_box_tags_and_filter_js(tmp_path):
     assert "c.hidden" in html
 
 
+def test_write_menu_groups_filters_by_category(tmp_path):
+    dist = tmp_path / "dist"
+    dist.mkdir()
+    entries = [
+        {"label": "甲", "slug": "a", "cover_rel": None, "tags": ["RM2000", "ATB"]},
+        {"label": "乙", "slug": "b", "cover_rel": None, "tags": ["雜項"]},
+    ]
+    cats = {"RM2000": "遊戲引擎", "ATB": "戰鬥系統"}  # 雜項未給 → 其他
+    html = menu.write_menu(dist, "庫", entries, tag_categories=cats).read_text(encoding="utf-8")
+    # 出現的類別標題（有標籤的才出現）；作者類別沒標籤 → 不出現
+    assert '<span class="tagcat">遊戲引擎</span>' in html
+    assert '<span class="tagcat">戰鬥系統</span>' in html
+    assert '<span class="tagcat">其他</span>' in html
+    assert '<span class="tagcat">作者</span>' not in html
+    # 仍是 3 個篩選按鈕
+    assert html.count('class="tagfilter"') == 3
+    # 遊戲引擎類別的群組含 RM2000 按鈕
+    eng = html.split('<span class="tagcat">遊戲引擎</span>')[1].split("</div>")[0]
+    assert "RM2000" in eng and "ATB" not in eng
+
+
 def test_write_menu_has_card_hover_effect(tmp_path):
     dist = tmp_path / "dist"
     dist.mkdir()
