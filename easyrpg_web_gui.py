@@ -21,13 +21,14 @@ class GameDialog(tk.Toplevel):
     """加入/編輯單一遊戲：原始資料夾 + 名稱 + 封面（選填）+ RTP（勾選＋資料夾）。回傳 dict 或 None。"""
 
     def __init__(self, parent, folder="", label="", cover="", rtp="", tags=(),
-                 available_tags=(), custom_player=False):
+                 available_tags=(), custom_player=False, name_table_id=""):
         super().__init__(parent)
         self.title("遊戲設定")
         self.result = None
         self.transient(parent)
         self.grab_set()
 
+        self.initial_name_table_id = name_table_id
         self.v_folder = tk.StringVar(value=folder)
         self.v_label = tk.StringVar(value=label)
         self.v_cover = tk.StringVar(value=cover)
@@ -120,7 +121,7 @@ class GameDialog(tk.Toplevel):
             "cover": self.v_cover.get().strip() or None,
             "rtp": rtp or None,
             "tags": list(self.selected_tags),
-            "name_table_id": "",
+            "name_table_id": self.initial_name_table_id,
         }
         self.destroy()
 
@@ -292,7 +293,8 @@ class App:
         dlg = GameDialog(self.root, str(g.get("folder") or ""), g.get("label") or "",
                          g.get("cover") or "", g.get("rtp") or "",
                          tags=list(g.get("tags") or []),
-                         available_tags=list(self.all_tags))
+                         available_tags=list(self.all_tags),
+                         name_table_id=str(g.get("name_table_id") or ""))
         self.root.wait_window(dlg)
         if dlg.result:
             self.games[i] = dlg.result

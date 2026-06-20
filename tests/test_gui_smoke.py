@@ -129,6 +129,19 @@ def test_name_table_dialog_saves(tmp_path):
         root.destroy()
 
 
+def test_gamedialog_preserves_name_table_id():
+    import easyrpg_web_gui as gui
+    root = _make_root()
+    try:
+        dlg = gui.GameDialog(root, folder="C:/g", label="甲", name_table_id="tid1")
+        dlg.v_folder.set("C:/g")
+        dlg.v_label.set("甲")
+        dlg._ok()
+        assert dlg.result["name_table_id"] == "tid1"
+    finally:
+        root.destroy()
+
+
 def test_app_loads_and_saves_all_tags(tmp_path):
     import easyrpg_web_gui as gui
     lib = tmp_path / "library.json"
