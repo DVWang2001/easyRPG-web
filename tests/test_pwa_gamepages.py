@@ -22,6 +22,24 @@ def _write_template(dist: Path):
     (dist / "play.html").write_text(TEMPLATE, encoding="utf-8")
 
 
+def test_write_game_pages_injects_save_ui(tmp_path):
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    pwa.write_game_pages(dist, [{"label": "甲", "slug": "g", "cover_rel": None}])
+    html = (dist / "play-g.html").read_text(encoding="utf-8")
+    # 左上角存檔面板：兩個按鈕 + 檔案輸入
+    assert 'id="saveui"' in html
+    assert "導出存檔" in html and "導入存檔" in html
+    assert 'id="savefile"' in html
+    # 非全螢幕才顯示（fullscreenchange 控制）
+    assert "fullscreenchange" in html and "fullscreenElement" in html
+    # 直接讀寫 /Save、整包 zip、導入後 syncfs + reload
+    assert '"/Save"' in html or "/Save" in html
+    assert "makeZip" in html and "syncfs" in html and "location.reload" in html
+    # 每頁帶自己的 slug 當下載檔名
+    assert 'SLUG="g"' in html or 'SLUG = "g"' in html
+
+
 def test_write_game_pages_titles_icons_and_baked_game(tmp_path):
     dist = tmp_path / "dist"
     _write_template(dist)

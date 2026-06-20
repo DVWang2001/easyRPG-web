@@ -153,6 +153,63 @@ def patch_index_html(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
 
 
 
+# 遊戲頁左上角「導出/導入存檔」面板（非全螢幕時顯示）。
+# 直接讀寫 EasyRPG 的 /Save（emscripten FS，IDBFS 持久化），整包成 store-only zip。
+# __SLUG__ 會被替換成 JSON 字串字面值。
+_SAVE_UI = r"""
+<style>#saveui{position:fixed;left:8px;top:calc(8px + env(safe-area-inset-top));
+z-index:10000;display:flex;gap:6px}
+#saveui button{padding:5px 10px;border-radius:8px;border:1px solid #3a3a3a;
+background:rgba(31,41,55,.85);color:#cbd5e1;font:12px -apple-system,sans-serif;cursor:pointer}
+#saveui button:active{background:#2563eb;color:#fff}</style>
+<div id="saveui"><button id="saveexp">導出存檔</button><button id="saveimp">導入存檔</button>
+<input id="savefile" type="file" accept=".zip" style="display:none"></div>
+<script>(function(){
+var SLUG=__SLUG__,DIR="/Save";
+var ui=document.getElementById("saveui"),inp=document.getElementById("savefile");
+function mod(){try{return (typeof easyrpgPlayer!=="undefined"&&easyrpgPlayer&&easyrpgPlayer.FS)?easyrpgPlayer:null;}catch(e){return null;}}
+function vis(){ui.style.display=(document.fullscreenElement||document.webkitFullscreenElement)?"none":"flex";}
+document.addEventListener("fullscreenchange",vis);
+document.addEventListener("webkitfullscreenchange",vis);vis();
+var crcT=(function(){var t=[];for(var n=0;n<256;n++){var c=n;for(var k=0;k<8;k++)c=(c&1)?(0xEDB88320^(c>>>1)):(c>>>1);t[n]=c>>>0;}return t;})();
+function crc32(u){var c=0xFFFFFFFF;for(var i=0;i<u.length;i++)c=crcT[(c^u[i])&0xFF]^(c>>>8);return (c^0xFFFFFFFF)>>>0;}
+function te(s){return new TextEncoder().encode(s);}
+function u32(v){return [v&255,(v>>>8)&255,(v>>>16)&255,(v>>>24)&255];}
+function u16(v){return [v&255,(v>>>8)&255];}
+function readSaves(){var FS=mod().FS,out=[],names;try{names=FS.readdir(DIR);}catch(e){return out;}
+names.forEach(function(n){if(n==="."||n==="..")return;try{var d=FS.readFile(DIR+"/"+n);if(d&&d.length)out.push({name:n,data:d});}catch(e){}});return out;}
+function makeZip(files){var parts=[],central=[],offset=0;
+files.forEach(function(f){var nameB=te(f.name),crc=crc32(f.data),sz=f.data.length;
+var lh=[].concat(u32(0x04034b50),u16(20),u16(0),u16(0),u16(0),u16(0),u32(crc),u32(sz),u32(sz),u16(nameB.length),u16(0));
+parts.push(new Uint8Array(lh));parts.push(nameB);parts.push(f.data);
+var ch=[].concat(u32(0x02014b50),u16(20),u16(20),u16(0),u16(0),u16(0),u16(0),u32(crc),u32(sz),u32(sz),u16(nameB.length),u16(0),u16(0),u16(0),u16(0),u32(0),u32(offset));
+central.push(new Uint8Array(ch));central.push(nameB);
+offset+=lh.length+nameB.length+sz;});
+var cs=0;central.forEach(function(p){cs+=p.length;});
+var eocd=new Uint8Array([].concat(u32(0x06054b50),u16(0),u16(0),u16(files.length),u16(files.length),u32(cs),u32(offset),u16(0)));
+var all=parts.concat(central);all.push(eocd);var total=0;all.forEach(function(p){total+=p.length;});
+var buf=new Uint8Array(total),o=0;all.forEach(function(p){buf.set(p,o);o+=p.length;});return buf;}
+function readZip(u){var dv=new DataView(u.buffer,u.byteOffset,u.byteLength),i=0,files=[];
+while(i+4<=u.length&&dv.getUint32(i,true)===0x04034b50){
+var nlen=dv.getUint16(i+26,true),elen=dv.getUint16(i+28,true),csz=dv.getUint32(i+18,true);
+var name=new TextDecoder().decode(u.slice(i+30,i+30+nlen)),ds=i+30+nlen+elen;
+files.push({name:name,data:u.slice(ds,ds+csz)});i=ds+csz;}return files;}
+document.getElementById("saveexp").onclick=function(){var m=mod();if(!m){alert("遊戲尚未載入完成，請稍候");return;}
+var files=readSaves();if(!files.length){alert("找不到存檔（請先在遊戲裡存檔）");return;}
+var blob=new Blob([makeZip(files)],{type:"application/zip"});
+var a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=SLUG+"-saves.zip";a.click();
+setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},1000);};
+document.getElementById("saveimp").onclick=function(){if(!mod()){alert("遊戲尚未載入完成，請稍候");return;}inp.click();};
+inp.onchange=function(){var f=inp.files[0];if(!f)return;var r=new FileReader();
+r.onload=function(){try{var files=readZip(new Uint8Array(r.result));if(!files.length){alert("檔案內沒有存檔");return;}
+var FS=mod().FS;try{FS.mkdir(DIR);}catch(e){}
+files.forEach(function(fl){FS.writeFile(DIR+"/"+fl.name,fl.data);});
+FS.syncfs(false,function(){alert("已導入 "+files.length+" 個存檔，將重新載入遊戲。");location.reload();});
+}catch(e){alert("導入失敗："+e);}};r.readAsArrayBuffer(f);inp.value="";};
+})();</script>
+"""
+
+
 def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
     """以 dist/play.html 為模板，為每個遊戲產出 play-<slug>.html 與其專屬 manifest。
 
@@ -257,8 +314,10 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
             "var n=Math.min(6,total)||1,ws=[];for(var i=0;i<n;i++)ws.push(worker());"
             "Promise.all(ws);});}).catch(function(){});})();</script>\n"
         )
+        save_snippet = _SAVE_UI.replace("__SLUG__", slug_js)
+        body_add = dl_snippet + save_snippet
         if "</body>" in html:
-            html = html.replace("</body>", dl_snippet + "</body>", 1)
+            html = html.replace("</body>", body_add + "</body>", 1)
         else:
-            html = html + dl_snippet
+            html = html + body_add
         (dist / ("play-" + slug + ".html")).write_text(html, encoding="utf-8")
