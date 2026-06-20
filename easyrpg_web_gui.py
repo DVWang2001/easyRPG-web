@@ -426,11 +426,12 @@ class NameTableDialog(tk.Toplevel):
     def _rebuild(self):
         self._save()
         a, b = self._collect()
+        tid = self.app.name_tables[0]["id"]
         self.rebuild_btn.configure(state="disabled")
 
         def work():
             try:
-                customplayer.rebuild_custom_player(a, b, log=self.app._emit)
+                customplayer.rebuild_custom_player(tid, a, b, log=self.app._emit)
                 self.app._emit("✓ 自訂播放器已重建。打包時勾「使用自訂播放器」即可套用。")
             except Exception as e:  # noqa: BLE001 — 回報任何錯誤給使用者
                 self.app._emit(f"✗ 重建失敗：{e}")

@@ -70,8 +70,9 @@ def has_engine(table_id: str) -> bool:
 
 def is_current(table: dict) -> bool:
     """已編且 source.json 內容與該字表 zh_tw_1/zh_tw_2 相符。"""
-    p = engine_dir(table.get("id") or "") / "source.json"
-    if not p.exists():
+    tid = table.get("id") or ""
+    p = engine_dir(tid) / "source.json"
+    if not p.exists() or not has_engine(tid):
         return False
     try:
         sig = json.loads(p.read_text(encoding="utf-8"))
