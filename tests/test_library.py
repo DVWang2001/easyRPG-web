@@ -20,7 +20,7 @@ def test_stage_library_two_games(tmp_path):
     sf.write_bytes(b"SF2")
     games = [
         {"folder": g1, "label": "Game One", "slug": "game-one", "cover": cover,
-         "tags": ["RPG", "漢化"], "custom_player": True},
+         "tags": ["RPG", "漢化"], "name_table_id": "tid1"},
         {"folder": g2, "label": "Game Two", "slug": "game-two", "cover": None},
     ]
 
@@ -33,10 +33,10 @@ def test_stage_library_two_games(tmp_path):
     assert not (out / "games" / "game-two" / "cover.png").exists()
     assert entries[0] == {"label": "Game One", "slug": "game-one",
                           "cover_rel": "games/game-one/cover.png",
-                          "tags": ["RPG", "漢化"], "custom": True}
-    # 未給 tags/custom_player → 空清單 / False
+                          "tags": ["RPG", "漢化"], "name_table_id": "tid1"}
+    # 未給 tags/name_table_id → 空清單 / 空字串
     assert entries[1] == {"label": "Game Two", "slug": "game-two",
-                          "cover_rel": None, "tags": [], "custom": False}
+                          "cover_rel": None, "tags": [], "name_table_id": ""}
 
 
 def test_stage_library_cover_not_in_index_json(tmp_path):

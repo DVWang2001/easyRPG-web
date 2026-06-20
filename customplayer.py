@@ -5,6 +5,7 @@
 """
 from __future__ import annotations
 
+import json
 import shutil
 import subprocess
 from pathlib import Path
@@ -58,8 +59,31 @@ def _stream(cmd, log) -> None:
         raise BuildEnvError(f"指令失敗（exit {code}）：{' '.join(cmd)}")
 
 
-def rebuild_custom_player(zh_tw_1: str, zh_tw_2: str, log=None) -> Path:
-    """產生自訂取名字表 → 容器內重編 → 把 index.html/js/wasm 複製到 players/custom/。"""
+def engine_dir(table_id: str) -> Path:
+    return CUSTOM_DIR / table_id
+
+
+def has_engine(table_id: str) -> bool:
+    d = engine_dir(table_id)
+    return all((d / f).exists() for f in PLAYER_FILES)
+
+
+def is_current(table: dict) -> bool:
+    """已編且 source.json 內容與該字表 zh_tw_1/zh_tw_2 相符。"""
+    tid = table.get("id") or ""
+    p = engine_dir(tid) / "source.json"
+    if not p.exists() or not has_engine(tid):
+        return False
+    try:
+        sig = json.loads(p.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return False
+    return sig == {"zh_tw_1": table.get("zh_tw_1") or "",
+                   "zh_tw_2": table.get("zh_tw_2") or ""}
+
+
+def rebuild_custom_player(table_id: str, zh_tw_1: str, zh_tw_2: str, log=None) -> Path:
+    """產生字表 → 容器內重編 → 把 index.html/js/wasm 複製到 players/custom/<table_id>/。"""
     check_env()
     _log(log, "產生自訂取名字表 window_keyboard.cpp…")
     patched = nametable.render(TEMPLATE.read_text(encoding="utf-8"), zh_tw_1, zh_tw_2)
@@ -73,10 +97,14 @@ def rebuild_custom_player(zh_tw_1: str, zh_tw_2: str, log=None) -> Path:
     _log(log, "重新編譯自訂播放器（約數分鐘）…")
     _stream(["docker", "exec", CONTAINER, "bash", "/scripts/player.sh"], log)
 
-    _log(log, "取出 index.html/js/wasm 到 players/custom/…")
-    CUSTOM_DIR.mkdir(parents=True, exist_ok=True)
+    out_dir = engine_dir(table_id)
+    _log(log, f"取出 index.html/js/wasm 到 {out_dir}…")
+    out_dir.mkdir(parents=True, exist_ok=True)
     for fn in PLAYER_FILES:
-        _stream(["docker", "cp", f"{CONTAINER}:{_OUT}/{fn}", str(CUSTOM_DIR / fn)], log)
+        _stream(["docker", "cp", f"{CONTAINER}:{_OUT}/{fn}", str(out_dir / fn)], log)
+    (out_dir / "source.json").write_text(
+        json.dumps({"zh_tw_1": zh_tw_1, "zh_tw_2": zh_tw_2}, ensure_ascii=False),
+        encoding="utf-8")
 
-    _log(log, f"✓ 自訂播放器已更新：{CUSTOM_DIR}")
-    return CUSTOM_DIR
+    _log(log, f"✓ 自訂播放器已更新：{out_dir}")
+    return out_dir

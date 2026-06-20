@@ -165,8 +165,9 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
     for e in entries:
         slug = e["slug"]
         label = e["label"]
-        # 自訂取名字表的遊戲載入 player-custom/ 引擎；其餘用根目錄官方引擎。
-        engine = "player-custom/" if e.get("custom") else ""
+        # 有指定字表的遊戲載入 player-custom-<id>/ 引擎；其餘用根目錄官方引擎。
+        table_id = e.get("name_table_id") or ""
+        engine = ("player-custom-" + table_id + "/") if table_id else ""
         cover = e.get("cover_rel") or icon_rel
         cover_esc = _html.escape(cover, quote=True)
         title_esc = _html.escape(label, quote=True)

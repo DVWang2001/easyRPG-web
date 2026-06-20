@@ -8,6 +8,7 @@ import stat
 import sys
 from pathlib import Path
 
+import customplayer
 import gencache
 import library
 import menu
@@ -159,19 +160,20 @@ def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
     ignore_globs = tuple(ignore) if ignore else staging.DEFAULT_IGNORE
     entries = library.stage_library(out, specs, soundfont=soundfont, ignore_globs=ignore_globs)
 
-    # 有遊戲勾「使用自訂取名字表」→ 多放一套自訂引擎到 player-custom/（只有這些遊戲用它）。
-    if any(e.get("custom") for e in entries):
-        _log("放入自訂播放器引擎（player-custom/）…", log)
-        try:
-            custom_dir = player_fetch.ensure_player(player_cache, variant="custom")
-        except FileNotFoundError as e:
+    # 每個被用到的字表 → 多放一套自訂引擎到 player-custom-<id>/（只有指定的遊戲用它）。
+    used_ids = sorted({e.get("name_table_id") for e in entries if e.get("name_table_id")})
+    for tid in used_ids:
+        if not customplayer.has_engine(tid):
+            who = next((e["label"] for e in entries if e.get("name_table_id") == tid), tid)
             raise BuildError(
-                "有遊戲勾選「使用自訂取名字表」，但尚未建置自訂播放器（players/custom 不存在）。"
-                "請先在 GUI「編輯取名字表 → 重建自訂播放器」。") from e
-        pc = out / "player-custom"
+                f"遊戲「{who}」用到的自訂取名字表尚未建置自訂播放器"
+                f"（缺 players/custom/{tid}）。請先在 GUI「字表管理 → 重建」。")
+        _log(f"放入自訂播放器引擎（player-custom-{tid}/）…", log)
+        src = customplayer.engine_dir(tid)
+        pc = out / ("player-custom-" + tid)
         pc.mkdir(parents=True, exist_ok=True)
         for name in ("index.js", "index.wasm"):
-            shutil.copy2(custom_dir / name, pc / name)
+            shutil.copy2(src / name, pc / name)
 
     _log("產生遊戲庫選單…", log)
     menu.write_menu(out, app_label, entries, icon_rel)  # 寫新的 index.html（網格）

@@ -9,8 +9,8 @@ import staging
 
 
 def stage_library(out, games, *, soundfont=None, ignore_globs=staging.DEFAULT_IGNORE):
-    """games: list of {folder, label, slug, cover(opt), tags(opt), custom_player(opt)}。
-    回傳選單用 entries: list of {label, slug, cover_rel, tags, custom}。"""
+    """games: list of {folder, label, slug, cover(opt), tags(opt), name_table_id(opt)}。
+    回傳選單用 entries: list of {label, slug, cover_rel, tags, name_table_id}。"""
     out = Path(out)
     entries = []
     for g in games:
@@ -26,5 +26,5 @@ def stage_library(out, games, *, soundfont=None, ignore_globs=staging.DEFAULT_IG
             cover_rel = f"games/{slug}/cover{ext}"
         entries.append({"label": g["label"], "slug": slug, "cover_rel": cover_rel,
                         "tags": list(g.get("tags") or []),
-                        "custom": bool(g.get("custom_player"))})
+                        "name_table_id": str(g.get("name_table_id") or "")})
     return entries
