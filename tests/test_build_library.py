@@ -71,16 +71,19 @@ def test_build_library_two_games(tmp_path):
     assert (out / f"precache-{s2}.json").exists()
 
 
-def test_build_library_per_game_custom_player(tmp_path, monkeypatch):
-    import player_fetch
+def test_build_library_per_game_name_table(tmp_path, monkeypatch):
+    import customplayer
     tarball = tmp_path / "player.tar.gz"
     _fake_player_tarball(tarball)
-    custom = tmp_path / "customengine"
-    custom.mkdir()
-    (custom / "index.html").write_text("<html></html>")
-    (custom / "index.js").write_text("// custom js")
-    (custom / "index.wasm").write_bytes(b"\0custom")
-    monkeypatch.setitem(player_fetch.BUNDLED, "custom", custom)
+    # 假的自訂引擎：players/custom/<id>/
+    custom_root = tmp_path / "custom"
+    monkeypatch.setattr(customplayer, "CUSTOM_DIR", custom_root)
+    tid = slugify.hash_slug("甲表")
+    eng = custom_root / tid
+    eng.mkdir(parents=True)
+    (eng / "index.html").write_text("<html></html>")
+    (eng / "index.js").write_text("// custom js")
+    (eng / "index.wasm").write_bytes(b"\0custom")
     g1 = tmp_path / "A"
     _game(g1, "1")
     g2 = tmp_path / "B"
@@ -88,7 +91,7 @@ def test_build_library_per_game_custom_player(tmp_path, monkeypatch):
     out = tmp_path / "dist"
 
     core.build_library(
-        games=[{"folder": g1, "label": "自訂遊戲", "cover": None, "name_table_id": "tid1"},
+        games=[{"folder": g1, "label": "自訂遊戲", "cover": None, "name_table_id": tid},
                {"folder": g2, "label": "一般遊戲", "cover": None}],
         app_icon=None, soundfont=None, out=out,
         player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
@@ -96,32 +99,32 @@ def test_build_library_per_game_custom_player(tmp_path, monkeypatch):
 
     s1 = slugify.hash_slug("自訂遊戲")
     s2 = slugify.hash_slug("一般遊戲")
-    # 自訂引擎被放進 player-custom/
-    assert (out / "player-custom" / "index.js").read_text() == "// custom js"
-    assert (out / "player-custom" / "index.wasm").exists()
-    # 自訂遊戲頁載入 player-custom 引擎；一般遊戲頁用根目錄引擎
-    assert 'src="player-custom/index.js"' in (out / f"play-{s1}.html").read_text(encoding="utf-8")
+    assert (out / ("player-custom-" + tid) / "index.js").read_text() == "// custom js"
+    assert (out / ("player-custom-" + tid) / "index.wasm").exists()
+    a = (out / f"play-{s1}.html").read_text(encoding="utf-8")
+    assert 'src="player-custom-' + tid + '/index.js"' in a
     b = (out / f"play-{s2}.html").read_text(encoding="utf-8")
     assert 'src="index.js"' in b and "player-custom" not in b
 
 
-def test_build_library_custom_player_missing_engine_errors(tmp_path, monkeypatch):
-    import player_fetch
+def test_build_library_name_table_missing_engine_errors(tmp_path, monkeypatch):
+    import customplayer
     tarball = tmp_path / "player.tar.gz"
     _fake_player_tarball(tarball)
-    monkeypatch.setitem(player_fetch.BUNDLED, "custom", tmp_path / "nope")
+    monkeypatch.setattr(customplayer, "CUSTOM_DIR", tmp_path / "nope")
     g1 = tmp_path / "A"
     _game(g1, "1")
     out = tmp_path / "dist"
     try:
         core.build_library(
-            games=[{"folder": g1, "label": "自訂", "cover": None, "name_table_id": "tid1"}],
+            games=[{"folder": g1, "label": "自訂", "cover": None,
+                    "name_table_id": "missingid"}],
             app_icon=None, soundfont=None, out=out,
             player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
         )
         assert False, "缺自訂引擎應報錯"
     except core.BuildError as e:
-        assert "自訂播放器" in str(e)
+        assert "自訂" in str(e)
 
 
 def test_build_library_empty_rejected(tmp_path):
