@@ -17,6 +17,14 @@ _MINRUN = 60
 # 真字表幾乎不重複字；重複率高的長串是填充/程式碼雜訊（如同一字連續數百次）→ 剔除。
 _UNIQ_RATIO = 0.5
 
+# 已知的內建字表特徵（抽出的字含全部 marker 子字串即視為該字表）。
+# 聖靈火神 RPG Maker 2003 中文化：一頁全形英文＋這串漢字，另一頁中文人名用字。
+_KNOWN_TABLES = (
+    ("聖靈火神2003字表",
+     ("子力小大天中太夫月幻日毛文古艾白玉世冬加",
+      "貝利芙芬拉欣東雨依武秀金耶肯青法奇皇宜兒昂")),
+)
+
 # RPG_RT.ini 的 Encoding 代碼 → Python codec
 _ENC_MAP = {"950": "cp950", "936": "gbk", "932": "cp932", "65001": "utf-8"}
 
@@ -166,3 +174,12 @@ def extract_table(game_folder, log=None) -> list:
 def extract_chars(game_folder, log=None) -> str:
     """回傳遊戲鍵盤所有格的字（依頁序串接），方便除錯/全庫掃描。找不到回 ""。"""
     return "".join(p["chars"] for p in extract_table(game_folder, log))
+
+
+def recognize(pages) -> str:
+    """若抽出的頁清單符合某個已知內建字表，回傳它的名稱（如「聖靈火神2003字表」），否則回 ""。"""
+    allchars = "".join(p.get("chars") or "" for p in (pages or []))
+    for name, markers in _KNOWN_TABLES:
+        if all(m in allchars for m in markers):
+            return name
+    return ""

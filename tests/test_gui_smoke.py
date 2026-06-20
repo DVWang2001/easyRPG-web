@@ -58,6 +58,24 @@ def test_gamedialog_extract_creates_table_when_none_selected(tmp_path, monkeypat
         root.destroy()
 
 
+def test_gamedialog_extract_names_known_table(tmp_path, monkeypatch):
+    # 抽到聖靈火神2003字表的特徵 → 新建字表自動命名為「聖靈火神2003字表」（非遊戲名）
+    import easyrpg_web_gui as gui
+    monkeypatch.setattr(gui.messagebox, "showinfo", lambda *a, **k: None)
+    root = _make_root()
+    try:
+        app = gui.App(root, project_path=tmp_path / "library.json")
+        dlg = gui.GameDialog(root, folder="C:/g", label="某遊戲",
+                             name_tables=app.name_tables, app=app)
+        pages = [{"label": "頁２", "chars": "子力小大天中太夫月幻日毛文古艾白玉世冬加Ｘ"},
+                 {"label": "頁１", "chars": "貝利芙芬拉欣東雨依武秀金耶肯青法奇皇宜兒昂Ｙ"}]
+        dlg._apply_extracted(pages, "")
+        assert app.name_tables[0]["name"] == "聖靈火神2003字表"
+        dlg.destroy()
+    finally:
+        root.destroy()
+
+
 def test_gamedialog_extract_nothing_found_leaves_tables(tmp_path, monkeypatch):
     import easyrpg_web_gui as gui
     monkeypatch.setattr(gui.messagebox, "showwarning", lambda *a, **k: None)

@@ -118,6 +118,19 @@ def test_is_keyboard_cell_accepts_fullwidth_latin():
     assert exetable.is_keyboard_cell("ｚ".encode("cp950"), "cp950") == "ｚ"
 
 
+def test_recognize_shengling_huoshen():
+    pages = [
+        {"label": "頁２", "chars": "ＡＢＣ子力小大天中太夫月幻日毛文古艾白玉世冬加"},
+        {"label": "頁１", "chars": "貝利芙芬拉欣東雨依武秀金耶肯青法奇皇宜兒昂哈思"},
+    ]
+    assert exetable.recognize(pages) == "聖靈火神2003字表"
+
+
+def test_recognize_unknown_returns_empty():
+    assert exetable.recognize([{"label": "頁１", "chars": "甲乙丙丁戊"}]) == ""
+    assert exetable.recognize([]) == ""
+
+
 def test_extract_missing_exe(tmp_path):
     assert exetable.extract_table(tmp_path) == []
 

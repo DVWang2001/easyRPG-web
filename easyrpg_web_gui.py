@@ -169,7 +169,8 @@ class GameDialog(tk.Toplevel):
                 "這個遊戲的 RPG_RT.exe 裡找不到取名鍵盤字表\n"
                 "（可能沒有內嵌、編碼不是 Big5，或路徑無效）。請手動輸入。", parent=self)
             return
-        table = self._target_table()
+        known = exetable.recognize(pages)   # 辨識是否為已知內建字表（如聖靈火神2003字表）
+        table = self._target_table(known)
         if table is None:
             return
         table["pages"] = [dict(p) for p in pages]
@@ -178,16 +179,17 @@ class GameDialog(tk.Toplevel):
             self.app._refresh_tree()
         total = sum(len(p["chars"]) for p in pages)
         summary = "、".join(f"{p['label']}({len(p['chars'])}字)" for p in pages)
+        known_line = f"辨識為：{known}\n" if known else ""
         messagebox.showinfo(
             "已抽出字表",
-            f"已把 {len(pages)} 頁、共 {total} 個字填入字表「{table['name']}」。\n\n"
+            f"{known_line}已把 {len(pages)} 頁、共 {total} 個字填入字表「{table['name']}」。\n\n"
             f"{summary}\n\n"
             "可到「字表管理 → 編輯字格」微調頁名與內容，再按「重建」。\n"
             "（注意：EasyRPG 鍵盤只渲染前兩頁。）", parent=self)
 
-    def _new_table(self):
-        """以遊戲名新建一個字表，加入清單並更新下拉選單後回傳該 dict。"""
-        label = self.v_label.get().strip() or "新字表"
+    def _new_table(self, name=""):
+        """新建一個字表（名稱優先用 name，否則用遊戲名），加入清單並更新下拉選單後回傳。"""
+        label = name or self.v_label.get().strip() or "新字表"
         taken = {t["id"] for t in self.app.name_tables}
         table = {"id": slugify.hash_slug(label, taken), "name": label, "pages": []}
         self.app.name_tables.append(table)
@@ -197,8 +199,11 @@ class GameDialog(tk.Toplevel):
         self.cb_nt.current(len(self.name_tables))  # 選取剛新建的（清單最後一個）
         return table
 
-    def _target_table(self):
-        """決定要填入的字表：已選用該字表；被多遊戲共用時改建新表；未選則新建。"""
+    def _target_table(self, suggested_name=""):
+        """決定要填入的字表：已選用該字表；被多遊戲共用時改建新表；未選則新建。
+
+        新建時優先用 suggested_name（如辨識出的「聖靈火神2003字表」），否則用遊戲名。
+        """
         i = self.cb_nt.current()
         if i > 0:
             table = self.name_tables[i - 1]
@@ -211,13 +216,13 @@ class GameDialog(tk.Toplevel):
                         f"字表「{table['name']}」還有其他 {len(others)} 個遊戲在用。\n"
                         "要改成「另建新字表」避免影響它們嗎？\n"
                         "（是＝另建新表；否＝直接覆寫共用字表）", parent=self):
-                    return self._new_table()
+                    return self._new_table(suggested_name)
             return table
         if self.app is None:
             messagebox.showinfo("請先選字表",
                                 "請先在下拉選一個字表，或先建立一個字表。", parent=self)
             return None
-        return self._new_table()
+        return self._new_table(suggested_name)
 
 
 class App:
