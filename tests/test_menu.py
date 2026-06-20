@@ -77,6 +77,20 @@ def test_write_menu_groups_filters_by_category(tmp_path):
     assert "RM2000" in eng and "ATB" not in eng
 
 
+def test_write_menu_card_tags_ordered_by_category(tmp_path):
+    dist = tmp_path / "dist"
+    dist.mkdir()
+    # 遊戲標籤刻意亂序：其他→作者→戰鬥→引擎
+    entries = [{"label": "甲", "slug": "a", "cover_rel": None,
+                "tags": ["雜項", "某作者", "ATB", "RM2000"]}]
+    cats = {"RM2000": "遊戲引擎", "ATB": "戰鬥系統", "某作者": "作者", "雜項": "其他"}
+    html = menu.write_menu(dist, "庫", entries, tag_categories=cats).read_text(encoding="utf-8")
+    card = html.split('class="cardtags"')[1].split("</a>")[0]
+    # 卡片內標籤晶片依 遊戲引擎→戰鬥系統→作者→其他 排
+    order = [card.index(t) for t in ("RM2000", "ATB", "某作者", "雜項")]
+    assert order == sorted(order)
+
+
 def test_write_menu_has_card_hover_effect(tmp_path):
     dist = tmp_path / "dist"
     dist.mkdir()

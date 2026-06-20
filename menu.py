@@ -145,6 +145,15 @@ _CARD = ('<a class="card" href="__HREF__" data-label="__DLABEL__" data-tags="__D
 def write_menu(dist, app_label: str, entries, icon_rel: str = pwa.ICON_REL,
                tag_categories=None) -> Path:
     tag_categories = tag_categories or {}
+    rank = {c: i for i, c in enumerate(project.CATEGORIES)}
+
+    def cat_rank(t):
+        return rank.get(tag_categories.get(t, project.DEFAULT_CATEGORY), len(rank))
+
+    def ordered(tags):
+        # 依類別順序（遊戲引擎→戰鬥系統→作者→其他）排，同類別維持原順序
+        return sorted(tags, key=cat_rank)
+
     # 全庫不重複標籤（以小寫去重，顯示用首次出現的原文）
     tag_display = {}
     for e in entries:
@@ -155,7 +164,7 @@ def write_menu(dist, app_label: str, entries, icon_rel: str = pwa.ICON_REL,
     for e in entries:
         href = "play-" + e["slug"] + ".html"
         cover = e["cover_rel"] or icon_rel
-        tags = e.get("tags") or []
+        tags = ordered(e.get("tags") or [])
         dtags = ",".join(t.lower() for t in tags)
         card_tags = "".join(
             '<span class="tag" data-tag="' + _html.escape(t.lower(), quote=True) + '">'
