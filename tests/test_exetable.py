@@ -45,9 +45,10 @@ def test_locate_tables_finds_run_among_noise():
     data = b"\x00" * 100 + _table(list(POOL1)) + b"\xff" * 100
     runs = exetable.locate_tables(data, "cp950")
     assert runs
-    off, cells = max(runs, key=lambda r: len(set(r[1])))
+    off, cells, stride = max(runs, key=lambda r: len(set(r[1])))
     assert "".join(cells).startswith(POOL1[:10])
     assert len(cells) >= 70
+    assert stride == 12
 
 
 def test_locate_tables_rejects_repeated_garbage():
@@ -57,46 +58,47 @@ def test_locate_tables_rejects_repeated_garbage():
             + _table(list(POOL1)) + b"\x00" * 40)
     runs = exetable.locate_tables(data, "cp950")
     assert runs
-    allchars = set().union(*(set(c) for _, c in runs))
+    allchars = set().union(*(set(r[1]) for r in runs))
     assert "脞" not in allchars      # 重複雜訊被剔除
     assert "艾" in allchars          # 真字表被選中
 
 
-def test_extract_two_runs_map_to_two_pages_faithfully(tmp_path):
-    # 兩段（兩頁）→ 漢一=第一頁、漢二=第二頁，原字原序保留（忠實還原）
-    blob = (b"\x00" * 50 + _table(list(POOL1)) + b"\x00" * 200
-            + _table(list(POOL2)) + b"\x00" * 50)
+def _labeled(chars, label, stride=12):
+    """字表段後面接一個 <label> 頁籤控制格（模擬 exe 結構）。"""
+    return _table(chars, stride) + b"\x3c" + label.encode("cp950") + b"\x3e" + b"\x00" * 10
+
+
+def test_extract_two_pages_with_labels(tmp_path):
+    # 兩段（兩頁）→ 各自一頁，原字原序保留，頁名從 <…> 抽出（忠實還原）
+    blob = (b"\x00" * 50 + _labeled(list(POOL1), "頁１") + b"\x00" * 200
+            + _labeled(list(POOL2), "頁２") + b"\x00" * 50)
     (tmp_path / "RPG_RT.exe").write_bytes(blob)
-    z1, z2 = exetable.extract_pages(tmp_path)
-    assert z1 == POOL1[:nametable.CAPACITY]
-    assert z2 == POOL2[:nametable.CAPACITY]
+    pages = exetable.extract_table(tmp_path)
+    assert len(pages) == 2
+    assert pages[0] == {"label": "頁１", "chars": POOL1[:nametable.CAPACITY]}
+    assert pages[1] == {"label": "頁２", "chars": POOL2[:nametable.CAPACITY]}
+
+
+def test_extract_label_defaults_when_absent(tmp_path):
+    (tmp_path / "RPG_RT.exe").write_bytes(b"\x00" * 50 + _table(list(POOL1)) + b"\x00" * 50)
+    pages = exetable.extract_table(tmp_path)
+    assert pages[0]["label"] == "頁1"     # 抽不到 <…> → 頁N
 
 
 def test_extract_keeps_fullwidth_latin_and_digits(tmp_path):
     # 忠實還原：全形英文字母與數字也要原樣保留，不能只留漢字
-    page = list("ＡＢＣＤＥ１２３４５") + list(POOL1)   # 前段英數、後段漢字
+    page = list("ＡＢＣＤＥ１２３４５") + list(POOL1)
     (tmp_path / "RPG_RT.exe").write_bytes(b"\x00" * 40 + _table(page) + b"\x00" * 40)
-    z1, _ = exetable.extract_pages(tmp_path)
-    assert z1.startswith("ＡＢＣＤＥ１２３４５")          # 英數原樣保留
-    assert set(POOL1[:10]) <= set(z1)                     # 漢字也在
+    chars = exetable.extract_table(tmp_path)[0]["chars"]
+    assert chars.startswith("ＡＢＣＤＥ１２３４５")        # 英數原樣保留
+    assert set(POOL1[:10]) <= set(chars)                   # 漢字也在
 
 
-def test_extract_single_run_splits_two_pages(tmp_path):
-    one = list(POOL1 + POOL2)  # 單段、>一頁容量 → 自動切兩頁
-    (tmp_path / "RPG_RT.exe").write_bytes(b"\x00" * 50 + _table(one) + b"\x00" * 50)
-    z1, z2 = exetable.extract_pages(tmp_path)
-    cap = nametable.CAPACITY
-    assert len(z1) == cap
-    assert z1 + z2 == "".join(one)[:2 * cap]
-
-
-def test_extract_single_page_fits_one_page(tmp_path):
-    # 只有一段、字數 <=一頁 → 全進漢一，漢二空
-    one = list(POOL1)  # 70 <= 86
-    (tmp_path / "RPG_RT.exe").write_bytes(b"\x00" * 50 + _table(one) + b"\x00" * 50)
-    z1, z2 = exetable.extract_pages(tmp_path)
-    assert z1 == "".join(one)
-    assert z2 == ""
+def test_extract_caps_each_page(tmp_path):
+    big = list(POOL1 + POOL2)  # 單段、>一頁容量
+    (tmp_path / "RPG_RT.exe").write_bytes(b"\x00" * 50 + _table(big) + b"\x00" * 50)
+    pages = exetable.extract_table(tmp_path)
+    assert len(pages[0]["chars"]) == nametable.CAPACITY
 
 
 def test_extract_handles_fullwidth_latin_prefix(tmp_path):
@@ -116,10 +118,10 @@ def test_is_keyboard_cell_accepts_fullwidth_latin():
     assert exetable.is_keyboard_cell("ｚ".encode("cp950"), "cp950") == "ｚ"
 
 
-def test_extract_pages_missing_exe(tmp_path):
-    assert exetable.extract_pages(tmp_path) == ("", "")
+def test_extract_missing_exe(tmp_path):
+    assert exetable.extract_table(tmp_path) == []
 
 
-def test_extract_pages_no_table_returns_empty(tmp_path):
+def test_extract_no_table_returns_empty(tmp_path):
     (tmp_path / "RPG_RT.exe").write_bytes(b"\x00\x01\x02\x03" * 500)
-    assert exetable.extract_pages(tmp_path) == ("", "")
+    assert exetable.extract_table(tmp_path) == []

@@ -125,18 +125,33 @@ def test_normalized_game_has_name_table_id_not_custom_player(tmp_path):
     assert "custom_player" not in g
 
 
-def test_name_tables_roundtrip(tmp_path):
+def test_name_tables_pages_roundtrip(tmp_path):
     p = tmp_path / "library.json"
     data = project.default_project()
     data["name_tables"] = [
-        {"id": "t1", "name": "甲表", "zh_tw_1": "甲乙丙", "zh_tw_2": "丁戊"},
+        {"id": "t1", "name": "甲表",
+         "pages": [{"label": "頁１", "chars": "甲乙丙"},
+                   {"label": "頁２", "chars": "丁戊"},
+                   {"label": "頁３", "chars": "己庚"}]},   # 任意頁數
     ]
     data["games"] = [{"folder": "a", "label": "遊戲甲", "name_table_id": "t1"}]
     project.save_project(p, data)
     proj, _ = project.load_project(p)
     assert proj["name_tables"][0] == {
-        "id": "t1", "name": "甲表", "zh_tw_1": "甲乙丙", "zh_tw_2": "丁戊"}
+        "id": "t1", "name": "甲表",
+        "pages": [{"label": "頁１", "chars": "甲乙丙"},
+                  {"label": "頁２", "chars": "丁戊"},
+                  {"label": "頁３", "chars": "己庚"}]}
     assert proj["games"][0]["name_table_id"] == "t1"
+
+
+def test_name_table_page_label_defaults(tmp_path):
+    p = tmp_path / "library.json"
+    data = project.default_project()
+    data["name_tables"] = [{"id": "t1", "name": "甲", "pages": [{"chars": "甲乙"}]}]
+    project.save_project(p, data)
+    proj, _ = project.load_project(p)
+    assert proj["name_tables"][0]["pages"][0]["label"] == "頁1"   # 缺頁名→頁N
 
 
 def test_game_name_table_id_dropped_when_table_missing(tmp_path):
@@ -165,7 +180,9 @@ def test_legacy_name_table_migrates_to_one_table(tmp_path):
     tables = proj["name_tables"]
     assert len(tables) == 1
     assert tables[0]["name"] == "自訂字表"
-    assert tables[0]["zh_tw_1"] == "甲乙" and tables[0]["zh_tw_2"] == "丙"
+    # 舊 zh_tw_1/zh_tw_2 → 遷移成 漢一/漢二 兩頁
+    assert tables[0]["pages"] == [{"label": "漢一", "chars": "甲乙"},
+                                  {"label": "漢二", "chars": "丙"}]
     mid = tables[0]["id"]
     assert proj["games"][0]["name_table_id"] == mid   # custom_player True → 指向遷移字表
     assert proj["games"][1]["name_table_id"] == ""     # False → 空
