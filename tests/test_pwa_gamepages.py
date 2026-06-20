@@ -33,8 +33,9 @@ def test_write_game_pages_injects_save_ui(tmp_path):
     assert 'id="savefile"' in html
     # 非全螢幕才顯示（fullscreenchange 控制）
     assert "fullscreenchange" in html and "fullscreenElement" in html
-    # 直接讀寫 /Save、整包 zip、導入後 syncfs + reload
-    assert '"/Save"' in html or "/Save" in html
+    # 存檔資料夾＝/easyrpg/<game>/Save（找不到再走訪 FS）；整包 zip；導入後 syncfs + reload
+    assert "/easyrpg/" in html and "/Save" in html
+    assert "walkDir" in html and "saveDir" in html
     assert "makeZip" in html and "syncfs" in html and "location.reload" in html
     # 每頁帶自己的 slug 當下載檔名
     assert 'SLUG="g"' in html or 'SLUG = "g"' in html

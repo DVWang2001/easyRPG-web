@@ -154,8 +154,9 @@ def patch_index_html(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
 
 
 # 遊戲頁左上角「導出/導入存檔」面板（非全螢幕時顯示）。
-# 直接讀寫 EasyRPG 的 /Save（emscripten FS，IDBFS 持久化），整包成 store-only zip。
-# __SLUG__ 會被替換成 JSON 字串字面值。
+# 直接讀寫 EasyRPG 的存檔資料夾（emscripten FS，IDBFS 持久化），整包成 store-only zip。
+# 存檔位置＝/easyrpg/<game>/Save（EasyRPG chdir 進 /easyrpg/<game> 後 --save-path Save）；
+# 路徑萬一不符就走訪整個 FS 找含 SaveNN.lsd 的資料夾。__SLUG__ 替換成 JSON 字串字面值。
 _SAVE_UI = r"""
 <style>#saveui{position:fixed;left:8px;top:calc(8px + env(safe-area-inset-top));
 z-index:10000;display:flex;gap:6px}
@@ -165,19 +166,35 @@ background:rgba(31,41,55,.85);color:#cbd5e1;font:12px -apple-system,sans-serif;c
 <div id="saveui"><button id="saveexp">導出存檔</button><button id="saveimp">導入存檔</button>
 <input id="savefile" type="file" accept=".zip" style="display:none"></div>
 <script>(function(){
-var SLUG=__SLUG__,DIR="/Save";
+var SLUG=__SLUG__;
 var ui=document.getElementById("saveui"),inp=document.getElementById("savefile");
 function mod(){try{return (typeof easyrpgPlayer!=="undefined"&&easyrpgPlayer&&easyrpgPlayer.FS)?easyrpgPlayer:null;}catch(e){return null;}}
 function vis(){ui.style.display=(document.fullscreenElement||document.webkitFullscreenElement)?"none":"flex";}
 document.addEventListener("fullscreenchange",vis);
 document.addEventListener("webkitfullscreenchange",vis);vis();
-var crcT=(function(){var t=[];for(var n=0;n<256;n++){var c=n;for(var k=0;k<8;k++)c=(c&1)?(0xEDB88320^(c>>>1)):(c>>>1);t[n]=c>>>0;}return t;})();
+function isLsd(n){return /^Save\d+\.lsd$/i.test(n);}
+function guessDir(){var m=mod();var g=((m&&m.game)||SLUG||"").toLowerCase();return "/easyrpg/"+g+"/Save";}
+function isDir(FS,p){try{return FS.isDir(FS.stat(p).mode);}catch(e){return false;}}
+function hasLsd(FS,p){try{return FS.readdir(p).some(isLsd);}catch(e){return false;}}
+function walkDir(FS){var skip={"/dev":1,"/proc":1,"/tmp":1,"/home":1},q=["/"],seen={};
+while(q.length){var d=q.shift();if(seen[d])continue;seen[d]=1;var ents;try{ents=FS.readdir(d);}catch(e){continue;}
+var hit=false;for(var i=0;i<ents.length;i++){var n=ents[i];if(n==="."||n==="..")continue;
+if(isLsd(n)){hit=true;continue;}var p=(d==="/"?"":d)+"/"+n;if(!skip[p]&&isDir(FS,p))q.push(p);}
+if(hit)return d;}return null;}
+function saveDir(FS,forImport){var g=guessDir();
+if(hasLsd(FS,g))return g;var w=walkDir(FS);if(w)return w;
+return forImport&&isDir(FS,g)?g:null;}
+function mkdirp(FS,p){var parts=p.split("/").filter(Boolean),cur="";
+for(var i=0;i<parts.length;i++){cur+="/"+parts[i];try{FS.mkdir(cur);}catch(e){}}}
+function crc32T(){var t=[];for(var n=0;n<256;n++){var c=n;for(var k=0;k<8;k++)c=(c&1)?(0xEDB88320^(c>>>1)):(c>>>1);t[n]=c>>>0;}return t;}
+var crcT=crc32T();
 function crc32(u){var c=0xFFFFFFFF;for(var i=0;i<u.length;i++)c=crcT[(c^u[i])&0xFF]^(c>>>8);return (c^0xFFFFFFFF)>>>0;}
 function te(s){return new TextEncoder().encode(s);}
 function u32(v){return [v&255,(v>>>8)&255,(v>>>16)&255,(v>>>24)&255];}
 function u16(v){return [v&255,(v>>>8)&255];}
-function readSaves(){var FS=mod().FS,out=[],names;try{names=FS.readdir(DIR);}catch(e){return out;}
-names.forEach(function(n){if(n==="."||n==="..")return;try{var d=FS.readFile(DIR+"/"+n);if(d&&d.length)out.push({name:n,data:d});}catch(e){}});return out;}
+function readSaves(){var FS=mod().FS,dir=saveDir(FS,false),out=[];if(!dir)return out;
+FS.readdir(dir).forEach(function(n){if(n==="."||n==="..")return;try{if(isDir(FS,dir+"/"+n))return;
+var d=FS.readFile(dir+"/"+n);if(d&&d.length)out.push({name:n,data:d});}catch(e){}});return out;}
 function makeZip(files){var parts=[],central=[],offset=0;
 files.forEach(function(f){var nameB=te(f.name),crc=crc32(f.data),sz=f.data.length;
 var lh=[].concat(u32(0x04034b50),u16(20),u16(0),u16(0),u16(0),u16(0),u32(crc),u32(sz),u32(sz),u16(nameB.length),u16(0));
@@ -202,8 +219,8 @@ setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},1000);};
 document.getElementById("saveimp").onclick=function(){if(!mod()){alert("遊戲尚未載入完成，請稍候");return;}inp.click();};
 inp.onchange=function(){var f=inp.files[0];if(!f)return;var r=new FileReader();
 r.onload=function(){try{var files=readZip(new Uint8Array(r.result));if(!files.length){alert("檔案內沒有存檔");return;}
-var FS=mod().FS;try{FS.mkdir(DIR);}catch(e){}
-files.forEach(function(fl){FS.writeFile(DIR+"/"+fl.name,fl.data);});
+var FS=mod().FS,dir=saveDir(FS,true)||guessDir();mkdirp(FS,dir);
+files.forEach(function(fl){FS.writeFile(dir+"/"+fl.name,fl.data);});
 FS.syncfs(false,function(){alert("已導入 "+files.length+" 個存檔，將重新載入遊戲。");location.reload();});
 }catch(e){alert("導入失敗："+e);}};r.readAsArrayBuffer(f);inp.value="";};
 })();</script>
