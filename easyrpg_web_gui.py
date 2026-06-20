@@ -7,7 +7,7 @@ import threading
 from pathlib import Path
 
 import tkinter as tk
-from tkinter import ttk, filedialog, messagebox
+from tkinter import ttk, filedialog, messagebox, simpledialog
 from tkinter.scrolledtext import ScrolledText
 
 import customplayer
@@ -394,7 +394,6 @@ class App:
 
 
 def _ask_name(parent, title, prompt, initial=""):
-    from tkinter import simpledialog
     s = simpledialog.askstring(title, prompt, initialvalue=initial, parent=parent)
     return s.strip() if s else ""
 
@@ -521,6 +520,7 @@ class NameTableEditor(tk.Toplevel):
         self.table["zh_tw_1"] = self.t1.get("1.0", "end").strip()
         self.table["zh_tw_2"] = self.t2.get("1.0", "end").strip()
         self.manager.app._save()
+        self.manager.app._refresh_tree()
         self.manager._refresh()
 
 
