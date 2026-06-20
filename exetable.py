@@ -9,8 +9,9 @@ from pathlib import Path
 
 import nametable
 
-# 鍵盤上的非漢字格（數字列與控制鍵）；定位時算有效格，但抽字表時濾掉。
-_FULLWIDTH = set("１２３４５６７８９０＜＞★◆●　")
+# 鍵盤上的非漢字格（全形英數列、控制鍵、符號）；定位時算有效格，但抽字表時濾掉。
+# 有些遊戲鍵盤前幾列是全形英文字母（Ａ-Ｚ ａ-ｚ）與數字，不能讓它們中斷字表偵測。
+_SYMBOLS = set("★◆●")
 _STRIDES = (12, 16, 8, 10)
 _MINRUN = 60
 # 真字表幾乎不重複字；重複率高的長串是填充/程式碼雜訊（如同一字連續數百次）→ 剔除。
@@ -50,7 +51,12 @@ def is_keyboard_cell(b2: bytes, encoding: str):
         return None
     if len(ch) != 1:
         return None
-    if _is_han(ch) or ch in _FULLWIDTH:
+    o = ord(ch)
+    if _is_han(ch):
+        return ch
+    if 0xFF01 <= o <= 0xFF5E:        # 全形 ASCII（Ａ-Ｚ ａ-ｚ ０-９ ＜＞ 等）
+        return ch
+    if o == 0x3000 or ch in _SYMBOLS:  # 全形空白、★◆● 等控制/裝飾格
         return ch
     return None
 

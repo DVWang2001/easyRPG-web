@@ -105,6 +105,24 @@ def test_extract_pages_caps_at_two_pages(tmp_path):
     assert len(z1) + len(z2) <= 2 * nametable.CAPACITY
 
 
+def test_extract_handles_fullwidth_latin_prefix(tmp_path):
+    # 有些遊戲鍵盤前幾列是全形英文字母（Ａ-Ｚ ａ-ｚ），不該中斷字表偵測；
+    # 後段的漢字仍要抽到，且全形英文本身不進字表（只留漢字）。
+    latin = list("ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ"
+                 "ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔ")          # 46 全形英文
+    han = list("子力小大天中太夫月幻日毛文古艾白玉世冬加卡平多巧弗米西安")  # 28 漢字
+    (tmp_path / "RPG_RT.exe").write_bytes(b"\x00" * 40 + _table(latin + han) + b"\x00" * 40)
+    chars = exetable.extract_chars(tmp_path)
+    assert set("子力小大天中太夫") <= set(chars)             # 漢字被抽到
+    assert "Ａ" not in chars and "ａ" not in chars            # 全形英文被濾掉
+    assert all(0x4E00 <= ord(c) <= 0x9FFF for c in chars)
+
+
+def test_is_keyboard_cell_accepts_fullwidth_latin():
+    assert exetable.is_keyboard_cell("Ａ".encode("cp950"), "cp950") == "Ａ"
+    assert exetable.is_keyboard_cell("ｚ".encode("cp950"), "cp950") == "ｚ"
+
+
 def test_extract_pages_missing_exe(tmp_path):
     assert exetable.extract_pages(tmp_path) == ("", "")
 
