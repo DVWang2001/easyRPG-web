@@ -13,6 +13,7 @@ from tkinter.scrolledtext import ScrolledText
 import customplayer
 import easyrpg_web_build as core
 import project
+import slugify
 
 LIBRARY_JSON = Path(__file__).resolve().parent / "library.json"
 
@@ -21,21 +22,21 @@ class GameDialog(tk.Toplevel):
     """加入/編輯單一遊戲：原始資料夾 + 名稱 + 封面（選填）+ RTP（勾選＋資料夾）。回傳 dict 或 None。"""
 
     def __init__(self, parent, folder="", label="", cover="", rtp="", tags=(),
-                 available_tags=(), custom_player=False, name_table_id=""):
+                 available_tags=(), name_table_id="", name_tables=()):
         super().__init__(parent)
         self.title("遊戲設定")
         self.result = None
         self.transient(parent)
         self.grab_set()
 
-        self.initial_name_table_id = name_table_id
+        self.name_tables = list(name_tables)
+        self._nt_id = name_table_id
         self.v_folder = tk.StringVar(value=folder)
         self.v_label = tk.StringVar(value=label)
         self.v_cover = tk.StringVar(value=cover)
         self.v_rtp_on = tk.BooleanVar(value=bool(rtp))
         self.v_rtp = tk.StringVar(value=rtp)
         self.selected_tags = list(tags)
-        self.v_custom = tk.BooleanVar(value=bool(custom_player))
 
         ttk.Label(self, text="原始資料夾").grid(row=0, column=0, sticky="w", padx=8, pady=6)
         ttk.Entry(self, textvariable=self.v_folder, width=36).grid(row=0, column=1, padx=4)
@@ -60,9 +61,13 @@ class GameDialog(tk.Toplevel):
         ttk.Button(self, text="移除", width=8,
                    command=self._remove_tag).grid(row=6, column=2, sticky="n")
         self._refresh_tag_lb()
-        ttk.Checkbutton(self, text="使用自訂取名字表（自建播放器）",
-                        variable=self.v_custom).grid(
-            row=7, column=0, columnspan=3, sticky="w", padx=8, pady=(6, 0))
+        ttk.Label(self, text="取名字表").grid(row=7, column=0, sticky="w", padx=8, pady=(6, 0))
+        self._nt_labels = ["（無）"] + [t["name"] for t in self.name_tables]
+        self.cb_nt = ttk.Combobox(self, values=self._nt_labels, width=22, state="readonly")
+        cur = next((i + 1 for i, t in enumerate(self.name_tables)
+                    if t["id"] == self._nt_id), 0)
+        self.cb_nt.current(cur)
+        self.cb_nt.grid(row=7, column=1, sticky="w", padx=4, pady=(6, 0))
         bar = ttk.Frame(self)
         bar.grid(row=8, column=0, columnspan=3, pady=8)
         ttk.Button(bar, text="確定", command=self._ok).pack(side="left", padx=4)
@@ -121,9 +126,15 @@ class GameDialog(tk.Toplevel):
             "cover": self.v_cover.get().strip() or None,
             "rtp": rtp or None,
             "tags": list(self.selected_tags),
-            "name_table_id": self.initial_name_table_id,
+            "name_table_id": self._selected_nt_id(),
         }
         self.destroy()
+
+    def _selected_nt_id(self):
+        i = self.cb_nt.current()
+        if i <= 0:
+            return ""
+        return self.name_tables[i - 1]["id"]
 
 
 class App:
@@ -208,7 +219,7 @@ class App:
         chk.grid(row=5, column=0, sticky="w")
         ttk.Checkbutton(chk, text="強制更新 web player",
                         variable=self.refresh).pack(side="left", padx=4)
-        ttk.Button(chk, text="編輯取名字表…",
+        ttk.Button(chk, text="字表管理…",
                    command=self._edit_name_table).pack(side="left", padx=8)
 
         self.run_btn = ttk.Button(f, text="重建並部署到網頁", command=self._run)
@@ -224,7 +235,8 @@ class App:
             cover = Path(g["cover"]).name if g.get("cover") else "（預設）"
             rtp = Path(g["rtp"]).name if g.get("rtp") else "（無）"
             tags = "、".join(g.get("tags") or [])
-            custom = "✓" if g.get("name_table_id") else ""
+            nid = g.get("name_table_id") or ""
+            custom = next((t["name"] for t in self.name_tables if t["id"] == nid), "")
             self.tree.insert("", "end",
                              values=(g.get("label") or "", folder_disp, cover, rtp, tags, custom))
 
@@ -277,7 +289,8 @@ class App:
         return self.tree.index(sel[0])
 
     def _add(self):
-        dlg = GameDialog(self.root, available_tags=list(self.all_tags))
+        dlg = GameDialog(self.root, available_tags=list(self.all_tags),
+                         name_tables=self.name_tables)
         self.root.wait_window(dlg)
         if dlg.result:
             self.games.append(dlg.result)
@@ -294,7 +307,8 @@ class App:
                          g.get("cover") or "", g.get("rtp") or "",
                          tags=list(g.get("tags") or []),
                          available_tags=list(self.all_tags),
-                         name_table_id=str(g.get("name_table_id") or ""))
+                         name_table_id=str(g.get("name_table_id") or ""),
+                         name_tables=self.name_tables)
         self.root.wait_window(dlg)
         if dlg.result:
             self.games[i] = dlg.result
@@ -327,7 +341,7 @@ class App:
             self._save()
 
     def _edit_name_table(self):
-        NameTableDialog(self)
+        NameTableManager(self)
 
     def _pick_file(self, var):
         p = filedialog.askopenfilename()
@@ -379,66 +393,135 @@ class App:
             self.root.after(0, lambda: self.run_btn.configure(state="normal"))
 
 
-class NameTableDialog(tk.Toplevel):
-    """編輯自訂取名字表（漢一/漢二），可一鍵重建自訂播放器（需 Docker 建置環境）。"""
+def _ask_name(parent, title, prompt, initial=""):
+    from tkinter import simpledialog
+    s = simpledialog.askstring(title, prompt, initialvalue=initial, parent=parent)
+    return s.strip() if s else ""
+
+
+class NameTableManager(tk.Toplevel):
+    """管理多個取名字表：新增/改名/刪除/編輯字格/重建（各自快取於 players/custom/<id>/）。"""
 
     def __init__(self, app: "App"):
         super().__init__(app.root)
         self.app = app
-        self.title("取名字表（自訂播放器）")
+        self.title("字表管理")
         self.transient(app.root)
+
+        self.lb = tk.Listbox(self, width=40, height=8)
+        self.lb.grid(row=0, column=0, rowspan=6, padx=8, pady=8)
+        ttk.Button(self, text="新增", width=8, command=self._add).grid(row=0, column=1, padx=4)
+        ttk.Button(self, text="改名", width=8, command=self._rename).grid(row=1, column=1, padx=4)
+        ttk.Button(self, text="編輯字格", width=8, command=self._edit).grid(row=2, column=1, padx=4)
+        ttk.Button(self, text="刪除", width=8, command=self._delete).grid(row=3, column=1, padx=4)
+        ttk.Button(self, text="重建", width=8, command=self._rebuild).grid(row=4, column=1, padx=4)
+        ttk.Button(self, text="關閉", width=8, command=self.destroy).grid(row=5, column=1, padx=4)
+        ttk.Label(self, text="提示：重建需要 Docker；進度在主視窗 log 區。",
+                  foreground="#888").grid(row=6, column=0, columnspan=2, sticky="w", padx=8, pady=(0, 8))
+        self._refresh()
+
+    def _refresh(self):
+        self.lb.delete(0, "end")
+        for t in self.app.name_tables:
+            mark = "✓" if customplayer.is_current(t) else "⚠未編/過期"
+            self.lb.insert("end", f"{t['name']}  [{mark}]")
+
+    def _sel(self):
+        s = self.lb.curselection()
+        return s[0] if s else None
+
+    def _taken_ids(self):
+        return {t["id"] for t in self.app.name_tables}
+
+    def _add(self):
+        name = _ask_name(self, "新增字表", "字表名稱：")
+        if not name:
+            return
+        tid = slugify.hash_slug(name, self._taken_ids())
+        self.app.name_tables.append({"id": tid, "name": name, "zh_tw_1": "", "zh_tw_2": ""})
+        self.app._save()
+        self._refresh()
+
+    def _rename(self):
+        i = self._sel()
+        if i is None:
+            return
+        name = _ask_name(self, "改名", "新名稱：", self.app.name_tables[i]["name"])
+        if name:
+            self.app.name_tables[i]["name"] = name   # id 不變
+            self.app._save()
+            self.app._refresh_tree()
+            self._refresh()
+
+    def _edit(self):
+        i = self._sel()
+        if i is None:
+            return
+        NameTableEditor(self, self.app.name_tables[i])
+
+    def _delete(self):
+        i = self._sel()
+        if i is None:
+            return
+        t = self.app.name_tables[i]
+        if not messagebox.askyesno("刪除字表", f"確定刪除「{t['name']}」？\n指向它的遊戲會改用官方播放器。"):
+            return
+        for g in self.app.games:
+            if g.get("name_table_id") == t["id"]:
+                g["name_table_id"] = ""
+        del self.app.name_tables[i]
+        self.app._save()
+        self.app._refresh_tree()
+        self._refresh()
+
+    def _rebuild(self):
+        i = self._sel()
+        if i is None:
+            return
+        t = self.app.name_tables[i]
+        z1, z2, tid = t["zh_tw_1"], t["zh_tw_2"], t["id"]
+
+        def work():
+            try:
+                customplayer.rebuild_custom_player(tid, z1, z2, log=self.app._emit)
+                self.app._emit(f"✓ 字表「{t['name']}」已重建。")
+            except Exception as e:  # noqa: BLE001 — 回報任何錯誤給使用者
+                self.app._emit(f"✗ 重建失敗：{e}")
+            finally:
+                self.app.root.after(0, self._refresh)
+
+        threading.Thread(target=work, daemon=True).start()
+
+
+class NameTableEditor(tk.Toplevel):
+    """編輯單一字表的漢一/漢二字格。"""
+
+    def __init__(self, manager: "NameTableManager", table: dict):
+        super().__init__(manager)
+        self.manager = manager
+        self.table = table
+        self.title(f"編輯字表：{table['name']}")
+        self.transient(manager)
 
         ttk.Label(self, text="漢一（第一頁，依序貼上要出現的中文字）").grid(
             row=0, column=0, sticky="w", padx=8, pady=(8, 0))
         self.t1 = ScrolledText(self, width=46, height=5)
         self.t1.grid(row=1, column=0, padx=8)
-        first = app.name_tables[0] if app.name_tables else {}
-        self.t1.insert("1.0", first.get("zh_tw_1", ""))
-        ttk.Label(self, text="漢二（第二頁）").grid(
-            row=2, column=0, sticky="w", padx=8, pady=(8, 0))
+        self.t1.insert("1.0", table.get("zh_tw_1", ""))
+        ttk.Label(self, text="漢二（第二頁）").grid(row=2, column=0, sticky="w", padx=8, pady=(8, 0))
         self.t2 = ScrolledText(self, width=46, height=5)
         self.t2.grid(row=3, column=0, padx=8)
-        self.t2.insert("1.0", first.get("zh_tw_2", ""))
-
+        self.t2.insert("1.0", table.get("zh_tw_2", ""))
         bar = ttk.Frame(self)
         bar.grid(row=4, column=0, pady=8)
         ttk.Button(bar, text="儲存", command=self._save).pack(side="left", padx=4)
-        self.rebuild_btn = ttk.Button(bar, text="重建自訂播放器", command=self._rebuild)
-        self.rebuild_btn.pack(side="left", padx=4)
         ttk.Button(bar, text="關閉", command=self.destroy).pack(side="left", padx=4)
-        ttk.Label(self, text="提示：重建需要 Docker 建置環境；進度顯示在主視窗 log 區。",
-                  foreground="#888").grid(row=5, column=0, sticky="w", padx=8, pady=(0, 8))
-
-    def _collect(self):
-        return (self.t1.get("1.0", "end").strip(), self.t2.get("1.0", "end").strip())
 
     def _save(self):
-        a, b = self._collect()
-        if self.app.name_tables:
-            self.app.name_tables[0]["zh_tw_1"] = a
-            self.app.name_tables[0]["zh_tw_2"] = b
-        else:
-            import slugify as _slugify
-            tid = _slugify.hash_slug("自訂字表", set())
-            self.app.name_tables = [{"id": tid, "name": "自訂字表", "zh_tw_1": a, "zh_tw_2": b}]
-        self.app._save()
-
-    def _rebuild(self):
-        self._save()
-        a, b = self._collect()
-        tid = self.app.name_tables[0]["id"]
-        self.rebuild_btn.configure(state="disabled")
-
-        def work():
-            try:
-                customplayer.rebuild_custom_player(tid, a, b, log=self.app._emit)
-                self.app._emit("✓ 自訂播放器已重建。打包時勾「使用自訂播放器」即可套用。")
-            except Exception as e:  # noqa: BLE001 — 回報任何錯誤給使用者
-                self.app._emit(f"✗ 重建失敗：{e}")
-            finally:
-                self.app.root.after(0, lambda: self.rebuild_btn.configure(state="normal"))
-
-        threading.Thread(target=work, daemon=True).start()
+        self.table["zh_tw_1"] = self.t1.get("1.0", "end").strip()
+        self.table["zh_tw_2"] = self.t2.get("1.0", "end").strip()
+        self.manager.app._save()
+        self.manager._refresh()
 
 
 def main():

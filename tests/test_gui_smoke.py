@@ -94,37 +94,40 @@ def test_gamedialog_builds_and_collects_tags(tmp_path):
 
 
 def test_game_name_table_id_persists(tmp_path):
+    import slugify
     import easyrpg_web_gui as gui
     lib = tmp_path / "library.json"
     root = _make_root()
     try:
         app = gui.App(root, project_path=lib)
-        app.games.append({"folder": "", "label": "有字表遊戲", "cover": None,
-                          "rtp": None, "tags": [], "name_table_id": "t1"})
-        app._refresh_tree()
+        tid = slugify.hash_slug("甲表")
+        app.name_tables = [{"id": tid, "name": "甲表", "zh_tw_1": "甲", "zh_tw_2": ""}]
+        app.games.append({"folder": "x", "label": "甲", "cover": None,
+                          "rtp": None, "tags": [], "name_table_id": tid})
         app._save()
         data = json.loads(lib.read_text(encoding="utf-8"))
-        assert data["games"][-1]["name_table_id"] == "t1"
+        assert data["games"][-1]["name_table_id"] == tid
+        dlg = gui.GameDialog(root, folder="x", label="甲",
+                             name_table_id=tid, name_tables=app.name_tables)
+        dlg.destroy()
     finally:
         root.destroy()
 
 
-def test_name_table_dialog_saves(tmp_path):
+def test_name_tables_save_roundtrip(tmp_path):
+    import slugify
     import easyrpg_web_gui as gui
     lib = tmp_path / "library.json"
     root = _make_root()
     try:
         app = gui.App(root, project_path=lib)
-        dlg = gui.NameTableDialog(app)
-        dlg.t1.insert("end", "甲乙丙")
-        dlg.t2.insert("end", "丁戊")
-        dlg._save()
-        assert app.name_tables[0]["zh_tw_1"] == "甲乙丙"
-        assert app.name_tables[0]["zh_tw_2"] == "丁戊"
+        tid = slugify.hash_slug("甲表")
+        app.name_tables = [{"id": tid, "name": "甲表",
+                            "zh_tw_1": "甲乙丙", "zh_tw_2": "丁戊"}]
+        app._save()
         data = json.loads(lib.read_text(encoding="utf-8"))
-        assert data["name_tables"][0]["zh_tw_1"] == "甲乙丙"
-        assert data["name_tables"][0]["zh_tw_2"] == "丁戊"
-        dlg.destroy()
+        assert data["name_tables"] == [
+            {"id": tid, "name": "甲表", "zh_tw_1": "甲乙丙", "zh_tw_2": "丁戊"}]
     finally:
         root.destroy()
 
@@ -133,7 +136,9 @@ def test_gamedialog_preserves_name_table_id():
     import easyrpg_web_gui as gui
     root = _make_root()
     try:
-        dlg = gui.GameDialog(root, folder="C:/g", label="甲", name_table_id="tid1")
+        dlg = gui.GameDialog(root, folder="C:/g", label="甲", name_table_id="tid1",
+                             name_tables=[{"id": "tid1", "name": "甲表",
+                                           "zh_tw_1": "", "zh_tw_2": ""}])
         dlg.v_folder.set("C:/g")
         dlg.v_label.set("甲")
         dlg._ok()
