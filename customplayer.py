@@ -68,8 +68,14 @@ def has_engine(table_id: str) -> bool:
     return all((d / f).exists() for f in PLAYER_FILES)
 
 
+def _pages_sig(pages) -> list:
+    """把頁清單正規化成可比較/序列化的形狀 [{label, chars}]。"""
+    return [{"label": str(p.get("label") or ""), "chars": str(p.get("chars") or "")}
+            for p in (pages or [])]
+
+
 def is_current(table: dict) -> bool:
-    """已編且 source.json 內容與該字表 zh_tw_1/zh_tw_2 相符。"""
+    """已編且 source.json 內容與該字表 pages 相符。"""
     tid = table.get("id") or ""
     p = engine_dir(tid) / "source.json"
     if not p.exists() or not has_engine(tid):
@@ -78,15 +84,17 @@ def is_current(table: dict) -> bool:
         sig = json.loads(p.read_text(encoding="utf-8"))
     except (json.JSONDecodeError, OSError):
         return False
-    return sig == {"zh_tw_1": table.get("zh_tw_1") or "",
-                   "zh_tw_2": table.get("zh_tw_2") or ""}
+    return sig == {"pages": _pages_sig(table.get("pages"))}
 
 
-def rebuild_custom_player(table_id: str, zh_tw_1: str, zh_tw_2: str, log=None) -> Path:
-    """產生字表 → 容器內重編 → 把 index.html/js/wasm 複製到 players/custom/<table_id>/。"""
+def rebuild_custom_player(table_id: str, pages, log=None) -> Path:
+    """產生字表 → 容器內重編 → 把 index.html/js/wasm 複製到 players/custom/<table_id>/。
+
+    pages：頁清單 [{label, chars}, …]（EasyRPG 鍵盤只渲染前兩頁）。
+    """
     check_env()
     _log(log, "產生自訂取名字表 window_keyboard.cpp…")
-    patched = nametable.render(TEMPLATE.read_text(encoding="utf-8"), zh_tw_1, zh_tw_2)
+    patched = nametable.render(TEMPLATE.read_text(encoding="utf-8"), pages)
     tmp = HERE / "players" / "build" / "_patched_window_keyboard.cpp"
     tmp.write_text(patched, encoding="utf-8")
 
@@ -103,7 +111,7 @@ def rebuild_custom_player(table_id: str, zh_tw_1: str, zh_tw_2: str, log=None) -
     for fn in PLAYER_FILES:
         _stream(["docker", "cp", f"{CONTAINER}:{_OUT}/{fn}", str(out_dir / fn)], log)
     (out_dir / "source.json").write_text(
-        json.dumps({"zh_tw_1": zh_tw_1, "zh_tw_2": zh_tw_2}, ensure_ascii=False),
+        json.dumps({"pages": _pages_sig(pages)}, ensure_ascii=False),
         encoding="utf-8")
 
     _log(log, f"✓ 自訂播放器已更新：{out_dir}")

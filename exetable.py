@@ -85,7 +85,7 @@ def _runs_at_stride(vm, stride: int, minrun: int):
             cells.append(vm[off])
             off += stride
         if len(cells) >= minrun:
-            runs.append((i, cells))
+            runs.append((i, cells, stride))
             i = off  # 跳過此 run，避免重複記子區段
         else:
             i += 1
@@ -109,50 +109,60 @@ def locate_tables(data: bytes, encoding: str = "cp950",
     for s in strides:
         runs = [r for r in _runs_at_stride(vm, s, minrun)
                 if _diversity(r[1]) >= _UNIQ_RATIO * len(r[1])]
-        q = max((_diversity(c) for _, c in runs), default=0)
+        q = max((_diversity(r[1]) for r in runs), default=0)
         if q > best_q:
             best, best_q = runs, q
     return best
 
 
-def _game_runs(game_folder, log):
-    """讀 RPG_RT.exe → 定位字表段（每段＝遊戲鍵盤的一頁）。找不到回 []。"""
+def _label_after(data: bytes, end_off: int, encoding: str) -> str:
+    """字表段結束後找 <…> 控制格，回傳 <> 內的字當頁名；找不到回 ""。
+
+    頁籤以 ASCII '<'(0x3C) … '>'(0x3E) 包住一段 Big5 字（如 <漢一>、<頁２>）。
+    """
+    window = data[end_off:end_off + 64]
+    lt = window.find(b"\x3c")
+    gt = window.find(b"\x3e", lt + 1) if lt >= 0 else -1
+    if lt < 0 or gt < 0:
+        return ""
+    try:
+        s = window[lt + 1:gt].decode(encoding)
+    except (UnicodeDecodeError, LookupError):
+        return ""
+    return "".join(ch for ch in s if not ch.isspace())[:8]
+
+
+def extract_table(game_folder, log=None) -> list:
+    """忠實還原遊戲鍵盤 → 回頁清單 [{label, chars}, …]。
+
+    每偵測到的字表段＝一頁，原字原序保留（含全形英數字母與符號，不只留漢字）；
+    頁名(label)從 exe 的 <…> 頁籤抽出，抽不到則用「頁N」。各頁上限 nametable.CAPACITY 字。
+    依檔案位移＝頁序排列。找不到回 []。
+    """
     exe = Path(game_folder) / "RPG_RT.exe"
     if not exe.exists():
         if log:
             log(f"找不到 {exe}")
         return []
-    runs = locate_tables(exe.read_bytes(), read_encoding(game_folder))
-    if not runs and log:
-        log("RPG_RT.exe 內找不到鍵盤字表（可能無內嵌或編碼不符）。")
-    return runs
+    data = exe.read_bytes()
+    enc = read_encoding(game_folder)
+    runs = locate_tables(data, enc)
+    if not runs:
+        if log:
+            log("RPG_RT.exe 內找不到鍵盤字表（可能無內嵌或編碼不符）。")
+        return []
+    runs = sorted(runs, key=lambda r: r[0])  # 依位移＝頁序
+    cap = nametable.CAPACITY
+    pages = []
+    for i, (off, cells, stride) in enumerate(runs):
+        label = _label_after(data, off + len(cells) * stride, enc) or f"頁{i + 1}"
+        pages.append({"label": label, "chars": "".join(cells)[:cap]})
+    if log:
+        log(f"抽到 {len(pages)} 頁字表：" + "、".join(
+            f"{p['label']}({len(p['chars'])}字)" for p in pages))
+    return pages
 
 
 def extract_chars(game_folder, log=None) -> str:
-    """回傳遊戲鍵盤所有格的字（忠實保留：漢字＋全形英數＋符號），依頁序串接。找不到回 ""。"""
-    runs = sorted(_game_runs(game_folder, log), key=lambda r: r[0])
-    return "".join("".join(cells) for _, cells in runs)
-
-
-def extract_pages(game_folder, log=None):
-    """忠實還原遊戲鍵盤 → 回 (zh_tw_1, zh_tw_2)。
-
-    目的是「忠實還原遊戲的字表」：每偵測到的頁＝一頁，原字原序保留（含全形英數字母與
-    符號，不只留漢字）。多頁 → 漢一=第一頁、漢二=第二頁；單頁超過一頁容量 → 自動切兩頁。
-    各頁上限 nametable.CAPACITY 字。找不到回 ("", "")。
-    """
-    runs = _game_runs(game_folder, log)
-    if not runs:
-        return ("", "")
-    # 取最像字表的兩段（多樣性最高），再依檔案位移＝頁序排列
-    runs = sorted(runs, key=lambda r: _diversity(r[1]), reverse=True)[:2]
-    runs = sorted(runs, key=lambda r: r[0])
-    cap = nametable.CAPACITY
-    pages = ["".join(cells) for _, cells in runs]
-    if len(pages) == 1:
-        z1, z2 = pages[0][:cap], pages[0][cap:2 * cap]
-    else:
-        z1, z2 = pages[0][:cap], pages[1][:cap]
-    if log:
-        log(f"抽到字表：漢一 {len(z1)} 字、漢二 {len(z2)} 字（忠實含英數/符號）。")
-    return (z1, z2)
+    """回傳遊戲鍵盤所有格的字（依頁序串接），方便除錯/全庫掃描。找不到回 ""。"""
+    return "".join(p["chars"] for p in extract_table(game_folder, log))

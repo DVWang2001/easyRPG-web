@@ -151,20 +151,19 @@ class GameDialog(tk.Toplevel):
 
         def work():
             try:
-                z1, z2 = exetable.extract_pages(folder)
-                err = ""
+                pages, err = exetable.extract_table(folder), ""
             except Exception as e:  # noqa: BLE001 — 回報任何錯誤給使用者
-                z1, z2, err = "", "", str(e)
-            self.after(0, lambda: self._apply_extracted(z1, z2, err))
+                pages, err = [], str(e)
+            self.after(0, lambda: self._apply_extracted(pages, err))
 
         threading.Thread(target=work, daemon=True).start()
 
-    def _apply_extracted(self, z1, z2, err):
+    def _apply_extracted(self, pages, err):
         self.btn_exe.configure(state="normal")
         if err:
             messagebox.showerror("抽取失敗", err, parent=self)
             return
-        if not z1 and not z2:
+        if not pages:
             messagebox.showwarning(
                 "找不到字表",
                 "這個遊戲的 RPG_RT.exe 裡找不到取名鍵盤字表\n"
@@ -173,22 +172,24 @@ class GameDialog(tk.Toplevel):
         table = self._target_table()
         if table is None:
             return
-        table["zh_tw_1"], table["zh_tw_2"] = z1, z2
+        table["pages"] = [dict(p) for p in pages]
         if self.app is not None:
             self.app._save()
             self.app._refresh_tree()
+        total = sum(len(p["chars"]) for p in pages)
+        summary = "、".join(f"{p['label']}({len(p['chars'])}字)" for p in pages)
         messagebox.showinfo(
             "已抽出字表",
-            f"已把 {len(z1) + len(z2)} 個字填入字表「{table['name']}」。\n\n"
-            f"漢一：{z1[:30]}…\n漢二：{z2[:30] or '（無）'}\n\n"
-            "可到「字表管理 → 編輯字格」微調，再按「重建」。", parent=self)
+            f"已把 {len(pages)} 頁、共 {total} 個字填入字表「{table['name']}」。\n\n"
+            f"{summary}\n\n"
+            "可到「字表管理 → 編輯字格」微調頁名與內容，再按「重建」。\n"
+            "（注意：EasyRPG 鍵盤只渲染前兩頁。）", parent=self)
 
     def _new_table(self):
         """以遊戲名新建一個字表，加入清單並更新下拉選單後回傳該 dict。"""
         label = self.v_label.get().strip() or "新字表"
         taken = {t["id"] for t in self.app.name_tables}
-        table = {"id": slugify.hash_slug(label, taken), "name": label,
-                 "zh_tw_1": "", "zh_tw_2": ""}
+        table = {"id": slugify.hash_slug(label, taken), "name": label, "pages": []}
         self.app.name_tables.append(table)
         self.name_tables.append(table)
         self._nt_labels = ["（無）"] + [t["name"] for t in self.name_tables]
@@ -519,7 +520,7 @@ class NameTableManager(tk.Toplevel):
         if not name:
             return
         tid = slugify.hash_slug(name, self._taken_ids())
-        self.app.name_tables.append({"id": tid, "name": name, "zh_tw_1": "", "zh_tw_2": ""})
+        self.app.name_tables.append({"id": tid, "name": name, "pages": []})
         self.app._save()
         self._refresh()
 
@@ -560,11 +561,11 @@ class NameTableManager(tk.Toplevel):
         if i is None:
             return
         t = self.app.name_tables[i]
-        z1, z2, tid = t["zh_tw_1"], t["zh_tw_2"], t["id"]
+        tid, pages = t["id"], [dict(p) for p in (t.get("pages") or [])]
 
         def work():
             try:
-                customplayer.rebuild_custom_player(tid, z1, z2, log=self.app._emit)
+                customplayer.rebuild_custom_player(tid, pages, log=self.app._emit)
                 self.app._emit(f"✓ 字表「{t['name']}」已重建。")
             except Exception as e:  # noqa: BLE001 — 回報任何錯誤給使用者
                 self.app._emit(f"✗ 重建失敗：{e}")
@@ -575,7 +576,7 @@ class NameTableManager(tk.Toplevel):
 
 
 class NameTableEditor(tk.Toplevel):
-    """編輯單一字表的漢一/漢二字格。"""
+    """編輯單一字表的多頁字格（每頁：頁名＋字）。EasyRPG 鍵盤只渲染前兩頁。"""
 
     def __init__(self, manager: "NameTableManager", table: dict):
         super().__init__(manager)
@@ -584,23 +585,52 @@ class NameTableEditor(tk.Toplevel):
         self.title(f"編輯字表：{table['name']}")
         self.transient(manager)
 
-        ttk.Label(self, text="漢一（第一頁，依序貼上要出現的中文字）").grid(
-            row=0, column=0, sticky="w", padx=8, pady=(8, 0))
-        self.t1 = ScrolledText(self, width=46, height=5)
-        self.t1.grid(row=1, column=0, padx=8)
-        self.t1.insert("1.0", table.get("zh_tw_1", ""))
-        ttk.Label(self, text="漢二（第二頁）").grid(row=2, column=0, sticky="w", padx=8, pady=(8, 0))
-        self.t2 = ScrolledText(self, width=46, height=5)
-        self.t2.grid(row=3, column=0, padx=8)
-        self.t2.insert("1.0", table.get("zh_tw_2", ""))
+        self.nb = ttk.Notebook(self)
+        self.nb.grid(row=0, column=0, columnspan=3, padx=8, pady=8)
+        self.tabs = []  # [(label_var, text_widget, frame), …]
+        for p in (table.get("pages") or []):
+            self._add_tab(str(p.get("label") or ""), str(p.get("chars") or ""))
+        if not self.tabs:
+            self._add_tab("頁1", "")
+
+        ttk.Label(self, text="提示：EasyRPG 鍵盤只渲染前兩頁；多的頁仍會保存在資料裡。",
+                  foreground="#888").grid(row=1, column=0, columnspan=3, sticky="w", padx=8)
         bar = ttk.Frame(self)
-        bar.grid(row=4, column=0, pady=8)
+        bar.grid(row=2, column=0, columnspan=3, pady=8)
+        ttk.Button(bar, text="新增頁", command=self._add_page).pack(side="left", padx=4)
+        ttk.Button(bar, text="刪除本頁", command=self._del_page).pack(side="left", padx=4)
         ttk.Button(bar, text="儲存", command=self._save).pack(side="left", padx=4)
         ttk.Button(bar, text="關閉", command=self.destroy).pack(side="left", padx=4)
 
+    def _add_tab(self, label, chars):
+        f = ttk.Frame(self.nb)
+        lv = tk.StringVar(value=label)
+        ttk.Label(f, text="頁名").grid(row=0, column=0, sticky="w", padx=4, pady=4)
+        ttk.Entry(f, textvariable=lv, width=18).grid(row=0, column=1, sticky="w")
+        txt = ScrolledText(f, width=44, height=6)
+        txt.grid(row=1, column=0, columnspan=2, padx=4, pady=4)
+        txt.insert("1.0", chars)
+        self.nb.add(f, text=label or f"頁{len(self.tabs) + 1}")
+        self.tabs.append((lv, txt, f))
+
+    def _add_page(self):
+        self._add_tab(f"頁{len(self.tabs) + 1}", "")
+        self.nb.select(len(self.tabs) - 1)
+
+    def _del_page(self):
+        if len(self.tabs) <= 1:
+            return  # 至少留一頁
+        idx = self.nb.index(self.nb.select())
+        self.nb.forget(idx)
+        del self.tabs[idx]
+
+    def _collect(self):
+        return [{"label": lv.get().strip() or f"頁{i + 1}",
+                 "chars": txt.get("1.0", "end").strip()}
+                for i, (lv, txt, _f) in enumerate(self.tabs)]
+
     def _save(self):
-        self.table["zh_tw_1"] = self.t1.get("1.0", "end").strip()
-        self.table["zh_tw_2"] = self.t2.get("1.0", "end").strip()
+        self.table["pages"] = self._collect()
         self.manager.app._save()
         self.manager.app._refresh_tree()
         self.manager._refresh()
