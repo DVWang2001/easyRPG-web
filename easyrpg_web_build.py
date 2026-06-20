@@ -160,7 +160,7 @@ def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
     entries = library.stage_library(out, specs, soundfont=soundfont, ignore_globs=ignore_globs)
 
     # 有遊戲勾「使用自訂取名字表」→ 多放一套自訂引擎到 player-custom/（只有這些遊戲用它）。
-    if any(e.get("custom") for e in entries):
+    if any(e.get("name_table_id") for e in entries):
         _log("放入自訂播放器引擎（player-custom/）…", log)
         try:
             custom_dir = player_fetch.ensure_player(player_cache, variant="custom")

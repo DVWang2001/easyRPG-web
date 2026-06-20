@@ -88,7 +88,7 @@ def test_build_library_per_game_custom_player(tmp_path, monkeypatch):
     out = tmp_path / "dist"
 
     core.build_library(
-        games=[{"folder": g1, "label": "自訂遊戲", "cover": None, "custom_player": True},
+        games=[{"folder": g1, "label": "自訂遊戲", "cover": None, "name_table_id": "tid1"},
                {"folder": g2, "label": "一般遊戲", "cover": None}],
         app_icon=None, soundfont=None, out=out,
         player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
@@ -115,7 +115,7 @@ def test_build_library_custom_player_missing_engine_errors(tmp_path, monkeypatch
     out = tmp_path / "dist"
     try:
         core.build_library(
-            games=[{"folder": g1, "label": "自訂", "cover": None, "custom_player": True}],
+            games=[{"folder": g1, "label": "自訂", "cover": None, "name_table_id": "tid1"}],
             app_icon=None, soundfont=None, out=out,
             player_cache=tmp_path / "cache", player_url=tarball.resolve().as_uri(),
         )

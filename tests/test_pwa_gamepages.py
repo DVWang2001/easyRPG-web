@@ -114,8 +114,8 @@ def test_write_game_pages_custom_uses_player_custom_engine(tmp_path):
     dist = tmp_path / "dist"
     _write_template(dist)
     entries = [
-        {"label": "甲", "slug": "g1", "cover_rel": None, "custom": True},
-        {"label": "乙", "slug": "g2", "cover_rel": None, "custom": False},
+        {"label": "甲", "slug": "g1", "cover_rel": None, "name_table_id": "tid1"},
+        {"label": "乙", "slug": "g2", "cover_rel": None, "name_table_id": ""},
     ]
 
     pwa.write_game_pages(dist, entries)
