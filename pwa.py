@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import re
 import shutil
+import time
 from pathlib import Path
 
 ICON_REL = "icons/icon.png"
@@ -56,6 +57,8 @@ SW_TEMPLATE = """\
 //   外殼（HTML/JS/WASM/manifest 等）→ network-first（線上永遠拿最新 → 部署即生效；離線退回快取）。
 // 「下載某個遊戲以供離線」由各遊戲頁自己處理（見 precache-<slug>.json），快取進 easyrpg-games。
 const CACHE = 'easyrpg-games';
+// 每次部署都會變（時間戳）→ service-worker.js 內容改變 → 瀏覽器偵測到新版 SW 並更新。
+const BUILD = '__BUILD__';
 
 self.addEventListener('install', () => self.skipWaiting());
 
@@ -89,9 +92,10 @@ self.addEventListener('fetch', (e) => {
       })
     );
   } else {
-    // 外殼：network-first（線上拿最新並更新快取；離線退回快取，導航退回殼頁）
+    // 外殼：network-first，且 fetch 用 no-cache 強制向伺服器重新驗證
+    // （否則瀏覽器 HTTP 快取會讓「network」其實拿到舊檔，部署後看不到更新）。
     e.respondWith(
-      fetch(e.request).then((res) => {
+      fetch(e.request, { cache: 'no-cache' }).then((res) => {
         const copy = res.clone();
         caches.open(CACHE).then((c) => c.put(e.request, copy)).catch(() => {});
         return res;
@@ -108,10 +112,13 @@ self.addEventListener('fetch', (e) => {
 """
 
 
-def write_service_worker(dist) -> Path:
+def write_service_worker(dist, build: str | None = None) -> Path:
+    """寫 service-worker.js；每次部署用新的 build 戳記讓 SW 內容改變→瀏覽器強制更新。"""
     dist = Path(dist)
+    if build is None:
+        build = time.strftime("%Y%m%d%H%M%S")
     out = dist / "service-worker.js"
-    out.write_text(SW_TEMPLATE, encoding="utf-8")
+    out.write_text(SW_TEMPLATE.replace("__BUILD__", build), encoding="utf-8")
     return out
 
 
