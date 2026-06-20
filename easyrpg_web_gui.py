@@ -164,10 +164,18 @@ class GameDialog(tk.Toplevel):
             messagebox.showerror("抽取失敗", err, parent=self)
             return
         if not pages:
-            messagebox.showwarning(
-                "找不到字表",
-                "這個遊戲的 RPG_RT.exe 裡找不到取名鍵盤字表\n"
-                "（可能沒有內嵌、編碼不是 Big5，或路徑無效）。請手動輸入。", parent=self)
+            engine = exetable.identify_engine(self.v_folder.get().strip())
+            if engine:
+                messagebox.showinfo(
+                    "辨識結果",
+                    f"這個遊戲用的是「{engine}」。\n"
+                    "那是半形英文鍵盤，EasyRPG 內建就有 —— 用官方播放器即可，\n"
+                    "不需要自訂中文字表。", parent=self)
+            else:
+                messagebox.showwarning(
+                    "找不到字表",
+                    "這個遊戲的 RPG_RT.exe 裡找不到取名鍵盤字表\n"
+                    "（可能沒有內嵌、編碼不是 Big5，或路徑無效）。請手動輸入。", parent=self)
             return
         known = exetable.recognize(pages)   # 辨識是否為已知內建字表（如聖靈火神2003字表）
         table = self._target_table(known)

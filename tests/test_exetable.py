@@ -131,6 +131,20 @@ def test_recognize_unknown_returns_empty():
     assert exetable.recognize([]) == ""
 
 
+def test_identify_engine_don_miguel(tmp_path):
+    # exe 含 Don Miguel RM2000 鍵盤特徵（半形英數）→ 辨識但不抽中文字表
+    (tmp_path / "RPG_RT.exe").write_bytes(
+        b"\x00garbage\x24\x00\x00\x001234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ\x00code")
+    assert exetable.identify_engine(tmp_path) == "Don Miguel RM2000 英文字表"
+    assert exetable.extract_table(tmp_path) == []   # 不抽成中文字表
+
+
+def test_identify_engine_unknown(tmp_path):
+    (tmp_path / "RPG_RT.exe").write_bytes(b"\x00" * 200)
+    assert exetable.identify_engine(tmp_path) == ""
+    assert exetable.identify_engine(tmp_path / "nope") == ""
+
+
 def test_extract_missing_exe(tmp_path):
     assert exetable.extract_table(tmp_path) == []
 

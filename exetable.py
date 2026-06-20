@@ -25,6 +25,12 @@ _KNOWN_TABLES = (
       "貝利芙芬拉欣東雨依武秀金耶肯青法奇皇宜兒昂")),
 )
 
+# 不抽成中文字表、只辨識標示的鍵盤（exe 內出現該位元組特徵即視為該款）。
+# Don Miguel RM2000：取名鍵盤是半形英數，存成 Delphi 長度前綴 ASCII 字串。
+_KNOWN_ENGINES = (
+    ("Don Miguel RM2000 英文字表", b"1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ"),
+)
+
 # RPG_RT.ini 的 Encoding 代碼 → Python codec
 _ENC_MAP = {"950": "cp950", "936": "gbk", "932": "cp932", "65001": "utf-8"}
 
@@ -181,5 +187,21 @@ def recognize(pages) -> str:
     allchars = "".join(p.get("chars") or "" for p in (pages or []))
     for name, markers in _KNOWN_TABLES:
         if all(m in allchars for m in markers):
+            return name
+    return ""
+
+
+def identify_engine(game_folder) -> str:
+    """辨識遊戲的取名鍵盤來源（即使抽不出中文字表，例如英文鍵盤）。
+
+    只看 RPG_RT.exe 的位元組特徵，回傳描述（如「Don Miguel RM2000 英文字表」）或 ""。
+    這類只標示、不抽成中文字表（EasyRPG 內建就有英文鍵盤，用官方播放器即可）。
+    """
+    exe = Path(game_folder) / "RPG_RT.exe"
+    if not exe.exists():
+        return ""
+    data = exe.read_bytes()
+    for name, sig in _KNOWN_ENGINES:
+        if sig in data:
             return name
     return ""
