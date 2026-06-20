@@ -40,10 +40,25 @@ def test_is_current(monkeypatch, tmp_path):
         (d / f).write_text("x")
     (d / "source.json").write_text(
         json.dumps({"pages": [{"label": "頁１", "chars": "甲乙"},
-                              {"label": "頁２", "chars": "丙"}]}), encoding="utf-8")
+                              {"label": "頁２", "chars": "丙"}],
+                    "build": customplayer._BUILD_VERSION}), encoding="utf-8")
     assert customplayer.is_current(table) is True            # 內容相符
     table["pages"][0]["chars"] = "改了"
     assert customplayer.is_current(table) is False           # 內容變了 → 過期
+
+
+def test_is_current_stale_on_build_version_change(monkeypatch, tmp_path):
+    """建置配方版本不符（舊引擎）→ 視為過期，提示重建。"""
+    monkeypatch.setattr(customplayer, "CUSTOM_DIR", tmp_path)
+    d = tmp_path / "abc"
+    d.mkdir()
+    for f in customplayer.PLAYER_FILES:
+        (d / f).write_text("x")
+    table = {"id": "abc", "pages": [{"label": "頁１", "chars": "甲"}]}
+    (d / "source.json").write_text(
+        json.dumps({"pages": [{"label": "頁１", "chars": "甲"}], "build": 0}),
+        encoding="utf-8")
+    assert customplayer.is_current(table) is False
 
 
 def test_is_current_corrupt_source_json(monkeypatch, tmp_path):

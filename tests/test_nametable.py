@@ -63,3 +63,22 @@ def test_render_single_page_fills_first_only():
     out = nametable.render(TEMPLATE, [{"label": "頁１", "chars": "甲乙"}])
     assert '"甲"' in out and '"乙"' in out
     assert '"<頁１>"' in out
+
+
+SCENE_TEMPLATE = Path("players/build/src-ref/scene_name.cpp").read_text(encoding="utf-8")
+
+
+def test_patch_scene_name_guards_letter_symbol_for_big5():
+    out = nametable.patch_scene_name(SCENE_TEMPLATE)
+    # Letter/Symbol 兩頁改成「非 Big5 才加」→ 繁中遊戲只剩自訂兩頁
+    assert "if (!Player::IsBig5()) {" in out
+    # 兩個 push_back 仍在（被包進 if 內），但原本「無條件加」的形式不再
+    assert "layouts.push_back(Window_Keyboard::Letter);" in out
+    assert "layouts.push_back(Window_Keyboard::Symbol);" in out
+    idx = out.index("if (!Player::IsBig5()) {")
+    assert "Letter" in out[idx:idx + 120] and "Symbol" in out[idx:idx + 120]
+
+
+def test_patch_scene_name_idempotent_safe_when_absent():
+    # 找不到目標時原樣回傳（不爆）
+    assert nametable.patch_scene_name("無關內容") == "無關內容"

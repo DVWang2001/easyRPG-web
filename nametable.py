@@ -40,6 +40,25 @@ def _inner(comment: str, chars: str) -> str:
     return "{ // " + comment + "\n" + body + "\n\t\t}"
 
 
+_SCENE_LETTER_SYMBOL = re.compile(
+    r"[ \t]*layouts\.push_back\(Window_Keyboard::Letter\);\n"
+    r"[ \t]*layouts\.push_back\(Window_Keyboard::Symbol\);")
+
+
+def patch_scene_name(template: str) -> str:
+    """讓自訂播放器的繁中(Big5)遊戲只顯示自訂字表的兩頁。
+
+    EasyRPG 的 scene_name.cpp 對每種語言都會再附加內建的 Letter/Symbol 兩頁（翻頁時會
+    出現拉丁字母與符號頁）。自訂字表的遊戲只想顯示自己的字表，故把這兩頁改成「非 Big5 才加」。
+    回傳替換後的 scene_name.cpp 文字（找不到目標則原樣回傳）。
+    """
+    replacement = ("\tif (!Player::IsBig5()) {\n"
+                   "\t\tlayouts.push_back(Window_Keyboard::Letter);\n"
+                   "\t\tlayouts.push_back(Window_Keyboard::Symbol);\n"
+                   "\t}")
+    return _SCENE_LETTER_SYMBOL.sub(replacement, template, count=1)
+
+
 def _esc_label(s: str) -> str:
     return s.replace("\\", "\\\\").replace('"', '\\"')
 

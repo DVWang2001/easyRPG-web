@@ -14,6 +14,7 @@ import nametable
 
 HERE = Path(__file__).resolve().parent
 TEMPLATE = HERE / "players" / "build" / "src-ref" / "window_keyboard.cpp"
+SCENE_TEMPLATE = HERE / "players" / "build" / "src-ref" / "scene_name.cpp"
 CUSTOM_DIR = HERE / "players" / "custom"
 CONTAINER = "ezbuild"
 PLAYER_FILES = ("index.html", "index.js", "index.wasm")
@@ -68,14 +69,23 @@ def has_engine(table_id: str) -> bool:
     return all((d / f).exists() for f in PLAYER_FILES)
 
 
+# 建置配方版本：改了 cpp 修補（如 scene_name 拿掉內建 Letter/Symbol）就 +1，
+# 讓既有引擎被視為過期、提示重建。
+_BUILD_VERSION = 2
+
+
 def _pages_sig(pages) -> list:
     """把頁清單正規化成可比較/序列化的形狀 [{label, chars}]。"""
     return [{"label": str(p.get("label") or ""), "chars": str(p.get("chars") or "")}
             for p in (pages or [])]
 
 
+def _source_sig(pages) -> dict:
+    return {"pages": _pages_sig(pages), "build": _BUILD_VERSION}
+
+
 def is_current(table: dict) -> bool:
-    """已編且 source.json 內容與該字表 pages 相符。"""
+    """已編、且 source.json 的 pages 與建置配方版本都相符。"""
     tid = table.get("id") or ""
     p = engine_dir(tid) / "source.json"
     if not p.exists() or not has_engine(tid):
@@ -84,7 +94,7 @@ def is_current(table: dict) -> bool:
         sig = json.loads(p.read_text(encoding="utf-8"))
     except (json.JSONDecodeError, OSError):
         return False
-    return sig == {"pages": _pages_sig(table.get("pages"))}
+    return sig == _source_sig(table.get("pages"))
 
 
 def rebuild_custom_player(table_id: str, pages, log=None) -> Path:
@@ -102,6 +112,14 @@ def rebuild_custom_player(table_id: str, pages, log=None) -> Path:
     _stream(["docker", "cp", str(tmp),
              f"{CONTAINER}:/work/Player/src/window_keyboard.cpp"], log)
 
+    # 繁中遊戲只顯示自訂字表的兩頁（拿掉內建 Letter/Symbol 頁）
+    _log(log, "套用 scene_name 修補（自訂字表遊戲只顯示自訂頁）…")
+    patched_scene = nametable.patch_scene_name(SCENE_TEMPLATE.read_text(encoding="utf-8"))
+    tmp_scene = HERE / "players" / "build" / "_patched_scene_name.cpp"
+    tmp_scene.write_text(patched_scene, encoding="utf-8")
+    _stream(["docker", "cp", str(tmp_scene),
+             f"{CONTAINER}:/work/Player/src/scene_name.cpp"], log)
+
     _log(log, "重新編譯自訂播放器（約數分鐘）…")
     _stream(["docker", "exec", CONTAINER, "bash", "/scripts/player.sh"], log)
 
@@ -111,7 +129,7 @@ def rebuild_custom_player(table_id: str, pages, log=None) -> Path:
     for fn in PLAYER_FILES:
         _stream(["docker", "cp", f"{CONTAINER}:{_OUT}/{fn}", str(out_dir / fn)], log)
     (out_dir / "source.json").write_text(
-        json.dumps({"pages": _pages_sig(pages)}, ensure_ascii=False),
+        json.dumps(_source_sig(pages), ensure_ascii=False),
         encoding="utf-8")
 
     _log(log, f"✓ 自訂播放器已更新：{out_dir}")
