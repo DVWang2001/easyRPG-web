@@ -110,26 +110,70 @@ def test_all_tags_merges_explicit_and_used(tmp_path):
     assert proj["all_tags"] == ["A", "B", "C"]
 
 
-def test_name_table_defaults_empty():
-    nt = project.default_project()["name_table"]
-    assert nt == {"zh_tw_1": "", "zh_tw_2": ""}
+def test_name_tables_default_empty():
+    assert project.default_project()["name_tables"] == []
 
 
-def test_name_table_roundtrip(tmp_path):
-    f = tmp_path / "library.json"
+def test_game_name_table_id_default_empty():
+    g = project.default_project()
+    # 新增遊戲時欄位齊全
+    assert "custom_player" not in project.default_project()
+
+
+def test_name_tables_roundtrip(tmp_path):
+    p = tmp_path / "library.json"
     data = project.default_project()
-    data["name_table"] = {"zh_tw_1": "甲乙丙", "zh_tw_2": "丁戊"}
-    project.save_project(f, data)
-    assert "甲乙丙" in f.read_text(encoding="utf-8")
-    proj, _ = project.load_project(f)
-    assert proj["name_table"] == {"zh_tw_1": "甲乙丙", "zh_tw_2": "丁戊"}
+    data["name_tables"] = [
+        {"id": "t1", "name": "甲表", "zh_tw_1": "甲乙丙", "zh_tw_2": "丁戊"},
+    ]
+    data["games"] = [{"folder": "a", "label": "遊戲甲", "name_table_id": "t1"}]
+    project.save_project(p, data)
+    proj, _ = project.load_project(p)
+    assert proj["name_tables"][0] == {
+        "id": "t1", "name": "甲表", "zh_tw_1": "甲乙丙", "zh_tw_2": "丁戊"}
+    assert proj["games"][0]["name_table_id"] == "t1"
 
 
-def test_name_table_fills_missing(tmp_path):
-    f = tmp_path / "library.json"
-    f.write_text(json.dumps({"games": []}), encoding="utf-8")
-    proj, _ = project.load_project(f)
-    assert proj["name_table"] == {"zh_tw_1": "", "zh_tw_2": ""}
+def test_game_name_table_id_dropped_when_table_missing(tmp_path):
+    p = tmp_path / "library.json"
+    data = project.default_project()
+    data["games"] = [{"folder": "a", "label": "x", "name_table_id": "nope"}]
+    project.save_project(p, data)
+    proj, _ = project.load_project(p)
+    # 參照不存在的字表 → 設回空字串
+    assert proj["games"][0]["name_table_id"] == ""
+
+
+def test_legacy_name_table_migrates_to_one_table(tmp_path):
+    p = tmp_path / "library.json"
+    # 舊格式：單一 name_table 物件 + 遊戲 custom_player 布林
+    legacy = {
+        "version": 1, "lib_name": "L", "icon": "i", "soundfont": "s", "out": "dist",
+        "name_table": {"zh_tw_1": "甲乙", "zh_tw_2": "丙"},
+        "games": [
+            {"folder": "a", "label": "舊自訂", "custom_player": True},
+            {"folder": "b", "label": "舊一般", "custom_player": False},
+        ],
+    }
+    p.write_text(__import__("json").dumps(legacy, ensure_ascii=False), encoding="utf-8")
+    proj, _ = project.load_project(p)
+    tables = proj["name_tables"]
+    assert len(tables) == 1
+    assert tables[0]["name"] == "自訂字表"
+    assert tables[0]["zh_tw_1"] == "甲乙" and tables[0]["zh_tw_2"] == "丙"
+    mid = tables[0]["id"]
+    assert proj["games"][0]["name_table_id"] == mid   # custom_player True → 指向遷移字表
+    assert proj["games"][1]["name_table_id"] == ""     # False → 空
+
+
+def test_legacy_empty_name_table_no_migration(tmp_path):
+    p = tmp_path / "library.json"
+    legacy = {"version": 1, "name_table": {"zh_tw_1": "", "zh_tw_2": ""},
+              "games": [{"folder": "a", "label": "x"}]}
+    p.write_text(__import__("json").dumps(legacy, ensure_ascii=False), encoding="utf-8")
+    proj, _ = project.load_project(p)
+    assert proj["name_tables"] == []
+    assert proj["games"][0]["name_table_id"] == ""
 
 
 def test_all_tags_roundtrip(tmp_path):
@@ -140,17 +184,6 @@ def test_all_tags_roundtrip(tmp_path):
     assert "漢化" in f.read_text(encoding="utf-8")
     proj, _ = project.load_project(f)
     assert proj["all_tags"] == ["RPG", "漢化"]
-
-
-def test_game_custom_player_flag(tmp_path):
-    f = tmp_path / "library.json"
-    f.write_text(json.dumps({"games": [
-        {"folder": "a", "label": "甲", "custom_player": True},
-        {"folder": "b", "label": "乙"},
-    ]}), encoding="utf-8")
-    proj, _ = project.load_project(f)
-    assert proj["games"][0]["custom_player"] is True
-    assert proj["games"][1]["custom_player"] is False  # 預設 False
 
 
 def test_missing_sources_flags_empty_and_invalid(tmp_path):

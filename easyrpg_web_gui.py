@@ -120,7 +120,7 @@ class GameDialog(tk.Toplevel):
             "cover": self.v_cover.get().strip() or None,
             "rtp": rtp or None,
             "tags": list(self.selected_tags),
-            "custom_player": bool(self.v_custom.get()),
+            "name_table_id": "",
         }
         self.destroy()
 
@@ -135,7 +135,7 @@ class App:
         proj, warning = project.load_project(self.project_path)
         self.games: list = [dict(g) for g in proj["games"]]
         self.all_tags: list = list(proj["all_tags"])
-        self.name_table: dict = dict(proj["name_table"])
+        self.name_tables: list = list(proj["name_tables"])
         self.new_tag = tk.StringVar()
         self.lib_name = tk.StringVar(value=proj["lib_name"])
         self.icon = tk.StringVar(value=proj["icon"])
@@ -223,7 +223,7 @@ class App:
             cover = Path(g["cover"]).name if g.get("cover") else "（預設）"
             rtp = Path(g["rtp"]).name if g.get("rtp") else "（無）"
             tags = "、".join(g.get("tags") or [])
-            custom = "✓" if g.get("custom_player") else ""
+            custom = "✓" if g.get("name_table_id") else ""
             self.tree.insert("", "end",
                              values=(g.get("label") or "", folder_disp, cover, rtp, tags, custom))
 
@@ -259,12 +259,12 @@ class App:
             "soundfont": self.soundfont.get(),
             "out": self.out.get(),
             "all_tags": list(self.all_tags),
-            "name_table": dict(self.name_table),
+            "name_tables": list(self.name_tables),
             "games": [
                 {"folder": str(g.get("folder") or ""), "label": g.get("label") or "",
                  "cover": g.get("cover") or None, "rtp": g.get("rtp") or None,
                  "tags": list(g.get("tags") or []),
-                 "custom_player": bool(g.get("custom_player"))}
+                 "name_table_id": str(g.get("name_table_id") or "")}
                 for g in self.games
             ],
         })
@@ -292,8 +292,7 @@ class App:
         dlg = GameDialog(self.root, str(g.get("folder") or ""), g.get("label") or "",
                          g.get("cover") or "", g.get("rtp") or "",
                          tags=list(g.get("tags") or []),
-                         available_tags=list(self.all_tags),
-                         custom_player=bool(g.get("custom_player")))
+                         available_tags=list(self.all_tags))
         self.root.wait_window(dlg)
         if dlg.result:
             self.games[i] = dlg.result
@@ -391,12 +390,13 @@ class NameTableDialog(tk.Toplevel):
             row=0, column=0, sticky="w", padx=8, pady=(8, 0))
         self.t1 = ScrolledText(self, width=46, height=5)
         self.t1.grid(row=1, column=0, padx=8)
-        self.t1.insert("1.0", app.name_table.get("zh_tw_1", ""))
+        first = app.name_tables[0] if app.name_tables else {}
+        self.t1.insert("1.0", first.get("zh_tw_1", ""))
         ttk.Label(self, text="漢二（第二頁）").grid(
             row=2, column=0, sticky="w", padx=8, pady=(8, 0))
         self.t2 = ScrolledText(self, width=46, height=5)
         self.t2.grid(row=3, column=0, padx=8)
-        self.t2.insert("1.0", app.name_table.get("zh_tw_2", ""))
+        self.t2.insert("1.0", first.get("zh_tw_2", ""))
 
         bar = ttk.Frame(self)
         bar.grid(row=4, column=0, pady=8)
@@ -412,7 +412,13 @@ class NameTableDialog(tk.Toplevel):
 
     def _save(self):
         a, b = self._collect()
-        self.app.name_table = {"zh_tw_1": a, "zh_tw_2": b}
+        if self.app.name_tables:
+            self.app.name_tables[0]["zh_tw_1"] = a
+            self.app.name_tables[0]["zh_tw_2"] = b
+        else:
+            import slugify as _slugify
+            tid = _slugify.hash_slug("自訂字表", set())
+            self.app.name_tables = [{"id": tid, "name": "自訂字表", "zh_tw_1": a, "zh_tw_2": b}]
         self.app._save()
 
     def _rebuild(self):
