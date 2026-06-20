@@ -114,10 +114,15 @@ def test_name_tables_default_empty():
     assert project.default_project()["name_tables"] == []
 
 
-def test_game_name_table_id_default_empty():
-    g = project.default_project()
-    # 新增遊戲時欄位齊全
-    assert "custom_player" not in project.default_project()
+def test_normalized_game_has_name_table_id_not_custom_player(tmp_path):
+    # 正規化後的遊戲帶 name_table_id（空字串預設），不再有舊的 custom_player 欄位
+    f = tmp_path / "library.json"
+    f.write_text(json.dumps({"games": [{"folder": "a", "label": "甲"}]}),
+                 encoding="utf-8")
+    proj, _ = project.load_project(f)
+    g = proj["games"][0]
+    assert g["name_table_id"] == ""
+    assert "custom_player" not in g
 
 
 def test_name_tables_roundtrip(tmp_path):
