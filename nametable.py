@@ -8,6 +8,7 @@ from __future__ import annotations
 import re
 
 ROWS, COLS = 9, 10
+CAPACITY = 8 * COLS + 6  # 每頁可填字數（前 8 列全填 + 第 9 列前 6 格）＝86
 _NEXT = object()  # NEXT_PAGE 控制格（輸出為裸識別字）
 _DONE = object()  # DONE 控制格
 
