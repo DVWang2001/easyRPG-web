@@ -122,17 +122,17 @@ def test_write_game_pages_custom_uses_player_custom_engine(tmp_path):
 
     a = (dist / "play-g1.html").read_text(encoding="utf-8")
     b = (dist / "play-g2.html").read_text(encoding="utf-8")
-    # 自訂遊戲頁載入 player-custom/ 引擎；非自訂用根目錄官方引擎
-    assert 'src="player-custom/index.js"' in a
+    # 自訂遊戲頁載入 player-custom-<id>/ 引擎；非自訂用根目錄官方引擎
+    assert 'src="player-custom-tid1/index.js"' in a
     assert 'src="index.js"' not in a
     assert 'src="index.js"' in b
     assert "player-custom" not in b
     # precache 帶各自的引擎檔
     pa = json.loads((dist / "precache-g1.json").read_text(encoding="utf-8"))
     pb = json.loads((dist / "precache-g2.json").read_text(encoding="utf-8"))
-    assert "player-custom/index.js" in pa and "player-custom/index.wasm" in pa
+    assert "player-custom-tid1/index.js" in pa and "player-custom-tid1/index.wasm" in pa
     assert "index.js" in pb and "index.wasm" in pb
-    assert "player-custom/index.js" not in pb
+    assert "player-custom-tid1/index.js" not in pb
     # 自訂(SDL3)頁注入 canvas 撐滿覆寫（修「畫面小、黑邊大」）；非自訂頁不注入
     assert "width:100vw" in a and "!important" in a
     assert "100vw" not in b
