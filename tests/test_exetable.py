@@ -62,60 +62,53 @@ def test_locate_tables_rejects_repeated_garbage():
     assert "艾" in allchars          # 真字表被選中
 
 
-def test_extract_collects_all_tables_dedup_han_only(tmp_path):
-    digits = list("１２３４５６７８９０")
-    # 兩段字表（中間夾數字列＋空白隔開）→ 應收集兩段的漢字、濾掉全形數字
-    blob = (b"\x00" * 50 + _table(list(POOL1)) + _table(digits)
-            + b"\x00" * 200 + _table(list(POOL2)) + b"\x00" * 50)
-    (tmp_path / "RPG_RT.exe").write_bytes(blob)
-    chars = exetable.extract_chars(tmp_path)
-    assert chars.startswith(POOL1[:10])
-    assert set(POOL1) <= set(chars) and set(POOL2) <= set(chars)   # 兩段都收進來
-    assert all(0x4E00 <= ord(c) <= 0x9FFF for c in chars)          # 只有漢字
-    assert "１" not in chars                                       # 全形數字被濾掉
-    assert len(chars) == len(set(chars))                           # 去重
-
-
-def test_extract_pages_reflow_two_pages(tmp_path):
+def test_extract_two_runs_map_to_two_pages_faithfully(tmp_path):
+    # 兩段（兩頁）→ 漢一=第一頁、漢二=第二頁，原字原序保留（忠實還原）
     blob = (b"\x00" * 50 + _table(list(POOL1)) + b"\x00" * 200
             + _table(list(POOL2)) + b"\x00" * 50)
     (tmp_path / "RPG_RT.exe").write_bytes(blob)
-    chars = exetable.extract_chars(tmp_path)
+    z1, z2 = exetable.extract_pages(tmp_path)
+    assert z1 == POOL1[:nametable.CAPACITY]
+    assert z2 == POOL2[:nametable.CAPACITY]
+
+
+def test_extract_keeps_fullwidth_latin_and_digits(tmp_path):
+    # 忠實還原：全形英文字母與數字也要原樣保留，不能只留漢字
+    page = list("ＡＢＣＤＥ１２３４５") + list(POOL1)   # 前段英數、後段漢字
+    (tmp_path / "RPG_RT.exe").write_bytes(b"\x00" * 40 + _table(page) + b"\x00" * 40)
+    z1, _ = exetable.extract_pages(tmp_path)
+    assert z1.startswith("ＡＢＣＤＥ１２３４５")          # 英數原樣保留
+    assert set(POOL1[:10]) <= set(z1)                     # 漢字也在
+
+
+def test_extract_single_run_splits_two_pages(tmp_path):
+    one = list(POOL1 + POOL2)  # 單段、>一頁容量 → 自動切兩頁
+    (tmp_path / "RPG_RT.exe").write_bytes(b"\x00" * 50 + _table(one) + b"\x00" * 50)
     z1, z2 = exetable.extract_pages(tmp_path)
     cap = nametable.CAPACITY
-    assert len(z1) == cap                 # 總字數 > 一頁 → 第一頁填滿
-    assert z1 == chars[:cap]
-    assert z2 == chars[cap:2 * cap]       # 其餘溢到第二頁
+    assert len(z1) == cap
+    assert z1 + z2 == "".join(one)[:2 * cap]
 
 
-def test_extract_pages_single_table_fits_one_page(tmp_path):
-    # 只有一段、字數 <=一頁 → 全進漢一，漢二空（如某些遊戲只有一頁鍵盤）
-    one = list(POOL1)[:nametable.CAPACITY]
+def test_extract_single_page_fits_one_page(tmp_path):
+    # 只有一段、字數 <=一頁 → 全進漢一，漢二空
+    one = list(POOL1)  # 70 <= 86
     (tmp_path / "RPG_RT.exe").write_bytes(b"\x00" * 50 + _table(one) + b"\x00" * 50)
     z1, z2 = exetable.extract_pages(tmp_path)
     assert z1 == "".join(one)
     assert z2 == ""
 
 
-def test_extract_pages_caps_at_two_pages(tmp_path):
-    big = list(POOL1 + POOL2)  # >172 不可能，但 >86 可測上限
-    (tmp_path / "RPG_RT.exe").write_bytes(b"\x00" * 50 + _table(big) + b"\x00" * 50)
-    z1, z2 = exetable.extract_pages(tmp_path)
-    assert len(z1) == nametable.CAPACITY
-    assert len(z1) + len(z2) <= 2 * nametable.CAPACITY
-
-
 def test_extract_handles_fullwidth_latin_prefix(tmp_path):
-    # 有些遊戲鍵盤前幾列是全形英文字母（Ａ-Ｚ ａ-ｚ），不該中斷字表偵測；
-    # 後段的漢字仍要抽到，且全形英文本身不進字表（只留漢字）。
+    # 鍵盤前幾列是全形英文字母（Ａ-Ｚ ａ-ｚ）時不該中斷字表偵測；
+    # 忠實還原 → 英文與後段漢字都要保留。
     latin = list("ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ"
                  "ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔ")          # 46 全形英文
     han = list("子力小大天中太夫月幻日毛文古艾白玉世冬加卡平多巧弗米西安")  # 28 漢字
     (tmp_path / "RPG_RT.exe").write_bytes(b"\x00" * 40 + _table(latin + han) + b"\x00" * 40)
     chars = exetable.extract_chars(tmp_path)
-    assert set("子力小大天中太夫") <= set(chars)             # 漢字被抽到
-    assert "Ａ" not in chars and "ａ" not in chars            # 全形英文被濾掉
-    assert all(0x4E00 <= ord(c) <= 0x9FFF for c in chars)
+    assert set("子力小大天中太夫") <= set(chars)             # 漢字保留
+    assert "Ａ" in chars and "ａ" in chars                   # 全形英文也保留（忠實）
 
 
 def test_is_keyboard_cell_accepts_fullwidth_latin():

@@ -115,46 +115,44 @@ def locate_tables(data: bytes, encoding: str = "cp950",
     return best
 
 
-def _collect_chars(runs) -> str:
-    """把所有字表段的漢字依『檔案位移順序』去重串起來。
-
-    遊戲的鍵盤可能只有一段（一頁）或多段（多頁）；漢一/漢二是 EasyRPG 鍵盤的兩頁，
-    不是遊戲固有結構，故這裡只收集字、不假設頁數。
-    """
-    seen, out = set(), []
-    for _, cells in sorted(runs, key=lambda r: r[0]):
-        for c in cells:
-            if _is_han(c) and c not in seen:
-                seen.add(c)
-                out.append(c)
-    return "".join(out)
-
-
-def extract_chars(game_folder, log=None) -> str:
-    """讀 RPG_RT.exe → 定位所有字表 → 回傳該遊戲鍵盤的名字用字（去重、依序）。找不到回 ""。"""
-    folder = Path(game_folder)
-    exe = folder / "RPG_RT.exe"
+def _game_runs(game_folder, log):
+    """讀 RPG_RT.exe → 定位字表段（每段＝遊戲鍵盤的一頁）。找不到回 []。"""
+    exe = Path(game_folder) / "RPG_RT.exe"
     if not exe.exists():
         if log:
             log(f"找不到 {exe}")
-        return ""
-    enc = read_encoding(folder)
-    runs = locate_tables(exe.read_bytes(), enc)
-    if not runs:
-        if log:
-            log("RPG_RT.exe 內找不到鍵盤字表（可能無內嵌或編碼不符）。")
-        return ""
-    return _collect_chars(runs)
+        return []
+    runs = locate_tables(exe.read_bytes(), read_encoding(game_folder))
+    if not runs and log:
+        log("RPG_RT.exe 內找不到鍵盤字表（可能無內嵌或編碼不符）。")
+    return runs
+
+
+def extract_chars(game_folder, log=None) -> str:
+    """回傳遊戲鍵盤所有格的字（忠實保留：漢字＋全形英數＋符號），依頁序串接。找不到回 ""。"""
+    runs = sorted(_game_runs(game_folder, log), key=lambda r: r[0])
+    return "".join("".join(cells) for _, cells in runs)
 
 
 def extract_pages(game_folder, log=None):
-    """抽出名字用字後，依 EasyRPG 兩頁（各 nametable.CAPACITY 字）切成 (zh_tw_1, zh_tw_2)。
+    """忠實還原遊戲鍵盤 → 回 (zh_tw_1, zh_tw_2)。
 
-    一律把抽到的字依序填進 漢一(前段)/漢二(次段)，與遊戲原本有幾頁無關。找不到回 ("", "")。
+    目的是「忠實還原遊戲的字表」：每偵測到的頁＝一頁，原字原序保留（含全形英數字母與
+    符號，不只留漢字）。多頁 → 漢一=第一頁、漢二=第二頁；單頁超過一頁容量 → 自動切兩頁。
+    各頁上限 nametable.CAPACITY 字。找不到回 ("", "")。
     """
-    chars = extract_chars(game_folder, log=log)
+    runs = _game_runs(game_folder, log)
+    if not runs:
+        return ("", "")
+    # 取最像字表的兩段（多樣性最高），再依檔案位移＝頁序排列
+    runs = sorted(runs, key=lambda r: _diversity(r[1]), reverse=True)[:2]
+    runs = sorted(runs, key=lambda r: r[0])
     cap = nametable.CAPACITY
-    z1, z2 = chars[:cap], chars[cap:2 * cap]
-    if log and chars:
-        log(f"抽到 {len(chars)} 個名字用字（漢一 {len(z1)}、漢二 {len(z2)}）。")
+    pages = ["".join(cells) for _, cells in runs]
+    if len(pages) == 1:
+        z1, z2 = pages[0][:cap], pages[0][cap:2 * cap]
+    else:
+        z1, z2 = pages[0][:cap], pages[1][:cap]
+    if log:
+        log(f"抽到字表：漢一 {len(z1)} 字、漢二 {len(z2)} 字（忠實含英數/符號）。")
     return (z1, z2)
