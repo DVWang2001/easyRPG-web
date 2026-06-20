@@ -12,6 +12,7 @@ from tkinter.scrolledtext import ScrolledText
 
 import customplayer
 import easyrpg_web_build as core
+import exetable
 import project
 import slugify
 
@@ -22,13 +23,14 @@ class GameDialog(tk.Toplevel):
     """加入/編輯單一遊戲：原始資料夾 + 名稱 + 封面（選填）+ RTP（勾選＋資料夾）。回傳 dict 或 None。"""
 
     def __init__(self, parent, folder="", label="", cover="", rtp="", tags=(),
-                 available_tags=(), name_table_id="", name_tables=()):
+                 available_tags=(), name_table_id="", name_tables=(), app=None):
         super().__init__(parent)
         self.title("遊戲設定")
         self.result = None
         self.transient(parent)
         self.grab_set()
 
+        self.app = app
         self.name_tables = list(name_tables)
         self._nt_id = name_table_id
         self.v_folder = tk.StringVar(value=folder)
@@ -68,6 +70,9 @@ class GameDialog(tk.Toplevel):
                     if t["id"] == self._nt_id), 0)
         self.cb_nt.current(cur)
         self.cb_nt.grid(row=7, column=1, sticky="w", padx=4, pady=(6, 0))
+        self.btn_exe = ttk.Button(self, text="從EXE抽字表", width=12,
+                                  command=self._extract_from_exe)
+        self.btn_exe.grid(row=7, column=2, padx=4, pady=(6, 0))
         bar = ttk.Frame(self)
         bar.grid(row=8, column=0, columnspan=3, pady=8)
         ttk.Button(bar, text="確定", command=self._ok).pack(side="left", padx=4)
@@ -135,6 +140,83 @@ class GameDialog(tk.Toplevel):
         if i <= 0:
             return ""
         return self.name_tables[i - 1]["id"]
+
+    def _extract_from_exe(self):
+        """掃描遊戲 RPG_RT.exe 抽出取名鍵盤字表，填入選定（或新建）的字表。"""
+        folder = self.v_folder.get().strip()
+        if not folder:
+            messagebox.showerror("缺少資料夾", "請先選擇遊戲的原始資料夾", parent=self)
+            return
+        self.btn_exe.configure(state="disabled")
+
+        def work():
+            try:
+                z1, z2 = exetable.extract_pages(folder)
+                err = ""
+            except Exception as e:  # noqa: BLE001 — 回報任何錯誤給使用者
+                z1, z2, err = "", "", str(e)
+            self.after(0, lambda: self._apply_extracted(z1, z2, err))
+
+        threading.Thread(target=work, daemon=True).start()
+
+    def _apply_extracted(self, z1, z2, err):
+        self.btn_exe.configure(state="normal")
+        if err:
+            messagebox.showerror("抽取失敗", err, parent=self)
+            return
+        if not z1 and not z2:
+            messagebox.showwarning(
+                "找不到字表",
+                "這個遊戲的 RPG_RT.exe 裡找不到取名鍵盤字表\n"
+                "（可能沒有內嵌、編碼不是 Big5，或路徑無效）。請手動輸入。", parent=self)
+            return
+        table = self._target_table()
+        if table is None:
+            return
+        table["zh_tw_1"], table["zh_tw_2"] = z1, z2
+        if self.app is not None:
+            self.app._save()
+            self.app._refresh_tree()
+        messagebox.showinfo(
+            "已抽出字表",
+            f"已把 {len(z1) + len(z2)} 個字填入字表「{table['name']}」。\n\n"
+            f"漢一：{z1[:30]}…\n漢二：{z2[:30] or '（無）'}\n\n"
+            "可到「字表管理 → 編輯字格」微調，再按「重建」。", parent=self)
+
+    def _new_table(self):
+        """以遊戲名新建一個字表，加入清單並更新下拉選單後回傳該 dict。"""
+        label = self.v_label.get().strip() or "新字表"
+        taken = {t["id"] for t in self.app.name_tables}
+        table = {"id": slugify.hash_slug(label, taken), "name": label,
+                 "zh_tw_1": "", "zh_tw_2": ""}
+        self.app.name_tables.append(table)
+        self.name_tables.append(table)
+        self._nt_labels = ["（無）"] + [t["name"] for t in self.name_tables]
+        self.cb_nt.configure(values=self._nt_labels)
+        self.cb_nt.current(len(self.name_tables))  # 選取剛新建的（清單最後一個）
+        return table
+
+    def _target_table(self):
+        """決定要填入的字表：已選用該字表；被多遊戲共用時改建新表；未選則新建。"""
+        i = self.cb_nt.current()
+        if i > 0:
+            table = self.name_tables[i - 1]
+            if self.app is not None:
+                others = [g for g in self.app.games
+                          if g.get("name_table_id") == table["id"]
+                          and (g.get("folder") or "") != self.v_folder.get().strip()]
+                if others and messagebox.askyesno(
+                        "字表被共用",
+                        f"字表「{table['name']}」還有其他 {len(others)} 個遊戲在用。\n"
+                        "要改成「另建新字表」避免影響它們嗎？\n"
+                        "（是＝另建新表；否＝直接覆寫共用字表）", parent=self):
+                    return self._new_table()
+            return table
+        if self.app is None:
+            messagebox.showinfo("請先選字表",
+                                "請先在下拉選一個字表，或先建立一個字表。", parent=self)
+            return None
+        return self._new_table()
 
 
 class App:
@@ -290,7 +372,7 @@ class App:
 
     def _add(self):
         dlg = GameDialog(self.root, available_tags=list(self.all_tags),
-                         name_tables=self.name_tables)
+                         name_tables=self.name_tables, app=self)
         self.root.wait_window(dlg)
         if dlg.result:
             self.games.append(dlg.result)
@@ -308,7 +390,7 @@ class App:
                          tags=list(g.get("tags") or []),
                          available_tags=list(self.all_tags),
                          name_table_id=str(g.get("name_table_id") or ""),
-                         name_tables=self.name_tables)
+                         name_tables=self.name_tables, app=self)
         self.root.wait_window(dlg)
         if dlg.result:
             self.games[i] = dlg.result

@@ -22,6 +22,57 @@ def _make_root():
         pytest.skip("此環境無法初始化 Tk（無顯示）")
 
 
+def test_gamedialog_extract_fills_selected_table(tmp_path, monkeypatch):
+    import easyrpg_web_gui as gui
+    monkeypatch.setattr(gui.messagebox, "showinfo", lambda *a, **k: None)
+    root = _make_root()
+    try:
+        app = gui.App(root, project_path=tmp_path / "library.json")
+        tid = gui.slugify.hash_slug("甲表")
+        app.name_tables = [{"id": tid, "name": "甲表", "zh_tw_1": "", "zh_tw_2": ""}]
+        dlg = gui.GameDialog(root, folder="C:/g", label="甲",
+                             name_table_id=tid, name_tables=app.name_tables, app=app)
+        dlg._apply_extracted("甲乙丙", "丁戊", "")     # 模擬抽取結果填入選定字表
+        assert app.name_tables[0]["zh_tw_1"] == "甲乙丙"
+        assert app.name_tables[0]["zh_tw_2"] == "丁戊"
+        dlg.destroy()
+    finally:
+        root.destroy()
+
+
+def test_gamedialog_extract_creates_table_when_none_selected(tmp_path, monkeypatch):
+    import easyrpg_web_gui as gui
+    monkeypatch.setattr(gui.messagebox, "showinfo", lambda *a, **k: None)
+    root = _make_root()
+    try:
+        app = gui.App(root, project_path=tmp_path / "library.json")
+        assert app.name_tables == []
+        dlg = gui.GameDialog(root, folder="C:/g", label="乙遊戲",
+                             name_tables=app.name_tables, app=app)   # 未選字表
+        dlg._apply_extracted("子丑", "寅卯", "")
+        assert len(app.name_tables) == 1                  # 自動新建
+        assert app.name_tables[0]["name"] == "乙遊戲"
+        assert app.name_tables[0]["zh_tw_1"] == "子丑"
+        dlg.destroy()
+    finally:
+        root.destroy()
+
+
+def test_gamedialog_extract_nothing_found_leaves_tables(tmp_path, monkeypatch):
+    import easyrpg_web_gui as gui
+    monkeypatch.setattr(gui.messagebox, "showwarning", lambda *a, **k: None)
+    root = _make_root()
+    try:
+        app = gui.App(root, project_path=tmp_path / "library.json")
+        dlg = gui.GameDialog(root, folder="C:/g", label="丙",
+                             name_tables=app.name_tables, app=app)
+        dlg._apply_extracted("", "", "")                  # 找不到 → 不建表
+        assert app.name_tables == []
+        dlg.destroy()
+    finally:
+        root.destroy()
+
+
 def test_app_loads_existing_library(tmp_path):
     import easyrpg_web_gui as gui
     lib = tmp_path / "library.json"
