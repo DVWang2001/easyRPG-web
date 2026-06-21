@@ -1,0 +1,21 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // 攻略：公開可讀；登入才能建立（且作者＝本人、標題/內文長度受限）；
+    // 刪除＝作者本人或管理員；不允許修改。
+    match /games/{slug}/walkthroughs/{id} {
+      allow read: if true;
+      allow create: if request.auth != null
+        && request.resource.data.authorUid == request.auth.uid
+        && request.resource.data.title is string
+        && request.resource.data.title.size() > 0
+        && request.resource.data.title.size() <= 200
+        && request.resource.data.html is string
+        && request.resource.data.html.size() <= 50000;
+      allow delete: if request.auth != null
+        && (resource.data.authorUid == request.auth.uid
+            || request.auth.uid == 'YOUR_ADMIN_UID');
+      allow update: if false;
+    }
+  }
+}
