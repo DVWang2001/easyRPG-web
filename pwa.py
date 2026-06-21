@@ -133,7 +133,8 @@ def install_web_assets(dist) -> list:
     copied = []
     if WEB_DIR.exists():
         for p in sorted(WEB_DIR.iterdir()):
-            if p.is_file() and p.suffix in (".js", ".css"):
+            # 跳過 *.example.js 範本（金鑰範本不部署）
+            if p.is_file() and p.suffix in (".js", ".css") and not p.name.endswith(".example.js"):
                 shutil.copy2(p, dist / p.name)
                 copied.append(p.name)
     return copied
