@@ -128,17 +128,16 @@ function renderItem(id, data) {
 
 // ---- 圖片自動上傳（不走 base64）----
 async function uploadImage(file) {
-  if (imageUpload.provider === 'imgur') {
+  if (imageUpload.provider === 'imgbb') {
     const form = new FormData();
     form.append('image', file);
-    const res = await fetch('https://api.imgur.com/3/image', {
-      method: 'POST',
-      headers: { Authorization: 'Client-ID ' + imageUpload.clientId },
-      body: form,
-    });
-    if (!res.ok) throw new Error('imgur ' + res.status);
+    const res = await fetch(
+      'https://api.imgbb.com/1/upload?key=' + encodeURIComponent(imageUpload.apiKey),
+      { method: 'POST', body: form });
+    if (!res.ok) throw new Error('imgbb ' + res.status);
     const j = await res.json();
-    return j.data.link;
+    if (!j || !j.success || !j.data || !j.data.url) throw new Error('imgbb upload failed');
+    return j.data.url;
   }
   throw new Error('未設定圖床');
 }
