@@ -196,3 +196,13 @@ def test_write_game_pages_injects_walkthrough(tmp_path):
     assert "quill" in html and "purify" in html
     assert 'href="walkthrough.css"' in html
     assert 'type="module" src="walkthrough.js"' in html
+
+
+def test_write_game_pages_injects_pause_helper(tmp_path):
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    pwa.write_game_pages(dist, [{"label": "甲", "slug": "g", "cover_rel": None}])
+    html = (dist / "play-g.html").read_text(encoding="utf-8")
+    # 共用暫停 helper 與 emscripten 暫停/恢復呼叫
+    assert "window.__epPause" in html
+    assert "pauseMainLoop" in html and "resumeMainLoop" in html
