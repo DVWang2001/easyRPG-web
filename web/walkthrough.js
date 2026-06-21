@@ -105,7 +105,9 @@ function renderItem(id, data) {
 
   const body = document.createElement('div');
   body.className = 'wt-body';
-  body.innerHTML = DOMPurify.sanitize(data.html || '');  // 公開內容必經消毒
+  body.innerHTML = DOMPurify.sanitize(data.html || '', {
+    ALLOWED_URI_REGEXP: /^(?:https?|mailto):/i,
+  });  // 公開內容必經消毒；連結/圖片來源限 http(s)/mailto
   item.appendChild(body);
 
   const u = currentUser();
@@ -200,7 +202,7 @@ panel.querySelector('.wt-submit').onclick = async () => {
   const html = quill ? quill.root.innerHTML : '';
   if (!title) { alert('請輸入標題'); return; }
   if (title.length > 200) { alert('標題過長（上限 200 字）'); return; }
-  if (html.length > 50000) { alert('內文過長'); return; }
+  if (new Blob([html]).size > 50000) { alert('內文過長（請精簡或減少圖片數量）'); return; }
   try {
     await addDoc(collection(db, 'games', WT.slug, 'walkthroughs'), {
       title, html,
