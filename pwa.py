@@ -8,6 +8,7 @@ import time
 from pathlib import Path
 
 ICON_REL = "icons/icon.png"
+WEB_DIR = Path(__file__).resolve().parent / "web"
 
 
 def install_icon(dist, icon_path) -> str:
@@ -120,6 +121,22 @@ def write_service_worker(dist, build: str | None = None) -> Path:
     out = dist / "service-worker.js"
     out.write_text(SW_TEMPLATE.replace("__BUILD__", build), encoding="utf-8")
     return out
+
+
+def install_web_assets(dist) -> list:
+    """把 web/ 下的前端資產（js/css）複製進 dist；回傳複製的檔名清單。
+
+    firebase-config.js 含站長填的設定一併複製；firestore.rules 是給 Firestore
+    Console 貼的 artifact，不複製進 dist。
+    """
+    dist = Path(dist)
+    copied = []
+    if WEB_DIR.exists():
+        for p in sorted(WEB_DIR.iterdir()):
+            if p.is_file() and p.suffix in (".js", ".css"):
+                shutil.copy2(p, dist / p.name)
+                copied.append(p.name)
+    return copied
 
 
 import html as _html
