@@ -1,0 +1,36 @@
+/* 攻略面板：置中浮層 + 背景遮罩，深色配色與站一致 */
+#wt-panel { position: fixed; inset: 0; z-index: 11000; }
+#wt-panel[hidden] { display: none; }
+#wt-panel .wt-backdrop { position: absolute; inset: 0; background: rgba(0,0,0,.6); }
+#wt-panel .wt-dialog {
+  position: relative; max-width: 720px; margin: 5vh auto; max-height: 90vh;
+  display: flex; flex-direction: column; background: #1b1b1b; color: #eee;
+  border-radius: 14px; box-shadow: 0 12px 40px rgba(0,0,0,.6); overflow: hidden;
+  font-family: -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif;
+}
+#wt-panel .wt-head {
+  display: flex; align-items: center; gap: 10px; padding: 12px 16px;
+  border-bottom: 1px solid #333;
+}
+#wt-panel .wt-head .wt-gametitle { font-size: 16px; flex: 0 1 auto; }
+#wt-panel .wt-head .wt-auth { margin-left: auto; font-size: 12px; color: #9ca3af; }
+#wt-panel .wt-head .wt-close { background: none; border: none; color: #cbd5e1; font-size: 18px; cursor: pointer; }
+#wt-panel button { cursor: pointer; }
+#wt-panel .wt-auth button, #wt-panel .wt-new, #wt-panel .wt-submit, #wt-panel .wt-cancel, #wt-panel .wt-del {
+  border: 1px solid #3a3a3a; background: #1f2937; color: #cbd5e1;
+  border-radius: 8px; padding: 4px 10px; font-size: 13px;
+}
+#wt-panel .wt-list { overflow: auto; padding: 12px 16px; flex: 1 1 auto; }
+#wt-panel .wt-empty { color: #888; }
+#wt-panel .wt-item { border: 1px solid #2a2a2a; border-radius: 10px; margin-bottom: 10px; padding: 8px 12px; }
+#wt-panel .wt-item summary { cursor: pointer; color: #e5e7eb; }
+#wt-panel .wt-body { margin-top: 8px; line-height: 1.7; word-break: break-word; }
+#wt-panel .wt-body img { max-width: 100%; height: auto; border-radius: 6px; }
+#wt-panel .wt-del { margin-top: 8px; border-color: #7f1d1d; color: #fca5a5; }
+#wt-panel .wt-compose { border-top: 1px solid #333; padding: 12px 16px; }
+#wt-panel .wt-title {
+  width: 100%; box-sizing: border-box; margin-bottom: 8px; padding: 8px 10px;
+  border-radius: 8px; border: 1px solid #333; background: #111; color: #eee; font-size: 15px;
+}
+#wt-panel .wt-quill { background: #fff; color: #111; border-radius: 8px; min-height: 160px; }
+#wt-panel .wt-editor-bar { margin-top: 8px; display: flex; gap: 8px; }
