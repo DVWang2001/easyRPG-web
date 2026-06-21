@@ -55,5 +55,12 @@ service cloud.firestore {
         allow delete: if request.auth != null
           && (uid == request.auth.uid || request.auth.uid == 'YOUR_ADMIN_UID');
       }
+      // 收藏：完全私有，只有本人能讀寫；欄位只允許 addedAt（刪除時 request.resource.data 為 null）。
+      match /users/{uid}/favorites/{slug} {
+        allow read: if request.auth != null && request.auth.uid == uid;
+        allow write: if request.auth != null && request.auth.uid == uid
+          && (request.resource.data == null
+              || request.resource.data.keys().hasOnly(['addedAt']));
+      }
   }
 }
