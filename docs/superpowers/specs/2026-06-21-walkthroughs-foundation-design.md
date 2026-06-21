@@ -25,7 +25,9 @@ Firestore ＋ Google 登入 ＋ Quill 富文字 ＋ marked/DOMPurify）的設計
 2. 投稿權限：**Google 登入即可投稿、立即公開**；閱讀公開不需登入；管理員（站長）可刪任意。
 3. 入口：每個遊戲頁左上角一顆「**攻略**」鈕（和導出/導入存檔同排、全螢幕時一起隱藏），
    點開的面板**既可看也可投稿**。
-4. 編輯器：**Quill 富文字**；存 HTML，顯示時 DOMPurify 消毒。v1 **不放圖片內嵌**。
+4. 編輯器：**Quill 富文字**；存 HTML，顯示時 DOMPurify 消毒。
+5. 圖片：可內嵌，但**自動上傳到免費圖床（免綁信用卡），HTML 只存回傳的圖片網址**（非 base64），
+   讓 Firestore 文件維持很小。
 
 ## 架構總覽
 
@@ -48,6 +50,8 @@ Firebase 專案（使用者新建）
 
 - **`web/firebase-config.js`**：`export const firebaseConfig = {...}`，由使用者貼上新專案
   的 web config。Firebase web config 非機密（安全靠 Firestore 規則），可進版控。
+  同檔也放圖床設定 `export const imageUpload = { provider:"imgur", clientId:"..." }`
+  （由使用者填；同屬「使用者填自己的 key」的設定）。
 - **`web/account.js`**（ES module，地基核心）：
   - 初始化 Firebase App、Auth、Firestore（用 gstatic CDN 的 firebase 9.x 模組）。
   - 匯出：`db`、`auth`、`currentUser()`、`signInWithGoogle()`、`signOut()`、
@@ -90,8 +94,14 @@ Firebase 專案（使用者新建）
       每筆顯示標題/作者/日期，點開渲染 `DOMPurify.sanitize(html)`；作者本人或管理員顯示「刪除」。
     - 「＋ 投稿攻略」：未登入→引導登入；已登入→Quill 編輯器（標題輸入 ＋ 內文）＋送出。
       送出寫入 `{ title, html, authorName, authorUid, createdAt: serverTimestamp() }`。
-  - Quill 工具列（v1）：標題層級、粗體、斜體、清單（有序/無序）、連結。**無圖片**。
-  - 送出前前端檢查長度（標題 1–200、內文 ≤50,000）；後端規則再把關一次。
+  - Quill 工具列：標題層級、粗體、斜體、清單（有序/無序）、連結、**圖片**。
+  - **圖片自動上傳（自訂 Quill image handler）**：使用者選圖 → 不走 Quill 預設的 base64 內嵌，
+    改成上傳到設定的免費圖床 → 取得網址 → 以該網址插入 `<img>`。上傳中顯示「上傳中…」、
+    失敗顯示訊息且不影響其餘內容。圖床為**可設定**（避免綁死單一服務）：預設用 imgur 匿名
+    上傳（需 Client-ID，放在設定檔；CORS 友善），實作時驗證 CORS/可用性，必要時換家
+    （如 catbox.moe）。圖檔大小上限（如 ≤5 MB）前端先擋。
+  - 送出前前端檢查長度（標題 1–200、內文 HTML ≤50,000；因圖片只存網址，文件維持很小）；
+    後端規則再把關一次。
 - **`web/walkthrough.css`**：面板與按鈕樣式（深色、與站一致；面板為置中浮層 ＋ 背景遮罩）。
 
 ### 第三方資源（CDN）
@@ -121,8 +131,11 @@ Quill 1.3.7、DOMPurify、Firebase 9.x（gstatic 模組）。投稿/讀取本來
 
 - `firebase-config.js` 未填（仍是佔位符）→「攻略」面板顯示「站長尚未設定後端」，不報未捕捉錯誤。
 - 網路/Firestore 失敗 → 面板顯示友善訊息，可重試。
-- 投稿驗證：空標題/超長 → 前端擋下並提示。
-- XSS：**顯示任何使用者 HTML 一律 `DOMPurify.sanitize` 後才插入 DOM**（公開投稿必要防線）。
+- 投稿驗證：空標題/超長/過大圖檔 → 前端擋下並提示。
+- 圖片上傳失敗（圖床無回應/超額/CORS）→ 提示「圖片上傳失敗，可改貼網址或稍後再試」，
+  不影響其餘文字內容。
+- XSS：**顯示任何使用者 HTML 一律 `DOMPurify.sanitize` 後才插入 DOM**（公開投稿必要防線）；
+  允許 `<img>` 但只放行 `http(s)` 來源，移除事件屬性（如 onerror）。
 
 ## 測試
 
@@ -130,12 +143,18 @@ Quill 1.3.7、DOMPurify、Firebase 9.x（gstatic 模組）。投稿/讀取本來
   - `pwa.write_game_pages` 注入「攻略」鈕、`window.__WT`（含正確 slug/title）、`walkthrough.js`/
     `walkthrough.css` 引用。
   - 建置會把 `web/` 的資產複製進 `dist/`。
-- **前端（手動，沿用 workqueue 驗證過的模式）**：登入 → 投稿 → 在另一裝置/無痕看到 → 刪除。
+- **前端（手動，沿用 workqueue 驗證過的模式）**：登入 → 投稿（含插入圖片，確認圖片自動上傳、
+  HTML 存的是網址而非 base64）→ 在另一裝置/無痕看到 → 刪除。
 - Firebase 規則：可用 Firestore 規則模擬器或手動驗（未登入不能寫、非作者非管理員不能刪）。
+
+## 已知風險
+
+- **圖床第三方依賴**：免費圖床（imgur 等）可能改政策/限額/刪舊圖。故圖床做成可設定、可更換；
+  圖片失效時攻略文字仍在。日後若要更穩可改 Firebase Storage（需 Blaze）。
 
 ## 非目標（YAGNI，本輪不做）
 
-- 圖片內嵌/上傳（之後用 Firebase Storage 另議）。
+- 圖片改用 Firebase Storage（本輪用免費圖床；之後要更穩再議）。
 - 投稿審核流程（本輪「立即公開」）。
 - 留言、評分、收藏、雲端存檔、公告、檢舉、管理後台（各為後續輪次，疊在本地基上）。
 - 編輯既有攻略（本輪只允許新增與刪除）。
