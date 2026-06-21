@@ -28,5 +28,32 @@ service cloud.firestore {
         && request.resource.data.keys().hasOnly(
              ['title','html','authorName','authorUid','createdAt','updatedAt']);
     }
+      // 留言：公開可讀；登入才能建立（作者＝本人、純文字 1–500）；刪除＝作者或管理員；不可改。
+      match /games/{slug}/comments/{id} {
+        allow read: if true;
+        allow create: if request.auth != null
+          && request.resource.data.authorUid == request.auth.uid
+          && request.resource.data.text is string
+          && request.resource.data.text.size() > 0
+          && request.resource.data.text.size() <= 500
+          && request.resource.data.keys().hasOnly(['text','authorName','authorUid','createdAt']);
+        allow update: if false;
+        allow delete: if request.auth != null
+          && (resource.data.authorUid == request.auth.uid
+              || request.auth.uid == 'YOUR_ADMIN_UID');
+      }
+      // 評分：公開可讀；一人一票（doc id＝uid）；建立/更新需本人且 1–5；刪除＝本人或管理員。
+      match /games/{slug}/ratings/{uid} {
+        allow read: if true;
+        allow create, update: if request.auth != null
+          && uid == request.auth.uid
+          && request.resource.data.authorUid == request.auth.uid
+          && request.resource.data.stars is number
+          && request.resource.data.stars >= 1
+          && request.resource.data.stars <= 5
+          && request.resource.data.keys().hasOnly(['stars','authorUid','updatedAt']);
+        allow delete: if request.auth != null
+          && (uid == request.auth.uid || request.auth.uid == 'YOUR_ADMIN_UID');
+      }
   }
 }
