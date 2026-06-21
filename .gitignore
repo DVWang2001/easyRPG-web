@@ -8,3 +8,4 @@ library.json
 players/custom/
 players/build/_patched_window_keyboard.cpp
 web/firebase-config.js
+.pw-test/
