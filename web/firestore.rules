@@ -29,7 +29,7 @@ service cloud.firestore {
              ['title','html','authorName','authorUid','createdAt','updatedAt']);
     }
       // 留言：公開可讀；登入才能建立（作者＝本人、純文字 1–500）；刪除＝作者或管理員；不可改。
-      match /comments/{id} {
+      match /games/{slug}/comments/{id} {
         allow read: if true;
         allow create: if request.auth != null
           && request.resource.data.authorUid == request.auth.uid
@@ -43,7 +43,7 @@ service cloud.firestore {
               || request.auth.uid == 'YOUR_ADMIN_UID');
       }
       // 評分：公開可讀；一人一票（doc id＝uid）；建立/更新需本人且 1–5；刪除＝本人或管理員。
-      match /ratings/{uid} {
+      match /games/{slug}/ratings/{uid} {
         allow read: if true;
         allow create, update: if request.auth != null
           && uid == request.auth.uid
