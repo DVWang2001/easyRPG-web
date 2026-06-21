@@ -1,6 +1,6 @@
 // 攻略面板：讀/投稿/刪除某遊戲的攻略。依賴頁面注入的 window.__WT 與全域 Quill/DOMPurify。
 import {
-  collection, addDoc, getDocs, deleteDoc, doc, query, orderBy, serverTimestamp,
+  collection, addDoc, getDocs, deleteDoc, doc, query, orderBy, serverTimestamp, updateDoc,
 } from 'https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore.js';
 import {
   db, isReady, currentUser, onAuthChange, signInWithGoogle, signOutUser, isAdmin,
@@ -9,6 +9,7 @@ import { imageUpload } from './firebase-config.js';
 
 const WT = window.__WT || { slug: '', title: '' };
 let quill = null;
+let editingId = null;   // null＝新投稿；非 null＝正在編輯的攻略 id
 
 // ---- 浮層 DOM ----
 const panel = document.createElement('div');
@@ -43,9 +44,17 @@ const authEl = panel.querySelector('.wt-auth');
 const editorEl = panel.querySelector('.wt-editor');
 const quillEl = panel.querySelector('.wt-quill');
 const titleEl = panel.querySelector('.wt-title');
+const submitBtn = panel.querySelector('.wt-submit');
 
-function openPanel() { panel.hidden = false; loadList(); }
-function closePanel() { panel.hidden = true; }
+function openPanel() {
+  panel.hidden = false;
+  if (window.__epPause) window.__epPause(true);
+  loadList();
+}
+function closePanel() {
+  panel.hidden = true;
+  if (window.__epPause) window.__epPause(false);
+}
 
 const openBtn = document.getElementById('wt-open');
 if (openBtn) openBtn.onclick = () => {
@@ -100,7 +109,8 @@ function renderItem(id, data) {
   const date = (data.createdAt && data.createdAt.toDate)
     ? data.createdAt.toDate().toLocaleDateString() : '';
   sum.textContent = (data.title || '(無標題)') + ' — '
-    + (data.authorName || '匿名') + ' ' + date;
+    + (data.authorName || '匿名') + ' ' + date
+    + (data.updatedAt ? '（已編輯）' : '');
   item.appendChild(sum);
 
   const body = document.createElement('div');
@@ -111,7 +121,13 @@ function renderItem(id, data) {
   item.appendChild(body);
 
   const u = currentUser();
-  if (u && (u.uid === data.authorUid || isAdmin(u.uid))) {
+  if (u && u.uid === data.authorUid) {       // 只有作者本人能編輯
+    const ed = document.createElement('button');
+    ed.type = 'button'; ed.className = 'wt-edit'; ed.textContent = '編輯';
+    ed.onclick = () => startEdit(id, data);
+    item.appendChild(ed);
+  }
+  if (u && (u.uid === data.authorUid || isAdmin(u.uid))) {   // 作者或管理員能刪除
     const del = document.createElement('button');
     del.type = 'button'; del.className = 'wt-del'; del.textContent = '刪除';
     del.onclick = async () => {
@@ -185,15 +201,26 @@ function openEditor() {
     });
   }
 }
-panel.querySelector('.wt-new').onclick = () => {
-  if (!currentUser()) { signInWithGoogle().then(openEditor).catch(() => alert('登入失敗')); return; }
-  openEditor();
-};
-panel.querySelector('.wt-cancel').onclick = () => {
+function resetEditor() {
+  editingId = null;
   titleEl.value = '';
   if (quill) quill.setText('');
+  submitBtn.textContent = '送出';
   editorEl.hidden = true;
+}
+function startEdit(id, data) {
+  openEditor();                  // 確保 quill 已建立
+  editingId = id;
+  titleEl.value = data.title || '';
+  quill.clipboard.dangerouslyPasteHTML(data.html || '');
+  submitBtn.textContent = '更新';
+}
+panel.querySelector('.wt-new').onclick = () => {
+  const go = () => { openEditor(); editingId = null; titleEl.value = ''; quill.setText(''); submitBtn.textContent = '送出'; };
+  if (!currentUser()) { signInWithGoogle().then(go).catch(() => alert('登入失敗')); return; }
+  go();
 };
+panel.querySelector('.wt-cancel').onclick = resetEditor;
 panel.querySelector('.wt-submit').onclick = async () => {
   const u = currentUser();
   if (!u) { alert('請先登入'); return; }
@@ -203,15 +230,19 @@ panel.querySelector('.wt-submit').onclick = async () => {
   if (title.length > 200) { alert('標題過長（上限 200 字）'); return; }
   if (new Blob([html]).size > 50000) { alert('內文過長（請精簡或減少圖片數量）'); return; }
   try {
-    await addDoc(collection(db, 'games', WT.slug, 'walkthroughs'), {
-      title, html,
-      authorName: u.displayName || '匿名',
-      authorUid: u.uid,
-      createdAt: serverTimestamp(),
-    });
-    titleEl.value = '';
-    if (quill) quill.setText('');
-    editorEl.hidden = true;
+    if (editingId) {
+      await updateDoc(doc(db, 'games', WT.slug, 'walkthroughs', editingId), {
+        title, html, updatedAt: serverTimestamp(),
+      });
+    } else {
+      await addDoc(collection(db, 'games', WT.slug, 'walkthroughs'), {
+        title, html,
+        authorName: u.displayName || '匿名',
+        authorUid: u.uid,
+        createdAt: serverTimestamp(),
+      });
+    }
+    resetEditor();
     loadList();
-  } catch (e) { alert('投稿失敗，請稍後再試'); }
+  } catch (e) { alert(editingId ? '更新失敗，請稍後再試' : '投稿失敗，請稍後再試'); }
 };

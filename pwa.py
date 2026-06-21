@@ -192,6 +192,10 @@ background:rgba(31,41,55,.85);color:#cbd5e1;font:12px -apple-system,sans-serif;c
 <input id="savefile" type="file" accept=".zip" style="display:none"></div>
 <script>(function(){
 var SLUG=__SLUG__;
+window.__epPause=window.__epPause||(function(){var n=0;
+function P(){try{var p=(typeof easyrpgPlayer!=="undefined")&&easyrpgPlayer;if(p&&typeof p.pauseMainLoop==="function")p.pauseMainLoop();}catch(e){}}
+function R(){try{var p=(typeof easyrpgPlayer!=="undefined")&&easyrpgPlayer;if(p&&typeof p.resumeMainLoop==="function")p.resumeMainLoop();}catch(e){}}
+return function(on){if(on){if(++n===1)P();}else{if(n>0&&--n===0)R();}};})();
 var ui=document.getElementById("saveui"),inp=document.getElementById("savefile");
 function mod(){try{return (typeof easyrpgPlayer!=="undefined"&&easyrpgPlayer&&easyrpgPlayer.FS)?easyrpgPlayer:null;}catch(e){return null;}}
 function vis(){ui.style.display=(document.fullscreenElement||document.webkitFullscreenElement)?"none":"flex";}
@@ -236,12 +240,18 @@ while(i+4<=u.length&&dv.getUint32(i,true)===0x04034b50){
 var nlen=dv.getUint16(i+26,true),elen=dv.getUint16(i+28,true),csz=dv.getUint32(i+18,true);
 var name=new TextDecoder().decode(u.slice(i+30,i+30+nlen)),ds=i+30+nlen+elen;
 files.push({name:name,data:u.slice(ds,ds+csz)});i=ds+csz;}return files;}
-document.getElementById("saveexp").onclick=function(){var m=mod();if(!m){alert("遊戲尚未載入完成，請稍候");return;}
+document.getElementById("saveexp").onclick=function(){window.__epPause(true);try{
+var m=mod();if(!m){alert("遊戲尚未載入完成，請稍候");return;}
 var files=readSaves();if(!files.length){alert("找不到存檔（請先在遊戲裡存檔）");return;}
 var blob=new Blob([makeZip(files)],{type:"application/zip"});
 var a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=SLUG+"-saves.zip";a.click();
-setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},1000);};
-document.getElementById("saveimp").onclick=function(){if(!mod()){alert("遊戲尚未載入完成，請稍候");return;}inp.click();};
+setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},1000);
+}finally{window.__epPause(false);}};
+document.getElementById("saveimp").onclick=function(){if(!mod()){alert("遊戲尚未載入完成，請稍候");return;}
+window.__epPause(true);
+function onFocus(){window.removeEventListener("focus",onFocus);setTimeout(function(){window.__epPause(false);},300);}
+window.addEventListener("focus",onFocus);
+inp.click();};
 inp.onchange=function(){var f=inp.files[0];if(!f)return;var r=new FileReader();
 r.onload=function(){try{var files=readZip(new Uint8Array(r.result));if(!files.length){alert("檔案內沒有存檔");return;}
 var FS=mod().FS,dir=saveDir(FS,true)||guessDir();mkdirp(FS,dir);
