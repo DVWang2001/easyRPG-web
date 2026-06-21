@@ -8,6 +8,7 @@ import time
 from pathlib import Path
 
 ICON_REL = "icons/icon.png"
+WEB_DIR = Path(__file__).resolve().parent / "web"
 
 
 def install_icon(dist, icon_path) -> str:
@@ -122,6 +123,22 @@ def write_service_worker(dist, build: str | None = None) -> Path:
     return out
 
 
+def install_web_assets(dist) -> list:
+    """把 web/ 下的前端資產（js/css）複製進 dist；回傳複製的檔名清單。
+
+    firebase-config.js 含站長填的設定一併複製；firestore.rules 是給 Firestore
+    Console 貼的 artifact，不複製進 dist。
+    """
+    dist = Path(dist)
+    copied = []
+    if WEB_DIR.exists():
+        for p in sorted(WEB_DIR.iterdir()):
+            if p.is_file() and p.suffix in (".js", ".css"):
+                shutil.copy2(p, dist / p.name)
+                copied.append(p.name)
+    return copied
+
+
 import html as _html
 
 
@@ -170,7 +187,7 @@ z-index:10000;display:flex;gap:6px}
 #saveui button{padding:5px 10px;border-radius:8px;border:1px solid #3a3a3a;
 background:rgba(31,41,55,.85);color:#cbd5e1;font:12px -apple-system,sans-serif;cursor:pointer}
 #saveui button:active{background:#2563eb;color:#fff}</style>
-<div id="saveui"><button id="saveexp">導出存檔</button><button id="saveimp">導入存檔</button>
+<div id="saveui"><button id="wt-open">攻略</button><button id="saveexp">導出存檔</button><button id="saveimp">導入存檔</button>
 <input id="savefile" type="file" accept=".zip" style="display:none"></div>
 <script>(function(){
 var SLUG=__SLUG__;
@@ -231,6 +248,18 @@ files.forEach(function(fl){FS.writeFile(dir+"/"+fl.name,fl.data);});
 FS.syncfs(false,function(){alert("已導入 "+files.length+" 個存檔，將重新載入遊戲。");location.reload();});
 }catch(e){alert("導入失敗："+e);}};r.readAsArrayBuffer(f);inp.value="";};
 })();</script>
+"""
+
+
+# 攻略：Quill/DOMPurify（全域）＋ 該遊戲設定 ＋ 樣式/模組腳本。
+# __SLUG__/__TITLE__ 會被替換成 JSON 字串字面值。
+_WT_SNIPPET = """
+<link href="https://cdn.quilljs.com/1.3.7/quill.snow.css" rel="stylesheet">
+<link rel="stylesheet" href="walkthrough.css">
+<script src="https://cdn.quilljs.com/1.3.7/quill.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.8/dist/purify.min.js"></script>
+<script>window.__WT={slug:__SLUG__,title:__TITLE__};</script>
+<script type="module" src="walkthrough.js"></script>
 """
 
 
@@ -339,7 +368,11 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
             "Promise.all(ws);});}).catch(function(){});})();</script>\n"
         )
         save_snippet = _SAVE_UI.replace("__SLUG__", slug_js)
-        body_add = dl_snippet + save_snippet
+        wt_title_js = json.dumps(label).replace("<", "\\u003c")
+        wt_snippet = (_WT_SNIPPET
+                      .replace("__SLUG__", slug_js)
+                      .replace("__TITLE__", wt_title_js))
+        body_add = dl_snippet + save_snippet + wt_snippet
         if "</body>" in html:
             html = html.replace("</body>", body_add + "</body>", 1)
         else:

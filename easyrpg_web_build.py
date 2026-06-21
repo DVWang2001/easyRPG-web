@@ -176,6 +176,7 @@ def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
         for name in ("index.js", "index.wasm"):
             shutil.copy2(src / name, pc / name)
 
+    pwa.install_web_assets(out)   # 複製前端資產（account.js/walkthrough.js/…）進 dist
     _log("產生遊戲庫選單…", log)
     menu.write_menu(out, app_label, entries, icon_rel,
                     tag_categories=tag_categories)  # 寫新的 index.html（網格）

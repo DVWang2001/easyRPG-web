@@ -180,3 +180,19 @@ def test_write_game_pages_escapes_label(tmp_path):
 
     html = (dist / "play-g.html").read_text(encoding="utf-8")
     assert "<title>A &amp; B</title>" in html
+
+
+def test_write_game_pages_injects_walkthrough(tmp_path):
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    pwa.write_game_pages(dist, [{"label": "甲遊戲", "slug": "g1", "cover_rel": None}])
+    html = (dist / "play-g1.html").read_text(encoding="utf-8")
+    # 左上角「攻略」鈕（和存檔鈕同個 #saveui 容器，沿用全螢幕隱藏）
+    assert 'id="wt-open"' in html and "攻略" in html
+    # 該遊戲的設定（slug/title）注入給腳本
+    assert 'window.__WT=' in html
+    assert '"g1"' in html and '"甲遊戲"' in html
+    # Quill / DOMPurify / 模組腳本與樣式
+    assert "quill" in html and "purify" in html
+    assert 'href="walkthrough.css"' in html
+    assert 'type="module" src="walkthrough.js"' in html
