@@ -188,7 +188,7 @@ z-index:10000;display:flex;gap:6px}
 #saveui button{padding:5px 10px;border-radius:8px;border:1px solid #3a3a3a;
 background:rgba(31,41,55,.85);color:#cbd5e1;font:12px -apple-system,sans-serif;cursor:pointer}
 #saveui button:active{background:#2563eb;color:#fff}</style>
-<div id="saveui"><button id="wt-open">攻略</button><button id="saveexp">導出存檔</button><button id="saveimp">導入存檔</button>
+<div id="saveui"><button id="wt-open">攻略</button><button id="cm-open">留言</button><button id="saveexp">導出存檔</button><button id="saveimp">導入存檔</button>
 <input id="savefile" type="file" accept=".zip" style="display:none"></div>
 <script>(function(){
 var SLUG=__SLUG__;
@@ -276,6 +276,12 @@ _WT_SNIPPET = """
 <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.8/dist/purify.min.js"></script>
 <script>window.__WT={slug:__SLUG__,title:__TITLE__};</script>
 <script type="module" src="walkthrough.js"></script>
+"""
+
+# 留言＋評分：純前端模組（讀 _WT_SNIPPET 注入的 window.__WT；純文字，不需 Quill/DOMPurify）。
+_CM_SNIPPET = """
+<link rel="stylesheet" href="community.css">
+<script type="module" src="community.js"></script>
 """
 
 
@@ -388,7 +394,7 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
         wt_snippet = (_WT_SNIPPET
                       .replace("__SLUG__", slug_js)
                       .replace("__TITLE__", wt_title_js))
-        body_add = dl_snippet + save_snippet + wt_snippet
+        body_add = dl_snippet + save_snippet + wt_snippet + _CM_SNIPPET
         if "</body>" in html:
             html = html.replace("</body>", body_add + "</body>", 1)
         else:

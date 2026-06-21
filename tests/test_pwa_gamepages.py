@@ -209,3 +209,15 @@ def test_write_game_pages_injects_pause_helper(tmp_path):
     assert "suspend" in html and "AudioContext" in html  # 靜音
     assert "stopImmediatePropagation" in html  # 擋鍵盤
     assert "pauseMainLoop" not in html         # 不再停主迴圈
+
+
+def test_write_game_pages_injects_community(tmp_path):
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    pwa.write_game_pages(dist, [{"label": "甲遊戲", "slug": "g1", "cover_rel": None}])
+    html = (dist / "play-g1.html").read_text(encoding="utf-8")
+    # 左上角「留言」鈕（和攻略/存檔鈕同個 #saveui 容器）
+    assert 'id="cm-open"' in html and "留言" in html
+    # 樣式與模組腳本
+    assert 'href="community.css"' in html
+    assert 'type="module" src="community.js"' in html
