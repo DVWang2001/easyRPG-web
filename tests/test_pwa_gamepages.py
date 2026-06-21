@@ -231,3 +231,12 @@ def test_write_game_pages_injects_favorite(tmp_path):
     assert 'id="fav-btn"' in html
     assert 'href="favorites.css"' in html
     assert 'type="module" src="favorites.js"' in html
+
+
+def test_write_game_pages_injects_playtime(tmp_path):
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    pwa.write_game_pages(dist, [{"label": "甲遊戲", "slug": "g1", "cover_rel": None}])
+    html = (dist / "play-g1.html").read_text(encoding="utf-8")
+    assert 'id="pt-label"' in html
+    assert 'type="module" src="playtime.js"' in html

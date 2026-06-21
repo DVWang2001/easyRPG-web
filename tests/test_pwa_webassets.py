@@ -8,7 +8,7 @@ def test_install_web_assets_copies_js_css(tmp_path):
     # 受版控的前端資產都複製進 dist（firebase-config.js 已 gitignore，新 clone 不一定有，不在此斷言）
     for name in ("account.js", "walkthrough.js", "walkthrough.css",
                  "community.js", "community.css",
-                 "favorites.js", "favorites.css"):
+                 "favorites.js", "favorites.css", "playtime.js"):
         assert (dist / name).exists(), name
         assert name in copied
     # 規則檔是給 Console 用的 artifact，不部署
