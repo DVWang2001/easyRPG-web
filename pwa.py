@@ -192,10 +192,14 @@ background:rgba(31,41,55,.85);color:#cbd5e1;font:12px -apple-system,sans-serif;c
 <input id="savefile" type="file" accept=".zip" style="display:none"></div>
 <script>(function(){
 var SLUG=__SLUG__;
-window.__epPause=window.__epPause||(function(){var keys={},n=0;
-function P(){try{var p=(typeof easyrpgPlayer!=="undefined")&&easyrpgPlayer;if(p&&typeof p.pauseMainLoop==="function")p.pauseMainLoop();}catch(e){}}
-function R(){try{var p=(typeof easyrpgPlayer!=="undefined")&&easyrpgPlayer;if(p&&typeof p.resumeMainLoop==="function")p.resumeMainLoop();}catch(e){}}
-return function(on,key){key=key||"_";if(on){if(!keys[key]){keys[key]=1;if(++n===1)P();}}else{if(keys[key]){delete keys[key];if(--n===0)R();}}};})();
+// 假暫停：不停主迴圈（停了會讓 WebGL 畫布變黑且不回來），改成靜音音訊＋擋遊戲鍵盤。
+// 音訊在播放器內部的 SDL audioContext，頁面拿不到 → 在遊戲建立前包裹 AudioContext 建構子攔截實例。
+window.__epPause=window.__epPause||(function(){var keys={},n=0,ctxs=window.__epAudioCtxs=window.__epAudioCtxs||[];
+["AudioContext","webkitAudioContext"].forEach(function(nm){var C=window[nm];if(C&&!C.__epW){var W=function(o){var c=new C(o);ctxs.push(c);return c;};W.prototype=C.prototype;W.__epW=1;try{window[nm]=W;}catch(e){}}});
+function mute(on){ctxs.forEach(function(c){try{on?c.suspend():c.resume();}catch(e){}});}
+function block(e){if(!window.__epPaused)return;var t=e.target;if(t&&t.closest&&(t.closest("#wt-panel")||t.closest("#saveui")))return;e.stopImmediatePropagation();e.preventDefault();}
+["keydown","keyup","keypress"].forEach(function(ev){window.addEventListener(ev,block,true);});
+return function(on,key){key=key||"_";if(on){if(!keys[key]){keys[key]=1;if(++n===1){window.__epPaused=true;mute(true);}}}else{if(keys[key]){delete keys[key];if(--n===0){window.__epPaused=false;mute(false);}}}};})();
 var ui=document.getElementById("saveui"),inp=document.getElementById("savefile");
 function mod(){try{return (typeof easyrpgPlayer!=="undefined"&&easyrpgPlayer&&easyrpgPlayer.FS)?easyrpgPlayer:null;}catch(e){return null;}}
 function vis(){ui.style.display=(document.fullscreenElement||document.webkitFullscreenElement)?"none":"flex";}

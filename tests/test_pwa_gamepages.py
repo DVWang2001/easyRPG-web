@@ -203,6 +203,9 @@ def test_write_game_pages_injects_pause_helper(tmp_path):
     _write_template(dist)
     pwa.write_game_pages(dist, [{"label": "甲", "slug": "g", "cover_rel": None}])
     html = (dist / "play-g.html").read_text(encoding="utf-8")
-    # 共用暫停 helper 與 emscripten 暫停/恢復呼叫
+    # 共用「假暫停」helper：不停主迴圈（不黑畫面），改靜音音訊＋擋遊戲鍵盤
     assert "window.__epPause" in html
-    assert "pauseMainLoop" in html and "resumeMainLoop" in html
+    assert "window.__epPaused" in html        # 旗標（給輸入攔截判斷）
+    assert "suspend" in html and "AudioContext" in html  # 靜音
+    assert "stopImmediatePropagation" in html  # 擋鍵盤
+    assert "pauseMainLoop" not in html         # 不再停主迴圈
