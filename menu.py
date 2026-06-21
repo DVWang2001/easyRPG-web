@@ -68,13 +68,17 @@ header { padding:20px 16px 8px; text-align:center; font-size:20px; font-weight:6
 .card .tag { display:inline-block; margin:4px 3px 0; padding:1px 8px; border-radius:999px;
   background:#222; color:#9ca3af; font-size:11px; cursor:pointer; }
 .card .tag.active { background:#2563eb; color:#fff; }
+.card { position:relative; }
+body.favonly .card:not(.is-fav) { display:none; }
 </style>
+<link rel="stylesheet" href="favorites.css">
 </head>
 <body>
 <header>__TITLE__</header>
 <div class="toolbar">
 <input id="q" type="search" placeholder="搜尋遊戲或標籤…" autocomplete="off">
 <div class="tags" id="tagbar">__TAGFILTERS__<button id="clear">清除篩選</button></div>
+<button id="favonly">❤ 只看收藏</button>
 </div>
 <div class="grid" id="grid">
 __CARDS__
@@ -132,6 +136,7 @@ __CARDS__
   apply();
 })();
 </script>
+<script type="module" src="favorites.js"></script>
 </body>
 </html>
 """

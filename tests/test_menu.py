@@ -121,3 +121,16 @@ def test_write_menu_one_card_per_entry(tmp_path):
     out = menu.write_menu(dist, "Lib", entries)
     html = out.read_text(encoding="utf-8")
     assert html.count('class="card"') == 3
+
+
+def test_write_menu_injects_favorites(tmp_path):
+    dist = tmp_path / "dist"
+    dist.mkdir()
+    entries = [{"label": "甲", "slug": "g", "cover_rel": None}]
+    html = menu.write_menu(dist, "庫", entries).read_text(encoding="utf-8")
+    # 「只看收藏」鈕 + 收藏篩選 CSS + 卡片定位 + 資產引用
+    assert 'id="favonly"' in html
+    assert "body.favonly .card:not(.is-fav)" in html
+    assert "position:relative" in html
+    assert 'href="favorites.css"' in html
+    assert 'type="module" src="favorites.js"' in html
