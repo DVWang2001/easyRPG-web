@@ -63,5 +63,12 @@ service cloud.firestore {
           && request.resource.data.keys().hasOnly(['addedAt']);
         allow delete: if request.auth != null && request.auth.uid == uid;
       }
+      // 遊玩紀錄：完全私有，只有本人能讀寫。建立/更新限欄位 totalSeconds/lastPlayedAt；刪除只看本人。
+      match /users/{uid}/history/{slug} {
+        allow read: if request.auth != null && request.auth.uid == uid;
+        allow create, update: if request.auth != null && request.auth.uid == uid
+          && request.resource.data.keys().hasOnly(['totalSeconds','lastPlayedAt']);
+        allow delete: if request.auth != null && request.auth.uid == uid;
+      }
   }
 }
