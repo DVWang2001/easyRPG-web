@@ -148,7 +148,7 @@ function imageHandler() {
     const file = input.files[0];
     if (!file) return;
     if (file.size > 5 * 1024 * 1024) { alert('圖片過大（上限 5MB）'); return; }
-    const range = quill.getSelection(true);
+    const range = quill.getSelection(true) || { index: quill.getLength() };
     const ph = '（圖片上傳中…）';
     quill.insertText(range.index, ph);
     try {
@@ -165,8 +165,7 @@ function imageHandler() {
 }
 
 // ---- 投稿編輯器 ----
-panel.querySelector('.wt-new').onclick = () => {
-  if (!currentUser()) { signInWithGoogle().catch(() => alert('登入失敗')); return; }
+function openEditor() {
   editorEl.hidden = false;
   if (!quill) {
     quill = new Quill(quillEl, {
@@ -184,8 +183,16 @@ panel.querySelector('.wt-new').onclick = () => {
       },
     });
   }
+}
+panel.querySelector('.wt-new').onclick = () => {
+  if (!currentUser()) { signInWithGoogle().then(openEditor).catch(() => alert('登入失敗')); return; }
+  openEditor();
 };
-panel.querySelector('.wt-cancel').onclick = () => { editorEl.hidden = true; };
+panel.querySelector('.wt-cancel').onclick = () => {
+  titleEl.value = '';
+  if (quill) quill.setText('');
+  editorEl.hidden = true;
+};
 panel.querySelector('.wt-submit').onclick = async () => {
   const u = currentUser();
   if (!u) { alert('請先登入'); return; }

@@ -11,7 +11,8 @@ service cloud.firestore {
         && request.resource.data.title.size() > 0
         && request.resource.data.title.size() <= 200
         && request.resource.data.html is string
-        && request.resource.data.html.size() <= 50000;
+        && request.resource.data.html.size() <= 50000
+        && request.resource.data.keys().hasOnly(['title','html','authorName','authorUid','createdAt']);
       allow delete: if request.auth != null
         && (resource.data.authorUid == request.auth.uid
             || request.auth.uid == 'YOUR_ADMIN_UID');

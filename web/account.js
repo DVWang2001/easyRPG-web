@@ -26,6 +26,12 @@ export function isReady() {
 }
 export function currentUser() { return auth ? auth.currentUser : null; }
 export function onAuthChange(cb) { if (auth) onAuthStateChanged(auth, cb); }
-export function signInWithGoogle() { return signInWithPopup(auth, new GoogleAuthProvider()); }
-export function signOutUser() { return fbSignOut(auth); }
+export function signInWithGoogle() {
+  if (!auth) return Promise.reject(new Error('Firebase 未初始化'));
+  return signInWithPopup(auth, new GoogleAuthProvider());
+}
+export function signOutUser() {
+  if (!auth) return Promise.reject(new Error('Firebase 未初始化'));
+  return fbSignOut(auth);
+}
 export function isAdmin(uid) { return !!uid && uid === ADMIN_UID; }
