@@ -1,0 +1,15 @@
+/* 遊戲收藏 ❤ */
+/* 首頁卡片角落的 ❤ */
+.card .fav-btn-card {
+  position: absolute; top: 6px; right: 6px; z-index: 2;
+  background: rgba(0,0,0,.5); border: none; border-radius: 50%;
+  width: 28px; height: 28px; font-size: 15px; line-height: 1;
+  color: #fff; cursor: pointer; padding: 0;
+}
+.card .fav-btn-card.on { color: #f87171; }
+/* 遊戲頁左上 ❤（基底樣式沿用 #saveui button） */
+#saveui #fav-btn.on { color: #f87171; }
+/* 首頁「只看收藏」鈕 */
+#favonly { padding: 4px 10px; border-radius: 999px; border: 1px solid #3a3a3a;
+  background: #1f2937; color: #cbd5e1; font-size: 13px; cursor: pointer; }
+#favonly.active { background: #2563eb; color: #fff; border-color: #2563eb; }
