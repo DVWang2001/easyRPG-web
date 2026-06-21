@@ -48,12 +48,12 @@ const submitBtn = panel.querySelector('.wt-submit');
 
 function openPanel() {
   panel.hidden = false;
-  if (window.__epPause) window.__epPause(true);
+  if (window.__epPause) window.__epPause(true, 'wt');
   loadList();
 }
 function closePanel() {
   panel.hidden = true;
-  if (window.__epPause) window.__epPause(false);
+  if (window.__epPause) window.__epPause(false, 'wt');
 }
 
 const openBtn = document.getElementById('wt-open');
