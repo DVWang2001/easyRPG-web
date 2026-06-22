@@ -14,31 +14,35 @@ _PAGE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>__TITLE__</title>__PWAHEAD__
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Silkscreen&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="rm-theme.css">
 <style>
 * { box-sizing: border-box; }
-:root {
-  --bg:#0c0e18; --panel:#141828; --ink:#eef1ff; --muted:#8b93bf;
-  --line:#262c44; --chip:#171c2e; --chip-line:#2c3350;
-  --gold:#f5c542; --win-top:#3f5fcc; --win-bot:#16225e; --win-hi:#9fb4ff; --win-lo:#0a1140;
-}
 body { margin:0; min-height:100vh; color:var(--ink);
-  background:radial-gradient(1100px 560px at 50% -8%, #1a2143 0%, transparent 62%), var(--bg);
-  font-family:-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif; }
+  background:radial-gradient(1100px 560px at 50% -8%, #1a2143 0%, transparent 62%), var(--bg); }
 
-/* 標題列 */
-header { padding:30px 16px 2px; text-align:center; }
-.wordmark { margin:0; font-size:26px; font-weight:800; letter-spacing:.04em; }
-.eyebrow { margin:9px 0 0; font-family:"Silkscreen",monospace; font-size:11px;
+/* 標題列＝ RM 標題畫面：皇家藍 windowskin 標題卡＋金角飾 */
+header { position:relative; max-width:560px; margin:26px auto 6px; padding:18px 24px 16px;
+  text-align:center; color:#fff;
+  background:linear-gradient(180deg, var(--win-top), var(--win-bot));
+  border:2px solid var(--win-lo); border-radius:12px;
+  box-shadow: inset 0 0 0 2px rgba(220,232,255,.6), inset 0 2px 0 rgba(255,255,255,.3),
+              inset 0 -3px 0 rgba(4,18,60,.5), 0 12px 30px rgba(6,9,28,.55); }
+header::before, header::after { content:""; position:absolute; width:7px; height:7px; pointer-events:none;
+  background:linear-gradient(var(--gold),var(--gold)) 0 0/7px 2px no-repeat,
+             linear-gradient(var(--gold),var(--gold)) 0 0/2px 7px no-repeat; }
+header::before { top:6px; left:6px; }
+header::after { top:6px; right:6px; transform:scaleX(-1); }
+.wordmark { margin:0; font-size:28px; font-weight:800; letter-spacing:.04em;
+  text-shadow:0 2px 0 var(--win-lo); }
+.eyebrow { margin:9px 0 0; font-size:11px;
   letter-spacing:.18em; color:var(--gold);
   display:flex; gap:10px; align-items:center; justify-content:center; }
-.eyebrow .count { color:var(--ink); }
+.eyebrow .count { color:#fff; }
 #me-link { position:fixed; top:12px; right:12px; z-index:5; text-decoration:none;
-  padding:6px 12px; border-radius:10px; border:1px solid var(--chip-line);
-  background:var(--chip); color:var(--muted); font-size:13px; }
-#me-link:hover { border-color:var(--gold); color:var(--ink); }
+  padding:7px 13px; border-radius:10px; border:2px solid var(--win-lo);
+  background:linear-gradient(180deg, var(--win-top), var(--win-bot)); color:#fff; font-size:13px;
+  box-shadow:inset 0 0 0 1px rgba(220,232,255,.5); }
+#me-link:hover { border-color:var(--gold); }
 
 /* 工具列 */
 .toolbar { max-width:980px; margin:0 auto; padding:14px 16px 6px;
@@ -197,6 +201,7 @@ _PROFILE_PAGE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>我的 · __TITLE__</title>__PWAHEAD__
+<link rel="stylesheet" href="rm-theme.css">
 <link rel="stylesheet" href="profile.css">
 </head>
 <body>

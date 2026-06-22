@@ -1,8 +1,7 @@
 /* 個人頁（RM 風：金游標＋深藍底，token 附 inline fallback 以防單獨載入） */
 body { margin:0; color:var(--ink,#eef1ff);
   background:radial-gradient(1100px 560px at 50% -8%, #1a2143 0%, transparent 62%), var(--bg,#0c0e18);
-  min-height:100vh;
-  font-family:-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif; }
+  min-height:100vh; }
 .pf-top { display:flex; align-items:center; gap:12px; padding:14px 16px;
   border-bottom:1px solid var(--line,#262c44); }
 .pf-back { color:var(--muted,#8b93bf); text-decoration:none; font-size:14px; }

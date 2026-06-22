@@ -134,7 +134,7 @@ def install_web_assets(dist) -> list:
     if WEB_DIR.exists():
         for p in sorted(WEB_DIR.iterdir()):
             # 跳過 *.example.js 範本（金鑰範本不部署）
-            if p.is_file() and p.suffix in (".js", ".css") and not p.name.endswith(".example.js"):
+            if p.is_file() and p.suffix in (".js", ".css", ".woff2") and not p.name.endswith(".example.js"):
                 shutil.copy2(p, dist / p.name)
                 copied.append(p.name)
     return copied
@@ -413,6 +413,7 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
                       if engine else "")
         new_head = (
             canvas_fix +
+            '\n<link rel="stylesheet" href="rm-theme.css">'
             "\n<title>" + title_esc + "</title>"
             '\n<meta name="apple-mobile-web-app-title" content="' + title_esc + '">'
             '\n<link rel="icon" href="' + cover_esc + '">'
