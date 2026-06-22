@@ -69,6 +69,10 @@ def test_build_library_two_games(tmp_path):
     # 每遊戲離線清單各自存在
     assert (out / f"precache-{s1}.json").exists()
     assert (out / f"precache-{s2}.json").exists()
+    assert (out / "profile.html").exists()
+    prof = (out / "profile.html").read_text(encoding="utf-8")
+    assert "window.__GAMES" in prof
+    assert 'id="my-favs"' in prof and 'id="my-history"' in prof
 
 
 def test_build_library_per_game_name_table(tmp_path, monkeypatch):
