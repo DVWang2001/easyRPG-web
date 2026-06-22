@@ -12,8 +12,11 @@
   /* 經典 RM2000 皇家藍 windowskin */
   --win-top:#2f74d8; --win-bot:#0a2f86; --win-hi:#dce8ff; --win-lo:#06205f;
 }
-/* 全站像素字（Cubic 11「俐方體」，繁中＋拉丁同一套） */
-body { font-family:"RMPix","PingFang TC","Microsoft JhengHei",monospace; }
+/* 全站像素字（Cubic 11「俐方體」，繁中＋拉丁同一套）＋ RM 大地圖背景。
+   地圖 cover 鋪滿、fixed 不隨捲動（頁面像坐在世界地圖上）；上加 72% 深藍暗罩保可讀。 */
+body { font-family:"RMPix","PingFang TC","Microsoft JhengHei",monospace;
+  background:linear-gradient(rgba(8,14,30,.72), rgba(8,14,30,.72)),
+             url("overworld.png") center center / cover fixed, #0a160c; }
 /* 長內文／富文字編輯器保持系統字易讀（像素字讀整段會累） */
 .ann-body, .cm-text-body, .wt-body,
 .cm-text, .wt-title, .ann-quill, .wt-quill, .ql-editor {

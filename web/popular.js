@@ -45,16 +45,8 @@ function initHome(grid) {
     seq.forEach((c) => grid.appendChild(c));
   };
 
+  // 載入遊玩次數供「🔥 熱門」排序用（不在卡片上顯示數字，避免無標籤的迷之數字）
   getDocs(collection(db, 'stats')).then((snap) => {
     snap.forEach((d) => { const p = d.data().plays; if (typeof p === 'number') plays[d.id] = p; });
-    cards.forEach((c) => {
-      const n = plays[slugOf(c)] || 0;
-      if (n > 0) {
-        const b = document.createElement('span');
-        b.className = 'play-badge';
-        b.textContent = '▶ ' + n;
-        c.appendChild(b);
-      }
-    });
   }).catch(() => {});
 }

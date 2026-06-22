@@ -17,8 +17,7 @@ _PAGE = """<!DOCTYPE html>
 <link rel="stylesheet" href="rm-theme.css">
 <style>
 * { box-sizing: border-box; }
-body { margin:0; min-height:100vh; color:var(--ink);
-  background:radial-gradient(1100px 560px at 50% -8%, #1a2143 0%, transparent 62%), var(--bg); }
+body { margin:0; min-height:100vh; color:var(--ink); }
 
 /* 標題列＝ RM 標題畫面：皇家藍 windowskin 標題卡＋金角飾 */
 header { position:relative; max-width:560px; margin:26px auto 6px; padding:18px 24px 16px;
@@ -44,24 +43,33 @@ header::after { top:6px; right:6px; transform:scaleX(-1); }
   box-shadow:inset 0 0 0 1px rgba(220,232,255,.5); }
 #me-link:hover { border-color:var(--gold); }
 
-/* 工具列 */
-.toolbar { max-width:980px; margin:0 auto; padding:14px 16px 6px;
+/* 工具列＝ RM 指令視窗（深色框＋斜角高光，浮在地圖上） */
+.toolbar { max-width:980px; margin:10px auto 0; padding:14px 16px;
+  background:rgba(10,18,44,.82); border:2px solid var(--win-lo); border-radius:12px;
+  box-shadow:inset 0 0 0 2px rgba(159,180,255,.20), inset 0 1px 0 rgba(255,255,255,.12),
+             0 8px 22px rgba(6,9,28,.45);
   display:flex; flex-direction:column; gap:10px; }
-#q { width:100%; padding:11px 14px; border-radius:12px; border:1px solid var(--line);
-  background:var(--panel); color:var(--ink); font-size:16px; }
+/* 搜尋框＝凹陷的訊息輸入欄 */
+#q { width:100%; padding:11px 14px; border-radius:8px; border:2px solid var(--win-lo);
+  background:#0b1330; color:var(--ink); font-size:16px;
+  box-shadow:inset 0 2px 5px rgba(0,0,0,.45); }
 #q::placeholder { color:var(--muted); }
-#q:focus { outline:none; border-color:var(--gold); box-shadow:0 0 0 3px rgba(245,197,66,.18); }
+#q:focus { outline:none; border-color:var(--gold);
+  box-shadow:inset 0 2px 5px rgba(0,0,0,.45), 0 0 0 3px rgba(245,197,66,.22); }
 .tags { display:flex; flex-direction:column; gap:6px; align-items:flex-start; }
 .taggroup { display:flex; flex-wrap:wrap; gap:6px; align-items:center; }
-.tagcat { color:var(--muted); font-size:12px; min-width:60px; }
-.tagfilter { padding:5px 12px; border-radius:999px; border:1px solid var(--chip-line);
-  background:var(--chip); color:#c3c9ea; font-size:13px; cursor:pointer;
-  transition:border-color .15s ease, background .15s ease, color .15s ease; }
+.tagcat { color:var(--gold); font-size:12px; min-width:60px; letter-spacing:.06em; }
+/* 標籤／清除＝ RM 方角指令鈕（斜角高光），選取＝金色 */
+.tagfilter { padding:5px 11px; border-radius:5px; border:1px solid var(--win-lo);
+  background:linear-gradient(180deg,#21305c,#131e44); color:#dbe3ff; font-size:13px; cursor:pointer;
+  box-shadow:inset 0 1px 0 rgba(159,180,255,.30);
+  transition:border-color .15s ease, color .15s ease; }
 .tagfilter:hover { border-color:var(--gold); color:#fff; }
-.tagfilter.active { background:var(--gold); color:#1a1400; border-color:var(--gold); font-weight:700; }
-#clear { padding:5px 12px; border-radius:999px; border:1px solid transparent;
+.tagfilter.active { background:var(--gold); color:#1a1400; border-color:var(--gold); font-weight:700;
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.5); }
+#clear { padding:5px 11px; border-radius:5px; border:1px solid transparent;
   background:transparent; color:var(--muted); font-size:13px; cursor:pointer; }
-#clear:hover { color:var(--ink); }
+#clear:hover { color:var(--gold); }
 .toggles { display:flex; gap:8px; }
 #empty { display:none; text-align:center; color:var(--muted); padding:24px; }
 
@@ -73,9 +81,11 @@ header::after { top:6px; right:6px; transform:scaleX(-1); }
   text-decoration:none; color:inherit; -webkit-tap-highlight-color:transparent; }
 .card[hidden] { display:none; }
 /* 金色 ▶ 選取游標：平時收進去，焦點/hover 滑出（RM 選單點綴） */
-.card::before { content:"\25B6"; position:absolute; left:-3px; top:calc(50% - 24px);
-  color:var(--gold); font-size:14px; opacity:0; transform:translateX(-7px);
-  text-shadow:0 0 8px rgba(245,197,66,.65); pointer-events:none;
+.card::before { content:""; position:absolute; left:-13px; top:calc(50% - 24px);
+  width:0; height:0; border-style:solid; border-width:6px 0 6px 10px;
+  border-color:transparent transparent transparent var(--gold);
+  opacity:0; transform:translateX(-7px); pointer-events:none;
+  filter:drop-shadow(0 0 5px rgba(245,197,66,.6));
   transition:opacity .18s ease, transform .18s ease; }
 .thumb { position:relative; width:100%; aspect-ratio:1/1; border-radius:14px;
   overflow:hidden; background:var(--panel); border:1px solid var(--line);

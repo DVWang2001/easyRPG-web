@@ -134,7 +134,7 @@ def install_web_assets(dist) -> list:
     if WEB_DIR.exists():
         for p in sorted(WEB_DIR.iterdir()):
             # 跳過 *.example.js 範本（金鑰範本不部署）
-            if p.is_file() and p.suffix in (".js", ".css", ".woff2") and not p.name.endswith(".example.js"):
+            if p.is_file() and p.suffix in (".js", ".css", ".woff2", ".png") and not p.name.endswith(".example.js"):
                 shutil.copy2(p, dist / p.name)
                 copied.append(p.name)
     return copied
@@ -185,20 +185,23 @@ def patch_index_html(dist, app_label: str, icon_rel: str = ICON_REL) -> Path:
 _SAVE_UI = r"""
 <style>#saveui{position:fixed;left:8px;top:calc(8px + env(safe-area-inset-top));
 z-index:10000;display:flex;gap:6px}
-#saveui button{padding:5px 10px;border-radius:8px;border:1px solid #3a3a3a;
-background:rgba(31,41,55,.85);color:#cbd5e1;font:12px -apple-system,sans-serif;cursor:pointer}
-#saveui button:active{background:#2563eb;color:#fff}
+#saveui button{padding:5px 10px;border-radius:8px;border:1px solid var(--chip-line,#2c3350);
+background:var(--chip,#171c2e);color:#c3c9ea;font-size:12px;cursor:pointer}
+#saveui button:hover{border-color:var(--gold,#f5c542);color:#fff}
+#saveui button:active{background:var(--gold,#f5c542);color:#1a1400}
 #savepanel{position:fixed;inset:0;z-index:11000}#savepanel[hidden]{display:none}
-#savepanel .sp-bd{position:absolute;inset:0;background:rgba(0,0,0,.6)}
-#savepanel .sp-dlg{position:relative;max-width:420px;margin:8vh auto;background:#1b1b1b;color:#eee;
-border-radius:14px;padding:16px;box-shadow:0 12px 40px rgba(0,0,0,.6);
-font-family:-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif}
+#savepanel .sp-bd{position:absolute;inset:0;background:rgba(6,9,28,.66)}
+#savepanel .sp-dlg{position:relative;max-width:420px;margin:8vh auto;color:#eaf0ff;
+background:var(--panel,#141828);border:1px solid var(--win-lo,#06205f);
+border-radius:14px;padding:16px;box-shadow:inset 0 0 0 1px rgba(159,180,255,.30),0 14px 44px rgba(6,9,28,.7)}
 #savepanel h3{margin:0 0 12px;font-size:16px}
-#savepanel .sp-close{position:absolute;top:10px;right:12px;background:none;border:none;color:#cbd5e1;font-size:18px;cursor:pointer}
+#savepanel .sp-close{position:absolute;top:10px;right:12px;background:none;border:none;color:#dbe3ff;font-size:18px;cursor:pointer}
+#savepanel .sp-close:hover{color:var(--gold,#f5c542)}
 #savepanel .sp-btn{display:block;width:100%;margin:6px 0;padding:8px 10px;border-radius:8px;
-border:1px solid #3a3a3a;background:#1f2937;color:#cbd5e1;font-size:14px;cursor:pointer}
+border:1px solid var(--chip-line,#2c3350);background:var(--chip,#171c2e);color:#c3c9ea;font-size:14px;cursor:pointer}
+#savepanel .sp-btn:hover{border-color:var(--gold,#f5c542);color:#fff}
 #savepanel .sp-btn:disabled{opacity:.5;cursor:default}
-#sp-cloud{margin-top:10px;border-top:1px solid #333;padding-top:10px}</style>
+#sp-cloud{margin-top:10px;border-top:1px solid var(--line,#262c44);padding-top:10px}</style>
 <div id="saveui"><button id="save-open">存檔</button><button id="fav-btn" title="收藏">♡</button><span id="pt-label" style="align-self:center;color:#9ca3af;font:12px -apple-system,sans-serif;padding:0 4px"></span><button id="wt-open">攻略</button><button id="cm-open">留言</button><button id="share-btn">分享</button>
 <input id="savefile" type="file" accept=".zip" style="display:none"></div>
 <div id="savepanel" hidden><div class="sp-bd"></div><div class="sp-dlg">
@@ -433,11 +436,13 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
         # 只下載這一個遊戲的進度條：載入時抓 precache-<slug>.json，逐檔快取進 easyrpg-games
         slug_js = json.dumps(slug)
         dl_snippet = (
-            "\n<style>#dl{position:fixed;left:0;right:0;bottom:0;background:#1f2937;"
+            "\n<style>#dl{position:fixed;left:0;right:0;bottom:0;"
+            "background:linear-gradient(180deg,var(--win-top,#2f74d8),var(--win-bot,#0a2f86));"
+            "box-shadow:inset 0 1px 0 rgba(255,255,255,.25);"
             "padding:8px 14px calc(8px + env(safe-area-inset-bottom));"
-            "font:13px -apple-system,sans-serif;color:#cbd5e1;z-index:9999}"
-            "#dltrack{height:5px;background:#374151;border-radius:3px;overflow:hidden}"
-            "#dlbar{height:100%;width:0;background:#2563eb;transition:width .2s}"
+            "font-size:13px;color:#eaf0ff;z-index:9999}"
+            "#dltrack{height:5px;background:rgba(4,18,60,.6);border-radius:3px;overflow:hidden}"
+            "#dlbar{height:100%;width:0;background:var(--gold,#f5c542);transition:width .2s}"
             "#dltext{display:block;margin-top:5px}</style>"
             '\n<div id="dl" hidden><div id="dltrack"><div id="dlbar"></div></div><span id="dltext"></span></div>'
             '\n<script>(function(){if(!("caches" in window))return;var SLUG=' + slug_js + ";"
