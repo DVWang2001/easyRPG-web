@@ -171,6 +171,20 @@ def test_write_menu_has_hot_button(tmp_path):
     assert 'type="module" src="popular.js"' in html
 
 
+def test_write_menu_has_title_screen(tmp_path):
+    dist = tmp_path / "dist"
+    dist.mkdir()
+    html = menu.write_menu(dist, "庫", [{"label": "甲", "slug": "g", "cover_rel": None}]).read_text(encoding="utf-8")
+    # 開始選單（標題畫面）容器與四個指令
+    assert 'id="titlescreen"' in html
+    assert "開始遊戲" in html and 'data-act="start"' in html
+    assert 'data-act="favs"' in html and 'data-act="news"' in html and 'data-act="about"' in html
+    # 鍵盤導航＋每分頁只出現一次
+    assert "ArrowDown" in html and "ep-booted" in html
+    # 關於對話框
+    assert 'id="ts-about"' in html
+
+
 def test_write_menu_injects_announcements(tmp_path):
     dist = tmp_path / "dist"
     dist.mkdir()
