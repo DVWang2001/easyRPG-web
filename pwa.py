@@ -187,17 +187,32 @@ _SAVE_UI = r"""
 z-index:10000;display:flex;gap:6px}
 #saveui button{padding:5px 10px;border-radius:8px;border:1px solid #3a3a3a;
 background:rgba(31,41,55,.85);color:#cbd5e1;font:12px -apple-system,sans-serif;cursor:pointer}
-#saveui button:active{background:#2563eb;color:#fff}</style>
-<div id="saveui"><button id="wt-open">攻略</button><button id="cm-open">留言</button><button id="fav-btn" title="收藏">♡</button><button id="saveexp">導出存檔</button><button id="saveimp">導入存檔</button><span id="pt-label" style="align-self:center;color:#9ca3af;font:12px -apple-system,sans-serif;padding:0 4px"></span>
+#saveui button:active{background:#2563eb;color:#fff}
+#savepanel{position:fixed;inset:0;z-index:11000}#savepanel[hidden]{display:none}
+#savepanel .sp-bd{position:absolute;inset:0;background:rgba(0,0,0,.6)}
+#savepanel .sp-dlg{position:relative;max-width:420px;margin:8vh auto;background:#1b1b1b;color:#eee;
+border-radius:14px;padding:16px;box-shadow:0 12px 40px rgba(0,0,0,.6);
+font-family:-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif}
+#savepanel h3{margin:0 0 12px;font-size:16px}
+#savepanel .sp-close{position:absolute;top:10px;right:12px;background:none;border:none;color:#cbd5e1;font-size:18px;cursor:pointer}
+#savepanel .sp-btn{display:block;width:100%;margin:6px 0;padding:8px 10px;border-radius:8px;
+border:1px solid #3a3a3a;background:#1f2937;color:#cbd5e1;font-size:14px;cursor:pointer}
+#savepanel .sp-btn:disabled{opacity:.5;cursor:default}
+#sp-cloud{margin-top:10px;border-top:1px solid #333;padding-top:10px}</style>
+<div id="saveui"><button id="save-open">存檔</button><button id="fav-btn" title="收藏">♡</button><span id="pt-label" style="align-self:center;color:#9ca3af;font:12px -apple-system,sans-serif;padding:0 4px"></span><button id="wt-open">攻略</button><button id="cm-open">留言</button>
 <input id="savefile" type="file" accept=".zip" style="display:none"></div>
+<div id="savepanel" hidden><div class="sp-bd"></div><div class="sp-dlg">
+<button class="sp-close" type="button">✕</button><h3>存檔</h3>
+<button id="saveexp" class="sp-btn" type="button">導出存檔（下載 zip）</button>
+<button id="saveimp" class="sp-btn" type="button">導入存檔（上傳 zip）</button>
+<div id="sp-cloud"></div>
+</div></div>
 <script>(function(){
 var SLUG=__SLUG__;
-// 假暫停：不停主迴圈（停了會讓 WebGL 畫布變黑且不回來），改成靜音音訊＋擋遊戲鍵盤。
-// 音訊在播放器內部的 SDL audioContext，頁面拿不到 → 在遊戲建立前包裹 AudioContext 建構子攔截實例。
 window.__epPause=window.__epPause||(function(){var keys={},n=0,ctxs=window.__epAudioCtxs=window.__epAudioCtxs||[];
 ["AudioContext","webkitAudioContext"].forEach(function(nm){var C=window[nm];if(C&&!C.__epW){var W=function(o){var c=new C(o);ctxs.push(c);return c;};W.prototype=C.prototype;W.__epW=1;try{window[nm]=W;}catch(e){}}});
 function mute(on){ctxs.forEach(function(c){try{on?c.suspend():c.resume();}catch(e){}});}
-function block(e){if(!window.__epPaused)return;var t=e.target;if(t&&t.closest&&(t.closest("#wt-panel")||t.closest("#saveui")))return;e.stopImmediatePropagation();e.preventDefault();}
+function block(e){if(!window.__epPaused)return;var t=e.target;if(t&&t.closest&&(t.closest("#wt-panel")||t.closest("#cm-panel")||t.closest("#savepanel")||t.closest("#saveui")))return;e.stopImmediatePropagation();e.preventDefault();}
 ["keydown","keyup","keypress"].forEach(function(ev){window.addEventListener(ev,block,true);});
 return function(on,key){key=key||"_";if(on){if(!keys[key]){keys[key]=1;if(++n===1){window.__epPaused=true;mute(true);}}}else{if(keys[key]){delete keys[key];if(--n===0){window.__epPaused=false;mute(false);}}}};})();
 var ui=document.getElementById("saveui"),inp=document.getElementById("savefile");
@@ -244,6 +259,15 @@ while(i+4<=u.length&&dv.getUint32(i,true)===0x04034b50){
 var nlen=dv.getUint16(i+26,true),elen=dv.getUint16(i+28,true),csz=dv.getUint32(i+18,true);
 var name=new TextDecoder().decode(u.slice(i+30,i+30+nlen)),ds=i+30+nlen+elen;
 files.push({name:name,data:u.slice(ds,ds+csz)});i=ds+csz;}return files;}
+window.__epSaves={read:function(){return mod()?readSaves():[];},
+write:function(files){return new Promise(function(res,rej){var m=mod();if(!m){rej(new Error("遊戲尚未載入"));return;}
+try{var FS=m.FS,dir=saveDir(FS,true)||guessDir();mkdirp(FS,dir);
+files.forEach(function(fl){FS.writeFile(dir+"/"+fl.name,fl.data);});
+FS.syncfs(false,function(){res();});}catch(e){rej(e);}});}};
+var panel=document.getElementById("savepanel");
+document.getElementById("save-open").onclick=function(){if(!mod()){alert("遊戲尚未載入完成，請稍候");return;}panel.hidden=false;window.__epPause(true,"save");};
+function spClose(){panel.hidden=true;window.__epPause(false,"save");}
+panel.querySelector(".sp-close").onclick=spClose;panel.querySelector(".sp-bd").onclick=spClose;
 document.getElementById("saveexp").onclick=function(){window.__epPause(true,"exp");try{
 var m=mod();if(!m){alert("遊戲尚未載入完成，請稍候");return;}
 var files=readSaves();if(!files.length){alert("找不到存檔（請先在遊戲裡存檔）");return;}
@@ -293,6 +317,12 @@ _FAV_SNIPPET = """
 # 遊玩時間：純前端模組（讀 _WT_SNIPPET 注入的 window.__WT.slug）。
 _PT_SNIPPET = """
 <script type="module" src="playtime.js"></script>
+"""
+
+# 雲端存檔：純前端模組（填進 _SAVE_UI 的 #sp-cloud；用 window.__epSaves 與 window.__WT.slug）。
+_CLOUD_SNIPPET = """
+<link rel="stylesheet" href="savepanel.css">
+<script type="module" src="savepanel.js"></script>
 """
 
 
@@ -405,7 +435,7 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
         wt_snippet = (_WT_SNIPPET
                       .replace("__SLUG__", slug_js)
                       .replace("__TITLE__", wt_title_js))
-        body_add = dl_snippet + save_snippet + wt_snippet + _CM_SNIPPET + _FAV_SNIPPET + _PT_SNIPPET
+        body_add = dl_snippet + save_snippet + wt_snippet + _CM_SNIPPET + _FAV_SNIPPET + _PT_SNIPPET + _CLOUD_SNIPPET
         if "</body>" in html:
             html = html.replace("</body>", body_add + "</body>", 1)
         else:

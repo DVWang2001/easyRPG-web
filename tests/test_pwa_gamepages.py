@@ -39,6 +39,12 @@ def test_write_game_pages_injects_save_ui(tmp_path):
     assert "makeZip" in html and "syncfs" in html and "location.reload" in html
     # 每頁帶自己的 slug 當下載檔名
     assert 'SLUG="g"' in html or 'SLUG = "g"' in html
+    # 收進單一「存檔」面板：存檔鈕開面板，導出/導入在面板內，雲端容器，暴露 __epSaves
+    assert 'id="save-open"' in html and 'id="savepanel"' in html and 'id="sp-cloud"' in html
+    assert "window.__epSaves" in html
+    # 攻略/留言在最右（DOM 順序在存檔鈕之後）
+    assert html.index('id="wt-open"') > html.index('id="save-open"')
+    assert html.index('id="cm-open"') > html.index('id="wt-open"')
 
 
 def test_write_game_pages_titles_icons_and_baked_game(tmp_path):
@@ -240,3 +246,12 @@ def test_write_game_pages_injects_playtime(tmp_path):
     html = (dist / "play-g1.html").read_text(encoding="utf-8")
     assert 'id="pt-label"' in html
     assert 'type="module" src="playtime.js"' in html
+
+
+def test_write_game_pages_injects_cloudsave(tmp_path):
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    pwa.write_game_pages(dist, [{"label": "甲", "slug": "g", "cover_rel": None}])
+    html = (dist / "play-g.html").read_text(encoding="utf-8")
+    assert 'href="savepanel.css"' in html
+    assert 'type="module" src="savepanel.js"' in html
