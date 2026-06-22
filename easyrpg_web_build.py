@@ -180,6 +180,7 @@ def build_library(*, games, app_label="我的遊戲庫", app_icon=DEFAULT_ICON,
     _log("產生遊戲庫選單…", log)
     menu.write_menu(out, app_label, entries, icon_rel,
                     tag_categories=tag_categories)  # 寫新的 index.html（網格）
+    menu.write_profile(out, app_label, entries, icon_rel)
     pwa.write_game_pages(out, entries, icon_rel)        # 每遊戲靜態頁 play-<slug>.html（title/icon 寫死）
 
     pwa.write_manifest(out, app_label, icon_rel)

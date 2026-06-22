@@ -134,3 +134,29 @@ def test_write_menu_injects_favorites(tmp_path):
     assert "position:relative" in html
     assert 'href="favorites.css"' in html
     assert 'type="module" src="favorites.js"' in html
+
+
+def test_write_profile_page(tmp_path):
+    dist = tmp_path / "dist"
+    dist.mkdir()
+    entries = [
+        {"label": "甲遊戲", "slug": "g1", "cover_rel": "games/g1/cover.png"},
+        {"label": "乙", "slug": "g2", "cover_rel": None},
+    ]
+    out = menu.write_profile(dist, "我的庫", entries)
+    assert out == dist / "profile.html"
+    html = out.read_text(encoding="utf-8")
+    assert "window.__GAMES" in html
+    assert '"g1"' in html and "甲遊戲" in html
+    assert 'id="my-favs"' in html and 'id="my-history"' in html
+    assert 'href="profile.css"' in html
+    assert 'type="module" src="profile.js"' in html
+    assert "返回" in html
+
+
+def test_write_menu_has_profile_link(tmp_path):
+    dist = tmp_path / "dist"
+    dist.mkdir()
+    html = menu.write_menu(dist, "庫", [{"label": "甲", "slug": "g", "cover_rel": None}]).read_text(encoding="utf-8")
+    assert 'id="me-link"' in html
+    assert 'href="profile.html"' in html
