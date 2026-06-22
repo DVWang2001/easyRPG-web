@@ -341,6 +341,11 @@ body.ep-pfs #controls{position:fixed;top:env(safe-area-inset-top);right:8px;z-in
 if(btn&&vp&&!vp.requestFullscreen){btn.addEventListener("click",function(){document.body.classList.toggle("ep-pfs");});}})();</script>
 """
 
+# 熱門：純前端模組（開遊戲頁計數 stats/<slug>；同一支也處理首頁排序）。
+_POP_SNIPPET = """
+<script type="module" src="popular.js"></script>
+"""
+
 
 def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
     """以 dist/play.html 為模板，為每個遊戲產出 play-<slug>.html 與其專屬 manifest。
@@ -451,7 +456,7 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
         wt_snippet = (_WT_SNIPPET
                       .replace("__SLUG__", slug_js)
                       .replace("__TITLE__", wt_title_js))
-        body_add = dl_snippet + save_snippet + wt_snippet + _CM_SNIPPET + _FAV_SNIPPET + _PT_SNIPPET + _CLOUD_SNIPPET + _FS_FALLBACK
+        body_add = dl_snippet + save_snippet + wt_snippet + _CM_SNIPPET + _FAV_SNIPPET + _PT_SNIPPET + _CLOUD_SNIPPET + _FS_FALLBACK + _POP_SNIPPET
         if "</body>" in html:
             html = html.replace("</body>", body_add + "</body>", 1)
         else:

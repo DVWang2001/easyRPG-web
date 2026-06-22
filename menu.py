@@ -76,6 +76,7 @@ body.favonly .card:not(.is-fav) { display:none; }
   background:#1f2937; color:#cbd5e1; font-size:13px; }
 </style>
 <link rel="stylesheet" href="favorites.css">
+<link rel="stylesheet" href="popular.css">
 </head>
 <body>
 <header>__TITLE__</header>
@@ -84,6 +85,7 @@ body.favonly .card:not(.is-fav) { display:none; }
 <input id="q" type="search" placeholder="搜尋遊戲或標籤…" autocomplete="off">
 <div class="tags" id="tagbar">__TAGFILTERS__<button id="clear">清除篩選</button></div>
 <button id="favonly">❤ 只看收藏</button>
+<button id="hot">🔥 熱門</button>
 </div>
 <div class="grid" id="grid">
 __CARDS__
@@ -142,6 +144,7 @@ __CARDS__
 })();
 </script>
 <script type="module" src="favorites.js"></script>
+<script type="module" src="popular.js"></script>
 </body>
 </html>
 """
