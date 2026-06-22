@@ -11,7 +11,8 @@ def test_install_web_assets_copies_js_css(tmp_path):
                  "favorites.js", "favorites.css", "playtime.js",
                  "profile.js", "profile.css",
                  "savepanel.js", "savepanel.css",
-                 "popular.js", "popular.css"):
+                 "popular.js", "popular.css",
+                 "announce.js", "announce.css"):
         assert (dist / name).exists(), name
         assert name in copied
     # 規則檔是給 Console 用的 artifact，不部署

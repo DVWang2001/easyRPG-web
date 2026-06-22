@@ -1,0 +1,19 @@
+#announce { padding: 0 12px; }
+.ann-banner { position: relative; max-width: 900px; margin: 10px auto 0;
+  background: #1e293b; border: 1px solid #334155; border-radius: 10px;
+  padding: 12px 44px 12px 14px; color: #e2e8f0; }
+.ann-tools { position: absolute; top: 6px; right: 8px; display: flex; gap: 4px; }
+.ann-tools button { background: transparent; border: 0; color: #94a3b8;
+  font-size: 13px; cursor: pointer; padding: 2px 6px; border-radius: 6px; }
+.ann-tools button:hover { background: #334155; color: #e2e8f0; }
+.ann-body { font-size: 14px; line-height: 1.6; word-break: break-word; }
+.ann-body a { color: #93c5fd; }
+.ann-body img { max-width: 100%; height: auto; }
+.ann-empty { color: #94a3b8; }
+.ann-meta { margin-top: 6px; font-size: 12px; color: #94a3b8; }
+.ann-editor { margin-top: 8px; }
+.ann-quill { background: #fff; color: #111; border-radius: 6px; min-height: 120px; }
+.ann-editbar { margin-top: 8px; display: flex; gap: 8px; }
+.ann-editbar button { padding: 4px 14px; border-radius: 6px; border: 0;
+  background: #2563eb; color: #fff; cursor: pointer; font-size: 13px; }
+.ann-editbar button.ann-cancel { background: #334155; }
