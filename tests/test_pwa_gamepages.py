@@ -255,3 +255,15 @@ def test_write_game_pages_injects_cloudsave(tmp_path):
     html = (dist / "play-g.html").read_text(encoding="utf-8")
     assert 'href="savepanel.css"' in html
     assert 'type="module" src="savepanel.js"' in html
+
+
+def test_write_game_pages_ios_fullscreen_fallback(tmp_path):
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    pwa.write_game_pages(dist, [{"label": "甲", "slug": "g", "cover_rel": None}])
+    html = (dist / "play-g.html").read_text(encoding="utf-8")
+    # iPhone 無 requestFullscreen 時，全螢幕鈕切 body.ep-pfs，偽全螢幕並隱藏 #saveui（達成隱藏 UI）
+    assert "controls-fullscreen" in html
+    assert "ep-pfs" in html
+    assert "#saveui{display:none!important}" in html
+    assert "!vp.requestFullscreen" in html

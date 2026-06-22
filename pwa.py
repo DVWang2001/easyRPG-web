@@ -325,6 +325,22 @@ _CLOUD_SNIPPET = """
 <script type="module" src="savepanel.js"></script>
 """
 
+# 全螢幕的目的是「隱藏 UI」：桌機按全螢幕鈕會觸發 fullscreenchange → vis() 把 #saveui 隱藏。
+# iPhone Safari 沒有元素級 Fullscreen API（requestFullscreen 為 undefined），按了沒反應、UI 藏不掉。
+# 後援：只在「沒有真全螢幕」時，按鈕切 body.ep-pfs → CSS 撐滿畫布並隱藏 #saveui（保留全螢幕鈕本身好切回）。
+# 桌機有 requestFullscreen 時這段不掛，沿用原本的真全螢幕。
+# ponytail: 偽全螢幕蓋不掉 Safari 網址列；要完全無外框請「加入主畫面」(PWA standalone)。
+_FS_FALLBACK = r"""
+<style>
+body.ep-pfs #viewport{position:fixed;inset:0;z-index:9990;background:#000;margin:0}
+body.ep-pfs #canvas{width:100%!important;height:100%!important;object-fit:contain}
+body.ep-pfs #saveui{display:none!important}
+body.ep-pfs #controls{position:fixed;top:env(safe-area-inset-top);right:8px;z-index:9991}
+</style>
+<script>(function(){var btn=document.getElementById("controls-fullscreen"),vp=document.getElementById("viewport");
+if(btn&&vp&&!vp.requestFullscreen){btn.addEventListener("click",function(){document.body.classList.toggle("ep-pfs");});}})();</script>
+"""
+
 
 def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
     """以 dist/play.html 為模板，為每個遊戲產出 play-<slug>.html 與其專屬 manifest。
@@ -435,7 +451,7 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
         wt_snippet = (_WT_SNIPPET
                       .replace("__SLUG__", slug_js)
                       .replace("__TITLE__", wt_title_js))
-        body_add = dl_snippet + save_snippet + wt_snippet + _CM_SNIPPET + _FAV_SNIPPET + _PT_SNIPPET + _CLOUD_SNIPPET
+        body_add = dl_snippet + save_snippet + wt_snippet + _CM_SNIPPET + _FAV_SNIPPET + _PT_SNIPPET + _CLOUD_SNIPPET + _FS_FALLBACK
         if "</body>" in html:
             html = html.replace("</body>", body_add + "</body>", 1)
         else:
