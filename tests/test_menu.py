@@ -160,3 +160,12 @@ def test_write_menu_has_profile_link(tmp_path):
     html = menu.write_menu(dist, "庫", [{"label": "甲", "slug": "g", "cover_rel": None}]).read_text(encoding="utf-8")
     assert 'id="me-link"' in html
     assert 'href="profile.html"' in html
+
+
+def test_write_menu_has_hot_button(tmp_path):
+    dist = tmp_path / "dist"
+    dist.mkdir()
+    html = menu.write_menu(dist, "庫", [{"label": "甲", "slug": "g", "cover_rel": None}]).read_text(encoding="utf-8")
+    assert 'id="hot"' in html
+    assert 'href="popular.css"' in html
+    assert 'type="module" src="popular.js"' in html
