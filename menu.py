@@ -77,10 +77,13 @@ body.favonly .card:not(.is-fav) { display:none; }
 </style>
 <link rel="stylesheet" href="favorites.css">
 <link rel="stylesheet" href="popular.css">
+<link rel="stylesheet" href="announce.css">
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.8/dist/purify.min.js"></script>
 </head>
 <body>
 <header>__TITLE__</header>
 <a href="profile.html" id="me-link">👤 我的</a>
+<div id="announce" hidden></div>
 <div class="toolbar">
 <input id="q" type="search" placeholder="搜尋遊戲或標籤…" autocomplete="off">
 <div class="tags" id="tagbar">__TAGFILTERS__<button id="clear">清除篩選</button></div>
@@ -145,6 +148,7 @@ __CARDS__
 </script>
 <script type="module" src="favorites.js"></script>
 <script type="module" src="popular.js"></script>
+<script type="module" src="announce.js"></script>
 </body>
 </html>
 """
