@@ -199,7 +199,7 @@ font-family:-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif}
 border:1px solid #3a3a3a;background:#1f2937;color:#cbd5e1;font-size:14px;cursor:pointer}
 #savepanel .sp-btn:disabled{opacity:.5;cursor:default}
 #sp-cloud{margin-top:10px;border-top:1px solid #333;padding-top:10px}</style>
-<div id="saveui"><button id="save-open">存檔</button><button id="fav-btn" title="收藏">♡</button><span id="pt-label" style="align-self:center;color:#9ca3af;font:12px -apple-system,sans-serif;padding:0 4px"></span><button id="wt-open">攻略</button><button id="cm-open">留言</button>
+<div id="saveui"><button id="save-open">存檔</button><button id="fav-btn" title="收藏">♡</button><span id="pt-label" style="align-self:center;color:#9ca3af;font:12px -apple-system,sans-serif;padding:0 4px"></span><button id="wt-open">攻略</button><button id="cm-open">留言</button><button id="share-btn">分享</button>
 <input id="savefile" type="file" accept=".zip" style="display:none"></div>
 <div id="savepanel" hidden><div class="sp-bd"></div><div class="sp-dlg">
 <button class="sp-close" type="button">✕</button><h3>存檔</h3>
@@ -268,6 +268,11 @@ var panel=document.getElementById("savepanel");
 document.getElementById("save-open").onclick=function(){if(!mod()){alert("遊戲尚未載入完成，請稍候");return;}panel.hidden=false;window.__epPause(true,"save");};
 function spClose(){panel.hidden=true;window.__epPause(false,"save");}
 panel.querySelector(".sp-close").onclick=spClose;panel.querySelector(".sp-bd").onclick=spClose;
+document.getElementById("share-btn").onclick=function(){
+var t=(window.__WT&&window.__WT.title)||document.title;var u=location.href;
+if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});}
+else if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){alert("已複製連結");},function(){prompt("複製這個連結：",u);});}
+else{prompt("複製這個連結：",u);}}
 document.getElementById("saveexp").onclick=function(){window.__epPause(true,"exp");try{
 var m=mod();if(!m){alert("遊戲尚未載入完成，請稍候");return;}
 var files=readSaves();if(!files.length){alert("找不到存檔（請先在遊戲裡存檔）");return;}
