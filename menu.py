@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import html as _html
+import json
 from pathlib import Path
 
 import project
@@ -70,11 +71,15 @@ header { padding:20px 16px 8px; text-align:center; font-size:20px; font-weight:6
 .card .tag.active { background:#2563eb; color:#fff; }
 .card { position:relative; }
 body.favonly .card:not(.is-fav) { display:none; }
+#me-link { position:fixed; top:10px; right:12px; z-index:5; text-decoration:none;
+  padding:4px 10px; border-radius:999px; border:1px solid #3a3a3a;
+  background:#1f2937; color:#cbd5e1; font-size:13px; }
 </style>
 <link rel="stylesheet" href="favorites.css">
 </head>
 <body>
 <header>__TITLE__</header>
+<a href="profile.html" id="me-link">👤 我的</a>
 <div class="toolbar">
 <input id="q" type="search" placeholder="搜尋遊戲或標籤…" autocomplete="off">
 <div class="tags" id="tagbar">__TAGFILTERS__<button id="clear">清除篩選</button></div>
@@ -145,6 +150,48 @@ _CARD = ('<a class="card" href="__HREF__" data-label="__DLABEL__" data-tags="__D
          '<span class="thumb"><img src="__COVER__" alt=""></span>'
          '<span class="name">__LABEL__</span>'
          '<span class="cardtags">__CARDTAGS__</span></a>')
+
+
+_PROFILE_PAGE = """<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>我的 · __TITLE__</title>__PWAHEAD__
+<link rel="stylesheet" href="profile.css">
+</head>
+<body>
+<div class="pf-top">
+<a href="index.html" class="pf-back">← 返回遊戲庫</a>
+<strong class="pf-title">我的</strong>
+<span id="me-auth" class="pf-auth"></span>
+</div>
+<section class="pf-section"><h2>我的收藏</h2><div id="my-favs" class="pf-grid"></div></section>
+<section class="pf-section"><h2>最近遊玩</h2><div id="my-history" class="pf-grid"></div></section>
+__GAMES__
+<script type="module" src="profile.js"></script>
+</body>
+</html>
+"""
+
+
+def write_profile(dist, app_label: str, entries, icon_rel: str = pwa.ICON_REL) -> Path:
+    """產生個人頁 profile.html，嵌入 window.__GAMES（slug→{label,cover}）供 profile.js 渲染卡片。"""
+    games = {
+        e["slug"]: {"label": e["label"], "cover": e.get("cover_rel") or icon_rel}
+        for e in entries
+    }
+    games_js = ("<script>window.__GAMES="
+                + json.dumps(games, ensure_ascii=False).replace("<", "\\u003c")
+                + ";</script>")
+    page = (
+        _PROFILE_PAGE.replace("__PWAHEAD__", pwa.pwa_head(app_label, icon_rel))
+        .replace("__TITLE__", _html.escape(app_label))
+        .replace("__GAMES__", games_js)
+    )
+    out = Path(dist) / "profile.html"
+    out.write_text(page, encoding="utf-8")
+    return out
 
 
 def write_menu(dist, app_label: str, entries, icon_rel: str = pwa.ICON_REL,
