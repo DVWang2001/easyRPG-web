@@ -55,6 +55,14 @@ service cloud.firestore {
         allow delete: if request.auth != null
           && (uid == request.auth.uid || request.auth.uid == 'YOUR_ADMIN_UID');
       }
+      // 遊玩次數：公開可讀；任何人可把 plays +1（無其他欄位），不需登入；不允許刪除。
+      match /stats/{slug} {
+        allow read: if true;
+        allow create: if request.resource.data.keys().hasOnly(['plays'])
+          && request.resource.data.plays == 1;
+        allow update: if request.resource.data.keys().hasOnly(['plays'])
+          && request.resource.data.plays == resource.data.plays + 1;
+      }
       // 收藏：完全私有，只有本人能讀寫。建立/更新限欄位只有 addedAt；刪除只看本人。
       // （delete 時 request.resource 為 null，不能碰 request.resource.data，故拆開寫。）
       match /users/{uid}/favorites/{slug} {
