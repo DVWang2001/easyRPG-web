@@ -85,5 +85,16 @@ service cloud.firestore {
           allow read, write: if request.auth != null && request.auth.uid == uid;
         }
       }
+      // 公告：公開可讀；只有管理員能寫（單一固定 doc，原地編輯）。
+      // merge 寫入後 request.resource.data 為合併後完整狀態，含既有 createdAt，
+      // 故 hasOnly(['html','createdAt','updatedAt']) 對「只送 html＋updatedAt 的編輯」仍成立。
+      match /announcements/current {
+        allow read: if true;
+        allow write: if request.auth != null
+          && request.auth.uid == 'YOUR_ADMIN_UID'
+          && request.resource.data.keys().hasOnly(['html','createdAt','updatedAt'])
+          && request.resource.data.html is string
+          && request.resource.data.html.size() <= 50000;
+      }
   }
 }
