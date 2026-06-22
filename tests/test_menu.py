@@ -169,3 +169,17 @@ def test_write_menu_has_hot_button(tmp_path):
     assert 'id="hot"' in html
     assert 'href="popular.css"' in html
     assert 'type="module" src="popular.js"' in html
+
+
+def test_write_menu_injects_announcements(tmp_path):
+    dist = tmp_path / "dist"
+    dist.mkdir()
+    html = menu.write_menu(
+        dist, "庫", [{"label": "甲", "slug": "g", "cover_rel": None}]
+    ).read_text(encoding="utf-8")
+    assert 'href="announce.css"' in html
+    assert 'type="module" src="announce.js"' in html
+    assert "purify.min.js" in html
+    assert 'id="announce"' in html
+    # 橫幅容器在工具列之前（DOM 順序）
+    assert html.index('id="announce"') < html.index('class="toolbar"')
