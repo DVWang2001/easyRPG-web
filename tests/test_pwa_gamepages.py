@@ -267,3 +267,11 @@ def test_write_game_pages_ios_fullscreen_fallback(tmp_path):
     assert "ep-pfs" in html
     assert "#saveui{display:none!important}" in html
     assert "!vp.requestFullscreen" in html
+
+
+def test_write_game_pages_injects_popular(tmp_path):
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    pwa.write_game_pages(dist, [{"label": "甲", "slug": "g", "cover_rel": None}])
+    html = (dist / "play-g.html").read_text(encoding="utf-8")
+    assert 'type="module" src="popular.js"' in html
