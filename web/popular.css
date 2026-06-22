@@ -1,0 +1,6 @@
+/* 熱門：遊玩次數 badge ＋ 排序鈕 */
+.card .play-badge { position:absolute; left:6px; top:6px; z-index:2;
+  background:rgba(0,0,0,.6); color:#fff; font-size:11px; padding:1px 6px; border-radius:999px; }
+#hot { padding:4px 10px; border-radius:999px; border:1px solid #3a3a3a;
+  background:#1f2937; color:#cbd5e1; font-size:13px; cursor:pointer; }
+#hot.active { background:#dc2626; color:#fff; border-color:#dc2626; }
