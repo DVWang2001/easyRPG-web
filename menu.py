@@ -174,7 +174,6 @@ html.skip-title #titlescreen, #titlescreen[hidden] { display:none; }
 </style>
 <link rel="stylesheet" href="favorites.css">
 <link rel="stylesheet" href="popular.css">
-<link rel="stylesheet" href="announce.css">
 <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.8/dist/purify.min.js"></script>
 <script>try{if(sessionStorage.getItem('ep-booted'))document.documentElement.classList.add('skip-title');}catch(e){}</script>
 </head>
@@ -208,7 +207,6 @@ html.skip-title #titlescreen, #titlescreen[hidden] { display:none; }
 <h1 class="wordmark">__TITLE__</h1>
 <p class="eyebrow">▶ SELECT A GAME<span class="count">×__COUNT__</span></p>
 </header>
-<div id="announce" hidden></div>
 <div class="toolbar">
 <input id="q" type="search" placeholder="搜尋遊戲或標籤…" autocomplete="off">
 <div class="tags" id="tagbar">__TAGFILTERS__<button id="clear">清除篩選</button></div>
@@ -244,8 +242,7 @@ __CARDS__
   function decide(){ beep(1040,.12); var act=rows[i].getAttribute('data-act');
     if (act==='start'){ boot(); hide(); }
     else if (act==='favs'){ boot(); location.href='profile.html'; }
-    else if (act==='news'){ boot(); hide();
-      var a=document.getElementById('announce'); if(a && !a.hidden) a.scrollIntoView({behavior:'smooth'}); }
+    else if (act==='news'){ boot(); location.href='announce.html'; }
     else if (act==='about'){ if(about) about.hidden=false; }
   }
   // 遊戲庫左上「≡ 選單」鈕：回上一層（標題畫面）
@@ -323,7 +320,7 @@ __CARDS__
 </script>
 <script type="module" src="favorites.js"></script>
 <script type="module" src="popular.js"></script>
-<script type="module" src="announce.js"></script>
+
 </body>
 </html>
 """
@@ -356,6 +353,38 @@ __GAMES__
 </body>
 </html>
 """
+
+
+_ANNOUNCE_PAGE = """<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>公告 · __TITLE__</title>__PWAHEAD__
+<link rel="stylesheet" href="rm-theme.css">
+<link rel="stylesheet" href="announce.css">
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.8/dist/purify.min.js"></script>
+</head>
+<body>
+<div class="ann-top">
+<a href="index.html" class="ann-back">← 返回遊戲庫</a>
+<strong class="ann-title">公告</strong>
+</div>
+<div id="announce-list"></div>
+<script type="module" src="announce.js"></script>
+</body>
+</html>
+"""
+
+
+def write_announce(dist, app_label: str, icon_rel: str = pwa.ICON_REL) -> Path:
+    page = (
+        _ANNOUNCE_PAGE.replace("__PWAHEAD__", pwa.pwa_head(app_label, icon_rel))
+        .replace("__TITLE__", _html.escape(app_label))
+    )
+    out = Path(dist) / "announce.html"
+    out.write_text(page, encoding="utf-8")
+    return out
 
 
 def write_profile(dist, app_label: str, entries, icon_rel: str = pwa.ICON_REL) -> Path:
