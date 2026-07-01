@@ -1,0 +1,385 @@
+﻿*** Battle Messages 1 ***
+#StartBattle# [30]
+ が出現！
+
+#PreemptiveAttack# [50]
+先制攻撃のチャンス！
+
+#EscapeSuccess# [50]
+その場から撤退した
+
+#EscapeFailure# [50]
+逃走に失敗！
+
+#Victory# [50]
+敵ユニット＞掃討完了
+
+#Defeat# [50]
+戦いに敗れてしまった･･･
+
+#GetEXP# [38]
+の経験値を獲得！
+
+#GetMoneyPart1# [10]
+報奨金：
+
+#GetMoneyPart2# [24]
+（クレジット）獲得
+
+#GetItem# [30]
+ を入手した
+
+
+*** Battle Messages 2 ***
+#NormalAttack# [30]
+ の攻撃！
+
+#CriticalHit# [50]
+クリティカルヒット！
+
+#EnemyCritical# [50]
+クリティカルヒット！
+
+#DefendMessage# [30]
+ は 防御姿勢をとった！
+
+#EnemyObserve# [30]
+ は 間合いを取った！
+
+#EnemyBuildStrength# [30]
+ は 力をためている･･･
+
+#EnemyBurst# [30]
+ は 自爆した！
+
+#EnemyEscape# [30]
+ は 逃走した！
+
+#EnemyTransform# [30]
+ は その姿を変えた！
+
+
+*** Battle Messages 3 ***
+#DamageEnemy# [24]
+ＨＰダメージ！
+
+#MissEnemy# [32]
+ にダメージを与えられない！
+
+#DamageAlly# [24]
+ＨＰダメージ！
+
+#MissAlly# [32]
+は 攻撃を受け止めた！
+
+#SkillFailureA# [32]
+には 効かなかった！
+
+#SkillFailureB# [32]
+は 無効化した！
+
+#SkillFailureC# [32]
+は 弾き返した！
+
+#AvoidPhysical# [32]
+は 攻撃をかわした！
+
+#UseItem# [14]
+を使った！
+
+
+*** Battle Messages 4 ***
+#RecoverHPMP# [12]
+回復した！
+
+#StatUp# [12]
+上がった！
+
+#StatDown# [12]
+下がった！
+
+#StatAbsorb# [12]
+奪った！
+
+#StatSucked# [12]
+奪われた！
+
+#DefenseUp# [20]
+への耐性が上昇！
+
+#DefenseDown# [20]
+への耐性がダウン！
+
+#LevelUp# [16]
+ になった！
+
+#LearnSkill# [26]
+ を覚えた！
+
+
+*** Shop Messages A ***
+#ShopA:ChoiceScreen# [50]
+いらっしゃいませ。
+
+#ShopA:ChoiceScreenAgain# [50]
+ほかにご用件はございますか？
+
+#ShopA:Buy# [12]
+購入する
+
+#ShopA:Sell# [12]
+売却する
+
+#ShopA:Leave# [12]
+やめておく
+
+#ShopA:BuyScreen# [50]
+何をお買い上げになりますか？
+
+#ShopA:HowManyToBuy# [50]
+いくつお買い上げになりますか？
+
+#ShopA:PurchaseMade# [50]
+毎度ありがとうございます
+
+#ShopA:SellScreen# [50]
+何をお売りになりますか？
+
+#ShopA:HowManyToSell# [50]
+いくつお売りになりますか？
+
+#ShopA:SaleComplete# [50]
+毎度ありがとうございます
+
+
+*** Shop Messages B ***
+#ShopB:ChoiceScreen# [50]
+いらっしゃい！ 今日はどんな用だい？
+
+#ShopB:ChoiceScreenAgain# [50]
+ほかにも用があるかい？
+
+#ShopB:Buy# [12]
+購入する
+
+#ShopB:Sell# [12]
+売却する
+
+#ShopB:Leave# [12]
+やめておく
+
+#ShopB:BuyScreen# [50]
+何を買うんだい？
+
+#ShopB:HowManyToBuy# [50]
+いくつ買うんだい？
+
+#ShopB:PurchaseMade# [50]
+ありがとよっ！
+
+#ShopB:SellScreen# [50]
+何を売るんだい？
+
+#ShopB:HowManyToSell# [50]
+いくつ売るんだい？
+
+#ShopB:SaleComplete# [50]
+ありがとよっ！
+
+
+*** Shop Messages C ***
+#ShopC:ChoiceScreen# [50]
+いらっしゃい･･･
+
+#ShopC:ChoiceScreenAgain# [50]
+他に用はあるかい？
+
+#ShopC:Buy# [12]
+購入する
+
+#ShopC:Sell# [12]
+売却する
+
+#ShopC:Leave# [12]
+やめておく
+
+#ShopC:BuyScreen# [50]
+何を買うんだ？
+
+#ShopC:HowManyToBuy# [50]
+いくつ買うんだ？
+
+#ShopC:PurchaseMade# [50]
+･･･ありがとよ。
+
+#ShopC:SellScreen# [50]
+何を売ってくれるんだ？
+
+#ShopC:HowManyToSell# [50]
+いくつ売ってくれるんだ？
+
+#ShopC:SaleComplete# [50]
+･･･ありがとよ。
+
+
+*** Inn Messages A ***
+#InnA:IntroLine1a# [16]
+宿泊料金は
+
+#InnA:IntroLine1b# [20]
+になります。
+
+#InnA:IntroLine2# [50]
+　お泊まりになりますか？
+
+#InnA:Lodge# [12]
+泊まる
+
+#InnA:DoNotLodge# [12]
+泊まらない
+
+
+*** Inn Messages B ***
+#InnB:IntroLine1a# [16]
+一泊
+
+#InnB:IntroLine1b# [20]
+だが
+
+#InnB:IntroLine2# [50]
+　泊まっていくかい？
+
+#InnB:Lodge# [12]
+泊まる
+
+#InnB:DoNotLodge# [12]
+泊まらない
+
+
+*** Shop Parameters ***
+#OwnedQuantity# [16]
+所持数
+
+#EquippedQuantity# [16]
+装備数
+
+#CurrencyUnit# [6]
+ＣＤ
+
+
+*** Commands ***
+#Fight# [10]
+戦闘
+
+#Auto# [10]
+ＡＵＴＯ
+
+#Escape# [10]
+逃走
+
+#Attack# [10]
+攻撃
+
+#Defend# [10]
+防御
+
+#Item# [10]
+アイテム
+
+#Skill# [10]
+個別スキル
+
+#Equip# [12]
+装備
+
+#Save# [12]
+ＳＡＶＥ
+
+#EndGame# [12]
+ゲーム終了
+
+#NewGame# [16]
+< 最 初 か ら >
+
+#Continue# [16]
+< 続 き か ら >
+
+#Quit# [16]
+<    終 了    >
+
+
+*** Stats & Equipment ***
+#Level# [10]
+戦闘レベル
+
+#HP# [10]
+ＨＰ
+
+#MP# [10]
+ＳＰ
+
+#NormalState# [10]
+正常
+
+#EXPShort# [2]
+：
+
+#LevelShort# [2]
+Lv
+
+#HPShort# [2]
+体
+
+#MPShort# [2]
+技
+
+#MPCost# [10]
+消費ＳＰ
+
+#Offense# [10]
+攻撃力
+
+#Defense# [10]
+防御力
+
+#Mind# [10]
+精神力
+
+#Agility# [10]
+反応力
+
+#Arms# [10]
+武　器　：
+
+#Shield# [10]
+腕防具　：
+
+#Armor# [10]
+体防具　：
+
+#Helmet# [10]
+頭防具　：
+
+#Other# [10]
+装身具　：
+
+
+*** Save/Load/End ***
+#ChooseSaveFile# [50]
+どのファイルにセーブしますか？
+
+#ChooseLoadFile# [50]
+どのファイルをロードしますか？
+
+#File# [10]
+ＦＩＬＥ
+
+#QuitConfirm# [50]
+終了してよろしいですか？
+
+#QuitYes# [10]
+ＹＥＳ
+
+#QuitNo# [10]
+ＮＯ
+

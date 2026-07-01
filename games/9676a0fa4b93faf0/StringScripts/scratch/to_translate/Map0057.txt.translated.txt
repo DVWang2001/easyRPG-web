@@ -1,0 +1,21 @@
+﻿1. [MARKER: Message] DANDY「
+歡迎前來，我就是DANDY。
+2. [MARKER: Message] DANDY「
+你的願望是什麼？
+3. [MARKER: Message] 以藏「
+不好意思，跟我們走一趟吧……
+4. [MARKER: Message] DANDY「
+你這是在幹什麼！！？
+5. [MARKER: Message] 以藏「
+吵死了！
+6. [MARKER: Message] 奧斯卡「
+做得好。
+7. [MARKER: Message] 奧斯卡「
+只要有這麼丹迪的人在，
+那個女人也會乖乖聽話了吧。
+8. [MARKER: Message] 以藏「
+…………。
+9. [MARKER: Message] 奧斯卡「
+幹嘛，你那是個什麼驚訝的表情……？
+10. [MARKER: Message] 以藏「
+是你的錯覺……。

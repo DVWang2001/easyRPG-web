@@ -1,0 +1,107 @@
+﻿1. [MARKER: Message] 以藏「
+這就是所謂的主電腦了吧。
+2. [MARKER: Message] 確定要破壞嗎？
+3. [MARKER: Message] 
+　　　　　破壞了主電腦。
+4. [MARKER: Message] 以藏「
+好啦，回去找委託我做這種
+麻煩事的流漸那裡吧……。
+5. [MARKER: Message] 奧斯卡「
+嗯……？剛剛有什麼聲音響起嗎……？
+6. [MARKER: Message] DANDY「
+是不是那個行動電腦啊？
+7. [MARKER: Message] 以藏「
+……看來有什麼開關……。
+按按看吧……。
+8. [MARKER: Message] 喬喬莉娜「
+該不會要爆炸了吧$g
+9. [MARKER: Message] 行動電腦「
+\C[5]喂——！！！ 快給我注意到啊～～～！！！
+10. [MARKER: Message] 行動電腦「
+\C[5]雖說是待機狀態，但在系統休眠狀態下
+播放效果音可是很費勁的啊！！！
+11. [MARKER: Message] 以藏「
+……這什麼鬼啊……。
+12. [MARKER: Message] 行動電腦「
+太失禮了！！我就是本尊流漸啦！！
+被嚇到了吧！！……雖然只是拷貝版就是了……。
+13. [MARKER: Message] 以藏「
+這到底是怎麼回事啊，真是的……。
+長了一副像便當盒一樣的嘴臉……。
+14. [MARKER: Message] 行動電腦「
+我是行動電腦『GODZILLER』！
+你這個蠢貨！！
+15. [MARKER: Message] 行動電腦「
+我把我的個人人格移植到了這台掌上電腦裡！！
+為了把它壓縮在區區 16MB 的記憶體裡，
+我可是費了九牛二虎之力呢……。
+16. [MARKER: Message] 奧斯卡「
+那麼，剛才在那邊的那個傢伙是誰？
+難道那不是流漸本人嗎？
+17. [MARKER: Message] 行動電腦「
+那是複製人，我的複製人。
+18. [MARKER: Message] 喬喬莉娜「
+誰……？到底是為了什麼做出來的？$g
+19. [MARKER: Message] 行動電腦「
+天曉得……我哪會知道啊。
+20. [MARKER: Message] 奧斯卡「
+如果你是真正的流漸，
+你應該就能拆解「核彈」吧。
+21. [MARKER: Message] 行動電腦「
+也不是不行。
+前提是得有我原本的肉體才行。
+22. [MARKER: Message] 以藏「
+現在，你的肉體在哪裡？
+23. [MARKER: Message] 行動電腦「
+現在，應該被關在凡爾賽吧……。
+24. [MARKER: Message] 奧斯卡「
+凡爾賽……！！？
+巴士底監獄嗎……！！？
+25. [MARKER: Message] 行動電腦「
+沒錯。
+26. [MARKER: Message] 喬喬莉娜「
+犯罪者？$g
+27. [MARKER: Message] 行動電腦「
+才不是！！只是因為一些原因啦……。
+所以被抓起來了……。
+28. [MARKER: Message] 行動電腦「
+然後，我試圖將我的人格植入在那裡發現的複製人身上
+以此來控制他，
+並試圖救出我的本體……。
+29. [MARKER: Message] 行動電腦「
+但無奈那複製人意志也很頑強，
+一直沒辦法完全奪取他的控制權……。
+30. [MARKER: Message] 行動電腦「
+然後就在這個過程中中了病毒，
+當我覺得不妙的時候……。
+31. [MARKER: Message] 奧斯卡「
+我們就恰好出現了是吧。
+32. [MARKER: Message] 行動電腦「
+是的。
+33. [MARKER: Message] 行動電腦「
+恐怕那個複製人，已經被殺了吧。
+為了讓那些傢伙
+能從複製人身上奪走這台掌上電腦……。
+34. [MARKER: Message] 行動電腦「
+真是千鈞一髮啊……。
+35. [MARKER: Message] 奧斯卡「
+你說的「那些傢伙」到底是……。
+36. [MARKER: Message] 行動電腦「
+就是拿破崙喔。
+37. [MARKER: Message] 奧斯卡「
+胡說！！你這傢伙，那位大人怎麼可能會做
+這種事情！！！
+38. [MARKER: Message] 奧斯卡「
+給我收回那句話！！！
+39. [MARKER: Message] 行動電腦「
+就算叫我收回，但這就是事實啊……。
+40. [MARKER: Message] 行動電腦「
+啊，喂！！
+別關掉電源啊！！！
+41. [MARKER: Message] 以藏「
+奧斯卡……。
+42. [MARKER: Message] 奧斯卡「
+回凡爾賽吧……。
+43. [MARKER: Message] 以藏「
+這就是所謂的主電腦了吧。
+44. [MARKER: Message] 確定要破壞嗎？

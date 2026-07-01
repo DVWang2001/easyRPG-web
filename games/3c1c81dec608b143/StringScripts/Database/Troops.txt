@@ -1,0 +1,341 @@
+﻿**********Troop4********** (タマと蛇)
+---Page1---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+嗚…好痛苦喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+別亂動。會傷到妳。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+要是打中我就絕交喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page2---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+笨蛋！
+打到我了喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+閃開。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+被抓住了，
+沒辦法閃啊喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page4---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+本喵快不行了喵…
+##
+
+
+
+
+**********Troop6********** (黒髪)
+---Page1---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+呼吸不上來了喵
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page2---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+為什麼要瞄準本喵啊喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+並非故意的$d
+##
+
+
+
+---Page4---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+本喵快不行了喵…
+##
+
+
+
+
+**********Troop7********** (亡き海女)
+---Page1---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]我的……貝殼……
+##
+
+
+
+---Page2---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+咕嚕咕嚕……
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]……………$d
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+
+**********Troop16********** (真実)
+---Page1---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+真實！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ真実, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+你曾經站在那邊的陣營。
+##
+
+
+#Message#
+就堅持到最後吧。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+
+**********Troop20********** (左童破天)
+---Page1---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.嗯？
+右老盃受我沒有叫你啊。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+咕嚕嚕……
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……沒辦法了。
+\.那我就在旁邊看看吧。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+什、這是什麼東西啊$e
+從哪裡跑出來的！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+大概是
+鬼製造出來的幻影吧。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page2---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+好痛喵！
+##
+
+
+#Message#
+明明是幻影，
+為什麼還是好痛喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page3---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+嘖，
+沒想到沒什麼用。
+##
+
+
+#Message#
+\.讓開！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+
+**********Troop21********** (狐姫)
+---Page1---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+等一下喵！
+本喵不想和公主打架喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+我也是。
+##
+
+
+#Message#
+但我這個人，
+不管對方是誰，
+受了挑釁就一定奉陪到底。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+本喵退出喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page2---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+停手喵$e
+##
+
+
+#Message#
+你啊，
+明明說只是來說說話的喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ狐姫, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+讓開，小玉！
+你會變成貓肉串！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+貓、\.貓肉串$d　　　　　　　　　　　　　
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page3---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……可惡$n
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page4---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.………………
+\.………………
+\.深…吸………
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+停手喵～～～～～～～～～～～～$n
+##
+
+
+#Message#
+哇！
+##
+
+
+

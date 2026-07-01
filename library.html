@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RM作品收藏</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="RM作品收藏">
+<meta name="theme-color" content="#000000">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<script>if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('service-worker.js');});}</script>
+
+<link rel="stylesheet" href="rm-theme.css">
+<style>
+* { box-sizing: border-box; }
+body { margin:0; min-height:100vh; color:var(--ink); }
+
+/* 標題列＝ RM 標題畫面：皇家藍 windowskin 標題卡＋金角飾 */
+header { position:relative; max-width:560px; margin:26px auto 6px; padding:18px 24px 16px;
+  text-align:center; color:#fff;
+  background:linear-gradient(180deg, var(--win-top), var(--win-bot));
+  border:2px solid var(--win-lo); border-radius:12px;
+  box-shadow: inset 0 0 0 2px rgba(220,232,255,.6), inset 0 2px 0 rgba(255,255,255,.3),
+              inset 0 -3px 0 rgba(4,18,60,.5), 0 12px 30px rgba(6,9,28,.55); }
+header::before, header::after { content:""; position:absolute; width:7px; height:7px; pointer-events:none;
+  background:linear-gradient(var(--gold),var(--gold)) 0 0/7px 2px no-repeat,
+             linear-gradient(var(--gold),var(--gold)) 0 0/2px 7px no-repeat; }
+header::before { top:6px; left:6px; }
+header::after { top:6px; right:6px; transform:scaleX(-1); }
+.wordmark { margin:0; font-size:28px; font-weight:800; letter-spacing:.04em;
+  text-shadow:0 2px 0 var(--win-lo); }
+.eyebrow { margin:9px 0 0; font-size:11px;
+  letter-spacing:.18em; color:var(--gold);
+  display:flex; gap:10px; align-items:center; justify-content:center; }
+.eyebrow .count { color:#fff; }
+#to-title { position:fixed; top:12px; left:12px; z-index:5; text-decoration:none; cursor:pointer;
+  padding:7px 13px; border-radius:10px; border:2px solid var(--win-lo);
+  background:linear-gradient(180deg, var(--win-top), var(--win-bot)); color:#fff; font-size:13px;
+  font-family:inherit; box-shadow:inset 0 0 0 1px rgba(220,232,255,.5); }
+#to-title:hover { border-color:var(--gold); }
+
+/* 工具列＝ RM 指令視窗（深色框＋斜角高光，浮在地圖上） */
+.toolbar { max-width:980px; margin:10px auto 0; padding:14px 16px;
+  background:rgba(10,18,44,.82); border:2px solid var(--win-lo); border-radius:12px;
+  box-shadow:inset 0 0 0 2px rgba(159,180,255,.20), inset 0 1px 0 rgba(255,255,255,.12),
+             0 8px 22px rgba(6,9,28,.45);
+  display:flex; flex-direction:column; gap:10px; }
+/* 搜尋框＝凹陷的訊息輸入欄 */
+#q { width:100%; padding:11px 14px; border-radius:8px; border:2px solid var(--win-lo);
+  background:#0b1330; color:var(--ink); font-size:16px;
+  box-shadow:inset 0 2px 5px rgba(0,0,0,.45); }
+#q::placeholder { color:var(--muted); }
+#q:focus { outline:none; border-color:var(--gold);
+  box-shadow:inset 0 2px 5px rgba(0,0,0,.45), 0 0 0 3px rgba(245,197,66,.22); }
+.tags { display:flex; flex-direction:column; gap:6px; align-items:flex-start; }
+.taggroup { display:flex; flex-wrap:wrap; gap:6px; align-items:center; }
+.tagcat { color:var(--gold); font-size:12px; min-width:60px; letter-spacing:.06em; }
+/* 標籤／清除＝ RM 方角指令鈕（斜角高光），選取＝金色 */
+.tagfilter { padding:5px 11px; border-radius:5px; border:1px solid var(--win-lo);
+  background:linear-gradient(180deg,#21305c,#131e44); color:#dbe3ff; font-size:13px; cursor:pointer;
+  box-shadow:inset 0 1px 0 rgba(159,180,255,.30);
+  transition:border-color .15s ease, color .15s ease; }
+.tagfilter:hover { border-color:var(--gold); color:#fff; }
+.tagfilter.active { background:var(--gold); color:#1a1400; border-color:var(--gold); font-weight:700;
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.5); }
+#clear { padding:5px 11px; border-radius:5px; border:1px solid transparent;
+  background:transparent; color:var(--muted); font-size:13px; cursor:pointer; }
+#clear:hover { color:var(--gold); }
+.toggles { display:flex; gap:8px; }
+#empty { display:none; text-align:center; color:var(--muted); padding:24px; }
+
+/* 遊戲格＝選單項 */
+.grid { max-width:980px; margin:0 auto;
+  display:grid; grid-template-columns:repeat(auto-fill,minmax(116px,1fr));
+  gap:20px 14px; padding:12px 16px 44px; }
+.card { position:relative; display:flex; flex-direction:column; align-items:center;
+  text-decoration:none; color:inherit; -webkit-tap-highlight-color:transparent; }
+.card[hidden] { display:none; }
+/* 金色 ▶ 選取游標：平時收進去，焦點/hover 滑出（RM 選單點綴） */
+.card::before { content:""; position:absolute; left:-13px; top:calc(50% - 24px);
+  width:0; height:0; border-style:solid; border-width:6px 0 6px 10px;
+  border-color:transparent transparent transparent var(--gold);
+  opacity:0; transform:translateX(-7px); pointer-events:none;
+  filter:drop-shadow(0 0 5px rgba(245,197,66,.6));
+  transition:opacity .18s ease, transform .18s ease; }
+.thumb { position:relative; width:100%; aspect-ratio:1/1; border-radius:14px;
+  overflow:hidden; background:var(--panel); border:1px solid var(--line);
+  box-shadow:0 2px 8px rgba(0,0,0,.5);
+  transition:transform .2s cubic-bezier(.2,.7,.2,1), box-shadow .2s ease, border-color .2s ease; }
+.thumb img { width:100%; height:100%; object-fit:cover; display:block;
+  transition:transform .3s cubic-bezier(.2,.7,.2,1); }
+.card .name { margin-top:9px; font-size:14px; text-align:center; word-break:break-word;
+  color:#cfd5f5; transition:color .18s ease; }
+/* hover：金框＋游標滑入（只在真有指標的裝置，手機不卡住） */
+@media (hover:hover) and (pointer:fine) {
+  .card:hover .thumb { transform:translateY(-3px); border-color:var(--gold);
+    box-shadow:0 12px 26px rgba(0,0,0,.55), 0 0 0 1px var(--gold), 0 8px 22px rgba(245,197,66,.22); }
+  .card:hover .thumb img { transform:scale(1.05); }
+  .card:hover::before { opacity:1; transform:translateX(0); }
+  .card:hover .name { color:#fff; }
+}
+/* 手機按壓回饋 */
+.card:active .thumb { transform:scale(.97); transition:transform .1s ease; }
+/* 鍵盤聚焦：同樣亮金框＋游標 */
+.card:focus-visible { outline:none; }
+.card:focus-visible::before { opacity:1; transform:translateX(0); }
+.card:focus-visible .thumb { border-color:var(--gold); box-shadow:0 0 0 2px var(--gold); }
+@media (prefers-reduced-motion:reduce) {
+  .thumb, .thumb img, .card .name, .card::before { transition:none; }
+}
+/* 卡片標籤晶片 */
+.cardtags { text-align:center; line-height:1.7; }
+.card .tag { display:inline-block; margin:5px 3px 0; padding:1px 8px; border-radius:999px;
+  background:var(--chip); color:#9aa2cc; font-size:11px; cursor:pointer; border:1px solid var(--chip-line); }
+.card .tag.active { background:var(--gold); color:#1a1400; border-color:var(--gold); }
+body.favonly .card:not(.is-fav) { display:none; }
+</style>
+<link rel="stylesheet" href="favorites.css">
+<link rel="stylesheet" href="popular.css">
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.8/dist/purify.min.js"></script>
+</head>
+<body>
+<a href="index.html" id="to-title">← 返回主畫面</a>
+<header>
+<h1 class="wordmark">RM作品收藏</h1>
+<p class="eyebrow">▶ SELECT A GAME<span class="count">×27</span></p>
+</header>
+<div class="toolbar">
+<input id="q" type="search" placeholder="搜尋遊戲或標籤…" autocomplete="off">
+<div class="tags" id="tagbar"><div class="taggroup"><span class="tagcat">遊戲引擎</span><button class="tagfilter" data-tag="rpg maker 2000">RPG Maker 2000</button><button class="tagfilter" data-tag="rpg maker 2003">RPG Maker 2003</button></div><div class="taggroup"><span class="tagcat">戰鬥系統</span><button class="tagfilter" data-tag="arpg">ARPG</button><button class="tagfilter" data-tag="無戰鬥rpg">無戰鬥RPG</button><button class="tagfilter" data-tag="自創戰rpg">自創戰RPG</button><button class="tagfilter" data-tag="預設戰rpg">預設戰RPG</button></div><div class="taggroup"><span class="tagcat">作者</span><button class="tagfilter" data-tag="frontier field">Frontier Field</button><button class="tagfilter" data-tag="hiroki">Hiroki</button><button class="tagfilter" data-tag="kadokawa">KADOKAWA</button><button class="tagfilter" data-tag="まうす">まうす</button><button class="tagfilter" data-tag="みゃこ">みゃこ</button><button class="tagfilter" data-tag="コウ">コウ</button><button class="tagfilter" data-tag="中西　亘">中西　亘</button><button class="tagfilter" data-tag="令狐樂語">令狐樂語</button><button class="tagfilter" data-tag="入江ノジコ">入江ノジコ</button><button class="tagfilter" data-tag="天使蛋糕">天使蛋糕</button><button class="tagfilter" data-tag="幽火">幽火</button><button class="tagfilter" data-tag="梅田　貴嗣">梅田　貴嗣</button><button class="tagfilter" data-tag="水車蹴り">水車蹴り</button><button class="tagfilter" data-tag="焼城 ユブ">焼城 ユブ</button><button class="tagfilter" data-tag="王韋">王韋</button><button class="tagfilter" data-tag="秋里 京子">秋里 京子</button><button class="tagfilter" data-tag="茶林 小一">茶林 小一</button><button class="tagfilter" data-tag="辺境紳士">辺境紳士</button><button class="tagfilter" data-tag="野口 寿一">野口 寿一</button><button class="tagfilter" data-tag="驚弓之鳥">驚弓之鳥</button><button class="tagfilter" data-tag="ｃｈｏ－ｙａ">Ｃｈｏ－ｙａ</button></div><div class="taggroup"><span class="tagcat">其他</span><button class="tagfilter" data-tag="internet contest park">Internet Contest Park</button><button class="tagfilter" data-tag="rpg maker 2000 value+作品集">RPG Maker 2000 Value+作品集</button><button class="tagfilter" data-tag="rpg maker 2000 樣品遊戲">RPG Maker 2000 樣品遊戲</button><button class="tagfilter" data-tag="可用小宇宙密技">可用小宇宙密技</button><button class="tagfilter" data-tag="金賞">金賞</button><button class="tagfilter" data-tag="銀賞">銀賞</button><button class="tagfilter" data-tag="銅賞">銅賞</button><button class="tagfilter" data-tag="陳耀升中文化">陳耀升中文化</button></div><button id="clear">清除篩選</button></div>
+<div class="toggles"><button id="favonly">❤ 只看收藏</button><button id="hot">🔥 熱門</button></div>
+</div>
+<div class="grid" id="grid">
+<a class="card" href="play-806e7fba6aba9b8b.html" data-label="月藍傳奇ｉ～異界來的訪客" data-tags="rpg maker 2003,預設戰rpg,天使蛋糕"><span class="thumb"><img src="games/806e7fba6aba9b8b/cover.png" alt=""></span><span class="name">月藍傳奇Ｉ～異界來的訪客</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2003">RPG Maker 2003</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="天使蛋糕">天使蛋糕</span></span></a>
+<a class="card" href="play-c69d555e2760a2e2.html" data-label="月藍傳奇ｉｉ～咒印族傳說" data-tags="rpg maker 2003,預設戰rpg,天使蛋糕"><span class="thumb"><img src="games/c69d555e2760a2e2/cover.png" alt=""></span><span class="name">月藍傳奇ＩＩ～咒印族傳說</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2003">RPG Maker 2003</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="天使蛋糕">天使蛋糕</span></span></a>
+<a class="card" href="play-d8cbb6d854e5b7ac.html" data-label="花嫁之冠" data-tags="rpg maker 2000,預設戰rpg,kadokawa,rpg maker 2000 樣品遊戲"><span class="thumb"><img src="games/d8cbb6d854e5b7ac/cover.png" alt=""></span><span class="name">花嫁之冠</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="kadokawa">KADOKAWA</span><span class="tag" data-tag="rpg maker 2000 樣品遊戲">RPG Maker 2000 樣品遊戲</span></span></a>
+<a class="card" href="play-512ab3c6b9869577.html" data-label="education" data-tags="rpg maker 2000,預設戰rpg,まうす,rpg maker 2000 value+作品集,internet contest park,銅賞"><span class="thumb"><img src="games/512ab3c6b9869577/cover.png" alt=""></span><span class="name">Education</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="まうす">まうす</span><span class="tag" data-tag="rpg maker 2000 value+作品集">RPG Maker 2000 Value+作品集</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="銅賞">銅賞</span></span></a>
+<a class="card" href="play-063df7fa4c4b3d08.html" data-label="巴哈姆特" data-tags="rpg maker 2003,預設戰rpg,王韋"><span class="thumb"><img src="games/063df7fa4c4b3d08/cover.png" alt=""></span><span class="name">巴哈姆特</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2003">RPG Maker 2003</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="王韋">王韋</span></span></a>
+<a class="card" href="play-c65082d9f6ae7b64.html" data-label="感受此刻的風" data-tags="rpg maker 2000,自創戰rpg,辺境紳士,rpg maker 2000 value+作品集,internet contest park,金賞"><span class="thumb"><img src="games/c65082d9f6ae7b64/cover.png" alt=""></span><span class="name">感受此刻的風</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="自創戰rpg">自創戰RPG</span><span class="tag" data-tag="辺境紳士">辺境紳士</span><span class="tag" data-tag="rpg maker 2000 value+作品集">RPG Maker 2000 Value+作品集</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="金賞">金賞</span></span></a>
+<a class="card" href="play-d404af5aeddd2e4d.html" data-label="bombe" data-tags="rpg maker 2000,無戰鬥rpg,hiroki,rpg maker 2000 value+作品集,internet contest park,銅賞"><span class="thumb"><img src="games/d404af5aeddd2e4d/cover.png" alt=""></span><span class="name">bombe</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="無戰鬥rpg">無戰鬥RPG</span><span class="tag" data-tag="hiroki">Hiroki</span><span class="tag" data-tag="rpg maker 2000 value+作品集">RPG Maker 2000 Value+作品集</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="銅賞">銅賞</span></span></a>
+<a class="card" href="play-fc6d8393e09f61fd.html" data-label="闇閻神族1" data-tags="rpg maker 2000,預設戰rpg,幽火,可用小宇宙密技"><span class="thumb"><img src="games/fc6d8393e09f61fd/cover.png" alt=""></span><span class="name">闇閻神族1</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="幽火">幽火</span><span class="tag" data-tag="可用小宇宙密技">可用小宇宙密技</span></span></a>
+<a class="card" href="play-5bad7dfddc6d4569.html" data-label="闇閻神族2" data-tags="rpg maker 2003,預設戰rpg,幽火"><span class="thumb"><img src="games/5bad7dfddc6d4569/cover.png" alt=""></span><span class="name">闇閻神族2</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2003">RPG Maker 2003</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="幽火">幽火</span></span></a>
+<a class="card" href="play-b7ca5de6b407cd95.html" data-label="abyss" data-tags="rpg maker 2000,預設戰rpg,水車蹴り,rpg maker 2000 樣品遊戲"><span class="thumb"><img src="games/b7ca5de6b407cd95/cover.png" alt=""></span><span class="name">Abyss</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="水車蹴り">水車蹴り</span><span class="tag" data-tag="rpg maker 2000 樣品遊戲">RPG Maker 2000 樣品遊戲</span></span></a>
+<a class="card" href="play-85732e86eacc19dc.html" data-label="沉默小鎮" data-tags="rpg maker 2003,arpg,驚弓之鳥"><span class="thumb"><img src="games/85732e86eacc19dc/cover.png" alt=""></span><span class="name">沉默小鎮</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2003">RPG Maker 2003</span><span class="tag" data-tag="arpg">ARPG</span><span class="tag" data-tag="驚弓之鳥">驚弓之鳥</span></span></a>
+<a class="card" href="play-f9c5c7d90305f4b8.html" data-label="沉默小鎮二" data-tags="rpg maker 2003,arpg,驚弓之鳥"><span class="thumb"><img src="games/f9c5c7d90305f4b8/cover.png" alt=""></span><span class="name">沉默小鎮二</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2003">RPG Maker 2003</span><span class="tag" data-tag="arpg">ARPG</span><span class="tag" data-tag="驚弓之鳥">驚弓之鳥</span></span></a>
+<a class="card" href="play-8fe16e3daeb6e6f7.html" data-label="沉默小鎮三" data-tags="rpg maker 2003,arpg,驚弓之鳥"><span class="thumb"><img src="games/8fe16e3daeb6e6f7/cover.PNG" alt=""></span><span class="name">沉默小鎮三</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2003">RPG Maker 2003</span><span class="tag" data-tag="arpg">ARPG</span><span class="tag" data-tag="驚弓之鳥">驚弓之鳥</span></span></a>
+<a class="card" href="play-1626102a693a011d.html" data-label="沉默小鎮四" data-tags="rpg maker 2003,arpg,驚弓之鳥"><span class="thumb"><img src="games/1626102a693a011d/cover.png" alt=""></span><span class="name">沉默小鎮四</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2003">RPG Maker 2003</span><span class="tag" data-tag="arpg">ARPG</span><span class="tag" data-tag="驚弓之鳥">驚弓之鳥</span></span></a>
+<a class="card" href="play-2a777b82d3173184.html" data-label="尋寶1" data-tags="rpg maker 2000,預設戰rpg,令狐樂語"><span class="thumb"><img src="games/2a777b82d3173184/cover.png" alt=""></span><span class="name">尋寶1</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="令狐樂語">令狐樂語</span></span></a>
+<a class="card" href="play-348b771c60716325.html" data-label="尋寶2" data-tags="rpg maker 2003,預設戰rpg,令狐樂語"><span class="thumb"><img src="games/348b771c60716325/cover.PNG" alt=""></span><span class="name">尋寶2</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2003">RPG Maker 2003</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="令狐樂語">令狐樂語</span></span></a>
+<a class="card" href="play-94e5d4b9b2e75250.html" data-label="believe it or not" data-tags="rpg maker 2000,預設戰rpg,ｃｈｏ－ｙａ,rpg maker 2000 value+作品集,internet contest park,金賞"><span class="thumb"><img src="games/94e5d4b9b2e75250/cover.png" alt=""></span><span class="name">believe it or not</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="ｃｈｏ－ｙａ">Ｃｈｏ－ｙａ</span><span class="tag" data-tag="rpg maker 2000 value+作品集">RPG Maker 2000 Value+作品集</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="金賞">金賞</span></span></a>
+<a class="card" href="play-1f190430409c6bd5.html" data-label="bj to dj" data-tags="rpg maker 2000,預設戰rpg,野口 寿一,rpg maker 2000 value+作品集,internet contest park,銅賞"><span class="thumb"><img src="games/1f190430409c6bd5/cover.png" alt=""></span><span class="name">BJ To DJ</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="野口 寿一">野口 寿一</span><span class="tag" data-tag="rpg maker 2000 value+作品集">RPG Maker 2000 Value+作品集</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="銅賞">銅賞</span></span></a>
+<a class="card" href="play-685d84c2e78e8ec9.html" data-label="fire!" data-tags="rpg maker 2000,無戰鬥rpg,コウ,rpg maker 2000 value+作品集,internet contest park,銅賞"><span class="thumb"><img src="games/685d84c2e78e8ec9/cover.png" alt=""></span><span class="name">Fire!</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="無戰鬥rpg">無戰鬥RPG</span><span class="tag" data-tag="コウ">コウ</span><span class="tag" data-tag="rpg maker 2000 value+作品集">RPG Maker 2000 Value+作品集</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="銅賞">銅賞</span></span></a>
+<a class="card" href="play-d42de6c6367e593e.html" data-label="gu-l" data-tags="rpg maker 2000,預設戰rpg,焼城 ユブ,rpg maker 2000 value+作品集,internet contest park,銀賞"><span class="thumb"><img src="games/d42de6c6367e593e/cover.png" alt=""></span><span class="name">GU-L</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="焼城 ユブ">焼城 ユブ</span><span class="tag" data-tag="rpg maker 2000 value+作品集">RPG Maker 2000 Value+作品集</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="銀賞">銀賞</span></span></a>
+<a class="card" href="play-c7256c3e0034efc3.html" data-label="pieace of memory" data-tags="rpg maker 2000,自創戰rpg,梅田　貴嗣,rpg maker 2000 value+作品集,internet contest park,銅賞"><span class="thumb"><img src="games/c7256c3e0034efc3/cover.png" alt=""></span><span class="name">PIEACE OF MEMORY</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="自創戰rpg">自創戰RPG</span><span class="tag" data-tag="梅田　貴嗣">梅田　貴嗣</span><span class="tag" data-tag="rpg maker 2000 value+作品集">RPG Maker 2000 Value+作品集</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="銅賞">銅賞</span></span></a>
+<a class="card" href="play-9676a0fa4b93faf0.html" data-label="soul of dandizm" data-tags="rpg maker 2000,預設戰rpg,frontier field,rpg maker 2000 value+作品集,internet contest park,銅賞"><span class="thumb"><img src="games/9676a0fa4b93faf0/cover.png" alt=""></span><span class="name">Soul of Dandizm</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="frontier field">Frontier Field</span><span class="tag" data-tag="rpg maker 2000 value+作品集">RPG Maker 2000 Value+作品集</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="銅賞">銅賞</span></span></a>
+<a class="card" href="play-a439863df1f8e5af.html" data-label="traveler" data-tags="rpg maker 2000,預設戰rpg,入江ノジコ,rpg maker 2000 value+作品集,internet contest park,銀賞"><span class="thumb"><img src="games/a439863df1f8e5af/cover.png" alt=""></span><span class="name">Traveler</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="入江ノジコ">入江ノジコ</span><span class="tag" data-tag="rpg maker 2000 value+作品集">RPG Maker 2000 Value+作品集</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="銀賞">銀賞</span></span></a>
+<a class="card" href="play-3c1c81dec608b143.html" data-label="滿月之夜的公主" data-tags="rpg maker 2000,預設戰rpg,秋里 京子,rpg maker 2000 value+作品集,internet contest park,銅賞"><span class="thumb"><img src="games/3c1c81dec608b143/cover.png" alt=""></span><span class="name">滿月之夜的公主</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="秋里 京子">秋里 京子</span><span class="tag" data-tag="rpg maker 2000 value+作品集">RPG Maker 2000 Value+作品集</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="銅賞">銅賞</span></span></a>
+<a class="card" href="play-a74c65bbc22ec4ee.html" data-label="盜人講座" data-tags="rpg maker 2000,預設戰rpg,中西　亘,internet contest park,金賞,陳耀升中文化"><span class="thumb"><img src="games/a74c65bbc22ec4ee/cover.png" alt=""></span><span class="name">盜人講座</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="中西　亘">中西　亘</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="金賞">金賞</span><span class="tag" data-tag="陳耀升中文化">陳耀升中文化</span></span></a>
+<a class="card" href="play-1e26be502a21b6a6.html" data-label="水護墓" data-tags="rpg maker 2000,無戰鬥rpg,茶林 小一,internet contest park,銅賞"><span class="thumb"><img src="games/1e26be502a21b6a6/cover.png" alt=""></span><span class="name">水護墓</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="無戰鬥rpg">無戰鬥RPG</span><span class="tag" data-tag="茶林 小一">茶林 小一</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="銅賞">銅賞</span></span></a>
+<a class="card" href="play-2e68d069a54e92ab.html" data-label="奇美拉熱潮" data-tags="rpg maker 2000,預設戰rpg,みゃこ,internet contest park,銅賞"><span class="thumb"><img src="games/2e68d069a54e92ab/cover.png" alt=""></span><span class="name">奇美拉熱潮</span><span class="cardtags"><span class="tag" data-tag="rpg maker 2000">RPG Maker 2000</span><span class="tag" data-tag="預設戰rpg">預設戰RPG</span><span class="tag" data-tag="みゃこ">みゃこ</span><span class="tag" data-tag="internet contest park">Internet Contest Park</span><span class="tag" data-tag="銅賞">銅賞</span></span></a>
+</div>
+<div id="empty">找不到符合的遊戲</div>
+<script>
+(function(){
+  var q = document.getElementById('q');
+  var grid = document.getElementById('grid');
+  var empty = document.getElementById('empty');
+  var cards = Array.prototype.slice.call(grid.querySelectorAll('.card'));
+  var selected = new Set();
+
+  function cardTags(c){
+    var t = c.getAttribute('data-tags');
+    return t ? t.split(',') : [];
+  }
+  function apply(){
+    var query = q.value.trim().toLowerCase();
+    var shown = 0;
+    cards.forEach(function(c){
+      var label = c.getAttribute('data-label') || '';
+      var tags = cardTags(c);
+      var matchesQuery = !query || label.indexOf(query) !== -1 ||
+        tags.some(function(t){ return t.indexOf(query) !== -1; });
+      var hasAll = true;
+      selected.forEach(function(t){ if (tags.indexOf(t) === -1) hasAll = false; });
+      var show = matchesQuery && hasAll;
+      c.hidden = !show;
+      if (show) shown++;
+    });
+    empty.style.display = shown ? 'none' : 'block';
+    document.querySelectorAll('[data-tag]').forEach(function(el){
+      if (selected.has(el.getAttribute('data-tag'))) el.classList.add('active');
+      else el.classList.remove('active');
+    });
+  }
+  function toggle(tag){
+    if (selected.has(tag)) selected.delete(tag); else selected.add(tag);
+    apply();
+  }
+  q.addEventListener('input', apply);
+  document.getElementById('clear').addEventListener('click', function(){
+    selected.clear(); q.value = ''; apply();
+  });
+  document.querySelectorAll('.tagfilter').forEach(function(b){
+    b.addEventListener('click', function(){ toggle(b.getAttribute('data-tag')); });
+  });
+  grid.querySelectorAll('.card .tag').forEach(function(s){
+    s.addEventListener('click', function(e){
+      e.preventDefault(); e.stopPropagation();
+      toggle(s.getAttribute('data-tag'));
+    });
+  });
+  apply();
+})();
+</script>
+<script type="module" src="favorites.js"></script>
+<script type="module" src="popular.js"></script>
+
+</body>
+</html>

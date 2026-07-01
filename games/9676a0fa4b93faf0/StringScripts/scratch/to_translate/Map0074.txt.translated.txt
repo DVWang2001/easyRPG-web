@@ -1,0 +1,44 @@
+﻿1. [MARKER: Message] 流漸「
+……咕……啊啊啊啊啊……！！
+2. [MARKER: Message] 以藏「
+你怎麼了……！？
+3. [MARKER: Message] 流漸「
+你們……這幫人……。
+快點……離開這裡……！！
+4. [MARKER: Message] 奧斯卡「
+那可不行，我們是為了解除病毒
+才進入你的精神世界的。
+5. [MARKER: Message] 喬喬莉娜「
+所以嘛，病毒你識相的話快點滾出來$g
+6. [MARKER: Message] DANDY「
+喂……\. 我的台詞被搶了……。
+7. [MARKER: Message] 流漸「
+啊……啊啊啊啊啊……。
+8. [MARKER: Message] 流漸「
+說要消滅我……？\|
+有意思……。
+9. [MARKER: Message] 奧斯卡「
+……流漸……！？
+這……這個聲音是……！！
+10. [MARKER: Message] 流漸「
+等我奪取了這小子的精神，\. 
+就把你們的精神也一併吞噬掉！！
+11. [MARKER: Message] 病毒「
+這小子的精神力……\|到底是……怎麼回事……。
+12. [MARKER: Message] 流漸「
+可……可惡……！！
+要消失了……！！！！
+13. [MARKER: Message] 奧斯卡「
+請告訴我！！
+你到底是何方神聖！！？
+14. [MARKER: Message] 以藏「
+你真的是這個世界的居民嗎……？
+15. [MARKER: Message] 流漸「
+……把這個……收下……。
+會有派上用場的時候……。
+16. [MARKER: Message] 
+　　　　獲得了行動電腦！！
+17. [MARKER: Message] 以藏「
+……………………………………。
+18. [MARKER: Message] 奧斯卡「
+這是……？

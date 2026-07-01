@@ -1,0 +1,44 @@
+﻿1. [MARKER: Message] 倉庫の番人「
+ここの倉庫の食料は全てリードさんがくれた物デス。
+2. [MARKER: Message] ばーさん「
+カレーの原材料はウコンという香辛料じゃ！
+3. [MARKER: Message] 茶色いウコンがたっぷり詰まっている！
+4. [MARKER: Message] 茶色いウコンがたっぷり詰まっている！
+5. [MARKER: Message] 茶色いウコンがたっぷり詰まっている！
+6. [MARKER: Message] 茶色いウコンがたっぷり詰まっている！
+7. [MARKER: Message] 茶色いウコンがたっぷり詰まっている！
+8. [MARKER: Message] カレー・マスター「
+ワシはカレー・マスター！
+そなたにワシが３ヶ月熟成させたカレーを授けよう！
+9. [MARKER: Message] 
+　　　　　　　　マスターカレーゲット！
+10. [MARKER: Message] カレー・マスター「
+品切れじゃ。
+11. [MARKER: Message] 次男「
+腹減ったなぁ～。
+12. [MARKER: Message] 長男「
+そこの樽はカレーを買い溜めしておくものです。
+13. [MARKER: Message] 三男「
+カ・・・・・・・・カレーをくれぇぇぇぇ！
+14. [MARKER: Message] オヤジ「
+三男はカレーの食べすぎで
+カレー中毒になってしまった！
+しばらく我が家は禁カレーじゃ！
+15. [MARKER: Message] おばさん「
+腹が減るのは超越していない証拠、
+ワシなんか３日食わずとも平気じゃ！
+16. [MARKER: Message] 倉庫番「
+この上は倉庫です。
+17. [MARKER: Message] カレーのいい匂いがする！
+18. [MARKER: Message] カレーのいい匂いがする！
+19. [MARKER: Message] カレーのいい匂いがする！
+20. [MARKER: Message] カレーのいい匂いがする！
+21. [MARKER: Message] カレーのいい匂いがする！
+22. [MARKER: Message] カレーのいい匂いがする！
+23. [MARKER: Message] お米がたくさん入っている！
+24. [MARKER: Message] お米がたくさん入っている！
+25. [MARKER: Message] お米がたくさん入っている！
+26. [MARKER: Message] お米がたくさん入っている！
+27. [MARKER: Message] お米がたくさん入っている！
+28. [MARKER: Message] お米がたくさん入っている！
+29. [MARKER: Message] お米がたくさん入っている！

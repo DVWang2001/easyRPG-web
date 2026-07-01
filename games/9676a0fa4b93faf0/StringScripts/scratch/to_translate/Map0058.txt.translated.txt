@@ -1,0 +1,407 @@
+﻿1. [MARKER: Message] 
+　　　　　　　未開啟電源。
+2. [MARKER: Message] 
+　　　　　　　　主控員工室
+3. [MARKER: Message] 
+　　　　　　　　Windoms Me 啟動中……
+4. [MARKER: Message] 
+　　　　　　　Windoms 2000 啟動中……
+5. [MARKER: Message] 
+　　　　　　　Starting Windoms 98...
+6. [MARKER: Message] 
+　　　　　　　　Windoms Me 啟動中……
+7. [MARKER: Message] 
+　　　　　　　　畫面靜止不動。
+　看來是處於當機狀態。
+8. [MARKER: Message] 
+　　　　　　　　畫面靜止不動。
+　看來是處於當機狀態。
+9. [MARKER: Message] 以藏「
+你就是\N[5]嗎？
+10. [MARKER: Message] 以藏「
+喬喬莉娜……潛入他的精神吧……。
+11. [MARKER: Message] 喬喬莉娜「
+我拒絕$g
+12. [MARKER: Message] 以藏「
+……………………………………………………。
+13. [MARKER: Message] DANDY「
+我也拜託妳了……。
+14. [MARKER: Message] 喬喬莉娜「
+好喔$g
+精神潛入$g$g
+15. [MARKER: Message] 喬喬莉娜「
+人的精神是非常\.複\.雜\.的唷$g
+16. [MARKER: Message] 喬喬莉娜「
+要是迷路的話，可能就出不來了呢$g
+17. [MARKER: Message] 以藏「
+可惡……！！
+18. [MARKER: Message] 流漸「
+喔……是你們救了我嗎……。
+總之，先向你們道個謝吧。
+19. [MARKER: Message] 以藏「
+道謝就不必了，把英國那個
+所謂的「核彈」給拆了吧。
+我們就是為此而來的。
+20. [MARKER: Message] 流漸「
+哎呀，別急。
+我知道你們救我是有動機的。
+21. [MARKER: Message] 流漸「
+總之，今天晚上
+就先住下來吧。
+22. [MARKER: Message] 奧斯卡「
+請等一下，我有兩三件事想問……。
+23. [MARKER: Message] 流漸「
+不好意思，留到明天吧。我也累了……。
+你們隨便找個喜歡的地方睡就好。
+24. [MARKER: Message] 流漸「
+晚安。
+25. [MARKER: Message] 以藏「
+奧斯卡……你睡了嗎？
+26. [MARKER: Message] 奧斯卡「
+……還沒。怎麼了？
+27. [MARKER: Message] 以藏「
+我們到底……是為了什麼在做這些事啊？
+28. [MARKER: Message] 奧斯卡「
+……我還……
+沒有告訴過你呢……。
+29. [MARKER: Message] 奧斯卡「
+迄今為止，你跟我所做的一切，
+全都是為了拿破崙大人。
+為了他所追求的、嶄新的法國……。
+30. [MARKER: Message] 以藏「
+……哼。
+31. [MARKER: Message] 奧斯卡「
+現在的法國，在瑪麗·安托瓦內特的
+恐怖統治下……村民們的生活水準極其悲慘……。
+32. [MARKER: Message] 奧斯卡「
+那位大人想要除掉瑪麗，
+建立一個嶄新的國家。
+33. [MARKER: Message] 奧斯卡「
+一個誰也不會互相爭鬥的……\. 
+孕育著真正和平的國家……！
+34. [MARKER: Message] 奧斯卡「
+為此，拿破崙大人承諾過，哪怕自己被殺害，
+也絕不會傷害任何人……
+他做出了這樣的承諾。
+35. [MARKER: Message] 以藏「
+嘛，總而言之，我們就是在替那個美男子
+做這做那的工具就是了吧……。
+36. [MARKER: Message] 以藏「
+這故事真沉重，一點都不適合你呢……。
+37. [MARKER: Message] 奧斯卡「
+…………………………。
+38. [MARKER: Message] 男子「
+自從\N[5]大人倒下之後，
+原本一直沒問題的主電腦，
+最近也常常故障……。
+39. [MARKER: Message] 男子「
+果然它和製作者之間，
+有著什麼精神同調之類的東西吧……。
+40. [MARKER: Message] 
+　　　　　　　　　醫療室
+41. [MARKER: Message] ■\.\^
+42. [MARKER: Message] \.\^
+43. [MARKER: Message] ■\.\^
+44. [MARKER: Message] \.\^
+45. [MARKER: Message] ＞請選擇選單項目。
+46. [MARKER: Message] ＞因目前用戶帳號權限不足，
+＞無法執行此操作。
+＞請使用管理員權限重新登入。
+47. [MARKER: Message] ２＞電源管理\.\^
+48. [MARKER: Message] ＞電源管理＞請選擇選單項目。
+49. [MARKER: Message] ＞電源管理＞因目前用戶帳號權限不足，
+　　　　　＞無法執行此操作。
+　　　　　＞請使用管理員權限重新登入。
+50. [MARKER: Message] ＞電源管理＞２＞部分設施的電源管理\.\^
+51. [MARKER: Message] ＞部分設施的電源管理＞請選擇選單項目。
+52. [MARKER: Message] ＞傳送裝置的電源已開啟。
+＞返回選單。
+53. [MARKER: Message] ＞傳送裝置的電源管理＞目前僅前往主電腦的
+　　　　　　　　　　＞傳送裝置
+　　　　　　　　　　＞電源未開啟。
+　　　　　　　　　　＞要開啟電源嗎？
+54. [MARKER: Message] ＞請輸入密碼。
+＿００００＿
+55. [MARKER: Message] ＞密碼驗證中\.．\.．\.．\|
+
+＞驗證成功。開啟電源。
+56. [MARKER: Message] ＞返回選單。
+57. [MARKER: Message] ＞密碼驗證中\.．\.．\.．\|
+
+＞密碼錯誤。無法驗證。
+58. [MARKER: Message] ＞返回選單。
+59. [MARKER: Message] ＞返回選單。
+60. [MARKER: Message] ＞傳送裝置的電源管理＞因目前用戶帳號權限不足，
+　　　　　＞無法執行此操作。
+　　　　　＞請使用管理員權限重新登入。
+61. [MARKER: Message] ＞電源管理＞部分設施的電源管理
+＞２＞醫療室的電源管理\.\^
+62. [MARKER: Message] ＞醫療室的電源管理＞目前
+　　　　　　　　　　　＞醫療室的
+　　　　　　　　　　　＞電源為 OFF。
+　　　　　　　　　　　＞要開啟電源嗎？
+63. [MARKER: Message] ＞請輸入密碼。
+＿００００＿
+64. [MARKER: Message] ＞密碼驗證中\.．\.．\.．\|
+
+＞驗證成功。開啟電源。
+65. [MARKER: Message] ＞返回選單。
+66. [MARKER: Message] ＞密碼驗證中\.．\.．\.．\|
+
+＞密碼錯誤。無法驗證。
+67. [MARKER: Message] ＞返回選單。
+68. [MARKER: Message] ＞返回選單。
+69. [MARKER: Message] ＞醫療室的電源管理＞目前
+　　　　　　　　　　　＞醫療室的
+　　　　　　　　　　　＞電源為 ON。
+　　　　　　　　　　　＞要關閉電源嗎？
+70. [MARKER: Message] ＞請輸入密碼。
+＿００００＿
+71. [MARKER: Message] ＞密碼驗證中\.．\.．\.．\|
+
+＞驗證成功。關閉電源。
+72. [MARKER: Message] ＞返回選單。
+73. [MARKER: Message] ＞密碼驗證中\.．\.．\.．\|
+
+＞密碼錯誤。無法驗證。
+74. [MARKER: Message] ＞返回選單。
+75. [MARKER: Message] ＞返回選單。
+76. [MARKER: Message] ＞部分設施的電源管理＞返回電源管理。
+　　　　　　　　　　＞確定嗎？
+77. [MARKER: Message] ＞部分設施的電源管理＞返回電源管理。
+78. [MARKER: Message] ＞部分設施的電源管理＞返回選單。
+79. [MARKER: Message] ＞電源管理＞返回主選單。
+　　　　　　＞確定嗎？
+80. [MARKER: Message] ＞電源管理＞返回主選單。
+81. [MARKER: Message] ＞電源管理＞返回選單。
+82. [MARKER: Message] ＞即將關閉系統，確定嗎？
+83. [MARKER: Message] ＞辛苦了。
+84. [MARKER: Message] ＞返回選單。
+85. [MARKER: Message] ■\.\^
+86. [MARKER: Message] \.\^
+87. [MARKER: Message] ■\.\^
+88. [MARKER: Message] \.\^
+89. [MARKER: Message] ＞請選擇選單項目。
+90. [MARKER: Message] ＞因目前用戶帳號權限不足，
+＞無法執行此操作。
+＞請使用管理員權限重新登入。
+91. [MARKER: Message] ２＞電源管理\.\^
+92. [MARKER: Message] ＞電源管理＞請選擇選單項目。
+93. [MARKER: Message] ＞電源管理＞因目前用戶帳號權限不足，
+　　　　　＞無法執行此操作。
+　　　　　＞請使用管理員權限重新登入。
+94. [MARKER: Message] ＞電源管理＞２＞部分設施的電源管理\.\^
+95. [MARKER: Message] ＞部分設施的電源管理＞請選擇選單項目。
+96. [MARKER: Message] ＞傳送裝置的電源已開啟。
+＞返回選單。
+97. [MARKER: Message] ＞傳送裝置的電源管理＞目前僅前往主電腦的
+　　　　　　　　　　＞傳送裝置
+　　　　　　　　　　＞電源未開啟。
+　　　　　　　　　　＞要開啟電源嗎？
+98. [MARKER: Message] ＞請輸入密碼。
+＿００００＿
+99. [MARKER: Message] ＞密碼驗證中\.．\.．\.．\|
+
+＞驗證成功。開啟電源。
+100. [MARKER: Message] ＞返回選單。
+101. [MARKER: Message] ＞密碼驗證中\.．\.．\.．\|
+
+＞密碼錯誤。無法驗證。
+102. [MARKER: Message] ＞返回選單。
+103. [MARKER: Message] ＞返回選單。
+104. [MARKER: Message] ＞傳送裝置 the電源管理＞因目前用戶帳號權限不足，
+　　　　　＞無法執行此操作。
+　　　　　＞請使用管理員權限重新登入。
+105. [MARKER: Message] ＞電源管理＞部分設施的電源管理
+＞２＞醫療室的電源管理\.\^
+106. [MARKER: Message] ＞醫療室的電源管理＞目前
+　　　　　　　　　　　＞醫療室的
+　　　　　　　　　　　＞電源為 OFF。
+　　　　　　　　　　　＞要開啟電源嗎？
+107. [MARKER: Message] ＞請輸入密碼。
+＿００００＿
+108. [MARKER: Message] ＞密碼驗證中\.．\.．\.．\|
+
+＞驗證成功.開啟電源。
+109. [MARKER: Message] ＞返回選單。
+110. [MARKER: Message] ＞密碼驗證中\.．\.．\.．\|
+
+＞密碼錯誤。無法驗證。
+111. [MARKER: Message] ＞返回選單。
+112. [MARKER: Message] ＞返回選單。
+113. [MARKER: Message] ＞醫療室的電源管理＞目前
+　　　　　　　　　　　＞醫療室的
+　　　　　　　　　　　＞電源為 ON。
+　　　　　　　　　　　＞要關閉電源嗎？
+114. [MARKER: Message] ＞請輸入密碼。
+＿００００＿
+115. [MARKER: Message] ＞密碼驗證中\.．\.．\.．\|
+
+＞驗證成功。關閉電源。
+116. [MARKER: Message] ＞返回選單。
+117. [MARKER: Message] ＞密碼驗證中\.．\.．\.．\|
+
+＞密碼錯誤。無法驗證。
+118. [MARKER: Message] ＞返回選單。
+119. [MARKER: Message] ＞返回選單。
+120. [MARKER: Message] ＞部分設施的電源管理＞返回電源管理。
+　　　　　　　　　　＞確定嗎？
+121. [MARKER: Message] ＞部分設施的電源管理＞返回電源管理。
+122. [MARKER: Message] ＞部分設施的電源管理＞返回選單。
+123. [MARKER: Message] ＞電源管理＞返回主選單。
+　　　　　　＞確定嗎？
+124. [MARKER: Message] ＞電源管理＞返回主選單。
+125. [MARKER: Message] ＞電源管理＞返回選單。
+126. [MARKER: Message] ＞即將關閉系統，確定嗎？
+127. [MARKER: Message] ＞辛苦了。
+128. [MARKER: Message] ＞返回選單。
+129. [MARKER: Message] 
+　　　　　已被鎖定，似乎打不開。
+130. [MARKER: Message] 機器人「
+要休息一下嗎？
+131. [MARKER: Message] 
+　　　　　　無法開啟電源。
+　　　　　看來似乎是故障了。
+132. [MARKER: Message] ＞要記錄目前的狀態嗎？
+133. [MARKER: Message] 男子「
+非常感謝你們
+喚醒了流漸大人！
+134. [MARKER: Message] 男子「
+最近流漸大人不在房間裡……。
+他到底去哪裡了呢……？
+135. [MARKER: Message] 男子「
+流漸大人他回來了！
+我真的太高興了！
+136. [MARKER: Message] 男子「
+不過……感覺現在的流漸大人
+和以前的氛圍不太一樣呢……。
+137. [MARKER: Message] 流漸「
+「核彈」啊……。
+我的確做過那種東西呢。
+138. [MARKER: Message] 流漸「
+不過，那種東西的拆解方法，
+我早就忘光了啊……呵呵呵呵……。
+139. [MARKER: Message] 以藏「
+你在尋我開心嗎？
+140. [MARKER: Message] 流漸「
+哎呀，話要聽到最後嘛。
+141. [MARKER: Message] 以藏「
+（我的拳頭竟然完全沒用……。
+這傢伙，到底是何方神聖……！）
+142. [MARKER: Message] 流漸「
+如果，你們能去把那個發瘋的「C550-D」
+給摧毀掉的話，說不定我會想起來喔……。
+呵呵呵……。
+143. [MARKER: Message] 奧斯卡「
+……好吧……。
+我們就相信你……。
+144. [MARKER: Message] 流漸「
+我會遵守諾言的……。電腦室的話，
+請從東邊的傳送裝置過去。
+因為現在沒插電源，你需要從終端機登入進去啟動它。
+145. [MARKER: Message] 流漸「
+啟動終端機，選擇『電源管理』→『部分設施的電源管理』
+→『傳送裝置的電源管理』……。
+146. [MARKER: Message] 流漸「
+在那裡輸入密碼「4126」就可以了……。
+很好記吧，就當作是「好洗澡水」……呵呵……。
+147. [MARKER: Message] 流漸「
+還有，另外好像還有一個密碼……。
+「孤兒」……我忘了是哪裡的密碼了，
+不過既然不是傳送裝置的，那就沒關係了。
+148. [MARKER: Message] 流漸「
+啟動終端機，選擇『電源管理』→『部分設施的電源管理』
+→『傳送裝置的電源管理』……。
+149. [MARKER: Message] 流漸「
+在那裡輸入密碼「4126」就可以了……。
+很好記吧，就當作是「好溫泉」……呵呵……。
+150. [MARKER: Message] 流漸「
+還有，另外好像還有一個密碼……。
+「孤兒」……我忘了是哪裡的密碼了，
+不過既然不是傳送裝置的，那就沒關係了。
+151. [MARKER: Message] 流漸「
+比起這個，你們快點去吧……。
+152. [MARKER: Message] 系統發生異常……。
+“Earth.prg”此程式沒有回應。
+錯誤代碼：1984-EF008DDB-FFFF
+系統正在重新啟動中\.．\.．\.．\. 
+153. [MARKER: Message] 以藏「
+這傢伙，怎麼老是出這種狀況啊……。
+154. [MARKER: Message] 奧斯卡「
+這和我們以前見過的流漸不一樣呢。
+\.……真複雜……。
+155. [MARKER: Message] 流漸「
+\C[5]嗚哇啊啊啊啊啊啊——！！！
+156. [MARKER: Message] 喬喬莉娜「
+啊，醒來了$g
+157. [MARKER: Message] 流漸「
+……。
+158. [MARKER: Message] 以藏「
+嗯，早安。\. 
+事不宜遲，關於美國的……\|\^
+159. [MARKER: Message] 流漸「
+我雖然不知道你們是誰，
+但現在我頭好痛，讓我再睡一會兒……。
+160. [MARKER: Message] 流漸「
+你們可以隨便找個喜歡的地方睡著等我。
+161. [MARKER: Message] 以藏「
+又來了……。\.
+真拿你沒辦法，那就睡著等吧。\. 
+畢竟也有「好消息是要躺著等」這句俗話呢。
+162. [MARKER: Message] 奧斯卡「
+以藏，真虧你竟然知道這句俗話呢。
+163. [MARKER: Message] 喬喬莉娜「
+看來你的腦子裡也不全是肌肉呢$g
+164. [MARKER: Message] DANDY「
+對你刮目相看了，以藏閣下。
+165. [MARKER: Message] 以藏「
+你們這幫人……到底是把我當成什麼了啊……？
+166. [MARKER: Message] 流漸「
+早安。事情我已經全部從這個手機上聽說了。\. 
+你們是打算突入美國嗎？
+167. [MARKER: Message] 以藏「
+對啊，事情能被理解得這麼快，真是太好了。話說回來，
+你認識美國的那些傢伙嗎？\. 
+他們的對話裡有出現你的名字耶……。
+168. [MARKER: Message] 以藏「
+……在此之前，你到底是何方神聖？
+169. [MARKER: Message] 流漸「
+……到了美國你們就會明白一切了……。
+總之，那些傢伙之前試圖對我進行精神控制。
+我是絕對不會原諒他們的。
+170. [MARKER: Message] 流漸「
+既然如此，我也一起去美國。\. 
+……。\|\^
+171. [MARKER: Message] 流漸「
+\>那我就直說了。
+和我一起突入美國吧！！\<
+172. [MARKER: Message] 以藏「
+雖然搞不太懂，但總之你
+也和那些傢伙有仇是吧……。
+173. [MARKER: Message] 奧斯卡「
+流漸，非常感謝你的熱心相助。
+174. [MARKER: Message] 流漸「
+總之，得先想辦法對付美國的 DS 防護罩呢……。
+175. [MARKER: Message] 以藏「
+低誒斯防護罩？
+176. [MARKER: Message] 流漸「
+就是「維度轉移防護罩」（Dimension Shift Field）。
+也就是使美國的存在維度偏移的力場。\. 
+……你聽得懂嗎？
+177. [MARKER: Message] 以藏 \>完全不懂。\<\. 
+嘛，總之把那個解決了，
+就能去美國了是吧！
+178. [MARKER: Message] 奧斯卡「
+如果有我們能幫上忙的地方，請盡管開口。
+179. [MARKER: Message] 流漸「
+目前的話，特別沒有，
+所以請睡著等著吧。
+180. [MARKER: Message] 以藏「
+又來了……誰睡得著那麼多次啊。
+181. [MARKER: Message] 流漸「
+別擔心……
+只要使用這個手機的\C[1]催眠音波裝置\C[0]的話……。
+182. [MARKER: Message] 以藏「
+可惡啊……一天之內竟然要睡兩次……。
+183. [MARKER: Message] 奧斯卡「
+看看事情有沒有辦好，我們去流漸那裡看看吧。

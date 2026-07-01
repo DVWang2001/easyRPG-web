@@ -1,0 +1,174 @@
+﻿1. [MARKER: Message] 
+　　　　　門扉被緊緊關閉著……
+2. [MARKER: Message] 姓名：天使貝爾
+階級：第 \V[23] 位
+掌管的理：天之理
+3. [MARKER: Message] 姓名：天使貝爾
+階級：第 \V[23] 位
+掌管的理：地之理
+4. [MARKER: Message] 姓名：天使貝爾
+階級：第 \V[23] 位
+掌管的理：生之理
+5. [MARKER: Message] 姓名：天使貝爾
+階級：第 \V[23] 位
+掌管的理：死之理
+6. [MARKER: Message] 姓名：天使貝爾
+階級：不明
+掌管的理：不明
+7. [MARKER: Message] 要修改設定嗎？
+8. [MARKER: Message] 這位天使的階級是第幾位？
+9. [MARKER: Message] 那麼，這位天使所掌管的理是什麼？
+10. [MARKER: Message] 姓名：天使貝爾
+階級：第 \V[23] 位
+掌管的理：天之理
+11. [MARKER: Message] 姓名：天使貝爾
+階級：第 \V[23] 位
+掌管的理：地之理
+12. [MARKER: Message] 姓名：天使貝爾
+階級：第 \V[23] 位
+掌管的理：生之理
+13. [MARKER: Message] 姓名：天使貝爾
+階級：第 \V[23] 位
+掌管的理：死之理
+14. [MARKER: Message] 姓名：天使貝爾
+階級：第 4 位
+掌管的理：天之理
+15. [MARKER: Message] 姓名：天使莉迪亞
+階級：第 \V[26] 位
+掌管的理：天之理
+16. [MARKER: Message] 姓名：天使莉迪亞
+階級：第 \V[26] 位
+掌管的理：地之理
+17. [MARKER: Message] 姓名：天使莉迪亞
+階級：第 \V[26] 位
+掌管的理：生之理
+18. [MARKER: Message] 姓名：天使莉迪亞
+階級：第 \V[26] 位
+掌管的理：死之理
+19. [MARKER: Message] 姓名：天使莉迪亞
+階級：不明
+掌管的理：不明
+20. [MARKER: Message] 要修改設定嗎？
+21. [MARKER: Message] 這位天使的階級是第幾位？
+22. [MARKER: Message] 那麼，這位天使所掌管的理是什麼？
+23. [MARKER: Message] 姓名：天使莉迪亞
+階級：第 \V[26] 位
+掌管的理：天之理
+24. [MARKER: Message] 姓名：天使莉迪亞
+階級：第 \V[26] 位
+掌管的理：地之理
+25. [MARKER: Message] 姓名：天使莉迪亞
+階級：第 \V[26] 位
+掌管的理：生之理
+26. [MARKER: Message] 姓名：天使莉迪亞
+階級：第 \V[26] 位
+掌管的理：死之理
+27. [MARKER: Message] 姓名：天使莉迪亞
+階級：第 3 位
+掌管的理：地之理
+28. [MARKER: Message] 姓名：天使法戴爾
+階級：第 \V[27] 位
+掌管的理：天之理
+29. [MARKER: Message] 姓名：天使法戴爾
+階級：第 \V[27] 位
+掌管的理：地之理
+30. [MARKER: Message] 姓名：天使法戴爾
+階級：第 \V[27] 位
+掌管的理：生之理
+31. [MARKER: Message] 姓名：天使法戴爾
+階級：第 \V[27] 位
+掌管的理：死之理
+32. [MARKER: Message] 姓名：天使法戴爾
+階級：不明
+掌管的理：不明
+33. [MARKER: Message] 要修改設定嗎？
+34. [MARKER: Message] 這位天使的階級是第幾位？
+35. [MARKER: Message] 那麼，這位天使所掌管的理是什麼？
+36. [MARKER: Message] 姓名：天使法戴爾
+階級：第 \V[27] 位
+掌管的理：天之理
+37. [MARKER: Message] 姓名：天使法戴爾
+階級：第 \V[27] 位
+掌管的理：地之理
+38. [MARKER: Message] 姓名：天使法戴爾
+階級：第 \V[27] 位
+掌管的理：生之理
+39. [MARKER: Message] 姓名：天使法戴爾
+階級：第 \V[27] 位
+掌管的理：死之理
+40. [MARKER: Message] 姓名：天使法戴爾
+階級：第 1 位
+掌管的理：死之理
+41. [MARKER: Message] 姓名：天使丹迪之魂
+階級：第 \V[29] 位
+掌管的理：天之理
+42. [MARKER: Message] 姓名：天使丹迪之魂
+階級：第 \V[29] 位
+掌管的理：地之理
+43. [MARKER: Message] 姓名：天使丹迪之魂
+階級：第 \V[29] 位
+掌管的理：生之理
+44. [MARKER: Message] 姓名：天使丹迪之魂
+階級：第 \V[29] 位
+掌管的理：死之理
+45. [MARKER: Message] 姓名：天使丹迪之魂
+階級：不明
+掌管的理：不明
+46. [MARKER: Message] 要修改設定嗎？
+47. [MARKER: Message] 這位天使的階級是第幾位？
+48. [MARKER: Message] 那麼，這位天使所掌管的理是什麼？
+49. [MARKER: Message] 姓名：天使丹迪之魂
+階級：第 \V[29] 位
+掌管的理：天之理
+50. [MARKER: Message] 姓名：天使丹迪之魂
+階級：第 \V[29] 位
+掌管的理：地之理
+51. [MARKER: Message] 姓名：天使丹迪之魂
+階級：第 \V[29] 位
+掌管的理：生之理
+52. [MARKER: Message] 姓名：天使丹迪之魂
+階級：第 \V[29] 位
+掌管的理：死之理
+53. [MARKER: Message] 姓名：天使丹迪之魂
+階級：第 2 位
+掌管的理：生之理
+54. [MARKER: Message] 　在空無一物的純白世界中，神派遣了四位天使。
+　　 天使分別被賦予了第 1 位至第 4 位的階級，
+　　 依其地位來決定其所必須掌管的事物。
+55. [MARKER: Message] 
+　　　　　　　　天使的名字是……
+56. [MARKER: Message] 
+　　　　　　　　　　貝爾
+57. [MARKER: Message] 
+　　　　　　　　　莉迪亞
+58. [MARKER: Message] 
+　　　　　　　　法戴爾
+59. [MARKER: Message] 
+　　　　　　丹迪之魂
+60. [MARKER: Message] 
+　　　　　　　所應掌管的理分別是……
+61. [MARKER: Message] 
+　　　　　　　　　　天之理
+62. [MARKER: Message] 
+　　　　　　　　　　地之理
+63. [MARKER: Message] 
+　　　　　　　　　　生之理
+64. [MARKER: Message] 
+　　　　　　　　　　死之理
+65. [MARKER: Message] 
+　第 1 位的天使並非丹迪之魂，
+　　　而第 2 位的天使負責掌管生之理。
+66. [MARKER: Message] 
+　第 3 位的天使掌管地之理，但那人既不是法戴爾，
+　　　也並非丹迪之魂。
+67. [MARKER: Message] 
+　　　貝爾負責掌管天之理，
+　　　而第 4 位的天使是貝爾或是莉迪亞其中之一。
+68. [MARKER: Message] 
+　　　　請正確指定每一位天使的階級階位，
+　　　　　以及其各自應掌管的理。
+69. [MARKER: Message] 
+　　　　如若正確，道路便將就此開啟……
+70. [MARKER: Message] 
+　　　　另外，只要一旦離開了這個房間，
+　　　　所有的指定設定將會全部解除重置。

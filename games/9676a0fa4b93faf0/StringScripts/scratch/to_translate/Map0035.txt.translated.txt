@@ -1,0 +1,62 @@
+﻿1. [MARKER: Message] 奧斯卡「
+昏迷了……
+是艾倫幹的嗎……
+2. [MARKER: Message] 奧斯卡「
+居然搞到這個地步……真是大膽……
+3. [MARKER: Message] 奧斯卡「
+直接走正門太危險了……
+算了……
+4. [MARKER: Message] 奧斯卡「
+直接走正門太危險了……
+算了……
+5. [MARKER: Message] 奧斯卡「
+直接走正門太危險了……
+算了……
+6. [MARKER: Message] 神殿騎士阿勝「
+DANDY大人！！
+7. [MARKER: Message] DANDY「
+哦，阿勝，你怎麼來了！！
+來到這種地方！！
+8. [MARKER: Message] 神殿騎士阿勝「
+丹迪神殿被某人破壞了！！
+9. [MARKER: Message] DANDY「
+……什麼——！！！？
+10. [MARKER: Message] 神殿騎士阿勝「
+我也完全搞不清楚狀況……
+11. [MARKER: Message] 神殿騎士阿勝「
+……總之！！
+請先回去！！
+12. [MARKER: Message] DANDY「
+……不行……
+13. [MARKER: Message] 神殿騎士阿勝「
+為什麼！！？
+14. [MARKER: Message] DANDY「
+我現在有必須做的事……
+15. [MARKER: Message] 神殿騎士阿勝「
+…………………………
+16. [MARKER: Message] 神殿騎士阿勝「
+……明白了……
+既然您這麼說，
+那一定是很重要的事。
+17. [MARKER: Message] 神殿騎士阿勝「
+但是，事情結束之後請回來喔。
+18. [MARKER: Message] DANDY「
+我知道了……
+……阿勝，既然你都特地來了，
+就幫我一把吧。
+19. [MARKER: Message] 神殿騎士阿勝「
+……明白了。
+為了能早日回去，我會盡力協助。
+20. [MARKER: Message] 
+　　　　神殿騎士阿勝加入了！
+21. [MARKER: Message] 奧斯卡「
+……對了，你是怎麼知道
+DANDY在哪裡的？
+22. [MARKER: Message] 神殿騎士阿勝「
+那當然，我感應到了DANDY大人的電波……
+23. [MARKER: Message] 喬喬莉娜「
+啊～～$g　DANDY大人是我的！！$g$g
+24. [MARKER: Message] 奧斯卡「
+真受歡迎啊。
+25. [MARKER: Message] DANDY「
+因為我很丹迪嘛。

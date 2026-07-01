@@ -1,0 +1,68 @@
+﻿1. [MARKER: Message] イゾウ「
+この先は地下牢のようだな・・。
+2. [MARKER: Message] チョチョリーナ「
+地下牢は臭いから、\.ヤ$g
+3. [MARKER: Message] 警備員「
+何のようだ？
+4. [MARKER: Message] チョチョリーナ「
+この国にある超ド級軍事戦艦を
+もらいに来たのよォ$g
+5. [MARKER: Message] 警備員「
+ほゥ・・ポチョムキンを・・・。
+6. [MARKER: Message] 警備員「
+では、こちらへ・・・。
+7. [MARKER: Message] 警備員「
+お前達はぁぁ！！！？
+8. [MARKER: Message] 警備員「
+何のようだ？
+9. [MARKER: Message] チョチョリーナ「
+この国にある超ド級軍事戦艦を
+もらいに来たのよォ$g
+10. [MARKER: Message] 警備員「
+ほゥ・・ポチョムキンを・・・。
+11. [MARKER: Message] 警備員「
+では、こちらへ・・・。
+12. [MARKER: Message] 警備員「
+お前達はぁぁ！！！？
+13. [MARKER: Message] 警備員「
+まて！！！
+14. [MARKER: Message] 警備員「
+この先に、何のようだ！？
+15. [MARKER: Message] チョチョリーナ「
+この国にある超ド級軍事戦艦を
+もらいに来たのよォ$g
+16. [MARKER: Message] 警備員「
+ほゥ・・ポチョムキンを・・・。
+17. [MARKER: Message] 警備員「
+では、こちらへ・・・。
+18. [MARKER: Message] 警備員「
+お前達はぁぁ！！！？
+19. [MARKER: Message] 警備員「
+まて！！！
+20. [MARKER: Message] 警備員「
+この先に、何のようだ！？
+21. [MARKER: Message] チョチョリーナ「
+この国にある超ド級軍事戦艦を
+もらいに来たのよォ$g
+22. [MARKER: Message] 警備員「
+ほゥ・・ポチョムキンを・・・。
+23. [MARKER: Message] 警備員「
+では、こちらへ・・・。
+24. [MARKER: Message] 警備員「
+お前達はぁぁ！！！？
+25. [MARKER: Message] 
+　　　　　　　　カギがかかっている。
+26. [MARKER: Message] 
+　　　　　　　　　　　水量管理室
+27. [MARKER: Message] 警備員「
+統領を倒した・・！！？
+にげろーーーー！！！
+28. [MARKER: Message] 警備員「
+統領を倒した・・！！？
+にげろーーーー！！！
+29. [MARKER: Message] 警備員「
+統領を倒した・・！！？
+にげろーーーー！！！
+30. [MARKER: Message] 警備員「
+統領を倒した・・！！？
+にげろーーーー！！！

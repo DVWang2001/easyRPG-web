@@ -1,0 +1,61 @@
+﻿1. [MARKER: Message] 以藏「
+哇……好險！！！
+2. [MARKER: Message] 以藏「
+………………。
+3. [MARKER: Message] 奧斯卡「
+……。
+4. [MARKER: Message] 奧斯卡「
+如果是那兩個人的話，我想應該沒問題的……。
+5. [MARKER: Message] 以藏「
+……嘖……。
+看來我們也只能繼續前進了呢……。
+6. [MARKER: Message] DANDY「
+哎呀……？
+7. [MARKER: Message] 以藏「
+DANDY！！！？
+8. [MARKER: Message] DANDY「
+\C[5]哇啊啊啊啊啊————！！！\C[0]
+9. [MARKER: Message] 喬喬莉娜「
+DANDY 大人～～～～～～～～～！！！！！$g$g$g
+10. [MARKER: Message] 奧斯卡「
+喬喬莉娜！！！？
+11. [MARKER: Message] 丹達里恩「
+……來了呢……。
+12. [MARKER: Message] 克羅塞爾「
+每當說到要毀滅世界，無論在哪個時代，
+擁有強大且優秀基因的持有者們，
+都會特地自己送上門來……。
+13. [MARKER: Message] 阿拉斯托爾「
+吸取了那些基因，
+我們才得以進化至今……。
+14. [MARKER: Message] 丹達里恩「
+而多虧了這次的他們，我們
+應該能達到更高的境界吧……。
+15. [MARKER: Message] 克羅塞爾「
+問題在於……。
+16. [MARKER: Message] 阿拉斯托爾「
+那個男人嗎……。
+17. [MARKER: Message] 丹達里恩「
+『DANDY』……。
+18. [MARKER: Message] 克羅塞爾「
+根據調查結果顯示，『DANDY』是在異世界製造的
+仿生人（Android）。
+雖然是由有機素材構成，但並不存在基因（遺傳因子）……。
+19. [MARKER: Message] 丹達里恩「
+阿拉斯托爾，收拾『DANDY』的差事就交給你了……。
+20. [MARKER: Message] 阿拉斯托爾「
+……。
+21. [MARKER: Message] 克羅塞爾「
+丹達里恩，偵測到新的入侵信號……。
+22. [MARKER: Message] 丹達里恩「
+切換監視器畫面……。
+23. [MARKER: Message] 丹達里恩「
+……。
+24. [MARKER: Message] 丹達里恩「
+克羅塞爾……去給那些特地前來送死
+可憐的傢伙們……。
+25. [MARKER: Message] 克羅塞爾「
+……。
+26. [MARKER: Message] 丹達里恩「
+……真令人期待啊。\.
+超越我們三人的存在即將完成之時……。

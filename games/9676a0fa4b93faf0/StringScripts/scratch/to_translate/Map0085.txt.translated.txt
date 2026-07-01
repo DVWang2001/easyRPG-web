@@ -1,0 +1,63 @@
+﻿1. [MARKER: Message] 
+　　　　　　咖啡餐館『Brother Soul』
+2. [MARKER: Message] 
+　　　　　　咖啡餐館『Brother Soul』
+3. [MARKER: Message] 
+　　　　　　咖啡餐館『Brother Soul』
+4. [MARKER: Message] 老闆娘「
+來了個奇奇怪怪的人投宿呢。
+真稀奇呀……。
+5. [MARKER: Message] 安德烈「
+這裡……還真是個好城鎮呢……。
+6. [MARKER: Message] DANDY「
+……總之我們先去那邊的咖啡餐館，
+商量一下今後的對策吧。\|
+……而且現在，最好先冷靜一下……。
+7. [MARKER: Message] 以藏「
+就這麼辦吧，奧斯卡。
+8. [MARKER: Message] 奧斯卡「
+……說得也是……。
+9. [MARKER: Message] 旅人「
+好不容易回到了澳洲，
+沒想到連這座神殿都變樣了……。
+10. [MARKER: Message] 旅人「
+啊，對了對了。我在旅行途中聽到了個好消息呢。
+聽說本該下落不明的流漸，
+已經回到新日本了喔。
+11. [MARKER: Message] 以藏「
+流漸回來了！？
+12. [MARKER: Message] DANDY「
+看來，我們有必要親自去一趟
+新日本了呢……。
+13. [MARKER: Message] 旅人「
+雖然搞不太懂，但你們好像是熟人呢。
+嘛，這跟我沒什麼關係就是了……。
+14. [MARKER: Message] 旅人「
+好啦，我是不是該再次踏上旅程了呢？
+上次去了埃及，這次該去哪裡好呢……。
+15. [MARKER: Message] 旅人「
+好啦，我是不是該再次踏上旅程了呢？
+上次去了埃及，這次該去哪裡好呢……。
+16. [MARKER: Message] 店員「
+我把 DANDY 大人的裝備收集齊全了！！
+17. [MARKER: Message] 小鬼「
+嘿，你知道嗎！？
+18. [MARKER: Message] 小鬼「
+什麼嘛，原來是很有名的事嗎……\.切……。
+19. [MARKER: Message] 小鬼「
+在這個世界上，
+可是有兩個沒有標記在地圖上的島嶼喔！\.
+怎麼樣，我很博學多聞吧！！
+20. [MARKER: Message] 
+　　　　　　咖啡餐館『Brother Soul』
+21. [MARKER: Message] 男子「
+不知道我們家那孩子是從哪裡聽來的，
+老是知道一些稀奇古怪的事情……。
+22. [MARKER: Message] 大嬸「
+啊……我珍貴的衣服
+被一個叫作『惡人』的傢伙偷走了……。
+23. [MARKER: Message] 大嬸「
+但是，我不知道那個『惡人』到底跑去哪裡了……
+該怎麼辦才好……。
+24. [MARKER: Message] 
+　　　　　　　　　獲得了？？？！！

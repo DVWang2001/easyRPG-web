@@ -1,0 +1,73 @@
+﻿1. [MARKER: Message] 兵士Ｂ「
+俺も加勢するぜ・・。
+2. [MARKER: Message] 兵士Ａ「
+おお、同士よ！！
+3. [MARKER: Message] オスカー「
+あぁ、隣にいたヤツね。
+4. [MARKER: Message] イゾウ「
+・・・・うっとうしい・・・。
+5. [MARKER: Message] 兵士Ｂ「
+あぁ～！！　同士よ～～！！
+6. [MARKER: Message] 兵士Ｂ「
+よくも俺の仲間を！！！
+7. [MARKER: Message] 
+　　　　　　イギリス兵士ＢのＨＰが全快した
+8. [MARKER: Message] イゾウ「
+・・団結力は素晴らしいね。
+9. [MARKER: Message] オスカー「
+団結力だけは素晴らしいな。
+10. [MARKER: Message] 兵士Ａ「
+ぬぉぉ～！！　兵士Ｂィ～～！！
+11. [MARKER: Message] 兵士Ａ「
+許さねぇ～～！！
+12. [MARKER: Message] 
+　　　　　　イギリス兵士ＡのＨＰが全快した
+13. [MARKER: Message] オスカー「
+こいつは困ったな・・。
+14. [MARKER: Message] イゾウ「
+ふぅ・・疲れるなぁ～・・。
+15. [MARKER: Message] ウィルス「
+\S[10]貴様らごときに、\|私を消すことはできん！！\|
+16. [MARKER: Message] 流漸「
+\S[3]や・・・\S[2]やめろぉぉーー！！！
+17. [MARKER: Message] ウィルス「
+\S[8]流漸・・・\|\S[6]貴様・・\.まだ精神が！！！？\|
+18. [MARKER: Message] ウィルス「
+\S[5]ぬぉっっ！！　\S[8]ぬぉぉぉぉーーーー！！！\|
+19. [MARKER: Message] JOKER「
+\S[3]強い・・・！！
+ここは一旦引かせてもらう・・。
+20. [MARKER: Message] ゴルバチョフ「
+なかなかやるな・・。
+そろそろ私自ら相手をしてやろう・・・。
+21. [MARKER: Message] \>ダンダリオンの状態異常が治った！\<\.\^
+22. [MARKER: Message] 
+　　　　　　オンドレの援護攻撃！！
+23. [MARKER: Message] オンドレ「
+兄ちゃんも頑張るぜ！！！
+24. [MARKER: Message] \>ダンダリオンに\V[39]のダメージ！！\<\.\^
+25. [MARKER: Message] 
+　　　　　リード＝アレンの援護攻撃！！
+26. [MARKER: Message] リード「
+お前等、見てろよ！！
+27. [MARKER: Message] \>ダンダリオンに\V[39]のダメージ！！\<\.\^
+28. [MARKER: Message] 
+　　　　　　　　アルフの援護攻撃！！
+29. [MARKER: Message] アルフ「
+えぇーーい！！！！
+30. [MARKER: Message] \>ダンダリオンに\V[39]のダメージ！！\<\.\^
+31. [MARKER: Message] 
+　　　　　　　　マサルの援護攻撃！！
+32. [MARKER: Message] マサル「
+DANDY様～～～～～！！！！！！
+33. [MARKER: Message] ダンダリオンは全ての状態異常を受けた！！\.\^
+34. [MARKER: Message] 
+　　　　　　　　　　　鳥の援護！！
+35. [MARKER: Message] 鳥「
+コケーーーー！！！
+36. [MARKER: Message] 
+　　　　　　　　　　　全快！！！
+37. [MARKER: Message] リード＝アレン「
+イゾウ！　俺らも一緒に戦うぜ！！
+38. [MARKER: Message] イゾウ「
+アレン！　みんな！　助かる！！

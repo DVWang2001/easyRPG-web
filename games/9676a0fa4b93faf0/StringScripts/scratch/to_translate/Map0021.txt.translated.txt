@@ -1,0 +1,10 @@
+﻿1. [MARKER: Message] 少女「
+歡迎光臨。請問您要住宿嗎？
+2. [MARKER: Message] 少女「
+感謝您的光臨！
+歡迎再次蒞臨。
+3. [MARKER: Message] 少女「
+下次歡迎再度利用。
+4. [MARKER: Message] 男子「
+從這裡還可以看到海，
+景色真好啊！！

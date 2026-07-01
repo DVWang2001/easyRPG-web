@@ -1,0 +1,105 @@
+﻿1. [MARKER: Message] 
+　　　　何か不思議な力で守られている・・。
+2. [MARKER: Message] イゾウ「
+いきなり扉か・・。
+どうやって開けるんだよ・・？
+3. [MARKER: Message] DANDY「
+ここは私の技でないと、開かないようになっている。
+4. [MARKER: Message] DANDY「
+\S[2]・・・例えると・・。
+5. [MARKER: Message] DANDY「
+こういうコトだ。
+6. [MARKER: Message] イゾウ「
+ふ～ん・・・じゃあ、ここはDANDYに
+任せるしかないな。
+7. [MARKER: Message] チョチョリーナ「
+アンタは用済みってコトね$g
+8. [MARKER: Message] イゾウ「
+\S[2]\C[5]・・・ブッ殺す・・。
+9. [MARKER: Message] 
+　　　　何か不思議な力で守られている・・。
+10. [MARKER: Message] DANDY「
+ぬぉ！　開かない！！
+11. [MARKER: Message] イゾウ「
+アンタしか開けれないのに、どうするんだ・・。
+12. [MARKER: Message] DANDY「
+私は、まだ修行が足りないみたいだ・・。
+13. [MARKER: Message] イゾウ「
+つまり、ダンディパンチでは役不足ってコトか。
+ちょっと修行してから来るか・・。
+14. [MARKER: Message] DANDY「
+ぬぉ！　開かない！！
+15. [MARKER: Message] イゾウ「
+アンタしか開けれないのに、どうするんだ・・。
+16. [MARKER: Message] DANDY「
+私は、まだ修行が足りないみたいだ・・。
+17. [MARKER: Message] イゾウ「
+つまり、ダンディパンチや、キックでは
+役不足ってコトか。
+ちょっと修行してから来るか・・。
+18. [MARKER: Message] DANDY「
+ぬぉ！　開かない！！
+19. [MARKER: Message] イゾウ「
+アンタしか開けれないのに、どうするんだ・・。
+20. [MARKER: Message] DANDY「
+私は、まだ修行が足りないみたいだ・・。
+21. [MARKER: Message] イゾウ「
+つまり、ダンディパンチ、キックやアッパーでは
+役不足ってコトか。
+ちょっと修行してから来るか・・。
+22. [MARKER: Message] DANDY「
+ぬぉ！　開かない！！
+23. [MARKER: Message] イゾウ「
+アンタしか開けれないのに、どうするんだ・・。
+24. [MARKER: Message] DANDY「
+私は、まだ修行が足りないみたいだ・・。
+25. [MARKER: Message] イゾウ「
+つまり、ダンディパンチでは役不足ってコトか。
+ちょっと修行してから来るか・・。
+26. [MARKER: Message] DANDY「
+ぬぉ！　開かない！！
+27. [MARKER: Message] イゾウ「
+アンタしか開けれないのに、どうするんだ・・。
+28. [MARKER: Message] DANDY「
+私は、まだ修行が足りないみたいだ・・。
+29. [MARKER: Message] イゾウ「
+つまり、ダンディパンチや、キックでは
+役不足ってコトか。
+ちょっと修行してから来るか・・。
+30. [MARKER: Message] DANDY「
+ぬぉ！　開かない！！
+31. [MARKER: Message] イゾウ「
+アンタしか開けれないのに、どうするんだ・・。
+32. [MARKER: Message] DANDY「
+私は、まだ修行が足りないみたいだ・・。
+33. [MARKER: Message] イゾウ「
+つまり、ダンディパンチ、キックやアッパーでは
+役不足ってコトか。
+ちょっと修行してから来るか・・。
+34. [MARKER: Message] DANDY「
+全部開いたようだな・・。\.フゥ・・。
+35. [MARKER: Message] イゾウ「
+前から疑問だったんだが
+DANDYの技に出てくる奴って誰だよ・・？
+36. [MARKER: Message] DANDY「
+あれは私だ。・・私の若かりし頃と言った方がいいか。
+あれらの必殺技は、私の精神を具象化して
+放つ技だからな。
+37. [MARKER: Message] イゾウ「
+フーン・・便利なモノだな・・。
+38. [MARKER: Message] イゾウ「
+いきなり扉か・・。
+どうやって開けるんだよ・・？
+39. [MARKER: Message] DANDY「
+ここは私の技でないと、開かないようになっている。
+40. [MARKER: Message] DANDY「
+\S[2]・・・例えると・・。
+41. [MARKER: Message] DANDY「
+こういうコトだ。
+42. [MARKER: Message] イゾウ「
+ふ～ん・・・じゃあ、ここはDANDYに
+任せるしかないな。
+43. [MARKER: Message] チョチョリーナ「
+アンタは用済みってコトね$g
+44. [MARKER: Message] イゾウ「
+\S[2]\C[5]・・・ブッ殺す・・。

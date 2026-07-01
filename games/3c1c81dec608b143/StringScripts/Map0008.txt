@@ -1,0 +1,125 @@
+﻿**********Event33**********
+-----Page2-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.怎麼了？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.是池塘喵。
+##
+
+
+#Message#
+說不定可以釣到魚喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]……。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魚魚、魚魚♪
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]……………。
+##
+
+
+#Message#
+\.妳自己一個人釣吧。
+再見啦。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+哈喵？！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.？！
+##
+
+
+#Message#
+\.掉下去了嗎？！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+咕嚕咕嚕　咕噗嚕嚕喵～！
+##
+
+
+
+-----Page3-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]……………。
+##
+
+
+#Message#
+\.全身都濕漉漉的了喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……
+這都是因為誰啊$n
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+本喵在反省了啦喵$d
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]……………呼。
+##
+
+
+#Message#
+下回要是再發生什麼事，
+我就丟下妳不管了喔。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.知、\.知道了啦喵。
+##
+
+
+
+

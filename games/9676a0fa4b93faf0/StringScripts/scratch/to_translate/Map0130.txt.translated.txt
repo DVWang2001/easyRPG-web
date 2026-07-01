@@ -1,0 +1,103 @@
+﻿1. [MARKER: Message] 以藏「
+這是廁所嗎……。
+2. [MARKER: Message] 店員「
+歡迎光臨～！
+3. [MARKER: Message] 顧客「
+嗯？我可不是這裡的店長喔。
+4. [MARKER: Message] 店員「
+DANDY 大人真的好帥氣喔$g
+5. [MARKER: Message] 喬喬莉娜「
+啊～嗯，DANDY 大人可是我的專屬喔～$g
+6. [MARKER: Message] 男子「
+雖然是從澳洲避難過來的，
+但真沒想到地下居然會有這樣的一家店……。
+真是深不可測啊，丹迪神殿……。
+7. [MARKER: Message] 男子「
+廁……廁所，廁所……。
+8. [MARKER: Message] 店員「
+客人，那邊是禁止進入的！！
+9. [MARKER: Message] DANDY「
+請稍微等我一下。
+10. [MARKER: Message] 以藏「
+好慢啊……那個女服務生到底在搞什麼啊……？
+11. [MARKER: Message] DANDY「
+讓您久等了，請問要點些什麼？
+12. [MARKER: Message] 以藏「
+你這傢伙怎麼當起服務生來了！！！？
+13. [MARKER: Message] 喬喬莉娜「
+我也來幫忙吧$g
+14. [MARKER: Message] 奧斯卡「
+……。
+15. [MARKER: Message] 以藏「
+奧斯卡喝奶茶就可以了吧？
+那……我要一杯綜合咖啡。\.
+先跟你說好，我對咖啡味道可是很挑剔的喔？
+16. [MARKER: Message] 喬喬莉娜「
+你這傢伙，喝\C[1]牛奶\C[0]就綽綽有餘了啦$g
+17. [MARKER: Message] 以藏「
+你說什麼混蛋！！瞧不起我嗎！！！？
+18. [MARKER: Message] DANDY「
+不可以那樣說喔，喬喬莉娜！！
+牛奶可是對身體非常好的健康飲品喔！
+19. [MARKER: Message] 喬喬莉娜「
+喬喬莉娜最～喜歡牛奶了$g$g
+20. [MARKER: Message] 以藏「
+我果然，\.討厭這傢伙……。
+21. [MARKER: Message] 奧斯卡「
+………………。
+22. [MARKER: Message] DANDY「
+……那麼，接下來
+我們該怎麼做？
+23. [MARKER: Message] 以藏「
+把那幫傢伙\C[5]全部宰了\C[0]……。
+24. [MARKER: Message] 奧斯卡「
+……怎麼可能會贏啊！！！？\.
+你們剛才也看到了吧！那種壓倒性的力量！！\.
+已經沒用了……一切都結束了……。
+25. [MARKER: Message] 以藏「
+……你、\.你到底在說什麼啊……奧斯卡……。
+26. [MARKER: Message] 奧斯卡「
+沒用的……。行不通的啦……。\.
+拿破崙大人……
+就連那位大人都無能為力了啊……。
+27. [MARKER: Message] DANDY「
+你是打算愚弄拿破崙的死嗎？\.
+奧斯卡殿下……。
+28. [MARKER: Message] 奧斯卡「
+……誒……？
+29. [MARKER: Message] DANDY「
+不管他手段如何，他都確實想拯救這個世界。\.
+雖然手段絕對談不上高明……。\|
+但你要就這樣浪費掉他用最後力量救下來的生命嗎？
+30. [MARKER: Message] 以藏「
+沒錯啊，奧斯卡。\.
+那傢伙是個不折不扣的男子漢……。
+31. [MARKER: Message] 以藏「
+如果就這樣浪費了他那崇高的意志，……。\|
+\|
+那可就太不是個男人了啊！！奧斯卡————！！！！！
+32. [MARKER: Message] 奧斯卡「
+\C[5]老子我是個女人啊啊啊啊啊啊————！！！！\C[0]
+33. [MARKER: Message] 奧斯卡「
+對不起，各位……。
+剛才我似乎有些軟弱了……。
+34. [MARKER: Message] DANDY「
+……那麼，就這麼決定了。
+35. [MARKER: Message] 喬喬莉娜「
+要把那三個\C[7]變態三人組\C[0]撕成碎片對吧$g$g
+36. [MARKER: Message] 奧斯卡「
+既然決定了，那就來收集情報吧！！\.
+說不定有誰會知道些什麼！！
+37. [MARKER: Message] 以藏「
+……這才像你的作風啊，奧斯卡。
+……嗝噗。
+38. [MARKER: Message] 奧斯卡「
+感覺旅館是人流量最大的地方。
+我們過去看看吧。
+39. [MARKER: Message] 男孩「
+果然還是藍山咖啡最棒了啦！
+40. [MARKER: Message] 女孩「
+別介意，這孩子
+只是喜歡裝成熟而已。
+41. [MARKER: Message] 男子「
+……這家店的氣氛真是不錯呢。

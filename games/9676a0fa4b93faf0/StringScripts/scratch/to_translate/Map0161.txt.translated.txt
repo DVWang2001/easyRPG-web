@@ -1,0 +1,89 @@
+﻿1. [MARKER: Message] 
+　　　　　　門被鎖上了！
+2. [MARKER: Message] 以藏「
+這……這就是莫比烏斯之刃……。
+3. [MARKER: Message] DANDY「
+正如我以前所見的一樣，
+散發著精緻無瑕的光芒呢……。\.
+但真沒想到，竟然會有解除這把劍封印的一天……。
+4. [MARKER: Message] 以藏「
+總而言之，只要帶上這把劍，
+那個叫作『DS 障壁』的防禦
+就可以被解除了吧。
+5. [MARKER: Message] 奧斯卡「
+沒錯，就是這樣。
+事不宜遲，拿了我們就回去吧！
+6. [MARKER: Message] 
+　　　　獲得了莫比烏斯之刃！！
+7. [MARKER: Message] 管理人「
+……誒？
+8. [MARKER: Message] 管理人「
+那……那個！！如果不需要再看守這裡了，
+當初說好讓我回家的承諾……。
+9. [MARKER: Message] 管理人「
+……怎、\.怎麼這樣……。
+10. [MARKER: Message] 
+　手入莫比烏斯之刃的以藏一行人，隨即立刻返回了新日本。
+11. [MARKER: Message] 管理人「
+呼嚕嚕嚕……呼……嚕嚕嚕……。
+12. [MARKER: Message] DANDY「
+喂……醒醒……。
+13. [MARKER: Message] 管理人「
+\C[5]\>哇啊啊啊啊啊啊啊！！！\<
+14. [MARKER: Message] 管理人「
+是……DANDY 大人！！！！？
+15. [MARKER: Message] DANDY「
+你，剛才是在睡覺對吧……。
+16. [MARKER: Message] 管理人「
+絕……絕無此事！！小的哪敢啊！！
+我可是一直遵照 DANDY 大人的吩咐，
+好好守護著莫比烏斯之刃呢！
+17. [MARKER: Message] 管理人「
+做為證據，鑰匙就在這裡！！
+18. [MARKER: Message] 管理人「
+……。
+19. [MARKER: Message] 管理人「
+\>誒！！！？\<
+明明應該就在這裡的啊……！！？
+20. [MARKER: Message] 管理人「
+\>奇怪？\<\.\^
+21. [MARKER: Message] 管理人「
+\>奇怪？\<\.\^
+22. [MARKER: Message] 管理人「
+\>奇怪？\<\.\^
+23. [MARKER: Message] 管理人「
+\>奇怪？\<\.\^
+24. [MARKER: Message] 管理人「
+\>奇怪？\<\.\^
+25. [MARKER: Message] 管理人「
+……。
+26. [MARKER: Message] 管理人「
+啊！！
+27. [MARKER: Message] 管理人「
+喔，在這裡！！
+28. [MARKER: Message] 管理人「
+找到了！DANDY 大人！！
+29. [MARKER: Message] DANDY「
+你，剛才絕對是徹底忘記放在哪了吧……。
+30. [MARKER: Message] 管理人「
+沒……沒有的事！！！
+31. [MARKER: Message] 以藏「
+好啦，那種事情怎樣都無所謂啦。
+快點把鑰匙拿過來。
+32. [MARKER: Message] DANDY「
+……也是呢。
+算了，把鑰匙給我吧。
+33. [MARKER: Message] 管理人「
+是……是是是是！！
+34. [MARKER: Message] 
+　　　　獲得了格納室的鑰匙！！
+35. [MARKER: Message] DANDY「
+好，我們把門打開吧。
+36. [MARKER: Message] 管理人「
+誒……？難道還有什麼事情吩咐小的嗎……？
+37. [MARKER: Message] 管理人「
+請放我出去吧～，DANDY 大人～。
+38. [MARKER: Message] DANDY「
+等事情辦完之後再說吧……。
+39. [MARKER: Message] 管理人「
+怎麼這樣……。

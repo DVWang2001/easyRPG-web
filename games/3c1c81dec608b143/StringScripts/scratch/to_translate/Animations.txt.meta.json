@@ -1,0 +1,1186 @@
+{
+    "filepath": "Database/Animations.txt",
+    "meta": [
+        {
+            "type": "tag",
+            "line_idx": 2
+        },
+        {
+            "type": "tag",
+            "line_idx": 8
+        },
+        {
+            "type": "tag",
+            "line_idx": 14
+        },
+        {
+            "type": "tag",
+            "line_idx": 20
+        },
+        {
+            "type": "tag",
+            "line_idx": 26
+        },
+        {
+            "type": "tag",
+            "line_idx": 32
+        },
+        {
+            "type": "tag",
+            "line_idx": 38
+        },
+        {
+            "type": "tag",
+            "line_idx": 44
+        },
+        {
+            "type": "tag",
+            "line_idx": 50
+        },
+        {
+            "type": "tag",
+            "line_idx": 56
+        },
+        {
+            "type": "tag",
+            "line_idx": 62
+        },
+        {
+            "type": "tag",
+            "line_idx": 68
+        },
+        {
+            "type": "tag",
+            "line_idx": 74
+        },
+        {
+            "type": "tag",
+            "line_idx": 80
+        },
+        {
+            "type": "tag",
+            "line_idx": 86
+        },
+        {
+            "type": "tag",
+            "line_idx": 92
+        },
+        {
+            "type": "tag",
+            "line_idx": 98
+        },
+        {
+            "type": "tag",
+            "line_idx": 104
+        },
+        {
+            "type": "tag",
+            "line_idx": 110
+        },
+        {
+            "type": "tag",
+            "line_idx": 116
+        },
+        {
+            "type": "tag",
+            "line_idx": 122
+        },
+        {
+            "type": "tag",
+            "line_idx": 128
+        },
+        {
+            "type": "tag",
+            "line_idx": 134
+        },
+        {
+            "type": "tag",
+            "line_idx": 140
+        },
+        {
+            "type": "tag",
+            "line_idx": 146
+        },
+        {
+            "type": "tag",
+            "line_idx": 152
+        },
+        {
+            "type": "tag",
+            "line_idx": 158
+        },
+        {
+            "type": "tag",
+            "line_idx": 164
+        },
+        {
+            "type": "tag",
+            "line_idx": 170
+        },
+        {
+            "type": "tag",
+            "line_idx": 176
+        },
+        {
+            "type": "tag",
+            "line_idx": 182
+        },
+        {
+            "type": "tag",
+            "line_idx": 188
+        },
+        {
+            "type": "tag",
+            "line_idx": 194
+        },
+        {
+            "type": "tag",
+            "line_idx": 200
+        },
+        {
+            "type": "tag",
+            "line_idx": 206
+        },
+        {
+            "type": "tag",
+            "line_idx": 212
+        },
+        {
+            "type": "tag",
+            "line_idx": 218
+        },
+        {
+            "type": "tag",
+            "line_idx": 224
+        },
+        {
+            "type": "tag",
+            "line_idx": 230
+        },
+        {
+            "type": "tag",
+            "line_idx": 236
+        },
+        {
+            "type": "tag",
+            "line_idx": 242
+        },
+        {
+            "type": "tag",
+            "line_idx": 248
+        },
+        {
+            "type": "tag",
+            "line_idx": 254
+        },
+        {
+            "type": "tag",
+            "line_idx": 260
+        },
+        {
+            "type": "tag",
+            "line_idx": 266
+        },
+        {
+            "type": "tag",
+            "line_idx": 272
+        },
+        {
+            "type": "tag",
+            "line_idx": 278
+        },
+        {
+            "type": "tag",
+            "line_idx": 284
+        },
+        {
+            "type": "tag",
+            "line_idx": 290
+        },
+        {
+            "type": "tag",
+            "line_idx": 296
+        },
+        {
+            "type": "tag",
+            "line_idx": 302
+        },
+        {
+            "type": "tag",
+            "line_idx": 308
+        },
+        {
+            "type": "tag",
+            "line_idx": 314
+        },
+        {
+            "type": "tag",
+            "line_idx": 320
+        },
+        {
+            "type": "tag",
+            "line_idx": 326
+        },
+        {
+            "type": "tag",
+            "line_idx": 332
+        },
+        {
+            "type": "tag",
+            "line_idx": 338
+        },
+        {
+            "type": "tag",
+            "line_idx": 344
+        },
+        {
+            "type": "tag",
+            "line_idx": 350
+        },
+        {
+            "type": "tag",
+            "line_idx": 356
+        },
+        {
+            "type": "tag",
+            "line_idx": 362
+        },
+        {
+            "type": "tag",
+            "line_idx": 368
+        },
+        {
+            "type": "tag",
+            "line_idx": 374
+        },
+        {
+            "type": "tag",
+            "line_idx": 380
+        },
+        {
+            "type": "tag",
+            "line_idx": 386
+        },
+        {
+            "type": "tag",
+            "line_idx": 392
+        },
+        {
+            "type": "tag",
+            "line_idx": 398
+        },
+        {
+            "type": "tag",
+            "line_idx": 404
+        },
+        {
+            "type": "tag",
+            "line_idx": 410
+        },
+        {
+            "type": "tag",
+            "line_idx": 416
+        },
+        {
+            "type": "tag",
+            "line_idx": 422
+        },
+        {
+            "type": "tag",
+            "line_idx": 428
+        },
+        {
+            "type": "tag",
+            "line_idx": 434
+        },
+        {
+            "type": "tag",
+            "line_idx": 440
+        },
+        {
+            "type": "tag",
+            "line_idx": 446
+        },
+        {
+            "type": "tag",
+            "line_idx": 452
+        },
+        {
+            "type": "tag",
+            "line_idx": 458
+        },
+        {
+            "type": "tag",
+            "line_idx": 464
+        },
+        {
+            "type": "tag",
+            "line_idx": 470
+        },
+        {
+            "type": "tag",
+            "line_idx": 476
+        },
+        {
+            "type": "tag",
+            "line_idx": 482
+        },
+        {
+            "type": "tag",
+            "line_idx": 488
+        },
+        {
+            "type": "tag",
+            "line_idx": 494
+        },
+        {
+            "type": "tag",
+            "line_idx": 500
+        },
+        {
+            "type": "tag",
+            "line_idx": 506
+        },
+        {
+            "type": "tag",
+            "line_idx": 512
+        },
+        {
+            "type": "tag",
+            "line_idx": 518
+        },
+        {
+            "type": "tag",
+            "line_idx": 524
+        },
+        {
+            "type": "tag",
+            "line_idx": 530
+        },
+        {
+            "type": "tag",
+            "line_idx": 536
+        },
+        {
+            "type": "tag",
+            "line_idx": 542
+        },
+        {
+            "type": "tag",
+            "line_idx": 548
+        },
+        {
+            "type": "tag",
+            "line_idx": 554
+        },
+        {
+            "type": "tag",
+            "line_idx": 560
+        },
+        {
+            "type": "tag",
+            "line_idx": 566
+        },
+        {
+            "type": "tag",
+            "line_idx": 572
+        },
+        {
+            "type": "tag",
+            "line_idx": 578
+        },
+        {
+            "type": "tag",
+            "line_idx": 584
+        },
+        {
+            "type": "tag",
+            "line_idx": 590
+        },
+        {
+            "type": "tag",
+            "line_idx": 596
+        },
+        {
+            "type": "tag",
+            "line_idx": 602
+        },
+        {
+            "type": "tag",
+            "line_idx": 608
+        },
+        {
+            "type": "tag",
+            "line_idx": 614
+        },
+        {
+            "type": "tag",
+            "line_idx": 620
+        },
+        {
+            "type": "tag",
+            "line_idx": 626
+        },
+        {
+            "type": "tag",
+            "line_idx": 632
+        },
+        {
+            "type": "tag",
+            "line_idx": 638
+        },
+        {
+            "type": "tag",
+            "line_idx": 644
+        },
+        {
+            "type": "tag",
+            "line_idx": 650
+        },
+        {
+            "type": "tag",
+            "line_idx": 656
+        },
+        {
+            "type": "tag",
+            "line_idx": 662
+        },
+        {
+            "type": "tag",
+            "line_idx": 668
+        },
+        {
+            "type": "tag",
+            "line_idx": 674
+        },
+        {
+            "type": "tag",
+            "line_idx": 680
+        },
+        {
+            "type": "tag",
+            "line_idx": 686
+        },
+        {
+            "type": "tag",
+            "line_idx": 692
+        },
+        {
+            "type": "tag",
+            "line_idx": 698
+        },
+        {
+            "type": "tag",
+            "line_idx": 704
+        },
+        {
+            "type": "tag",
+            "line_idx": 710
+        },
+        {
+            "type": "tag",
+            "line_idx": 716
+        },
+        {
+            "type": "tag",
+            "line_idx": 722
+        },
+        {
+            "type": "tag",
+            "line_idx": 728
+        },
+        {
+            "type": "tag",
+            "line_idx": 734
+        },
+        {
+            "type": "tag",
+            "line_idx": 740
+        },
+        {
+            "type": "tag",
+            "line_idx": 746
+        },
+        {
+            "type": "tag",
+            "line_idx": 752
+        },
+        {
+            "type": "tag",
+            "line_idx": 758
+        },
+        {
+            "type": "tag",
+            "line_idx": 764
+        },
+        {
+            "type": "tag",
+            "line_idx": 770
+        },
+        {
+            "type": "tag",
+            "line_idx": 776
+        },
+        {
+            "type": "tag",
+            "line_idx": 782
+        }
+    ],
+    "items": [
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "打撃Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "打撃Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "打撃Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "打撃Ｄ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "剣Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "剣Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "剣Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "剣Ｄ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "槍Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "槍Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "槍Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "槍Ｄ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "斧Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "斧Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "弓Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "弓Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "爪Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "爪Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "鞭Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "鞭Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "--------------------"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "大願面攻撃"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "ぶくぶく"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "毒のブレス"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "眠りのブレス"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "花粉Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "花粉Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "超音波Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "超音波Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "霧Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "霧Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "沈黙の歌"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "子守り歌"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "誘惑の歌"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "砂けむり"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "まぶしい光"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "巻き付き"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "吸血"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "不気味なダンス"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "麻痺にらみ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "体当たり"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "足払い"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "おたけび"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "--------------------"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "回復魔法Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "回復魔法Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "回復魔法Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "状態治療魔法Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "状態治療魔法Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "状態治療魔法Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "蘇生魔法Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "蘇生魔法Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "蘇生魔法Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "--------------------"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "気絶魔法"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "毒魔法"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "鎮魂"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "鎮魂"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "暴走魔法"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "混乱魔法"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "睡眠魔法"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "麻痺魔法"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "--------------------"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "攻撃力アップ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "攻撃力ダウン"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "防御力アップ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "防御力ダウン"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "精神力アップ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "精神力ダウン"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "敏捷性アップ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "敏捷性ダウン"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "ヒートバリア"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "コールドバリア"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "吸収魔法Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "吸収魔法Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "--------------------"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "炎魔法・単Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "炎魔法・単Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "炎魔法・単Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "炎魔法・全Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "炎魔法・全Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "炎魔法・単Ｄ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "冷気魔法・単Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "冷気魔法・単Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "冷気魔法・単Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "冷気魔法・全Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "冷気魔法・全Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "冷気魔法・全Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "雷魔法・単Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "雷魔法・単Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "雷魔法・単Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "雷魔法・全Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "雷魔法・全Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "雷魔法・全Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "水魔法・単Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "水魔法・単Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "水魔法・単Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "水魔法・全Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "水魔法・全Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "水魔法・全Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "大地魔法・単Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "大地魔法・単Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "大地魔法・単Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "大地魔法・全Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "大地魔法・全Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "大地魔法・全Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "風魔法・単Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "風魔法・単Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "風魔法・単Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "風魔法・全Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "風魔法・全Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "風魔法・全Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "神聖魔法・単Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "神聖魔法・単Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "神聖魔法・単Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "神聖魔法・全Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "神聖魔法・全Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "神聖魔法・全Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "暗黒魔法・単Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "暗黒魔法・単Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "暗黒魔法・単Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "暗黒魔法・全Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "暗黒魔法・全Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "暗黒魔法・全Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "無属性魔法・単Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "無属性魔法・単Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "無属性魔法・単Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "無属性魔法・全Ａ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "無属性魔法・全Ｂ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "無属性魔法・全Ｃ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "--------------------"
+        }
+    ]
+}

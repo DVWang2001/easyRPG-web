@@ -1,0 +1,44 @@
+﻿1. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+2. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+3. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+4. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+5. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+6. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+7. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+8. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+9. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+10. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+11. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+12. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+13. [MARKER: Message] 
+　　　　　　　　　　　ＯＵＴ！！
+14. [MARKER: Message] やめますか？
+15. [MARKER: Message] やめますか？
+16. [MARKER: Message] 神殿騎士「
+おみごとっ！！
+17. [MARKER: Message] 神殿騎士「
+これで、ここ『素早さの間』の試練はお終いだ。
+残りの試練があるならば、残りの試練を。
+全て終わったのならば、広間へ戻ってみなさい。
+18. [MARKER: Message] 神殿騎士「
+おみごとっ！！
+19. [MARKER: Message] 神殿騎士「
+これで、ここ『素早さの間』の試練はお終いだ。
+残りの試練があるならば、残りの試練を。
+全て終わったのならば、広間へ戻ってみなさい。
+20. [MARKER: Message] 
+　　　　　　　　　　　時間切れ！！
+21. [MARKER: Message] 神殿騎士「
+また諦めずに、挑戦してくれ。

@@ -1,0 +1,77 @@
+﻿1. [MARKER: Message] \>これの作成に必要な物　　必要な数　　現在の所持数
+・回復の札　　　　　　　 ×１０　　　　\V[43]\<
+2. [MARKER: Message] これにするかい？\!\^
+3. [MARKER: Message] ちょっと、待ってろ・・。
+4. [MARKER: Message] よし、出来たぜ！！
+5. [MARKER: Message] 
+　　　　　　 回復の札デラックスゲット！！
+6. [MARKER: Message] 作成に必要な物が足りないぜ。
+7. [MARKER: Message] \>これの作成に必要な物　　必要な数　　現在の所持数
+・天竜石　　　　　　　　 ×１０　　　　\V[43]\<
+8. [MARKER: Message] これにするかい？\!\^
+9. [MARKER: Message] ちょっと、待ってろ・・。
+10. [MARKER: Message] よし、出来たぜ！！
+11. [MARKER: Message] 
+　　　　　　　天竜石デラックスゲット！！
+12. [MARKER: Message] 作成に必要な物が足りないぜ。
+13. [MARKER: Message] \>これの作成に必要な物　　必要な数　　現在の所持数
+・斬鉄剣　　　　　　　　 ×１　　　　　\V[43]
+・オリハルコンソード　　 ×１　　　　　\V[44]\<
+14. [MARKER: Message] これにするかい？\!\^
+15. [MARKER: Message] ちょっと、待ってろ・・。
+16. [MARKER: Message] よし、出来たぜ！！
+17. [MARKER: Message] 
+　　　　　　　　　 超斬鉄剣ゲット！！
+18. [MARKER: Message] 作成に必要な物が足りないぜ。
+19. [MARKER: Message] 作成に必要な物が足りないぜ。
+20. [MARKER: Message] \>これの作成に必要な物　　必要な数　　現在の所持数
+・ハイパーモーター　　　 ×１　　　　　\V[43]
+・オリハルコンソード　　 ×１　　　　　\V[44]\<
+21. [MARKER: Message] これにするかい？\!\^
+22. [MARKER: Message] ちょっと、待ってろ・・。
+23. [MARKER: Message] よし、出来たぜ！！
+24. [MARKER: Message] 
+　　　　　　　　　  機工斧ゲット！！
+25. [MARKER: Message] 作成に必要な物が足りないぜ。
+26. [MARKER: Message] 作成に必要な物が足りないぜ。
+27. [MARKER: Message] \>これの作成に必要な物　　必要な数　　現在の所持数
+・クリスタルナイフ　　　 ×７　　　　　\V[43]
+・水晶研磨機　　　　　　 ×１　　　　　\V[44]\<
+28. [MARKER: Message] これにするかい？\!\^
+29. [MARKER: Message] ちょっと、待ってろ・・。
+30. [MARKER: Message] よし、出来たぜ！！
+31. [MARKER: Message] 
+　　　　　　クリスタルブレイドゲット！！
+32. [MARKER: Message] 作成に必要な物が足りないぜ。
+33. [MARKER: Message] 作成に必要な物が足りないぜ。
+34. [MARKER: Message] \>これの作成に必要な物　　必要な数　　現在の所持数
+・トマホーク　　　　　　 ×１　　　　　\V[43]
+・ﾌﾟﾗｽﾞﾏｼﾞｪｯﾄ推進機 　　 ×１　　　　　\V[44]\<
+35. [MARKER: Message] これにするかい？\!\^
+36. [MARKER: Message] ちょっと、待ってろ・・。
+37. [MARKER: Message] よし、出来たぜ！！
+38. [MARKER: Message] 
+　　　　　　　　　ＩＣＢＭゲット！！
+39. [MARKER: Message] 作成に必要な物が足りないぜ。
+40. [MARKER: Message] 作成に必要な物が足りないぜ。
+41. [MARKER: Message] \>これの作成に必要な物　　必要な数　　現在の所持数
+・シールド　　　　　　　 ×１　　　　　\V[43]
+・ハイテクリング　　　　 ×１　　　　　\V[44]\<
+42. [MARKER: Message] これにするかい？\!\^
+43. [MARKER: Message] ちょっと、待ってろ・・。
+44. [MARKER: Message] よし、出来たぜ！！
+45. [MARKER: Message] 
+　　　　　　 グレイトシールドゲット！！
+46. [MARKER: Message] 作成に必要な物が足りないぜ。
+47. [MARKER: Message] 作成に必要な物が足りないぜ。
+48. [MARKER: Message] \>これの作成に必要な物　　必要な数　　現在の所持数
+・水晶研磨機　　　　　　 ×１　　　　　\V[43]
+・紅水晶　　　　　　　　 ×３　　　　　\V[44]\<
+49. [MARKER: Message] これにするかい？\!\^
+50. [MARKER: Message] ちょっと、待ってろ・・。
+51. [MARKER: Message] よし、出来たぜ！！
+52. [MARKER: Message] 
+　　　　　 クリスタルフィールドゲット！！
+53. [MARKER: Message] 作成に必要な物が足りないぜ。
+54. [MARKER: Message] 作成に必要な物が足りないぜ。
+55. [MARKER: Message] 何を作って欲しいんだい？

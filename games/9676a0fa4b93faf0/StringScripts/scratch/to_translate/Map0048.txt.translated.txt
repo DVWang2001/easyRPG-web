@@ -1,0 +1,55 @@
+﻿1. [MARKER: Message] 奧斯卡「
+以藏，我們來找找有沒有什麼重要的東西吧。
+2. [MARKER: Message] 士兵「
+嗯……！！
+3. [MARKER: Message] 士兵「
+什麼人，你們這群傢伙！！！？
+4. [MARKER: Message] 以藏「
+我們是來見這裡的皇帝陛下的……
+5. [MARKER: Message] 士兵「
+皇帝陛下……？
+真是可疑的傢伙們……
+6. [MARKER: Message] 士兵「
+總之，非相關人員
+禁止入內！！
+快點離開！
+7. [MARKER: Message] 奧斯卡「
+那可不行。
+有那麼嚴密的警備網，
+這裡一定有什麼重要的東西吧。
+8. [MARKER: Message] 奧斯卡「
+總之，先請礙事的人退場吧。
+9. [MARKER: Message] 士兵「
+嗚哇……。
+10. [MARKER: Message] 奧斯卡「
+我們稍微調查一下這間房間，
+看看有沒有什麼重要的東西吧。
+11. [MARKER: Message] 奧斯卡「
+來找找看有沒有什麼東西吧……
+12. [MARKER: Message] 以藏「
+這已經達到小偷的境界了吧……。
+13. [MARKER: Message] 奧斯卡「
+看來沒有什麼特別重要的東西呢。
+14. [MARKER: Message] 奧斯卡「
+來找找看有沒有什麼東西吧……
+15. [MARKER: Message] 以藏「
+這已經達到小偷的境界了吧……。
+16. [MARKER: Message] 奧斯卡「
+……嗯！？
+這是……。
+17. [MARKER: Message] 
+　　　　　　　　　獲得了ID卡！！
+18. [MARKER: Message] 以藏「
+看來和機械文明的ID卡不太一樣呢。
+像是機關之類的東西？
+19. [MARKER: Message] 奧斯卡「
+看來是這樣……剩下的就是這要在哪裡使用呢……。
+20. [MARKER: Message] 以藏「
+……在我們之前走過的地方，
+有沒有什麼可疑的場所啊……。
+21. [MARKER: Message] 以藏「
+看來已經什麼都沒有了呢。
+22. [MARKER: Message] 
+　　　　　　　士兵似乎昏迷了。
+23. [MARKER: Message] 奧斯卡「
+以藏，我們來找找有沒有什麼重要的東西吧。

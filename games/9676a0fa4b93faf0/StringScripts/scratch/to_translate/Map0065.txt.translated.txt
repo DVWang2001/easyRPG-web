@@ -1,0 +1,33 @@
+﻿1. [MARKER: Message] 以藏「
+嗯？
+2. [MARKER: Message] 士兵「
+可不能讓你們再往前走一步！！！
+3. [MARKER: Message] 奧斯卡「
+果然還是被捷足先登了嗎……。
+4. [MARKER: Message] 以藏「
+真是有夠麻煩的……。
+5. [MARKER: Message] 士兵「
+賭上我們「中國兵團」的名號，
+一定要排除入侵者！！！
+6. [MARKER: Message] 士兵「
+願榮光歸於中國！！！
+7. [MARKER: Message] 奧斯卡「
+要是可以，本來想悄悄解決的呢。
+8. [MARKER: Message] 以藏「
+明明那麼招搖地入侵，虧你說得出這種話……。
+9. [MARKER: Message] 奧斯卡「
+……總……總而言之，
+我們先前進吧。
+10. [MARKER: Message] 以藏「
+嗯？
+11. [MARKER: Message] 士兵「
+可不能讓你們再往前走一步！！！
+12. [MARKER: Message] 奧斯卡「
+果然還是被捷足先登了嗎……。
+13. [MARKER: Message] 以藏「
+真是有夠麻煩的……。
+14. [MARKER: Message] 士兵「
+賭上我們「中國兵團」的名號，
+一定要排除入侵者！！！
+15. [MARKER: Message] 士兵「
+願榮光歸於中國！！！

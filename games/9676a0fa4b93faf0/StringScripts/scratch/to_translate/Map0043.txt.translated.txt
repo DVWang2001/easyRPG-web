@@ -1,0 +1,52 @@
+﻿1. [MARKER: Message] 
+　　　　　　中華人民共和國，萬歲
+2. [MARKER: Message] 兵士「
+你是政府的人嗎？
+3. [MARKER: Message] 兵士「
+………………。
+看來不是呢。
+4. [MARKER: Message] 兵士「
+這裡的船隻，全都是中國皇帝的財產。
+沒有皇帝的許可，請不要再往前走。
+5. [MARKER: Message] 兵士「
+你是政府的人嗎？
+6. [MARKER: Message] 兵士「
+………………。
+看來不是呢。
+7. [MARKER: Message] 兵士「
+這裡的船隻，全都是中國皇帝的財產。
+沒有皇帝的許可，請不要再往前走。
+8. [MARKER: Message] 奧斯卡「
+許可的話我拿到了。\|
+你看。
+9. [MARKER: Message] 兵士「
+那……那是皇帝的墜飾！！
+10. [MARKER: Message] 兵士「
+……我明白了。
+請盡管使用吧。
+11. [MARKER: Message] 兵士「
+其實，皇帝自己一次都沒用過
+這艘船。
+12. [MARKER: Message] 兵士「
+讓你們這樣的人來使用，
+對這艘船來說也是得償所願吧。
+13. [MARKER: Message] 兵士「
+啊……！我也要回去了！！
+14. [MARKER: Message] 以藏「
+………………………………。
+15. [MARKER: Message] 奧斯卡「
+………………………………。
+16. [MARKER: Message] 兵士「
+啊——，從國家派來的士兵
+什麼時候才能來跟我交接啊……
+17. [MARKER: Message] 兵士「
+不，應該說，既然看守船隻的工作都沒了，
+為什麼我們還得在這裡
+繼續看守呢……
+18. [MARKER: Message] 以藏「
+……那直接回去不就好了……
+19. [MARKER: Message] 喬喬莉娜「
+直接回去就好了嘛$g
+20. [MARKER: Message] 兵士「
+………………說的也是……
+回去吧！！！

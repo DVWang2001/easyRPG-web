@@ -1,0 +1,123 @@
+﻿1. [MARKER: Message] [FACE: 顔002, 2, Right, Flip Horizontal] オスカー「
+ギルドにはもう、行ったか？
+2. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] イゾウ「
+あ・・。
+3. [MARKER: Message] [FACE: Erase] オスカー「
+まだ行っていないのか。
+ギルドで依頼契約書を受け取ってから
+また来てくれ。
+4. [MARKER: Message] [FACE: 顔002, 2, Right, Flip Horizontal] オスカー「
+今回の依頼も受けてくれるか。
+助かる。
+5. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] イゾウ「
+それはいいケド・・\.
+前回のミッションのギャラくれよ。
+6. [MARKER: Message] [FACE: Erase] オスカー「
+まぁまぁ、\.今度のミッションを成功させたらやるよ。
+7. [MARKER: Message] [FACE: Erase] イゾウ「
+・\.・\.・\.・\.・\S[4]・・今よこせ。
+8. [MARKER: Message] [FACE: Erase] オスカー「
+・・・・・・１００００Ｄだ。
+9. [MARKER: Message] [FACE: Erase] イゾウ「
+\.・・・は？
+10. [MARKER: Message] [FACE: Erase] オスカー「
+今回、前回を併せて１００００Ｄやろう。
+
+どうだ？
+11. [MARKER: Message] [FACE: Erase] イゾウ「
+・\.・\.・\.・\.・\.・\.・・・まぢ？
+12. [MARKER: Message] [FACE: Erase] オスカー「
+マヂだ。\.　さて、早速だが今回は\C[7]イギリス\C[0]へ向かう。
+ミッション内容はそのイギリスの無敵艦隊
+『\C[5]エリザベス８号\C[0]』の調査だ。
+13. [MARKER: Message] [FACE: Erase] オスカー「
+今回は私も行く。
+まずは、イギリスに船が出ている\C[8]エルミ\C[0]に行くぞ。
+14. [MARKER: Message] [FACE: Erase] オスカー「
+分かっているな、エルミは北だぞ。
+15. [MARKER: Message] [FACE: Erase] メイド「
+リード＝アレンって知ってる？
+16. [MARKER: Message] [FACE: Erase] メイド「
+ふ～ん・・・ならいいわ。
+17. [MARKER: Message] [FACE: Erase] メイド「
+今、ここベルサイユに来ているんだって。
+18. [MARKER: Message] [FACE: Erase] メイド「
+・・何してるんだろ？
+19. [MARKER: Message] [FACE: Erase] メイド「
+では、お気をつけて。
+イゾウ様、\.エルミは北ですからね。
+20. [MARKER: Message] [FACE: Erase] メイド「
+リード＝アレンって知ってる？
+21. [MARKER: Message] [FACE: Erase] メイド「
+ふ～ん・・・ならいいわ。
+22. [MARKER: Message] [FACE: Erase] メイド「
+今、ここベルサイユに来ているんだって。
+23. [MARKER: Message] [FACE: Erase] メイド「
+・・何してるんだろ？
+24. [MARKER: Message] [FACE: Erase] メイド「
+オスカー様、お帰りなさいませ。
+25. [MARKER: Message] [FACE: Erase] メイド「
+オスカー様、お帰りなさいませ。
+26. [MARKER: Message] [FACE: Erase] オスカー「
+あぁ、お前がアレンを見たとか聞いたのだが・・。
+本当なのだな？
+27. [MARKER: Message] [FACE: Erase] メイド「
+えぇ、この間買い物帰りにちらっと・・。
+28. [MARKER: Message] [FACE: Erase] メイド「
+確かあそこはバスチーユの入り口から
+西の方面だったハズです。
+29. [MARKER: Message] [FACE: Erase] オスカー「
+それだけで十分だ。
+よくやった。
+30. [MARKER: Message] [FACE: Erase] メイド「
+ありがとうございます。
+お気をつけて・・。
+31. [MARKER: Message] [FACE: Erase] メイド「
+バスチーユ入り口から西の方面です。
+32. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！
+33. [MARKER: Message] [FACE: Erase] オスカー「
+・・・何だ？
+34. [MARKER: Message] [FACE: Erase] メイド「
+これをお持ちください。
+35. [MARKER: Message] [FACE: Erase] 
+　　　　　　　　ナビゲーターゲット！！
+36. [MARKER: Message] [FACE: Erase] オスカー「
+これは・・？
+37. [MARKER: Message] [FACE: Erase] メイド「
+現在位置を自動で割り出してくれる
+ナビゲーターマシンです。
+38. [MARKER: Message] [FACE: Erase] メイド「
+世界地図も簡略化されており
+大変使いやすいですよ$g
+39. [MARKER: Message] [FACE: Erase] オスカー「
+・・・・どこでこんなモノを・・・。
+40. [MARKER: Message] [FACE: Erase] メイド「
+細かいコトは気にしないでください・・。
+41. [MARKER: Message] [FACE: Erase] メイド「
+あ、\|あと、町の外でしか使えないので
+注意してください。
+42. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！
+43. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！
+44. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！
+45. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！
+46. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！
+47. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！
+48. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！
+49. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！
+50. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！
+51. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！
+52. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！
+53. [MARKER: Message] [FACE: Erase] ＊「
+お待ちください！

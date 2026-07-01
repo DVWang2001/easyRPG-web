@@ -1,0 +1,159 @@
+1. [MARKER: Message] 以藏「
+流漸……這裡到底是……。
+2. [MARKER: Message] 流漸「
+喔，是你們啊。
+3. [MARKER: Message] 流漸「
+給老子好好吃驚一下吧！！\.我竟然只花了一天時間，
+就把新日本改造為巨大飛空艇了！\.
+這樣一來就能直接突入美國了！
+4. [MARKER: Message] 流漸「
+\C[11]主砲採用了反質子雷射！！\.
+而且船身大量使用了具有自我再生能力的
+高級有機素材！
+5. [MARKER: Message] 流漸「
+\C[11]內部甚至實現了由我編寫的電腦程序
+進行完全環境控制功能！！
+6. [MARKER: Message] 流漸「
+\C[11]而最厲害的，就是引擎
+搭載了既乾淨且超高輸出的
+反物質引擎！！
+7. [MARKER: Message] 流漸「
+……不過，問題是做為引擎燃料的
+反物質我們目前沒有呢……。
+8. [MARKER: Message] 喬喬莉娜「
+那不就完全沒用嘛$g
+9. [MARKER: Message] DANDY「
+反物質嗎……。\.
+我倒是知道哪裡有……。
+10. [MARKER: Message] 奧斯卡「
+真的嗎！！？
+11. [MARKER: Message] DANDY「
+……啊啊……。
+12. [MARKER: Message] 流漸「
+莫比烏斯之刃找到了嗎？
+13. [MARKER: Message] 以藏「
+正如你所期望的，
+我們把莫比烏斯之刃帶回來了。
+14. [MARKER: Message] 流漸「
+喔，回來了嗎。意外的還挺快的呢。
+15. [MARKER: Message] 以藏「
+……那麼，\.用這個就可以了吧？
+16. [MARKER: Message] 流漸「
+嗯……不調查看看的話還不知道……。\.
+稍微等一下，\.馬上就好了。
+17. [MARKER: Message] 流漸「
+這無庸置疑，確實是反物質！！
+18. [MARKER: Message] 以藏「
+\>太快了吧！！\<
+19. [MARKER: Message] 流漸「
+這樣就能突入美國了！
+我們這邊的準備工作早就完成了！！
+你們那邊準備好後，就來叫我吧！
+20. [MARKER: Message] 
+以藏裝備的莫比烏斯之刃已被卸下，
+　　　　請重新裝備其他武器。
+21. [MARKER: Message] 流漸「
+準備都妥當了嗎？
+22. [MARKER: Message] 以藏「
+沒問題，流漸。\.朝著美國出發吧！！
+23. [MARKER: Message] 流漸「
+了解！
+24. [MARKER: Message] 流漸「
+Windoms Re！！\.發動準備！！
+25. [MARKER: Message] 系統電腦「
+了解！！
+26. [MARKER: Message] 系統電腦「
+引擎出力 50%。
+隨時可以出航！
+27. [MARKER: Message] 流漸「
+以藏，下達發進命令吧……。
+28. [MARKER: Message] 以藏「
+居然由我來說嗎！？
+29. [MARKER: Message] 奧斯卡「
+拜託你了，以藏。
+30. [MARKER: Message] 以藏「
+新日本號……\.
+\>\C[5]出航！！！！！\<
+31. [MARKER: Message] 系統電腦「
+遵命！！！！！
+32. [MARKER: Message] 流漸「
+什麼時候準備好，再來跟我打招呼吧。
+33. [MARKER: Message] 流漸「
+有發現什麼線索嗎？
+34. [MARKER: Message] 
+　　　以藏向流漸講述了在以藏村莊打聽到的情報。
+35. [MARKER: Message] 流漸「
+哦……在這座大陸的東北部嗎。\.
+Re，檢索一下那個坐標。
+36. [MARKER: Message] 系統電腦「
+了解。
+37. [MARKER: Message] 系統電腦「
+在美國大陸東北部，偵測到大規模的時空扭曲。
+推測為敵方的大本營。
+38. [MARKER: Message] 流漸「
+這花了不少時間呢……。\.
+看來對方是用強化的 DS 障壁進行了隱蔽吧。
+39. [MARKER: Message] 流漸「
+你覺得呢？以本艦的裝甲強度可以強行突破嗎？
+40. [MARKER: Message] 系統電腦「
+機率大概是一半一半吧。
+41. [MARKER: Message] 流漸「
+既然如此，你們打算怎麼辦？\.
+恐怕一旦決定突入，就沒有回頭路可以走了。
+42. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] 以藏「
+43. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] 以藏「
+真是愚蠢的問題呢，當然是突擊了。
+44. [MARKER: Message] [FACE: Erase] 奧斯卡「
+都走到這一步了，已經沒有理由退縮了。
+45. [MARKER: Message] [FACE: Erase] DANDY「
+同意。
+46. [MARKER: Message] [FACE: Erase] 喬喬莉娜「
+喬喬莉娜不管去哪裡，都會跟隨 DANDY 大人的$g$g
+47. [MARKER: Message] [FACE: Erase] 流漸「
+……\>好！\<\.
+Windoms Re！護盾全開突擊！！\.
+在接觸的瞬間，用主砲齊射在障壁上轟出一個洞來！
+48. [MARKER: Message] [FACE: Erase] 系統電腦「
+了解！
+49. [MARKER: Message] [FACE: Erase] 以藏「
+這是最後的戰鬥了。\.我先做好萬全的準備！
+50. [MARKER: Message] [FACE: Erase] 流漸「
+是嗎，不過那些傢伙
+可不會一直站在那裡等我們喔。\.
+請盡快做好出征的準備吧。
+51. [MARKER: Message] [FACE: Erase] 流漸「
+準備妥當了嗎？
+52. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] 以藏「
+53. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] 以藏「
+該做的準備都已經做好了！
+出發吧，流漸！
+54. [MARKER: Message] [FACE: Erase] 奧斯卡「
+都走到這一步了，已經沒有理由退縮了。
+55. [MARKER: Message] [FACE: Erase] DANDY「
+同意。
+56. [MARKER: Message] [FACE: Erase] 喬喬莉娜「
+喬喬莉娜不管去哪裡，都會跟隨 DANDY 大人的$g$g
+57. [MARKER: Message] [FACE: Erase] 流漸「
+……\>好！\<\.
+Windoms Re！護盾全開突擊！！\.
+在接觸的瞬間，用主砲齊射在障壁上轟出一個洞來！
+58. [MARKER: Message] [FACE: Erase] 系統電腦「
+了解！
+59. [MARKER: Message] [FACE: Erase] 以藏「
+還沒有完全準備好……。
+60. [MARKER: Message] [FACE: Erase] 流漸「
+是嗎，不過那些傢伙
+可不會一直站在那裡等我們喔。\.
+請盡快做好出征的準備吧。
+61. [MARKER: Message] [FACE: Erase] 阿羽「
+哇……這地方還真厲害呢……。\.
+沒想到在這座大陸上居然有這種科技……？
+62. [MARKER: Message] [FACE: Erase] 男子「
+在你們去尋找那個莫比什麼魔劍的期間，
+那邊那位叫流漸的人，似乎從世界各地
+召集了不少人才過來呢。
+63. [MARKER: Message] [FACE: Erase] 男子「
+我就是其中一個啦。
+64. [MARKER: Message] [FACE: Erase] 男子「
+其他人現在都在地下都市，
+你們也可以順便去見一見他們嘛？

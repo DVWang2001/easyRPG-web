@@ -1,0 +1,38 @@
+﻿**********Event2**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+稍微休息一下吧？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+YES
+NO
+##
+
+
+
+
+**********Event3**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+稍微休息一下吧？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+YES
+NO
+##
+
+
+
+

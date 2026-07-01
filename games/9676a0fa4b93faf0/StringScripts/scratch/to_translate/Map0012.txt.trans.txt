@@ -1,0 +1,23 @@
+﻿1. [MARKER: Message] じいさん「
+イギリスです。
+2. [MARKER: Message] 男「
+海・・・それは男の夢・・・。
+
+\.\.・・・そう思うだろ？
+3. [MARKER: Message] イゾウ「
+そう、思います。
+4. [MARKER: Message] DANDY「
+男の夢はダンディを追い求めることだ！！
+5. [MARKER: Message] チョチョリーナ「
+DANDY様、ステキ$g$g
+6. [MARKER: Message] 男「
+\S[2]・・・・・。
+7. [MARKER: Message] オスカー「
+イゾウ、自分の船があるのだから
+別にこれに乗らなくてもいいだろう。
+8. [MARKER: Message] イゾウ「
+あ・・\.そうだな・・。
+9. [MARKER: Message] イゾウ「
+こんな所に行くより、ベルサイユだ。ベルサイユ。
+10. [MARKER: Message] オスカー「
+バスチーユへ向かおう・・。

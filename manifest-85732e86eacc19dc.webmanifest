@@ -1,0 +1,30 @@
+{
+  "name": "沉默小鎮",
+  "short_name": "沉默小鎮",
+  "id": "play-85732e86eacc19dc.html",
+  "start_url": "play-85732e86eacc19dc.html",
+  "scope": "play-85732e86eacc19dc.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "games/85732e86eacc19dc/pwa-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "games/85732e86eacc19dc/pwa-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "games/85732e86eacc19dc/pwa-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+1. [MARKER: Message] JOKER「
+呼……呼……逃到這裡的話應該就沒事了吧……。
+2. [MARKER: Message] JOKER「
+可……可惡……。
+唯獨你們這幫人……。
+3. [MARKER: Message] JOKER「
+D……DANDY……你這……！！！
+嘎哈！！！！
+4. [MARKER: Message] DANDY「
+……JOKER……。
+5. [MARKER: Message] 
+　　　　　　獲得了丹迪盾牌！
+6. [MARKER: Message] 流漸「
+哈哈哈！你逃不掉的！！
+7. [MARKER: Message] JOKER「
+哇啊啊——！！別過來啊怪物！！！
+8. [MARKER: Message] 流漸「
+讓你瞧瞧我的必殺技！！
+見識了就受死吧！！！！
+9. [MARKER: Message] 流漸「
+哈啊啊————！！！！
+10. [MARKER: Message] JOKER「
+住手啊啊啊啊——————！！！
+11. [MARKER: Message] JOKER「
+………………………………………………。
+12. [MARKER: Message] 流漸「
+哼……！！！

@@ -1,0 +1,18 @@
+﻿1. [MARKER: Message] 
+　　　　　　　　　　　\S[2]貴方は・・・。
+2. [MARKER: Message] 
+　　　　　　\S[2]感じたことはありませんか？
+3. [MARKER: Message] 
+　　　　　Ｓｏｕｌ　Ｏｆ　Ｄａｎｄｉｚｕｍ
+4. [MARKER: Message] 
+　　　　　　新暦２０３年　８月１５日
+5. [MARKER: Message] 
+　　　　　この話は、監獄都市ベルサイユの
+　　　　　『何でも屋』の朝から始まる・・。
+6. [MARKER: Message] ＊「
+おぉ～～い、朝だぞ～～！！
+7. [MARKER: Message] ＊「
+う～～・・ん・・・。
+ねむい・・・。
+8. [MARKER: Message] \N[1]「
+ふあぁぁぁ、寝不足だ・・。

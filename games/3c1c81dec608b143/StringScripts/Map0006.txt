@@ -1,0 +1,165 @@
+﻿**********Event1**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+是花朵喵。
+##
+
+
+#Message#
+好～可愛喔，
+摘下來帶走喵～♪
+##
+
+
+#Message#
+嘿咻喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+說不定是妖怪喔。
+你看，伴隨著「啵喲～因」的聲音…
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+喵？！ 喵？！
+##
+
+
+#Message#
+……別、別嚇本喵啦！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\S[2]……
+\S[1]你對自己身為妖怪的自覺
+還真淡薄啊。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+要、要你管喵！
+##
+
+
+
+
+**********Event3**********
+-----Page2-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+這通道真窄喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+排成一列走不就過得去了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.你走前面喵。
+##
+
+
+
+-----Page3-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+要、要走慢一點喵。
+##
+
+
+
+
+**********Event16**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]……嗯？
+##
+
+
+#Message#
+\.……。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+怎麼了喵？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.……同行的人數
+似乎多了一個。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.？？？
+##
+
+
+#Message#
+\.這是什麼喵？這個。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+噗喵～～～～～～～～～～～～！！！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+嗚喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+你這傢伙，
+\.又是被夾住又是被纏住
+又是被捲進去，還真忙碌啊。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.……對不起啦喵。
+##
+
+
+
+

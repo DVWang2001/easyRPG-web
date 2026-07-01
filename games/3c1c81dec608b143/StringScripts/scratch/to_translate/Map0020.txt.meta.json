@@ -1,0 +1,267 @@
+{
+    "filepath": "Map0020.txt",
+    "meta": [
+        {
+            "type": "message",
+            "start_line_idx": 5,
+            "end_line_idx": 5
+        },
+        {
+            "type": "message",
+            "start_line_idx": 12,
+            "end_line_idx": 12
+        },
+        {
+            "type": "message",
+            "start_line_idx": 23,
+            "end_line_idx": 23
+        },
+        {
+            "type": "message",
+            "start_line_idx": 30,
+            "end_line_idx": 31
+        },
+        {
+            "type": "message",
+            "start_line_idx": 36,
+            "end_line_idx": 36
+        },
+        {
+            "type": "message",
+            "start_line_idx": 41,
+            "end_line_idx": 41
+        },
+        {
+            "type": "message",
+            "start_line_idx": 46,
+            "end_line_idx": 47
+        },
+        {
+            "type": "message",
+            "start_line_idx": 54,
+            "end_line_idx": 55
+        },
+        {
+            "type": "message",
+            "start_line_idx": 62,
+            "end_line_idx": 64
+        },
+        {
+            "type": "message",
+            "start_line_idx": 71,
+            "end_line_idx": 71
+        },
+        {
+            "type": "message",
+            "start_line_idx": 76,
+            "end_line_idx": 77
+        },
+        {
+            "type": "message",
+            "start_line_idx": 84,
+            "end_line_idx": 84
+        },
+        {
+            "type": "message",
+            "start_line_idx": 95,
+            "end_line_idx": 95
+        },
+        {
+            "type": "message",
+            "start_line_idx": 102,
+            "end_line_idx": 102
+        },
+        {
+            "type": "message",
+            "start_line_idx": 107,
+            "end_line_idx": 107
+        },
+        {
+            "type": "message",
+            "start_line_idx": 114,
+            "end_line_idx": 114
+        },
+        {
+            "type": "message",
+            "start_line_idx": 121,
+            "end_line_idx": 123
+        },
+        {
+            "type": "message",
+            "start_line_idx": 128,
+            "end_line_idx": 129
+        },
+        {
+            "type": "message",
+            "start_line_idx": 136,
+            "end_line_idx": 136
+        },
+        {
+            "type": "message",
+            "start_line_idx": 141,
+            "end_line_idx": 142
+        },
+        {
+            "type": "message",
+            "start_line_idx": 149,
+            "end_line_idx": 149
+        },
+        {
+            "type": "message",
+            "start_line_idx": 156,
+            "end_line_idx": 156
+        },
+        {
+            "type": "message",
+            "start_line_idx": 163,
+            "end_line_idx": 164
+        },
+        {
+            "type": "message",
+            "start_line_idx": 171,
+            "end_line_idx": 171
+        },
+        {
+            "type": "message",
+            "start_line_idx": 176,
+            "end_line_idx": 176
+        },
+        {
+            "type": "message",
+            "start_line_idx": 187,
+            "end_line_idx": 188
+        }
+    ],
+    "items": [
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "ナンマイダブニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "死んではおらぬて。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "鍵も酒も持ったニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "おジジには悪いが\n勝手に鍵持ってくニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "えーと"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "あったニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "はニャ？\n･･････コレはなにニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "ほう、酒か。\n気付け薬代わりになるな。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "･･････\nもらってけと言っているように\n聞こえるニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "ふむ。延命酒『剣豪』か。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "こんな歳で\nこんな強い酒を飲んでいたとは意外だな。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "聞いとらんニャ　お主･･･。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･･････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\S[2]････････････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.なんか切なくなってきたニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.前におジジのこと\nマコトから聞いたことがあるニャ。\n"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.枯れ木と一緒に 埋まっているところを\n姫さんが見つけて 拾ってきたって。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･･･では\n今の「狐」というのは･･･"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "姫さんのことニャ。\\.きっと。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.しかし人の心とは そんなに\nとり憑き易いものなのかニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.そうかもしれぬな。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "鍵がないと開かないニャ。\nそこら辺に緑の包みがないニャ？"
+        }
+    ]
+}

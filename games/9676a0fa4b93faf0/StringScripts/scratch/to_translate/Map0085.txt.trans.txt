@@ -1,0 +1,63 @@
+﻿1. [MARKER: Message] 
+　　　　　　カフェレスト『Brother Soul』
+2. [MARKER: Message] 
+　　　　　　カフェレスト『Brother Soul』
+3. [MARKER: Message] 
+　　　　　　カフェレスト『Brother Soul』
+4. [MARKER: Message] 女将「
+何か変わった人が泊まりに来てるわ。
+珍しいわねぇ・・。
+5. [MARKER: Message] オンドレ「
+い～い、街だな・・ここは・・。
+6. [MARKER: Message] DANDY「
+・・とりあえず向こうのカフェレストで
+今後の対策を立てよう。\|
+・・それに今は、落ち着いたほうがいい・・。
+7. [MARKER: Message] イゾウ「
+そうしようぜ、オスカー。
+8. [MARKER: Message] オスカー「
+\S[2]・・そうだな・・。
+9. [MARKER: Message] 旅人「
+久々にオーストラリアに戻ってきたら
+この神殿まで変貌してる・・。
+10. [MARKER: Message] 旅人「
+あ、そうそう。旅してる間にいい話を聞いたぜ。
+ネオ＝ジャパンに、行方不明になっていたはずの
+流漸が戻ってきたらしい。
+11. [MARKER: Message] イゾウ「
+流漸が！？
+12. [MARKER: Message] DANDY「
+これは一度、ネオ＝ジャパンに
+向かう必要があるな・・。
+13. [MARKER: Message] 旅人「
+何かよくわからんが、知り合いみたいだな。
+まぁ、俺には関係ないことだが・・。
+14. [MARKER: Message] 旅人「
+さて、俺はまた旅に出るかな？
+前回はエジプトだったが、今回はドコ行こう・・。
+15. [MARKER: Message] 旅人「
+さて、俺はまた旅に出るかな？
+前回はエジプトだったが、今回はドコ行こう・・。
+16. [MARKER: Message] 店員「
+DANDY様の装備品を集めました！！
+17. [MARKER: Message] ボウズ「
+おぃ、お前知ってるか！？
+18. [MARKER: Message] ボウズ「
+何だ、有名な話だったのか・・\.ちぇっ・・。
+19. [MARKER: Message] ボウズ「
+この世界には、地図に記されていない島が
+２つあるんだぜ！\.
+どうだ、俺物知りだろ！！
+20. [MARKER: Message] 
+　　　　　　カフェレスト『Brother Soul』
+21. [MARKER: Message] 男「
+ウチの子は、どこで教わってくるのか知らないけど
+変なコト知っているんだ・・。
+22. [MARKER: Message] おばさん「
+あぁ・・私の大事な服が
+『悪人』って奴に盗まれてしまったわ・・。
+23. [MARKER: Message] おばさん「
+でも、『悪人』がどこに行ってしまったのか
+わからない・・。どうしよう・・。
+24. [MARKER: Message] 
+　　　　　　　　　？？？を手に入れた！！

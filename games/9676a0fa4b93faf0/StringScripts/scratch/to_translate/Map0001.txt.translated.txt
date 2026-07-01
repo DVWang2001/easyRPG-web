@@ -1,0 +1,7 @@
+﻿1. [MARKER: Message] 以藏「
+凡爾賽……？
+全毀了……。
+2. [MARKER: Message] 喬喬莉娜「
+丹迪大人，去找他——$g
+3. [MARKER: Message] 
+廢墟一片，根本無法進入。

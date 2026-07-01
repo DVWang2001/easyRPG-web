@@ -1,0 +1,14 @@
+*****Entry1*****
+#Name# [8]
+無法戰鬥
+
+#InflictedOnAlly# [30]
+倒下了！
+
+#InflictedOnEnemy# [30]
+擊倒了！
+
+#Recovered# [30]
+站起來了！
+
+

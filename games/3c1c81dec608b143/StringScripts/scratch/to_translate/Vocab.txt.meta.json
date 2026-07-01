@@ -1,0 +1,1087 @@
+{
+    "filepath": "Database/Vocab.txt",
+    "meta": [
+        {
+            "type": "tag",
+            "line_idx": 2
+        },
+        {
+            "type": "tag",
+            "line_idx": 5
+        },
+        {
+            "type": "tag",
+            "line_idx": 8
+        },
+        {
+            "type": "tag",
+            "line_idx": 11
+        },
+        {
+            "type": "tag",
+            "line_idx": 14
+        },
+        {
+            "type": "tag",
+            "line_idx": 17
+        },
+        {
+            "type": "tag",
+            "line_idx": 20
+        },
+        {
+            "type": "tag",
+            "line_idx": 23
+        },
+        {
+            "type": "tag",
+            "line_idx": 26
+        },
+        {
+            "type": "tag",
+            "line_idx": 29
+        },
+        {
+            "type": "tag",
+            "line_idx": 34
+        },
+        {
+            "type": "tag",
+            "line_idx": 37
+        },
+        {
+            "type": "tag",
+            "line_idx": 40
+        },
+        {
+            "type": "tag",
+            "line_idx": 43
+        },
+        {
+            "type": "tag",
+            "line_idx": 46
+        },
+        {
+            "type": "tag",
+            "line_idx": 49
+        },
+        {
+            "type": "tag",
+            "line_idx": 52
+        },
+        {
+            "type": "tag",
+            "line_idx": 55
+        },
+        {
+            "type": "tag",
+            "line_idx": 58
+        },
+        {
+            "type": "tag",
+            "line_idx": 63
+        },
+        {
+            "type": "tag",
+            "line_idx": 66
+        },
+        {
+            "type": "tag",
+            "line_idx": 69
+        },
+        {
+            "type": "tag",
+            "line_idx": 72
+        },
+        {
+            "type": "tag",
+            "line_idx": 75
+        },
+        {
+            "type": "tag",
+            "line_idx": 78
+        },
+        {
+            "type": "tag",
+            "line_idx": 81
+        },
+        {
+            "type": "tag",
+            "line_idx": 84
+        },
+        {
+            "type": "tag",
+            "line_idx": 87
+        },
+        {
+            "type": "tag",
+            "line_idx": 92
+        },
+        {
+            "type": "tag",
+            "line_idx": 95
+        },
+        {
+            "type": "tag",
+            "line_idx": 98
+        },
+        {
+            "type": "tag",
+            "line_idx": 101
+        },
+        {
+            "type": "tag",
+            "line_idx": 104
+        },
+        {
+            "type": "tag",
+            "line_idx": 107
+        },
+        {
+            "type": "tag",
+            "line_idx": 110
+        },
+        {
+            "type": "tag",
+            "line_idx": 113
+        },
+        {
+            "type": "tag",
+            "line_idx": 116
+        },
+        {
+            "type": "tag",
+            "line_idx": 121
+        },
+        {
+            "type": "tag",
+            "line_idx": 124
+        },
+        {
+            "type": "tag",
+            "line_idx": 127
+        },
+        {
+            "type": "tag",
+            "line_idx": 130
+        },
+        {
+            "type": "tag",
+            "line_idx": 133
+        },
+        {
+            "type": "tag",
+            "line_idx": 136
+        },
+        {
+            "type": "tag",
+            "line_idx": 139
+        },
+        {
+            "type": "tag",
+            "line_idx": 142
+        },
+        {
+            "type": "tag",
+            "line_idx": 145
+        },
+        {
+            "type": "tag",
+            "line_idx": 148
+        },
+        {
+            "type": "tag",
+            "line_idx": 151
+        },
+        {
+            "type": "tag",
+            "line_idx": 156
+        },
+        {
+            "type": "tag",
+            "line_idx": 159
+        },
+        {
+            "type": "tag",
+            "line_idx": 162
+        },
+        {
+            "type": "tag",
+            "line_idx": 165
+        },
+        {
+            "type": "tag",
+            "line_idx": 168
+        },
+        {
+            "type": "tag",
+            "line_idx": 171
+        },
+        {
+            "type": "tag",
+            "line_idx": 174
+        },
+        {
+            "type": "tag",
+            "line_idx": 177
+        },
+        {
+            "type": "tag",
+            "line_idx": 180
+        },
+        {
+            "type": "tag",
+            "line_idx": 183
+        },
+        {
+            "type": "tag",
+            "line_idx": 186
+        },
+        {
+            "type": "tag",
+            "line_idx": 191
+        },
+        {
+            "type": "tag",
+            "line_idx": 194
+        },
+        {
+            "type": "tag",
+            "line_idx": 197
+        },
+        {
+            "type": "tag",
+            "line_idx": 200
+        },
+        {
+            "type": "tag",
+            "line_idx": 203
+        },
+        {
+            "type": "tag",
+            "line_idx": 206
+        },
+        {
+            "type": "tag",
+            "line_idx": 209
+        },
+        {
+            "type": "tag",
+            "line_idx": 212
+        },
+        {
+            "type": "tag",
+            "line_idx": 215
+        },
+        {
+            "type": "tag",
+            "line_idx": 218
+        },
+        {
+            "type": "tag",
+            "line_idx": 221
+        },
+        {
+            "type": "tag",
+            "line_idx": 226
+        },
+        {
+            "type": "tag",
+            "line_idx": 229
+        },
+        {
+            "type": "tag",
+            "line_idx": 232
+        },
+        {
+            "type": "tag",
+            "line_idx": 235
+        },
+        {
+            "type": "tag",
+            "line_idx": 238
+        },
+        {
+            "type": "tag",
+            "line_idx": 243
+        },
+        {
+            "type": "tag",
+            "line_idx": 246
+        },
+        {
+            "type": "tag",
+            "line_idx": 249
+        },
+        {
+            "type": "tag",
+            "line_idx": 252
+        },
+        {
+            "type": "tag",
+            "line_idx": 255
+        },
+        {
+            "type": "tag",
+            "line_idx": 260
+        },
+        {
+            "type": "tag",
+            "line_idx": 263
+        },
+        {
+            "type": "tag",
+            "line_idx": 266
+        },
+        {
+            "type": "tag",
+            "line_idx": 271
+        },
+        {
+            "type": "tag",
+            "line_idx": 274
+        },
+        {
+            "type": "tag",
+            "line_idx": 277
+        },
+        {
+            "type": "tag",
+            "line_idx": 280
+        },
+        {
+            "type": "tag",
+            "line_idx": 283
+        },
+        {
+            "type": "tag",
+            "line_idx": 286
+        },
+        {
+            "type": "tag",
+            "line_idx": 289
+        },
+        {
+            "type": "tag",
+            "line_idx": 292
+        },
+        {
+            "type": "tag",
+            "line_idx": 295
+        },
+        {
+            "type": "tag",
+            "line_idx": 298
+        },
+        {
+            "type": "tag",
+            "line_idx": 301
+        },
+        {
+            "type": "tag",
+            "line_idx": 304
+        },
+        {
+            "type": "tag",
+            "line_idx": 307
+        },
+        {
+            "type": "tag",
+            "line_idx": 312
+        },
+        {
+            "type": "tag",
+            "line_idx": 315
+        },
+        {
+            "type": "tag",
+            "line_idx": 318
+        },
+        {
+            "type": "tag",
+            "line_idx": 321
+        },
+        {
+            "type": "tag",
+            "line_idx": 324
+        },
+        {
+            "type": "tag",
+            "line_idx": 327
+        },
+        {
+            "type": "tag",
+            "line_idx": 330
+        },
+        {
+            "type": "tag",
+            "line_idx": 333
+        },
+        {
+            "type": "tag",
+            "line_idx": 336
+        },
+        {
+            "type": "tag",
+            "line_idx": 339
+        },
+        {
+            "type": "tag",
+            "line_idx": 342
+        },
+        {
+            "type": "tag",
+            "line_idx": 345
+        },
+        {
+            "type": "tag",
+            "line_idx": 348
+        },
+        {
+            "type": "tag",
+            "line_idx": 351
+        },
+        {
+            "type": "tag",
+            "line_idx": 354
+        },
+        {
+            "type": "tag",
+            "line_idx": 357
+        },
+        {
+            "type": "tag",
+            "line_idx": 360
+        },
+        {
+            "type": "tag",
+            "line_idx": 363
+        },
+        {
+            "type": "tag",
+            "line_idx": 368
+        },
+        {
+            "type": "tag",
+            "line_idx": 371
+        },
+        {
+            "type": "tag",
+            "line_idx": 374
+        },
+        {
+            "type": "tag",
+            "line_idx": 377
+        },
+        {
+            "type": "tag",
+            "line_idx": 380
+        },
+        {
+            "type": "tag",
+            "line_idx": 383
+        }
+    ],
+    "items": [
+        {
+            "face": "NONE",
+            "marker": "StartBattle",
+            "text": "が出現！"
+        },
+        {
+            "face": "NONE",
+            "marker": "PreemptiveAttack",
+            "text": "先制攻撃のチャンス！"
+        },
+        {
+            "face": "NONE",
+            "marker": "EscapeSuccess",
+            "text": "無事に逃げ出した！"
+        },
+        {
+            "face": "NONE",
+            "marker": "EscapeFailure",
+            "text": "逃げ切れなかった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Victory",
+            "text": "敵を倒した！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Defeat",
+            "text": "負けてしまった"
+        },
+        {
+            "face": "NONE",
+            "marker": "GetEXP",
+            "text": "ほど武芸のコツを掴んだ"
+        },
+        {
+            "face": "NONE",
+            "marker": "GetMoneyPart1",
+            "text": "お金を"
+        },
+        {
+            "face": "NONE",
+            "marker": "GetMoneyPart2",
+            "text": "手に入れた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "GetItem",
+            "text": "を手に入れた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "NormalAttack",
+            "text": "の攻撃！"
+        },
+        {
+            "face": "NONE",
+            "marker": "CriticalHit",
+            "text": "会心の一撃！！"
+        },
+        {
+            "face": "NONE",
+            "marker": "EnemyCritical",
+            "text": "痛恨の一撃！！"
+        },
+        {
+            "face": "NONE",
+            "marker": "DefendMessage",
+            "text": "は身を守っている！"
+        },
+        {
+            "face": "NONE",
+            "marker": "EnemyObserve",
+            "text": "は様子を見ている・・・"
+        },
+        {
+            "face": "NONE",
+            "marker": "EnemyBuildStrength",
+            "text": "は力をためている・・・"
+        },
+        {
+            "face": "NONE",
+            "marker": "EnemyBurst",
+            "text": "は自爆した！"
+        },
+        {
+            "face": "NONE",
+            "marker": "EnemyEscape",
+            "text": "は逃げてしまった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "EnemyTransform",
+            "text": "は姿を消した！"
+        },
+        {
+            "face": "NONE",
+            "marker": "DamageEnemy",
+            "text": "のダメージを与えた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "MissEnemy",
+            "text": "にダメージを与えられない！"
+        },
+        {
+            "face": "NONE",
+            "marker": "DamageAlly",
+            "text": "のダメージを受けた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "MissAlly",
+            "text": "はダメージを受けていない！"
+        },
+        {
+            "face": "NONE",
+            "marker": "SkillFailureA",
+            "text": "には効かなかった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "SkillFailureB",
+            "text": "は平気だった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "SkillFailureC",
+            "text": "は眠らなかった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "AvoidPhysical",
+            "text": "はうまく避けた"
+        },
+        {
+            "face": "NONE",
+            "marker": "UseItem",
+            "text": "を使った！"
+        },
+        {
+            "face": "NONE",
+            "marker": "RecoverHPMP",
+            "text": "回復した！"
+        },
+        {
+            "face": "NONE",
+            "marker": "StatUp",
+            "text": "上がった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "StatDown",
+            "text": "下がった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "StatAbsorb",
+            "text": "奪った！"
+        },
+        {
+            "face": "NONE",
+            "marker": "StatSucked",
+            "text": "奪われた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "DefenseUp",
+            "text": "に強くなった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "DefenseDown",
+            "text": "に弱くなった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "LevelUp",
+            "text": "になった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "LearnSkill",
+            "text": "を覚えた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopA:ChoiceScreen",
+            "text": "「いらっしゃいませ」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopA:ChoiceScreenAgain",
+            "text": "「ほかにご用件はございますか？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopA:Buy",
+            "text": "購入する"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopA:Sell",
+            "text": "売却する"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopA:Leave",
+            "text": "やめる"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopA:BuyScreen",
+            "text": "「何をお買い上げになりますか？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopA:HowManyToBuy",
+            "text": "「いくつお買い上げになりますか？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopA:PurchaseMade",
+            "text": "「毎度ありがとうございます」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopA:SellScreen",
+            "text": "「何をお売りになりますか？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopA:HowManyToSell",
+            "text": "「いくつお売りになりますか？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopA:SaleComplete",
+            "text": "「毎度ありがとうございます」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopB:ChoiceScreen",
+            "text": "「いらっしゃい！　今日はどんな用だい？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopB:ChoiceScreenAgain",
+            "text": "「ほかにも用があるかい？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopB:Buy",
+            "text": "購入する"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopB:Sell",
+            "text": "売却する"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopB:Leave",
+            "text": "やめる"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopB:BuyScreen",
+            "text": "「何を買うんだい？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopB:HowManyToBuy",
+            "text": "「いくつ買うんだい？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopB:PurchaseMade",
+            "text": "「ありがとよっ！」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopB:SellScreen",
+            "text": "「何を売るんだい？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopB:HowManyToSell",
+            "text": "「いくつ売るんだい？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopB:SaleComplete",
+            "text": "「ありがとよっ！」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopC:ChoiceScreen",
+            "text": "「こんにちは。どんなご用ですか？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopC:ChoiceScreenAgain",
+            "text": "「ほかにもご用がありますか？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopC:Buy",
+            "text": "購入する"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopC:Sell",
+            "text": "売却する"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopC:Leave",
+            "text": "やめる"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopC:BuyScreen",
+            "text": "「何を買ってくれますか？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopC:HowManyToBuy",
+            "text": "「いくつ買ってくれますか？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopC:PurchaseMade",
+            "text": "「どうもありがとう」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopC:SellScreen",
+            "text": "「何を売ってくれますか？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopC:HowManyToSell",
+            "text": "「いくつ売ってくれますか？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "ShopC:SaleComplete",
+            "text": "「どうもありがとう」"
+        },
+        {
+            "face": "NONE",
+            "marker": "InnA:IntroLine1a",
+            "text": "「宿泊料金は"
+        },
+        {
+            "face": "NONE",
+            "marker": "InnA:IntroLine1b",
+            "text": "になります。"
+        },
+        {
+            "face": "NONE",
+            "marker": "InnA:IntroLine2",
+            "text": "　お泊まりになりますか？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "InnA:Lodge",
+            "text": "泊まる"
+        },
+        {
+            "face": "NONE",
+            "marker": "InnA:DoNotLodge",
+            "text": "泊まらない"
+        },
+        {
+            "face": "NONE",
+            "marker": "InnB:IntroLine1a",
+            "text": "「一泊"
+        },
+        {
+            "face": "NONE",
+            "marker": "InnB:IntroLine1b",
+            "text": "だが"
+        },
+        {
+            "face": "NONE",
+            "marker": "InnB:IntroLine2",
+            "text": "　泊まっていくかい？」"
+        },
+        {
+            "face": "NONE",
+            "marker": "InnB:Lodge",
+            "text": "泊まる"
+        },
+        {
+            "face": "NONE",
+            "marker": "InnB:DoNotLodge",
+            "text": "泊まらない"
+        },
+        {
+            "face": "NONE",
+            "marker": "OwnedQuantity",
+            "text": "所持数"
+        },
+        {
+            "face": "NONE",
+            "marker": "EquippedQuantity",
+            "text": "装備数"
+        },
+        {
+            "face": "NONE",
+            "marker": "CurrencyUnit",
+            "text": "Ｇ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Fight",
+            "text": "戦う"
+        },
+        {
+            "face": "NONE",
+            "marker": "Auto",
+            "text": "神だのみ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Escape",
+            "text": "逃げる"
+        },
+        {
+            "face": "NONE",
+            "marker": "Attack",
+            "text": "攻撃"
+        },
+        {
+            "face": "NONE",
+            "marker": "Defend",
+            "text": "防御"
+        },
+        {
+            "face": "NONE",
+            "marker": "Item",
+            "text": "所持品"
+        },
+        {
+            "face": "NONE",
+            "marker": "Skill",
+            "text": "特殊技能"
+        },
+        {
+            "face": "NONE",
+            "marker": "Equip",
+            "text": "装備"
+        },
+        {
+            "face": "NONE",
+            "marker": "Save",
+            "text": "保存"
+        },
+        {
+            "face": "NONE",
+            "marker": "EndGame",
+            "text": "ゲーム終了"
+        },
+        {
+            "face": "NONE",
+            "marker": "NewGame",
+            "text": "初"
+        },
+        {
+            "face": "NONE",
+            "marker": "Continue",
+            "text": "続"
+        },
+        {
+            "face": "NONE",
+            "marker": "Quit",
+            "text": "終"
+        },
+        {
+            "face": "NONE",
+            "marker": "Level",
+            "text": "武芸修得度"
+        },
+        {
+            "face": "NONE",
+            "marker": "HP",
+            "text": "ＨＰ"
+        },
+        {
+            "face": "NONE",
+            "marker": "MP",
+            "text": "ＭＰ"
+        },
+        {
+            "face": "NONE",
+            "marker": "NormalState",
+            "text": "正常"
+        },
+        {
+            "face": "NONE",
+            "marker": "EXPShort",
+            "text": "Ｅ"
+        },
+        {
+            "face": "NONE",
+            "marker": "LevelShort",
+            "text": "Ｌ"
+        },
+        {
+            "face": "NONE",
+            "marker": "HPShort",
+            "text": "Ｈ"
+        },
+        {
+            "face": "NONE",
+            "marker": "MPShort",
+            "text": "Ｍ"
+        },
+        {
+            "face": "NONE",
+            "marker": "MPCost",
+            "text": "消費ＭＰ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Offense",
+            "text": "攻撃力"
+        },
+        {
+            "face": "NONE",
+            "marker": "Defense",
+            "text": "防御力"
+        },
+        {
+            "face": "NONE",
+            "marker": "Mind",
+            "text": "精神力"
+        },
+        {
+            "face": "NONE",
+            "marker": "Agility",
+            "text": "敏捷性"
+        },
+        {
+            "face": "NONE",
+            "marker": "Arms",
+            "text": "武器"
+        },
+        {
+            "face": "NONE",
+            "marker": "Shield",
+            "text": "盾"
+        },
+        {
+            "face": "NONE",
+            "marker": "Armor",
+            "text": "鎧"
+        },
+        {
+            "face": "NONE",
+            "marker": "Helmet",
+            "text": "兜"
+        },
+        {
+            "face": "NONE",
+            "marker": "Other",
+            "text": "装飾品"
+        },
+        {
+            "face": "NONE",
+            "marker": "ChooseSaveFile",
+            "text": "どのファイルに保存しますか？"
+        },
+        {
+            "face": "NONE",
+            "marker": "ChooseLoadFile",
+            "text": "どのファイルを読み込みますか？"
+        },
+        {
+            "face": "NONE",
+            "marker": "File",
+            "text": "ファイル"
+        },
+        {
+            "face": "NONE",
+            "marker": "QuitConfirm",
+            "text": "終了してよろしいですか？"
+        },
+        {
+            "face": "NONE",
+            "marker": "QuitYes",
+            "text": "はい"
+        },
+        {
+            "face": "NONE",
+            "marker": "QuitNo",
+            "text": "いいえ"
+        }
+    ]
+}

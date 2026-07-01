@@ -1,0 +1,203 @@
+﻿*****Entry1*****
+#Name# [8]
+戦闘不能
+
+#InflictedOnAlly# [30]
+ は 倒れた！
+
+#InflictedOnEnemy# [30]
+ を 倒した！
+
+#Recovered# [30]
+ は 立ち上がった！
+
+
+
+*****Entry2*****
+#Name# [8]
+中毒
+
+#InflictedOnAlly# [30]
+ は 毒に冒された！
+
+#InflictedOnEnemy# [30]
+ は 毒に冒された！
+
+#AlreadyInflicted# [30]
+ は 毒に冒されている･･･
+
+#Continuing# [30]
+ は 毒に冒されている･･･
+
+#Recovered# [30]
+ の毒は中和された！
+
+
+
+*****Entry3*****
+#Name# [8]
+盲目
+
+#InflictedOnAlly# [30]
+ は 目が見えなくなった！
+
+#InflictedOnEnemy# [30]
+ は 目が見えなくなった！
+
+#AlreadyInflicted# [30]
+ は 目が見えない･･･
+
+#Continuing# [30]
+ は 命中率が低下している･･･
+
+#Recovered# [30]
+ は 目が見えるようになった！
+
+
+
+*****Entry4*****
+#Name# [8]
+腐食
+
+#InflictedOnAlly# [30]
+ の防具が腐食を始めた！
+
+#InflictedOnEnemy# [30]
+ の装甲が腐食を始めた！
+
+#AlreadyInflicted# [30]
+ の防具は腐食していく･･･
+
+#Continuing# [30]
+ は 防御力が半減している･･･
+
+#Recovered# [30]
+の防具の腐食は食い止められた！
+
+
+
+*****Entry5*****
+#Name# [8]
+暴走
+
+#InflictedOnAlly# [30]
+ は 我を見失った！
+
+#InflictedOnEnemy# [30]
+ は 我を見失った！
+
+#AlreadyInflicted# [30]
+ は 我を見失っている･･･
+
+#Continuing# [30]
+ は 我を見失っている･･･
+
+#Recovered# [30]
+ は 我に返った！
+
+
+
+*****Entry6*****
+#Name# [8]
+呼吸困難
+
+#InflictedOnAlly# [30]
+ は 呼吸ができなくなった！
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+ は 呼吸ができない！
+
+#Recovered# [30]
+ は 回復した！
+
+
+
+*****Entry7*****
+#Name# [8]
+感電
+
+#InflictedOnAlly# [30]
+ は ショックで動けなくなった！
+
+#InflictedOnEnemy# [30]
+ は ショックで動けなくなった！
+
+#AlreadyInflicted# [30]
+ は 感電して動けない！
+
+#Continuing# [30]
+ は 感電して動けない！
+
+#Recovered# [30]
+ は 回復した！
+
+
+
+*****Entry8*****
+#Name# [8]
+--------
+
+#InflictedOnAlly# [30]
+
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+
+
+
+
+*****Entry9*****
+#Name# [8]
+転倒
+
+#InflictedOnAlly# [30]
+ は バランスを崩した！
+
+#InflictedOnEnemy# [30]
+ は バランスを崩した！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+ は よろめいている･･･
+
+#Recovered# [30]
+ は 姿勢を立て直した！
+
+
+
+*****Entry10*****
+#Name# [8]
+恐怖
+
+#InflictedOnAlly# [30]
+ は 恐怖におののいた！
+
+#InflictedOnEnemy# [30]
+ は 恐怖におののいた！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+ は 立ちすくんでいる･･･
+
+#Recovered# [30]
+ は 恐怖をはらいのけた！
+
+

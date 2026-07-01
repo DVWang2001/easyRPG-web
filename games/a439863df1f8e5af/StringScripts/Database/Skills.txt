@@ -1,0 +1,2459 @@
+﻿*****Entry1*****
+#Name# [20]
+思念波
+
+#Description# [50]
+將思念之波砸向單個敵人
+
+#UseMessage1# [30]
+放出了思念波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+擴散波
+
+#Description# [50]
+將思念之波砸向全體敵人
+
+#UseMessage1# [30]
+放出了擴散波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+強念波
+
+#Description# [50]
+將強力的思念之波砸向單個敵人
+
+#UseMessage1# [30]
+放出了強念波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+強擴散波
+
+#Description# [50]
+將強力的思念之波砸向全體敵人
+
+#UseMessage1# [30]
+放出了強擴散波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+超念波
+
+#Description# [50]
+將超強力的思念之波砸向單個敵人
+
+#UseMessage1# [30]
+放出了超念波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+超擴散波
+
+#Description# [50]
+將超強力的思念之波砸向全體敵人
+
+#UseMessage1# [30]
+放出了超擴散波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+究極念波
+
+#Description# [50]
+好像是挺究極的招式
+
+#UseMessage1# [30]
+施放了究極魔法！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+思念體修復
+
+#Description# [50]
+恢復約 30 點 HP
+
+#UseMessage1# [30]
+進行了思念體修復！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+思念體操作
+
+#Description# [50]
+強化思念體。提升 HP 和攻擊力。
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+超思念體修復
+
+#Description# [50]
+恢復約 80 點 HP
+
+#UseMessage1# [30]
+進行了思念體修復！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+念防禦
+
+#Description# [50]
+提升全體隊友對魔法攻擊的防禦力
+
+#UseMessage1# [30]
+使用了念防禦！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+設定對話框透明度
+
+#Description# [50]
+設定文章顯示框的透明度
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+思念體強化（攻
+
+#Description# [50]
+暫時提升使用者的攻擊力
+
+#UseMessage1# [30]
+強化了攻擊力！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+思念體強化（防
+
+#Description# [50]
+暫時提升使用者的防禦力
+
+#UseMessage1# [30]
+強化了防禦力！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+思念體強化（速
+
+#Description# [50]
+暫時提升使用者的敏捷度
+
+#UseMessage1# [30]
+強化了敏捷度！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+水槍
+
+#Description# [50]
+用水槍射擊單個敵人
+
+#UseMessage1# [30]
+發射了水槍！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+毒之爪
+
+#Description# [50]
+對單個敵人造成傷害。並使其陷入麻痺狀態。
+
+#UseMessage1# [30]
+揮舞了毒之爪！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+火焰吐息
+
+#Description# [50]
+用火焰吐息對全體敵人造成傷害
+
+#UseMessage1# [30]
+吐出了火焰吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+吸血
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+吸了血！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+碎石術
+
+#Description# [50]
+用碎石砸向全體敵人
+
+#UseMessage1# [30]
+扔出了碎石！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+耀眼強光
+
+#Description# [50]
+使全體敵人陷入混亂
+
+#UseMessage1# [30]
+散發出耀眼強光！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+水槍＋
+
+#Description# [50]
+用水槍射擊單個敵人
+
+#UseMessage1# [30]
+發射了水槍＋！
+
+#UseMessage2# [50]
+跟兒子的水槍比起來，威力截然不同！
+
+
+
+*****Entry27*****
+#Name# [20]
+水炮
+
+#Description# [50]
+用水槍射擊全體敵人
+
+#UseMessage1# [30]
+發射了水炮！
+
+#UseMessage2# [50]
+先祖傳承的秘術！接招吧！！
+
+
+
+*****Entry28*****
+#Name# [20]
+壓制
+
+#Description# [50]
+壓在身上壓扁對手
+
+#UseMessage1# [30]
+壓了上去！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+水之治癒
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+使用了水之治癒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+火焰炸彈
+
+#Description# [50]
+向全體敵人灑下火焰
+
+#UseMessage1# [30]
+扔出了火焰炸彈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+悲哀咆哮
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+發出了悲哀的咆哮！
+
+#UseMessage2# [50]
+嗚喔喔喔喔喔喔喔喔！！！
+
+
+
+*****Entry32*****
+#Name# [20]
+抱頭狂叫
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+抱著頭！
+
+#UseMessage2# [50]
+嗚喔喔喔喔！！！
+
+
+
+*****Entry33*****
+#Name# [20]
+邊道歉邊打人
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+邊道歉邊打了過來！
+
+#UseMessage2# [50]
+對不起啊啊啊啊啊！
+
+
+
+*****Entry34*****
+#Name# [20]
+女僕的關懷
+
+#Description# [50]
+用女僕的關懷提升戰鬥力
+
+#UseMessage1# [30]
+展現了女僕的關懷！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry35*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+火球術
+
+#Description# [50]
+對單個敵人造成炎屬性傷害。
+
+#UseMessage1# [30]
+吟唱了火球術！
+
+#UseMessage2# [50]
+嘿嘿嘿！燃燒吧，燃燒吧！
+
+
+
+*****Entry37*****
+#Name# [20]
+雷電術
+
+#Description# [50]
+對單個敵人造成雷屬性傷害。
+
+#UseMessage1# [30]
+吟唱了雷電術！
+
+#UseMessage2# [50]
+雷光召喚！！！！
+
+
+
+*****Entry38*****
+#Name# [20]
+隕石術
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+吟唱了隕石術！
+
+#UseMessage2# [50]
+反抗艾瑪大人的人，全都去死吧！
+
+
+
+*****Entry39*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+火焰氣息
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+吐出了火焰氣息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry42*****
+#Name# [20]
+誘惑之歌
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+唱起了誘惑之歌
+
+#UseMessage2# [50]
+這樣一來你就是我的俘虜了！
+
+
+
+*****Entry43*****
+#Name# [20]
+治癒之歌
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+唱起了治癒之歌
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+食夢
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+貪婪地吞噬著阿蓋特的夢境！
+
+#UseMessage2# [50]
+好吃，好吃……
+
+
+
+*****Entry45*****
+#Name# [20]
+惡夢
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+吐出了惡夢！
+
+#UseMessage2# [50]
+嘔嘔……
+
+
+
+*****Entry46*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry47*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry48*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+哭泣道歉
+
+#Description# [50]
+降低敵人的攻擊力
+
+#UseMessage1# [30]
+哭泣著道歉了！
+
+#UseMessage2# [50]
+哇啊～！對不起！對不起！
+
+
+
+*****Entry52*****
+#Name# [20]
+頂嘴
+
+#Description# [50]
+提升自己的防禦力
+
+#UseMessage1# [30]
+頂嘴了！
+
+#UseMessage2# [50]
+我再也不會任人擺佈了！
+
+
+
+*****Entry53*****
+#Name# [20]
+鞭打
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+用皮鞭抽了過來！
+
+#UseMessage2# [50]
+抽打小腿脛骨吧！
+
+
+
+*****Entry54*****
+#Name# [20]
+鞭打
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+用皮鞭抽了過來！
+
+#UseMessage2# [50]
+抽打屁股吧！
+
+
+
+*****Entry55*****
+#Name# [20]
+鞭打
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+用皮鞭抽了過來！
+
+#UseMessage2# [50]
+抽打大腿內側吧！
+
+
+
+*****Entry56*****
+#Name# [20]
+亡者的引誘
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+用令人毛骨悚然的聲音叫喊！
+
+#UseMessage2# [50]
+到這裡來吧，羅絲……
+
+
+
+*****Entry57*****
+#Name# [20]
+鐵拳
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+用鐵拳砸了過來！
+
+#UseMessage2# [50]
+嚐嚐厲害吧！
+
+
+
+*****Entry58*****
+#Name# [20]
+落雷
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+降下了落雷！
+
+#UseMessage2# [50]
+別小看老爸了！
+
+
+
+*****Entry59*****
+#Name# [20]
+超音波
+
+#Description# [50]
+將音波砸向全體敵人
+
+#UseMessage1# [30]
+放出了超音波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry60*****
+#Name# [20]
+水槍＋
+
+#Description# [50]
+用水槍射擊單個敵人
+
+#UseMessage1# [30]
+發射了水槍＋！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry61*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry62*****
+#Name# [20]
+隕石術
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+吟唱了隕石術！
+
+#UseMessage2# [50]
+可別因為這種程度就死掉啊！
+
+
+
+*****Entry63*****
+#Name# [20]
+雷暴術
+
+#Description# [50]
+對全體敵人造成雷屬性傷害。
+
+#UseMessage1# [30]
+吟唱了雷暴術！
+
+#UseMessage2# [50]
+呵呵呵……！這不是已經破爛不堪了嗎！
+
+
+
+*****Entry64*****
+#Name# [20]
+蓄氣
+
+#Description# [50]
+蓄氣使攻擊力提升約 10 點
+
+#UseMessage1# [30]
+蓄了氣！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry65*****
+#Name# [20]
+蓄氣斬
+
+#Description# [50]
+蓄氣斬擊單個敵人的劍技
+
+#UseMessage1# [30]
+施展了蓄氣斬！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry66*****
+#Name# [20]
+劍之舞
+
+#Description# [50]
+斬擊全體敵人的劍技
+
+#UseMessage1# [30]
+舞動了劍之舞！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry67*****
+#Name# [20]
+氣功波
+
+#Description# [50]
+將氣砸向單個敵人的鬥技
+
+#UseMessage1# [30]
+放出了氣功波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry68*****
+#Name# [20]
+烈風腳
+
+#Description# [50]
+對全體敵人施展連環踢的鬥技
+
+#UseMessage1# [30]
+施展了烈風腳！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry69*****
+#Name# [20]
+雷電術
+
+#Description# [50]
+對單個敵人造成雷屬性傷害。
+
+#UseMessage1# [30]
+吟唱了雷電術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry70*****
+#Name# [20]
+雷暴術
+
+#Description# [50]
+對全體敵人造成雷屬性傷害。
+
+#UseMessage1# [30]
+吟唱了雷暴術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry71*****
+#Name# [20]
+火焰之牆
+
+#Description# [50]
+對全體敵人造成 30 點傷害
+
+#UseMessage1# [30]
+吟唱了火焰之牆！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry72*****
+#Name# [20]
+火球術
+
+#Description# [50]
+對單個敵人造成 50 點傷害
+
+#UseMessage1# [30]
+吟唱了火球術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry73*****
+#Name# [20]
+治療術
+
+#Description# [50]
+恢復約 30 點 HP
+
+#UseMessage1# [30]
+吟唱了治療術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry74*****
+#Name# [20]
+治療術 II
+
+#Description# [50]
+恢復約 60 點 HP
+
+#UseMessage1# [30]
+吟唱了治療術 II！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry75*****
+#Name# [20]
+治癒之風
+
+#Description# [50]
+恢復全體隊友 30 點 HP
+
+#UseMessage1# [30]
+吟唱了治癒之風！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry76*****
+#Name# [20]
+神聖力量
+
+#Description# [50]
+借助神聖力量提升戰鬥力
+
+#UseMessage1# [30]
+吟唱了神聖力量！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry77*****
+#Name# [20]
+閃電斬
+
+#Description# [50]
+如閃電般斬擊單個敵人的劍技
+
+#UseMessage1# [30]
+施展了閃電斬！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry78*****
+#Name# [20]
+勇者的光輝
+
+#Description# [50]
+恢復全體隊友 80 點 HP，治療所有異常狀態
+
+#UseMessage1# [30]
+釋放了勇者的光輝！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry79*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry80*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry81*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry82*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry83*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry84*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry85*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry86*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry87*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry88*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry89*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry90*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry91*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry92*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry93*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry94*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry95*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry96*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry97*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry98*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry99*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry100*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry101*****
+#Name# [20]
+火球術
+
+#Description# [50]
+對單個敵人造成 50 點傷害
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+火球飛了出去！
+
+
+
+*****Entry102*****
+#Name# [20]
+火焰之牆
+
+#Description# [50]
+對全體敵人造成 30 點傷害
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+猛烈的火焰噴湧而出！
+
+
+
+*****Entry103*****
+#Name# [20]
+毒術
+
+#Description# [50]
+對全體敵人造成 20 點傷害＋中毒狀態
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+毒氣來襲！
+
+
+
+*****Entry104*****
+#Name# [20]
+治療術 II
+
+#Description# [50]
+恢復單個隊友 60 點 HP
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+身體恢復了活力！
+
+
+
+*****Entry105*****
+#Name# [20]
+治癒之風
+
+#Description# [50]
+恢復全體隊友 30 點 HP
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+治癒之風吹拂而過！
+
+
+
+*****Entry106*****
+#Name# [20]
+治療術 III
+
+#Description# [50]
+恢復約 100 點 HP
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+身體恢復了活力！
+
+
+
+*****Entry107*****
+#Name# [20]
+神聖力量
+
+#Description# [50]
+借助神聖力量提升戰鬥力
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+借助神聖力量獲得強化！
+
+
+
+*****Entry108*****
+#Name# [20]
+雷電術
+
+#Description# [50]
+對單個敵人造成雷屬性傷害。
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+召喚雷電！
+
+
+
+*****Entry109*****
+#Name# [20]
+雷暴術
+
+#Description# [50]
+對全體敵人造成雷屬性傷害。
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+雷暴肆虐！
+
+
+
+*****Entry110*****
+#Name# [20]
+大霹靂
+
+#Description# [50]
+對全體敵人造成無屬性傷害。
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+大爆炸！
+
+
+
+*****Entry111*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry112*****
+#Name# [20]
+哭泣道歉
+
+#Description# [50]
+降低敵人的防禦力
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+總之，先哭著道歉了！
+
+
+
+*****Entry113*****
+#Name# [20]
+頂嘴
+
+#Description# [50]
+提升自己的防禦力
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+以驚人的氣勢頂嘴了！
+
+
+
+*****Entry114*****
+#Name# [20]
+碎石術
+
+#Description# [50]
+用碎石砸向全體敵人
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+碎石向敵人砸去！
+
+
+
+*****Entry115*****
+#Name# [20]
+女僕的關懷
+
+#Description# [50]
+用女僕的關懷提升戰鬥力
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+憑藉女僕的關懷提升了戰鬥力！
+
+
+
+*****Entry116*****
+#Name# [20]
+蓄氣
+
+#Description# [50]
+蓄氣使攻擊力提升約 10 點
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+鬥志高昂！
+
+
+
+*****Entry117*****
+#Name# [20]
+氣功波
+
+#Description# [50]
+將氣砸向單個敵人的鬥技
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+氣的波動噴湧而出！
+
+
+
+*****Entry118*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry119*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry120*****
+#Name# [20]
+勇者的光輝
+
+#Description# [50]
+恢復全體隊友 60 點 HP，治療所有異常狀態
+
+#UseMessage1# [30]
+啟動了卡片魔法！
+
+#UseMessage2# [50]
+被耀眼的光芒包圍了！
+
+
+
+*****Entry121*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry122*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry123*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry124*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry125*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry126*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry127*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry128*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry129*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry130*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry131*****
+#Name# [20]
+黑暗吐息
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+吐出了黑暗吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry132*****
+#Name# [20]
+黑暗風暴
+
+#Description# [50]
+對全體敵人造成暗黑屬性傷害。
+
+#UseMessage1# [30]
+吟唱了黑暗風暴！
+
+#UseMessage2# [50]
+黑暗啊！吞噬他們的靈魂吧！
+
+
+
+*****Entry133*****
+#Name# [20]
+雷電術
+
+#Description# [50]
+對單個敵人造成雷屬性傷害。
+
+#UseMessage1# [30]
+吟唱了雷電術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry134*****
+#Name# [20]
+揮舞戰斧
+
+#Description# [50]
+揮舞戰斧對全體敵人造成傷害
+
+#UseMessage1# [30]
+揮舞了戰斧！
+
+#UseMessage2# [50]
+喝啊啊啊啊啊！！！
+
+
+
+*****Entry135*****
+#Name# [20]
+吸取力量
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+從貝莉露的夢境中吸取力量！
+
+#UseMessage2# [50]
+庫庫庫……！馬林，妳的絕望是人間美味！
+
+
+
+*****Entry136*****
+#Name# [20]
+咆哮
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+的咆哮！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry137*****
+#Name# [20]
+風神
+
+#Description# [50]
+用真空之刃切碎敵人
+
+#UseMessage1# [30]
+釋放了風神！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry138*****
+#Name# [20]
+雷神
+
+#Description# [50]
+閃電般的快速攻擊
+
+#UseMessage1# [30]
+釋放了雷神！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry139*****
+#Name# [20]
+治癒之風 α
+
+#Description# [50]
+恢復全體隊友 100 點 HP
+
+#UseMessage1# [30]
+吟唱了治癒之風！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry140*****
+#Name# [20]
+治療術 α
+
+#Description# [50]
+恢復約 300 點 HP
+
+#UseMessage1# [30]
+吟唱了治療術 α！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry141*****
+#Name# [20]
+念防禦 α
+
+#Description# [50]
+提升全體隊友對暗黑屬性攻擊的防禦力
+
+#UseMessage1# [30]
+使用了念防禦！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry142*****
+#Name# [20]
+黑暗侵蝕
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+釋放了黑暗侵蝕！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry143*****
+#Name# [20]
+黑色火焰
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+釋放了黑色火焰！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry144*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry145*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry146*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry147*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry148*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry149*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry150*****
+#Name# [20]
+確認狀況
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry151*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry152*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry153*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry154*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry155*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry156*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry157*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry158*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry159*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry160*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry161*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry162*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry163*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry164*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+

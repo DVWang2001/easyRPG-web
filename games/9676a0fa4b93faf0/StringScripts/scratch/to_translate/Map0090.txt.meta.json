@@ -1,0 +1,37 @@
+[
+  {
+    "idx": 1,
+    "face": null,
+    "start_line_idx": 2,
+    "end_line_idx": 6,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 2,
+    "face": null,
+    "start_line_idx": 9,
+    "end_line_idx": 12,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 3,
+    "face": null,
+    "start_line_idx": 15,
+    "end_line_idx": 18,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 4,
+    "face": null,
+    "start_line_idx": 21,
+    "end_line_idx": 24,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 5,
+    "face": null,
+    "start_line_idx": 27,
+    "end_line_idx": 31,
+    "num_content_lines": 3
+  }
+]

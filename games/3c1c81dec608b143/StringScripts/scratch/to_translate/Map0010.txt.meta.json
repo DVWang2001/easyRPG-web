@@ -1,0 +1,257 @@
+{
+    "filepath": "Map0010.txt",
+    "meta": [
+        {
+            "type": "message",
+            "start_line_idx": 5,
+            "end_line_idx": 5
+        },
+        {
+            "type": "message",
+            "start_line_idx": 10,
+            "end_line_idx": 10
+        },
+        {
+            "type": "message",
+            "start_line_idx": 17,
+            "end_line_idx": 17
+        },
+        {
+            "type": "message",
+            "start_line_idx": 24,
+            "end_line_idx": 26
+        },
+        {
+            "type": "message",
+            "start_line_idx": 31,
+            "end_line_idx": 32
+        },
+        {
+            "type": "message",
+            "start_line_idx": 39,
+            "end_line_idx": 39
+        },
+        {
+            "type": "message",
+            "start_line_idx": 44,
+            "end_line_idx": 45
+        },
+        {
+            "type": "message",
+            "start_line_idx": 52,
+            "end_line_idx": 52
+        },
+        {
+            "type": "message",
+            "start_line_idx": 57,
+            "end_line_idx": 58
+        },
+        {
+            "type": "message",
+            "start_line_idx": 65,
+            "end_line_idx": 65
+        },
+        {
+            "type": "message",
+            "start_line_idx": 72,
+            "end_line_idx": 73
+        },
+        {
+            "type": "message",
+            "start_line_idx": 80,
+            "end_line_idx": 80
+        },
+        {
+            "type": "message",
+            "start_line_idx": 87,
+            "end_line_idx": 87
+        },
+        {
+            "type": "message",
+            "start_line_idx": 92,
+            "end_line_idx": 92
+        },
+        {
+            "type": "message",
+            "start_line_idx": 99,
+            "end_line_idx": 99
+        },
+        {
+            "type": "message",
+            "start_line_idx": 104,
+            "end_line_idx": 104
+        },
+        {
+            "type": "message",
+            "start_line_idx": 111,
+            "end_line_idx": 111
+        },
+        {
+            "type": "message",
+            "start_line_idx": 122,
+            "end_line_idx": 122
+        },
+        {
+            "type": "message",
+            "start_line_idx": 127,
+            "end_line_idx": 128
+        },
+        {
+            "type": "message",
+            "start_line_idx": 133,
+            "end_line_idx": 134
+        },
+        {
+            "type": "message",
+            "start_line_idx": 139,
+            "end_line_idx": 139
+        },
+        {
+            "type": "message",
+            "start_line_idx": 144,
+            "end_line_idx": 144
+        },
+        {
+            "type": "message",
+            "start_line_idx": 149,
+            "end_line_idx": 149
+        },
+        {
+            "type": "message",
+            "start_line_idx": 154,
+            "end_line_idx": 154
+        },
+        {
+            "type": "message",
+            "start_line_idx": 159,
+            "end_line_idx": 159
+        }
+    ],
+    "items": [
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.アレ？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "姫さん、おらんニャ～。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "いつもだったらこの辺で\n\\.かったるそうに、こう\n脇息にもたれかかって"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "こんな風に\n\\.お尻をぽりぽり掻いてるんだけどニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.おらぬか･･････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.では仕方ない。\n帰るとするか。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "あ、コラ、待つニャ！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "ここまで来て帰るとは\nなんニャ！"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.･････････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "姫さんなら、\nきっと上におるニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.\\S[2]････････････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "　\\.？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.なんか迷うとるんかいニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.いや･･･。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.なら、行くニャ。"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.\\C[17]\\S[2]はたして私がここへ来たのは"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.\\S[2]\\C[17]あの男のためなのか\n\\.それとも自分のためなのか･･･"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.\\S[2]\\C[17]本当はここへは\nやって来たくなかったのかもしれない"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.\\S[2]\\C[17]本当はあの人に･･･"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.\\S[2]\\C[17]会いたくはなかったのかもしれない･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[3]ではなぜ･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[4]\\C[17]あの人に･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]\\C[17]告げなくてはならないことがあるから･･････？"
+        }
+    ]
+}

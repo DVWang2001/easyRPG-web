@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "Map0001.txt",
+    "key": "STAND",
+    "text": "STAND",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0001.txt",
+    "key": "HIT",
+    "text": "HIT",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0001.txt",
+    "key": "DOUBLE DOWN",
+    "text": "DOUBLE DOWN",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0001.txt",
+    "key": "SURRENDER",
+    "text": "SURRENDER",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0001.txt",
+    "key": "CONTINUE",
+    "text": "CONTINUE",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0001.txt",
+    "key": "END",
+    "text": "END",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　先生…どうなんでしょうか…",
+    "text": "ウェイン：\n　先生…どうなんでしょうか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　・・・。",
+    "text": "医者：\n　・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　はっきり言って、私の手には負えないな…",
+    "text": "医者：\n　はっきり言って、私の手には負えないな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　！？",
+    "text": "ウェイン：\n　！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　いや、ほとんどの医者の手に負えないと\n　言った方が正しいだろう。",
+    "text": "医者：\n　いや、ほとんどの医者の手に負えないと\n　言った方が正しいだろう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　そ…\\!そんな・・・",
+    "text": "ウェイン：\n　そ…\\!そんな・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　もう、この病気は絶滅したと思われているんだ。",
+    "text": "医者：\n　もう、この病気は絶滅したと思われているんだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　記録によると、最後の患者が８２０年前だ。\\!\n　それからは、世界中の人間、誰一人として\n　発病していない。",
+    "text": "医者：\n　記録によると、最後の患者が８２０年前だ。\\!\n　それからは、世界中の人間、誰一人として\n　発病していない。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　この病気にかかった以上、特殊なオペが必要なんだ。",
+    "text": "医者：\n　この病気にかかった以上、特殊なオペが必要なんだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　だが、その技術を学んだ医者などほとんどいないよ。",
+    "text": "医者：\n　だが、その技術を学んだ医者などほとんどいないよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　この病気だって、医学書には載ってないんだからな。",
+    "text": "医者：\n　この病気だって、医学書には載ってないんだからな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　でも、なにか…\\!なにか…方法はないんですか！？",
+    "text": "ウェイン：\n　でも、なにか…\\!なにか…方法はないんですか！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　\\.・\\.・\\.・\\!方法はある。",
+    "text": "医者：\n　\\.・\\.・\\.・\\!方法はある。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　それは！？",
+    "text": "ウェイン：\n　それは！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　ただ…\\!君にはムリだ…",
+    "text": "医者：\n　ただ…\\!君にはムリだ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　え…\\!ムリでもなんでもいい！\\!教えてください！！！",
+    "text": "ウェイン：\n　え…\\!ムリでもなんでもいい！\\!教えてください！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　１０００万\\.・\\.・\\.・\\!１０００万￡用意できるか？",
+    "text": "医者：\n　１０００万\\.・\\.・\\.・\\!１０００万￡用意できるか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　な・・・\\!１０００万￡\\.・\\.・\\.・",
+    "text": "ウェイン：\n　な・・・\\!１０００万￡\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　私の知り合いに、腕のたしかな男がいる。\\!\n　昔、同僚だった男だ。",
+    "text": "医者：\n　私の知り合いに、腕のたしかな男がいる。\\!\n　昔、同僚だった男だ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　そいつにかかれば、風邪からこの病気まで\n　ありとあらゆる病気を治すことができるだろう。",
+    "text": "医者：\n　そいつにかかれば、風邪からこの病気まで\n　ありとあらゆる病気を治すことができるだろう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　あいつなら、オペを成功させられるはずだ。",
+    "text": "医者：\n　あいつなら、オペを成功させられるはずだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　ただ、そいつの依頼料は１０００万￡。",
+    "text": "医者：\n　ただ、そいつの依頼料は１０００万￡。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　だから、１０００万￡あれば・・・",
+    "text": "医者：\n　だから、１０００万￡あれば・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　・\\.・\\.・\\.。",
+    "text": "ウェイン：\n　・\\.・\\.・\\.。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　君には酷な話だったかな。",
+    "text": "医者：\n　君には酷な話だったかな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　まぁ、１０００万￡集まったら連絡をくれ。",
+    "text": "医者：\n　まぁ、１０００万￡集まったら連絡をくれ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "医者：\n　・・・お大事にな。",
+    "text": "医者：\n　・・・お大事にな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　あ…ありがとうございました・・・",
+    "text": "ウェイン：\n　あ…ありがとうございました・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　１０００万￡か・・・",
+    "text": "ウェイン：\n　１０００万￡か・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　そんな金、どこにあるんだよ･･･",
+    "text": "ウェイン：\n　そんな金、どこにあるんだよ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　クレア\\.・\\.・\\.・",
+    "text": "ウェイン：\n　クレア\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　１０００万￡あれば、お前を助けられるんだ･･･",
+    "text": "ウェイン：\n　１０００万￡あれば、お前を助けられるんだ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　でも、１０００万￡なんて、どこにもない･･･",
+    "text": "ウェイン：\n　でも、１０００万￡なんて、どこにもない・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　１０００万￡なんて、俺が普通に働いたって\n　手に入る金額じゃないよ…",
+    "text": "ウェイン：\n　１０００万￡なんて、俺が普通に働いたって\n　手に入る金額じゃないよ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　どうすればいいんだ…",
+    "text": "ウェイン：\n　どうすればいいんだ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン:\n　…",
+    "text": "ウェイン:\n　…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン:\n　・\\.・\\.・\\.。",
+    "text": "ウェイン:\n　・\\.・\\.・\\.。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　これしかない･･･",
+    "text": "ウェイン：\n　これしかない・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　もう、君を助ける手段はこれだけだ。",
+    "text": "ウェイン：\n　もう、君を助ける手段はこれだけだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　クレア･･･\\!待っててくれ。\n　必ず君を助けてみせる。",
+    "text": "ウェイン：\n　クレア・・・\\!待っててくれ。\n　必ず君を助けてみせる。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0004.txt",
+    "key": "ウェイン：\n　命にかえても・・・。",
+    "text": "ウェイン：\n　命にかえても・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0005.txt",
+    "key": "ウェイン：\n　１０００万￡か・・・",
+    "text": "ウェイン：\n　１０００万￡か・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0005.txt",
+    "key": "ウェイン：\n　そんな金、どこにあるんだよ･･･",
+    "text": "ウェイン：\n　そんな金、どこにあるんだよ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0005.txt",
+    "key": "ウェイン：\n　クレア･･･",
+    "text": "ウェイン：\n　クレア・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0005.txt",
+    "key": "ウェイン：\n　１０００万￡あれば、お前を助けられるんだ･･･",
+    "text": "ウェイン：\n　１０００万￡あれば、お前を助けられるんだ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0005.txt",
+    "key": "ウェイン：\n　でも、１０００万￡なんて、ないんだよ･･･",
+    "text": "ウェイン：\n　でも、１０００万￡なんて、ないんだよ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0005.txt",
+    "key": "ウェイン：\n　１０００万￡なんて、\n　あの医者はブラックジャックのつもりかよ・・・",
+    "text": "ウェイン：\n　１０００万￡なんて、\n　あの医者はブラックジャックのつもりかよ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0005.txt",
+    "key": "ウェイン：\n　ブラックジャック･･･？",
+    "text": "ウェイン：\n　ブラックジャック・・・？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0005.txt",
+    "key": "ウェイン:\n　・・・。",
+    "text": "ウェイン:\n　・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0005.txt",
+    "key": "ウェイン：\n　これしかない･･･",
+    "text": "ウェイン：\n　これしかない・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0005.txt",
+    "key": "ウェイン：\n　クレア･･･\\!待っててくれ。\n　必ず君を助けてみせる。",
+    "text": "ウェイン：\n　クレア・・・\\!待っててくれ。\n　必ず君を助けてみせる。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0005.txt",
+    "key": "ウェイン：\n　命にかえても・・・。",
+    "text": "ウェイン：\n　命にかえても・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　私と勝負しますか？",
+    "text": "ディーラー：\n　私と勝負しますか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　と言いたいところですが・・・\n　チップをお持ちでないようですね。",
+    "text": "ディーラー：\n　と言いたいところですが・・・\n　チップをお持ちでないようですね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ウェイン：",
+    "text": "ウェイン：",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "「このディーラーと勝負する。」",
+    "text": "「このディーラーと勝負する。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "「またの機会にする。」",
+    "text": "「またの機会にする。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　それでは、勝負です。",
+    "text": "ディーラー：\n　それでは、勝負です。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　そうですか、またの機会を楽しみにしてます。",
+    "text": "ディーラー：\n　そうですか、またの機会を楽しみにしてます。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　セデュース・ハウスへようこそ。\n　ごゆっくりとお楽しみください。",
+    "text": "従業員：\n　セデュース・ハウスへようこそ。\n　ごゆっくりとお楽しみください。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　あなたに、幸運がありますように。",
+    "text": "従業員：\n　あなたに、幸運がありますように。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　当カジノ、セデュース・ハウスはブラックジャック５\n　通称「Ｂ.Ｊ」の専門店となっています。",
+    "text": "従業員：\n　当カジノ、セデュース・ハウスはブラックジャック５\n　通称「Ｂ.Ｊ」の専門店となっています。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　まぁ「Ｂ.Ｊ５」以外の物もいくつかはありますが…",
+    "text": "従業員：\n　まぁ「Ｂ.Ｊ５」以外の物もいくつかはありますが…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "女：\n　あれも欲しいし、ダイヤも欲しいのよねぇ～。",
+    "text": "女：\n　あれも欲しいし、ダイヤも欲しいのよねぇ～。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "交換受付：\n　ここは、景品交換受け付けよ。",
+    "text": "交換受付：\n　ここは、景品交換受け付けよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "交換受付：\n　また、来てね。",
+    "text": "交換受付：\n　また、来てね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "男：\n　ここのシステムって、儲けの大きいディーラー８人が\n　真ん中のスペースでできるんだって。",
+    "text": "男：\n　ここのシステムって、儲けの大きいディーラー８人が\n　真ん中のスペースでできるんだって。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "男：\n　このディーラーは上位に行きたいんだってさ。\n　でも、それにはお客に勝たなきゃね。",
+    "text": "男：\n　このディーラーは上位に行きたいんだってさ。\n　でも、それにはお客に勝たなきゃね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　申し訳ありませんが、\n　この先はＶＩＰルームとなっていますので、\n　お客様は入ることができません。",
+    "text": "従業員：\n　申し訳ありませんが、\n　この先はＶＩＰルームとなっていますので、\n　お客様は入ることができません。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　お客様…チップがありません。",
+    "text": "ディーラー：\n　お客様…チップがありません。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　残念です…。",
+    "text": "ディーラー：\n　残念です…。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　そうですか。",
+    "text": "ディーラー：\n　そうですか。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　私はここ１番の古株ディーラーです。",
+    "text": "ディーラー：\n　私はここ１番の古株ディーラーです。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　さて、私と勝負しますか？",
+    "text": "ディーラー：\n　さて、私と勝負しますか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　おやおや、チップがありませんね。",
+    "text": "ディーラー：\n　おやおや、チップがありませんね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　それでは勝負できませんよ。",
+    "text": "ディーラー：\n　それでは勝負できませんよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　そうですか。いつでもお待ちしています。",
+    "text": "ディーラー：\n　そうですか。いつでもお待ちしています。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　あら？女のディーラーは珍しい？",
+    "text": "ディーラー：\n　あら？女のディーラーは珍しい？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　あら？チップがないわよ。",
+    "text": "ディーラー：\n　あら？チップがないわよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　残念ね。",
+    "text": "ディーラー：\n　残念ね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　そう…気が向いたら来てね。",
+    "text": "ディーラー：\n　そう…気が向いたら来てね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "女：\n　う～ん…引けるかしら…",
+    "text": "女：\n　う～ん…引けるかしら…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "老人：\n　わしゃ、やつとは３０年ずっとやっとる。",
+    "text": "老人：\n　わしゃ、やつとは３０年ずっとやっとる。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "老人：\n　今までは９７２６戦４８６３勝４８６３敗じゃ。",
+    "text": "老人：\n　今までは９７２６戦４８６３勝４８６３敗じゃ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "老人：\n　わしもなかなかのもんじゃろ。",
+    "text": "老人：\n　わしもなかなかのもんじゃろ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "男：\n　あぁ…この人になら全財産とられてもいい・・・",
+    "text": "男：\n　あぁ…この人になら全財産とられてもいい・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "＊：\n　きたぁっ！ブラックジャック！！！",
+    "text": "＊：\n　きたぁっ！ブラックジャック！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　チップがありませんね。",
+    "text": "ディーラー：\n　チップがありませんね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　チップを持ってないと勝負できませんよ。",
+    "text": "ディーラー：\n　チップを持ってないと勝負できませんよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　さぁ、勝負しましょうよ。",
+    "text": "ディーラー：\n　さぁ、勝負しましょうよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　あれ？チップがないですね。",
+    "text": "ディーラー：\n　あれ？チップがないですね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　残念です…またきてね。",
+    "text": "ディーラー：\n　残念です…またきてね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　それじゃ、勝負です。",
+    "text": "ディーラー：\n　それじゃ、勝負です。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　そうなの・・・またきてね。",
+    "text": "ディーラー：\n　そうなの・・・またきてね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "男：\n　どうしようかな…勝負しようかな…でも・・・",
+    "text": "男：\n　どうしようかな…勝負しようかな…でも・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "　　　　　　　　　\\>－　ギルド　－\\<\n\n　　　　　　\\>チップにお困りの方はどうぞ。\\<",
+    "text": "　　　　　　　　　\\>－　ギルド　－\\<\n\n　　　　　　\\>チップにお困りの方はどうぞ。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ウェイン：\n　ここだ\\.・\\.・\\.・",
+    "text": "ウェイン：\n　ここだ\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ウェイン：\n　もう、１０００万￡稼ぐには、これしかない。",
+    "text": "ウェイン：\n　もう、１０００万￡稼ぐには、これしかない。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ウェイン：\n　しかし、ただの賭け事じゃ負けるだけだ。",
+    "text": "ウェイン：\n　しかし、ただの賭け事じゃ負けるだけだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ウェイン：\n　１番勝率の高い賭け事…そう\\.・\\.・\\.・\\!\n　ブラックジャックだ。",
+    "text": "ウェイン：\n　１番勝率の高い賭け事…そう\\.・\\.・\\.・\\!\n　ブラックジャックだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ウェイン：\n　持ち金はすべてチップに返還した。",
+    "text": "ウェイン：\n　持ち金はすべてチップに返還した。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ウェイン：\n　俺は、ここで必ず１０００万￡獲得してみせる！！！",
+    "text": "ウェイン：\n　俺は、ここで必ず１０００万￡獲得してみせる！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ウェイン：\n　クレア…\\!待っていてくれ…",
+    "text": "ウェイン：\n　クレア…\\!待っていてくれ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　お客様なかなかの腕をお持ちのようで。\n　もし、よろしかったら酒場にいる老人に\n　話して見てください。",
+    "text": "ディーラー：\n　お客様なかなかの腕をお持ちのようで。\n　もし、よろしかったら酒場にいる老人に\n　話して見てください。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　お客様、なかなかやりますね。\n　もし、よろしければ、酒場にいる老人に\n　話しかけてくださいね。",
+    "text": "ディーラー：\n　お客様、なかなかやりますね。\n　もし、よろしければ、酒場にいる老人に\n　話しかけてくださいね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　おや？お客様、なかなかいい腕をお持ちですね。\n　もし、よろしかったら酒場にいる私と同じ様な老人に\n　話してみてください。",
+    "text": "ディーラー：\n　おや？お客様、なかなかいい腕をお持ちですね。\n　もし、よろしかったら酒場にいる私と同じ様な老人に\n　話してみてください。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　お客様・・・なかなか手慣れていらっしゃる。\n　もし、よろしかったら酒場にいる老人に\n　話してみてください。",
+    "text": "ディーラー：\n　お客様・・・なかなか手慣れていらっしゃる。\n　もし、よろしかったら酒場にいる老人に\n　話してみてください。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　お客様、なかなかの腕前ですね。\n　もし、よろしかったら酒場にいる老人に\n　話してみてください。",
+    "text": "ディーラー：\n　お客様、なかなかの腕前ですね。\n　もし、よろしかったら酒場にいる老人に\n　話してみてください。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ディーラー：\n　お客様、結構強いのね。\n　もし、これ以上の勝利を望むのならば\n　酒場にいる老人に話してみてください。",
+    "text": "ディーラー：\n　お客様、結構強いのね。\n　もし、これ以上の勝利を望むのならば\n　酒場にいる老人に話してみてください。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "ウェイン：\n　開かない…鍵がかかってるみたいだ・・・",
+    "text": "ウェイン：\n　開かない…鍵がかかってるみたいだ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　ここは、当カジノの上位８人が受け持っている\n　カジノスペースです。",
+    "text": "従業員：\n　ここは、当カジノの上位８人が受け持っている\n　カジノスペースです。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "見習いディーラー：\n　私と勝負しますか？",
+    "text": "見習いディーラー：\n　私と勝負しますか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "見習いディーラー：\n　と言いたいところですが・・・\n　チップをお持ちでないようですね。",
+    "text": "見習いディーラー：\n　と言いたいところですが・・・\n　チップをお持ちでないようですね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "見習いディーラー：\n　それでは、勝負です。",
+    "text": "見習いディーラー：\n　それでは、勝負です。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "見習いディーラー：\n　そうですか、またの機会を楽しみにしてます。",
+    "text": "見習いディーラー：\n　そうですか、またの機会を楽しみにしてます。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "見習いディーラー：\n　絶対上位に上がってやる！\\!\n　あ、お客様、私と勝負しますか？",
+    "text": "見習いディーラー：\n　絶対上位に上がってやる！\\!\n　あ、お客様、私と勝負しますか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　ここの上位８人には、最大で９９９９枚まで\n　チップを賭けることが可能です。",
+    "text": "従業員：\n　ここの上位８人には、最大で９９９９枚まで\n　チップを賭けることが可能です。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "おやじ：\n　へっへっへ！ボロ勝ちだぜ！！！",
+    "text": "おやじ：\n　へっへっへ！ボロ勝ちだぜ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "男：\n　僕も、ディーラーやってみたいな…",
+    "text": "男：\n　僕も、ディーラーやってみたいな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "男：\n　ま、負けた…\\!１文なしだ…",
+    "text": "男：\n　ま、負けた…\\!１文なしだ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "男：\n　ここの上位ディーラーは、掛け金が大きいから\n　勝てば一気にチップが増えるんだよね。",
+    "text": "男：\n　ここの上位ディーラーは、掛け金が大きいから\n　勝てば一気にチップが増えるんだよね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "男：\n　でも、負けると、一気に減るけど。",
+    "text": "男：\n　でも、負けると、一気に減るけど。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "男：\n　次こそ、絶対勝つ！勝って豪邸を建ててやる！",
+    "text": "男：\n　次こそ、絶対勝つ！勝って豪邸を建ててやる！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "女：\n　う～ん、なにと交換しようかしら・・・",
+    "text": "女：\n　う～ん、なにと交換しようかしら・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　ここは景品交換受け付けです。\n　お好きな景品と交換していってください。",
+    "text": "従業員：\n　ここは景品交換受け付けです。\n　お好きな景品と交換していってください。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "女：\n　こっちのディーラーは、賭けるチップが少ないから\n　気楽に遊べるのよね。",
+    "text": "女：\n　こっちのディーラーは、賭けるチップが少ないから\n　気楽に遊べるのよね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "男：\n　勝ちたい…でも勝てない…",
+    "text": "男：\n　勝ちたい…でも勝てない…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "女：\n　う～ん、合計で１７か…微妙なところね…",
+    "text": "女：\n　う～ん、合計で１７か…微妙なところね…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "女：\n　どこでやろうかしら。\n　同じだと思っても迷っちゃうのよねぇ～。",
+    "text": "女：\n　どこでやろうかしら。\n　同じだと思っても迷っちゃうのよねぇ～。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　Ｂ.Ｊは大幅にチップを増やすことが可能ですが\n　また、チップが減ってしまう可能性も高いです。",
+    "text": "従業員：\n　Ｂ.Ｊは大幅にチップを増やすことが可能ですが\n　また、チップが減ってしまう可能性も高いです。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　確実に増やすには、酒場のスロットをお勧めします。\\!\n　ただ、大幅には増えませんけど。",
+    "text": "従業員：\n　確実に増やすには、酒場のスロットをお勧めします。\\!\n　ただ、大幅には増えませんけど。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　ここでは「R-Place」ができますよ。",
+    "text": "従業員：\n　ここでは「R-Place」ができますよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "「やる。」",
+    "text": "「やる。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "「やらない。」",
+    "text": "「やらない。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "「説明を見る。」",
+    "text": "「説明を見る。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　また、ご利用ください。",
+    "text": "従業員：\n　また、ご利用ください。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "従業員：\n　なお、説明は「Start」や「End」の上で\n　キャンセルキーを押しても見ることができます。",
+    "text": "従業員：\n　なお、説明は「Start」や「End」の上で\n　キャンセルキーを押しても見ることができます。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "\n　　　　　 \\>－　Ｂ.Ｊ５ルールブック　－\\<\n\\>\\<\n　　　　　　　　　\\>▽ルール編▽\\<",
+    "text": "\n　　　　　 \\>－　Ｂ.Ｊ５ルールブック　－\\<\n\\>\\<\n　　　　　　　　　\\>▽ルール編▽\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "「読む。」",
+    "text": "「読む。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "「読まない。」",
+    "text": "「読まない。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "\\>「Ｂ.Ｊ５」は「ブラックジャックファイブ」の略です。\\<\n\\>一般的には簡単に「Ｂ.Ｊ」と呼ばれます。\\<",
+    "text": "\\>「Ｂ.Ｊ５」は「ブラックジャックファイブ」の略です。\\<\n\\>一般的には簡単に「Ｂ.Ｊ」と呼ばれます。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "\\>基本的ルールは「ブラックジャック」と同じです。\\<\n\\>「Ｂ.Ｊ５」の特徴は、「カード枚数が最大で５枚」\\<\n\\>「親（ディーラー）と子（プレイヤー）が\\<\n\\>同時にプレーを行うこと。」この２つがあげられます。\\<",
+    "text": "\\>基本的ルールは「ブラックジャック」と同じです。\\<\n\\>「Ｂ.Ｊ５」の特徴は、「カード枚数が最大で５枚」\\<\n\\>「親（ディーラー）と子（プレイヤー）が\\<\n\\>同時にプレーを行うこと。」この２つがあげられます。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "\\>やり方は、まず、チップを賭けます。\\<\n\\>そして、カードが２枚配られます。\\<\n\\>この時、親の１枚目のカードは見ることができます。\\<\n\\>しかし、親の２枚目はふせられています。\\<",
+    "text": "\\>やり方は、まず、チップを賭けます。\\<\n\\>そして、カードが２枚配られます。\\<\n\\>この時、親の１枚目のカードは見ることができます。\\<\n\\>しかし、親の２枚目はふせられています。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0006.txt",
+    "key": "\\>そして、親の３枚目以降も見ることが可能です。\\<\n\\>そのため、この見えているカードから\\<\n\\>親の手を推測して、子の手を考えていって下さい。\\<",
+    "text": "\\>そして、親の３枚目以降も見ることが可能です。\\<\n\\>そのため、この見えているカードから\\<\n\\>親の手を推測して、子の手を考えていって下さい。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  }
+]

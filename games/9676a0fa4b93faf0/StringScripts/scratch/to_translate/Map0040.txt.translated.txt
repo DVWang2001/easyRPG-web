@@ -1,0 +1,110 @@
+1. [MARKER: Message] 以藏「
+……？\. 咦？
+傳送裝置不見了……
+2. [MARKER: Message] 奧斯卡「
+……真的耶……
+3. [MARKER: Message] 以藏「
+這種地方以前有樓梯嗎……？
+4. [MARKER: Message] DANDY「
+新日本的構造改變了……？
+還是說，這是陷阱……？
+5. [MARKER: Message] 喬喬莉娜「
+去找流漸先生的話，不是比較快嗎$g$g
+6. [MARKER: Message] DANDY「
+也是呢……
+7. [MARKER: Message] 男子「
+我要將家傳的傳統招式，
+傳授給即將奔赴死地的你們……
+8. [MARKER: Message] 以藏「
+你這傢伙不是機器人嗎……？
+9. [MARKER: Message] 男子「
+\s[5]……………………………………………………。
+10. [MARKER: Message] 
+　　奧斯卡學會了「日本傳統槍技『雅』」！
+11. [MARKER: Message] 以藏「
+被敷衍過去了……
+12. [MARKER: Message] 男子「
+任務完成……功能停止。
+13. [MARKER: Message] 以藏「
+果然是機器人……
+14. [MARKER: Message] 
+　　因功能停止，一動也不動。
+15. [MARKER: Message] 男子「
+這裡已經不再是員工室了。
+真遺憾……
+16. [MARKER: Message] 男子「
+不過在此之前，我真的有做過
+像是員工該做的事嗎……
+17. [MARKER: Message] 男子「
+在突入美國時，我到甲板上看了一下，
+在防衛線南邊，能看到一座村莊喔。\.
+去一次看看如何？
+18. [MARKER: Message] 男子「
+啊，不過那裡被群山環繞，
+看來只能用這個去，或者搭乘飛空艇去呢……
+19. [MARKER: Message] 男子「
+終於要前往敵方的大本營了呢……。\.
+啊啊……\. 我明明什麼都做不到，卻渾身發抖……
+20. [MARKER: Message] 男子「
+啊……\. 那邊的機器似乎還活著，\. 
+所以看來還是可以記錄的。
+21. [MARKER: Message] ＞要記錄目前的狀態嗎？
+22. [MARKER: Message] 機工士「
+沒想到居然有這麼厲害的船！！
+23. [MARKER: Message] 女僕「
+我正在打掃新生新日本號。
+真想穿穿看女僕裝啊～
+24. [MARKER: Message] 奧斯卡「
+喔喔！女僕！
+25. [MARKER: Message] 女僕「
+奧斯卡大人！
+我也會作為情報收集員一起戰鬥的！
+26. [MARKER: Message] 若者「
+我也要戰鬥！\. 
+\s[2]……………………
+……………………肚子有點……
+27. [MARKER: Message] 安德烈粉絲的女子「
+這間房間是安德烈大人的房間喔$g
+王座看起來超酷的～
+28. [MARKER: Message] 薩斯克「
+好窄啊。
+29. [MARKER: Message] 貝爾「
+香菸抽完了……
+30. [MARKER: Message] 戰「
+就讓你們看看，
+中國拳法的威力！
+31. [MARKER: Message] 鳥「
+咕？
+32. [MARKER: Message] 拉爾夫「
+這次輪到我來幫忙了！
+33. [MARKER: Message] 阿勝「
+DANDY大人！
+我也要一起戰鬥！
+34. [MARKER: Message] DANDY「
+喔喔！阿勝！
+要注意身體，好好加油！
+35. [MARKER: Message] 阿勝「
+是！！！！！！！！！！！！！！
+36. [MARKER: Message] 機器人「
+要休息一下嗎？
+37. [MARKER: Message] 熱血女「
+熱血沸騰！
+根本坐不住！
+你也是這樣吧！
+38. [MARKER: Message] 熱血女「
+沒錯吧沒錯吧！
+我覺得和你很合得來！
+這個送給你！
+39. [MARKER: Message] 
+　　　　獲得了裂爪 Soul of Dandizm！
+40. [MARKER: Message] 熱血女「
+切…………
+我最討厭冷淡的傢伙了！
+41. [MARKER: Message] 熱血女「
+熱血最棒！
+42. [MARKER: Message] 武器店「
+我的武器是最強的！
+43. [MARKER: Message] 防具店「
+我們家的防具是最棒的唷！
+44. [MARKER: Message] 道具店「
+什麼東西都有喔！

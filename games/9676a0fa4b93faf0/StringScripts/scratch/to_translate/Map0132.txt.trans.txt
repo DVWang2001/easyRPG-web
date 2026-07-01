@@ -1,0 +1,61 @@
+﻿1. [MARKER: Message] イゾウ「
+なっ・・あぶねぇ！！！
+2. [MARKER: Message] イゾウ「
+\S[2]・・・・・・・・。
+3. [MARKER: Message] オスカー「
+\S[2]・・・・・。
+4. [MARKER: Message] オスカー「
+奴等の事だから、大丈夫だとは思うが・・・。
+5. [MARKER: Message] イゾウ「
+・・ちっ・・。
+俺らは先に進むしかねぇか・・。
+6. [MARKER: Message] DANDY「
+えっ・・・・？
+7. [MARKER: Message] イゾウ「
+DANDY！！！？
+8. [MARKER: Message] DANDY「
+\C[5]にえぇぇぇぇーーーーー！！！
+9. [MARKER: Message] チョチョリーナ「
+DANDY様～～～～～～～～～！！！！！$g$g$g
+10. [MARKER: Message] オスカー「
+チョチョリーナ！！！？
+11. [MARKER: Message] ダンダリオン「
+・・来たな・・・。
+12. [MARKER: Message] クロセル「
+世界を滅ぼすというと、いつの時代でも
+強くて優秀な遺伝子をもつ者が、
+わざわざ来てくれる・・。
+13. [MARKER: Message] アラストル「
+それらの遺伝子を取り込んで
+我々は進化してきタ・・・・。
+14. [MARKER: Message] ダンダリオン「
+そして今回の彼等のお陰で、我々は
+更なる高みに行けるだろう・・。
+15. [MARKER: Message] クロセル「
+問題は・・・。
+16. [MARKER: Message] アラストル「
+あの男カ・・・。
+17. [MARKER: Message] ダンダリオン「
+『DANDY』・・・・。
+18. [MARKER: Message] クロセル「
+調査の結果、『DANDY』は異世界で作られた
+アンドロイドと言う事が判明した。
+有機素材で出来ているが、遺伝子は存在しない・・。
+19. [MARKER: Message] ダンダリオン「
+アラストル、『DANDY』の始末は任せる・・。
+20. [MARKER: Message] アラストル「
+\S[2]・・・・・。
+21. [MARKER: Message] クロセル「
+ダンダリオン、新たな侵入をキャッチした・・。
+22. [MARKER: Message] ダンダリオン「
+モニタを回せ・・。
+23. [MARKER: Message] ダンダリオン「
+\S[2]・・・・・・。
+24. [MARKER: Message] ダンダリオン「
+クロセル・・わざわざ侵入して来てくれた
+哀れな者達を・・・。
+25. [MARKER: Message] クロセル「
+\S[2]・・・・。
+26. [MARKER: Message] ダンダリオン「
+\S[2]・・楽しみだ・・。\.
+我等３人を超える存在が完成する時が・・・。

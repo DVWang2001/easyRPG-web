@@ -1,0 +1,35 @@
+/* 個人頁（RM 風：金游標＋深藍底，token 附 inline fallback 以防單獨載入） */
+body { margin:0; color:var(--ink,#eef1ff); min-height:100vh; }
+.pf-top { display:flex; align-items:center; gap:12px; padding:14px 16px;
+  border-bottom:1px solid var(--line,#262c44); }
+.pf-back { color:var(--muted,#8b93bf); text-decoration:none; font-size:14px; }
+.pf-back:hover { color:var(--gold,#f5c542); }
+.pf-title { font-size:18px; font-weight:800; letter-spacing:.03em; }
+.pf-auth { margin-left:auto; font-size:13px; color:var(--muted,#8b93bf); }
+.pf-auth button { border:1px solid var(--chip-line,#2c3350); background:var(--chip,#171c2e);
+  color:#c3c9ea; border-radius:8px; padding:4px 10px; font-size:13px; cursor:pointer; }
+.pf-auth button:hover { border-color:var(--gold,#f5c542); color:var(--ink,#eef1ff); }
+.pf-section { padding:12px 16px; }
+.pf-section h2 { font-size:14px; font-weight:700; letter-spacing:.06em;
+  color:var(--gold,#f5c542); margin:8px 0 12px; }
+.pf-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(110px,1fr));
+  gap:14px; color:var(--muted,#8b93bf); }
+.pf-card { position:relative; display:flex; flex-direction:column; align-items:center;
+  text-decoration:none; color:var(--ink,#eef1ff); }
+/* 金色 ▶ 選取游標，hover/focus 滑入（與首頁卡片一致） */
+.pf-card::before { content:""; position:absolute; left:-13px; top:calc(50% - 24px);
+  width:0; height:0; border-style:solid; border-width:5px 0 5px 9px;
+  border-color:transparent transparent transparent var(--gold,#f5c542);
+  opacity:0; transform:translateX(-7px); pointer-events:none;
+  transition:opacity .15s ease, transform .15s ease; }
+.pf-card:hover::before, .pf-card:focus-visible::before { opacity:1; transform:translateX(0); }
+.pf-card img { width:100%; aspect-ratio:1/1; object-fit:cover; border-radius:12px;
+  background:var(--panel,#141828); border:1px solid var(--line,#262c44);
+  transition:border-color .15s ease, box-shadow .15s ease, transform .15s ease; }
+.pf-card:hover img, .pf-card:focus-visible img { border-color:var(--gold,#f5c542);
+  transform:translateY(-3px); box-shadow:0 10px 24px rgba(0,0,0,.5), 0 0 0 1px var(--gold,#f5c542); }
+.pf-card .pf-name { margin-top:6px; font-size:13px; text-align:center; word-break:break-word; }
+.pf-card .pf-sub { font-size:12px; color:var(--gold,#f5c542); }
+@media (prefers-reduced-motion: reduce) {
+  .pf-card::before, .pf-card img { transition:none; }
+}

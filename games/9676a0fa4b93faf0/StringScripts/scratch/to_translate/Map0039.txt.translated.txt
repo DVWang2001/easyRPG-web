@@ -1,0 +1,12 @@
+﻿1. [MARKER: Message] 市民「
+好窄。
+2. [MARKER: Message] 折扣商店「
+歡迎光臨！
+3. [MARKER: Message] 折扣商店「
+雖然便宜，性能一樣！
+4. [MARKER: Message] 男子「
+任務完成，暫時停止運作……
+5. [MARKER: Message] 
+　　功能停止中，一動也不動。
+6. [MARKER: Message] 安德烈「
+這裡是藥店。

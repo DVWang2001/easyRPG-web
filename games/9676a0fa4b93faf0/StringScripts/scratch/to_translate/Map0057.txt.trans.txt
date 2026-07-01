@@ -1,0 +1,21 @@
+﻿1. [MARKER: Message] DANDY「
+よく来たね、私がDANDYだ。
+2. [MARKER: Message] DANDY「
+キミの望みはなんだい？
+3. [MARKER: Message] イゾウ「
+ちょいと、ツラ貸せや・・。
+4. [MARKER: Message] DANDY「
+なんてコトするんだ！！？
+5. [MARKER: Message] イゾウ「
+うるせぃ！
+6. [MARKER: Message] オスカー「
+よくやった。
+7. [MARKER: Message] オスカー「
+これだけダンディならば
+あの女も言うことを訊くだろう。
+8. [MARKER: Message] イゾウ「
+・・・・・。
+9. [MARKER: Message] オスカー「
+何だ、そのあきれた顔は・・？
+10. [MARKER: Message] イゾウ「
+気のせい・・。

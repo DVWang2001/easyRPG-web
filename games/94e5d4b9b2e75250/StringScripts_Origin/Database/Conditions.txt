@@ -1,0 +1,98 @@
+﻿*****Entry1*****
+#Name# [8]
+気絶
+
+#InflictedOnAlly# [30]
+は気絶した・・・
+
+#InflictedOnEnemy# [30]
+は気絶した・・・
+
+#Recovered# [30]
+は気絶から復帰した！
+
+
+
+*****Entry2*****
+#Name# [8]
+移動
+
+#InflictedOnAlly# [30]
+は移動している
+
+#InflictedOnEnemy# [30]
+------------------------------
+
+#AlreadyInflicted# [30]
+は移動している
+
+#Continuing# [30]
+は移動している
+
+#Recovered# [30]
+は移動を完了した
+
+
+
+*****Entry3*****
+#Name# [8]
+先制攻撃
+
+#InflictedOnAlly# [30]
+はバランスを崩している・・・
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+はバランスを崩している・・・
+
+#Continuing# [30]
+はバランスを崩している・・・
+
+#Recovered# [30]
+はバランスを崩している・・・
+
+
+
+*****Entry4*****
+#Name# [8]
+お休み
+
+#InflictedOnAlly# [30]
+「なんなのよっ 今のはっ！？
+
+#InflictedOnEnemy# [30]
+「なんなのよっ 今のはっ！？
+
+#AlreadyInflicted# [30]
+は激しい振動で行動できなかった
+
+#Continuing# [30]
+は激しい振動で行動できなかった
+
+#Recovered# [30]
+「なんなのよっ 今のはっ！？
+
+
+
+*****Entry5*****
+#Name# [8]
+ぬすみ
+
+#InflictedOnAlly# [30]
+はロケットランチャーを奪った
+
+#InflictedOnEnemy# [30]
+------------------------------
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+はロケットランチャーを奪った
+
+

@@ -1,0 +1,111 @@
+﻿1. [MARKER: Message] 拿破崙「
+奧斯卡，你對現在的法國
+有什麼看法……？
+2. [MARKER: Message] 奧斯卡「
+……您的意思是？
+3. [MARKER: Message] 拿破崙「
+因為瑪麗的任性，人們每天
+光是活下去就竭盡全力了……。
+4. [MARKER: Message] 拿破崙「
+孩子們像流浪狗一樣
+倒在路邊，村民們只能等待死亡……。
+5. [MARKER: Message] 拿破崙「
+我一定要改變這個國家！！
+6. [MARKER: Message] 拿破崙「
+為此……我需要你的幫助……。
+7. [MARKER: Message] 奧斯卡「
+……誒……？
+8. [MARKER: Message] 拿破崙「
+……你會幫我的吧……？
+9. [MARKER: Message] 奧斯卡「
+\.……\.……\.……是的$g
+10. [MARKER: Message] 奧斯卡「
+拿破崙大人……我有事想問您……。
+11. [MARKER: Message] 拿破崙「
+什麼事……？\|
+……那邊的那些人，是你的朋友嗎？
+12. [MARKER: Message] 奧斯卡「
+您知道一個叫作「流漸」的男人嗎？
+13. [MARKER: Message] 拿破崙「
+……那又怎麼了？
+14. [MARKER: Message] 奧斯卡「
+有人說您今天殺了那個男人，這……
+一定是騙人的吧！！！？
+15. [MARKER: Message] 拿破崙「
+……是誰……在胡說八道……？
+16. [MARKER: Message] 奧斯卡「
+果然是假的對吧！！
+……太好了……。
+17. [MARKER: Message] 拿破崙「
+那當然是騙人的啦……\^
+18. [MARKER: Message] 以藏「
+奧斯卡！！
+19. [MARKER: Message] 奧斯卡「
+拿破崙大人……！！？
+20. [MARKER: Message] 以藏「
+喔喔喔喔喔喔喔喔……！？
+21. [MARKER: Message] 拿破崙「
+哈哈哈哈哈哈哈————！！！
+那傢伙早就被轟到時空的彼端去了！！！！！
+22. [MARKER: Message] 拿破崙「
+喂，JOKER！！！
+殺了這幫傢伙！！！
+23. [MARKER: Message] 拿破崙「
+給我把那台行動電腦摧毀掉！！！！
+24. [MARKER: Message] 奧斯卡「
+以藏……。
+25. [MARKER: Message] 奧斯卡「
+我們去北邊的巴士底監獄吧……。
+26. [MARKER: Message] 丹迪「
+我記得那裡應該有士兵駐守吧……。
+27. [MARKER: Message] 喬喬莉娜「
+用我的魔法把他們燒成焦炭也行啦……\.\^
+28. [MARKER: Message] 丹迪「
+不可以這樣做。
+29. [MARKER: Message] 奧斯卡「
+……總……總之先去北邊吧。
+30. [MARKER: Message] JOKER「
+……遵命……。
+31. [MARKER: Message] 奧斯卡「
+拿破崙大人……。
+這是假的吧………………。
+32. [MARKER: Message] 拿破崙「
+你只不過是一顆棄子而已啦……。
+33. [MARKER: Message] JOKER「
+喔……DANDY。
+好久不見了呢……。
+34. [MARKER: Message] DANDY「
+別叫得那麼親熱……！！ JOKER！！！
+35. [MARKER: Message] DANDY「
+呵呵呵……我馬上就送你去陪那個叫以藏的傢伙……。
+36. [MARKER: Message] ？？？？「
+我可不會讓你們得逞的！！！！
+37. [MARKER: Message] 安德烈「
+剛才的話……我都聽到了！！！
+38. [MARKER: Message] 拿破崙「
+在哪裡聽到的？
+39. [MARKER: Message] 安德烈「
+\C[5]你們這群傢伙，點燃了我的怒火！！
+嘗嘗我的憤怒吧！！！！
+40. [MARKER: Message] JOKER「
+區區一個存檔點風情的人……！！
+死吧！！！！！
+41. [MARKER: Message] 拿破崙「
+撤退！！！
+42. [MARKER: Message] 安德烈「
+以藏還活著喔……。
+一定……。
+43. [MARKER: Message] 奧斯卡「
+………………………………………………。
+44. [MARKER: Message] 安德烈「
+我接下來要踏上旅程了……。
+我一定會把以藏帶回來的！！
+45. [MARKER: Message] 安德烈「
+各位請潛入巴士底監獄吧。\.
+為了不讓拿破崙他們逃掉。
+46. [MARKER: Message] 奧斯卡「
+巴士底監獄裡……
+到底有著什麼……？
+47. [MARKER: Message] 安德烈「
+那請用你自己的雙眼去確認吧……
+你一定能在那裡找到關於拿破崙的蛛絲馬跡的。

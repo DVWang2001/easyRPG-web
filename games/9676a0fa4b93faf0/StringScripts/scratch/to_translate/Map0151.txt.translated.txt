@@ -1,0 +1,30 @@
+﻿1. [MARKER: Message] 售票員「
+我們這裡目前正在發售
+前往英國的船票。
+2. [MARKER: Message] 售票員「
+船票的價格是 50 D。
+請問您要購買嗎？
+3. [MARKER: Message] 售票員「
+那麼，請收下您的船票。
+4. [MARKER: Message] 
+　　　　　　　獲得了乘船票！
+5. [MARKER: Message] 售票員「
+船馬上就要出發了，請您抓緊時間。
+6. [MARKER: Message] 售票員「
+您的持有金好像不夠呢……。
+7. [MARKER: Message] 售票員「
+期待您的再次光臨。
+8. [MARKER: Message] 售票員「
+期待您的再次光臨。
+9. [MARKER: Message] 售票員「
+您似乎已經持有船票了呢。\.
+非常感謝您的購買。
+10. [MARKER: Message] 售票員「
+目前沒有開往英國的船隻，
+所以目前暫不售票。
+敬請見諒。
+11. [MARKER: Message] 售票員「
+目前英國那邊已經不允許任何船隻入港了。
+12. [MARKER: Message] 男子「
+我過一陣子要去英國出差呢……。
+聽說那邊規模很大，不知道安不安全啊……。

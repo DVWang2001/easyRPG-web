@@ -1,0 +1,64 @@
+﻿1. [MARKER: Message] 以藏「
+前面看起來像是地下牢房呢……。
+2. [MARKER: Message] 喬喬莉娜「
+地下牢房很臭耶，\.我才不要呢$g
+3. [MARKER: Message] 警備員「
+有何貴幹？
+4. [MARKER: Message] 喬喬莉娜「
+我們是來拿這個國家的超弩級軍事戰艦的喔$g
+5. [MARKER: Message] 警備員「
+喔……波坦金號啊……。
+6. [MARKER: Message] 警備員「
+那麼，請往這邊走……。
+7. [MARKER: Message] 警備員「
+你們這幫傢伙！！！？
+8. [MARKER: Message] 警備員「
+有何貴幹？
+9. [MARKER: Message] 喬喬莉娜「
+我們是來拿這個國家的超弩級軍事戰艦的喔$g
+10. [MARKER: Message] 警備員「
+喔……波坦金號啊……。
+11. [MARKER: Message] 警備員「
+那麼，請往這邊走……。
+12. [MARKER: Message] 警備員「
+你們這幫傢伙！！！？
+13. [MARKER: Message] 警備員「
+站住！！！
+14. [MARKER: Message] 警備員「
+到前面去，是有何貴幹！？
+15. [MARKER: Message] 喬喬莉娜「
+我們是來拿這個國家的超弩級軍事戰艦的喔$g
+16. [MARKER: Message] 警備員「
+喔……波坦金號啊……。
+17. [MARKER: Message] 警備員「
+那麼，請往這邊走……。
+18. [MARKER: Message] 警備員「
+你們這幫傢伙！！！？
+19. [MARKER: Message] 警備員「
+站住！！！
+20. [MARKER: Message] 警備員「
+到前面去，是有何貴幹！？
+21. [MARKER: Message] 喬喬莉娜「
+我們是來拿這個國家的超弩級軍事戰艦的喔$g
+22. [MARKER: Message] 警備員「
+喔……波坦金號啊……。
+23. [MARKER: Message] 警備員「
+那麼，請往這邊走……。
+24. [MARKER: Message] 警備員「
+你們這幫傢伙！！！？
+25. [MARKER: Message] 
+　　　　　　　　上鎖了，打不開。
+26. [MARKER: Message] 
+　　　　　　　　　　　水量管理室
+27. [MARKER: Message] 警備員「
+統領被打倒了……！！？
+快逃啊————！！！
+28. [MARKER: Message] 警備員「
+統領被打倒了……！！？
+快逃啊————！！！
+29. [MARKER: Message] 警備員「
+統領被打倒了……！！？
+快逃啊————！！！
+30. [MARKER: Message] 警備員「
+統領被打倒了……！！？
+快逃啊————！！！

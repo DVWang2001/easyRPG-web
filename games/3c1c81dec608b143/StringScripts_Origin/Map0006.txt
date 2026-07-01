@@ -1,0 +1,165 @@
+﻿**********Event1**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+お花ニャ。
+##
+
+
+#Message#
+か～わいい～から
+摘んでくニャ～♪
+##
+
+
+#Message#
+ニャっと
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+妖怪かもしれぬぞ。
+ほれ、べよ～んという音と共に･･･
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ニャ？！　ニャ？！
+##
+
+
+#Message#
+･･････おっ、おどかすニャっ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\S[2]･･････
+\S[1]そなた、自分が妖怪だという意識が
+薄いな。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ほ、ほっといてニャ！
+##
+
+
+
+
+**********Event3**********
+-----Page2-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+狭い通りニャ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+縦に並んで歩けば通れるだろう。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.お主先に行ってニャ。
+##
+
+
+
+-----Page3-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ゆ、ゆっくり歩いてニャ。
+##
+
+
+
+
+**********Event16**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]･･････ん？
+##
+
+
+#Message#
+\.･･････。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+何ニャ？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.･･･同行メンバーが
+１人増えているようなのだが。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.？？？
+##
+
+
+#Message#
+\.なんニャ？コレ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ブニャ～～～～～～～～～～～～！！！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ふに。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+そなた
+\.挟まったり 絡まったり
+巻き付かれたり 忙しいな。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.･･････悪かったニャ。
+##
+
+
+
+

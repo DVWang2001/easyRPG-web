@@ -1,0 +1,14 @@
+*****Entry1*****
+#Name# [20]
+毒攻擊
+
+#Description# [50]
+對敵方單體造成傷害，並使其陷入中毒狀態。
+
+#UseMessage1# [30]
+的攻擊！
+
+#UseMessage2# [50]
+
+
+

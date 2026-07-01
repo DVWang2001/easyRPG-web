@@ -1,0 +1,160 @@
+﻿1. [MARKER: Message] イゾウ「
+流漸・・ここは一体・・。
+2. [MARKER: Message] 流漸「
+おお、お前等か。
+3. [MARKER: Message] 流漸「
+思う様驚くがいい！！\.　何と俺は１日にして
+ネオ＝ジャパンを巨大飛空艇に改造したのだ！\.
+これでアメリカに突入出来るぞ！！
+4. [MARKER: Message] 流漸「
+\C[11]主砲は反陽子レーザーを採用！！　
+そしてボディには、自己再生能力のある
+高級有機素材をふんだんに使った！
+5. [MARKER: Message] 流漸「
+\C[11]更に内部は俺が組み上げたコンピューターでの
+完全環境制御を実現！！
+6. [MARKER: Message] 流漸「
+\C[11]極めつけは、エンジンに
+クリーンで、しかも高出力な
+反物質エンジンを搭載した！！
+7. [MARKER: Message] 流漸「
+\S[2]・・・\S[1]だが、問題はそのエンジンの燃料である
+反物質が無いことだな・・。
+8. [MARKER: Message] チョチョリーナ「
+全然駄目じゃない$g
+9. [MARKER: Message] DANDY「
+\S[2]反物質か・・・。\S[1]\.
+私にも心当たりがある・・。
+10. [MARKER: Message] オスカー「
+本当か！！？
+11. [MARKER: Message] DANDY「
+\S[2]・・あぁ・・。
+12. [MARKER: Message] 流漸「
+メビウスブレイドは見つかったか？
+13. [MARKER: Message] イゾウ「
+アンタの望みどおり
+メビウスブレイドを持ってきたぜ。
+14. [MARKER: Message] 流漸「
+おぉ、戻ってきたか。意外に早かったな。
+15. [MARKER: Message] イゾウ「
+・・で、\.これで良いのか？
+16. [MARKER: Message] 流漸「
+\S[3]ん～～・・\S[2]調べてみないと解らないが・・。\.
+\S[1]ちょっと待っててくれ、\.すぐに終わる。
+17. [MARKER: Message] 流漸「
+これは紛れも無く、反物質だ！！
+18. [MARKER: Message] イゾウ「
+\>早いな！！\<
+19. [MARKER: Message] 流漸「
+これでアメリカに突入出来るぞ！！
+最早、こちらの準備は完了している！！
+用意が出来たら、声をかけてくれ！
+20. [MARKER: Message] 
+イゾウが装備していたメビウスブレイドが外されました
+　　　　他の武器を装備しなおしてください。
+21. [MARKER: Message] 流漸「
+準備は万全か？
+22. [MARKER: Message] イゾウ「
+いいぜ流漸。\.アメリカへ向かってくれ！！
+23. [MARKER: Message] 流漸「
+オーケー！
+24. [MARKER: Message] 流漸「
+Windoms Re！！　\.発進準備！！
+25. [MARKER: Message] ＯＳ「
+了解！！
+26. [MARKER: Message] ＯＳ「
+エンジン出力５０％。
+いつでも発進できます！
+27. [MARKER: Message] 流漸「
+イゾウ、発進号令を・・。
+28. [MARKER: Message] イゾウ「
+俺が言うのか！？
+29. [MARKER: Message] オスカー「
+頼んだ、イゾウ。
+30. [MARKER: Message] イゾウ「
+\S[2]ネオ＝ジャパン号・・・\.
+\>\C[5]発進！！！！！\<
+31. [MARKER: Message] ＯＳ「
+了解！！！！
+32. [MARKER: Message] 流漸「
+いつでもいいから声をかけてくれ。
+33. [MARKER: Message] 流漸「
+何かわかったか？
+34. [MARKER: Message] 
+ 　　イゾウはイゾウの村で聞いたことを話した。
+35. [MARKER: Message] 流漸「
+ほォ・・この大陸北東部か。\.
+Re、位置を検索してくれ。
+36. [MARKER: Message] ＯＳ「
+了解。
+37. [MARKER: Message] ＯＳ「
+アメリカ大陸北東部にて、大規模な時空の歪みを検知。
+敵の本拠地と思われます。
+38. [MARKER: Message] 流漸「
+なかなか時間がかかったな・・。
+\.おそらく強化されたＤＳフィールドで
+隠蔽しているんだろう。
+39. [MARKER: Message] 流漸「
+どうだ？　本艦の装甲強度で突入出来そうか？
+40. [MARKER: Message] ＯＳ「
+五分五分と言った所ですね。
+41. [MARKER: Message] 流漸「
+だそうだ、どうする？\.
+おそらく突入した時点で、後戻りは出来ないだろう。
+42. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] イゾウ「
+43. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] イゾウ「
+愚問だな、突撃だ。
+44. [MARKER: Message] [FACE: Erase] オスカー「
+ココまできて、後には引けまい。
+45. [MARKER: Message] [FACE: Erase] DANDY「
+右に同じ。
+46. [MARKER: Message] [FACE: Erase] チョチョリーナ「
+チョチョリーナはDANDY様について行きますわ$g$g
+47. [MARKER: Message] [FACE: Erase] 流漸「
+\S[2]・・・\>よし！\<\.\S[1]
+Windoms Re！　シールド全開で突撃だ！！\.
+接触した瞬間、主砲の一斉放火でバリアに穴を開ける！
+48. [MARKER: Message] [FACE: Erase] ＯＳ「
+了解！
+49. [MARKER: Message] [FACE: Erase] イゾウ「
+最後の戦いだ。\.準備を万全にしてからにするぜ！
+50. [MARKER: Message] [FACE: Erase] 流漸「
+そうか、敵さんも
+いつまでも待っているわけじゃないからな。\.
+出来るだけ早く準備を整えてくれよ。
+51. [MARKER: Message] [FACE: Erase] 流漸「
+準備は出来たか？
+52. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] イゾウ「
+53. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] イゾウ「
+もう、やるだけのコトはやったぜ！
+行ってくれ、流漸！
+54. [MARKER: Message] [FACE: Erase] オスカー「
+ココまできて、後には引けまい。
+55. [MARKER: Message] [FACE: Erase] DANDY「
+右に同じ。
+56. [MARKER: Message] [FACE: Erase] チョチョリーナ「
+チョチョリーナはDANDY様について行きますわ$g$g
+57. [MARKER: Message] [FACE: Erase] 流漸「
+\S[2]・・・\>よし！\<\.\S[1]
+Windoms Re！　シールド全開で突撃だ！！\.
+接触した瞬間、主砲の一斉放火でバリアに穴を開ける！
+58. [MARKER: Message] [FACE: Erase] ＯＳ「
+了解！
+59. [MARKER: Message] [FACE: Erase] イゾウ「
+まだ万全じゃない・・。
+60. [MARKER: Message] [FACE: Erase] 流漸「
+そうか、敵さんも
+いつまでも待っているわけじゃないからな。\.
+出来るだけ早く準備を整えてくれよ。
+61. [MARKER: Message] [FACE: Erase] 鮎「
+す・・凄いところだな・・。\.
+こんなモノがこの大陸にあったのか・・？
+62. [MARKER: Message] [FACE: Erase] 男「
+アンタ等がメビなんたらを手に入れている間に
+そこの流漸って人は、世界各国から
+人材を集めたらしいな。
+63. [MARKER: Message] [FACE: Erase] 男「
+俺もその一人だけどな。
+64. [MARKER: Message] [FACE: Erase] 男「
+他の人は、地下都市にいるから
+会いに行ってもいいんじゃないか？

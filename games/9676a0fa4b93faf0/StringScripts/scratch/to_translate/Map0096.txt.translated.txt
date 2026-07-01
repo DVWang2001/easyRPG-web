@@ -1,0 +1,55 @@
+﻿1. [MARKER: Message] 老爺爺「
+看著池塘，心情就放鬆下來了呢～。
+2. [MARKER: Message] 耕田的男子「
+正在耕地中。
+3. [MARKER: Message] 牧牛人「
+一股牛屎味。
+4. [MARKER: Message] 村姑「
+真是個鄉下地方呢～～。
+5. [MARKER: Message] 老頭子A「
+這個村子終於恢復了一些活力呢～。
+6. [MARKER: Message] 老頭子B「
+是啊～
+7. [MARKER: Message] 老頭子C「
+因為14年前那場浩劫實在是太慘烈了嘛～
+8. [MARKER: Message] 老頭子D「
+好想喝茶喔。
+9. [MARKER: Message] 老頭子A「
+這個村子終於恢復了一些活力呢～。
+10. [MARKER: Message] 老頭子B「
+是啊～
+11. [MARKER: Message] 老頭子C「
+因為14年前那場浩劫實在是太慘烈了嘛～
+12. [MARKER: Message] 老頭子D「
+好想喝茶喔。
+13. [MARKER: Message] 老頭子A「
+這個村子終於恢復了一些活力呢～。
+14. [MARKER: Message] 老頭子B「
+是啊～
+15. [MARKER: Message] 老頭子C「
+因為14年前那場浩劫實在是太慘烈了嘛～
+16. [MARKER: Message] 老頭子D「
+好想喝茶喔。
+17. [MARKER: Message] 老頭子A「
+這個村子終於恢復了一些活力呢～。
+18. [MARKER: Message] 老頭子B「
+是啊～
+19. [MARKER: Message] 老頭子C「
+因為14年前那場浩劫實在是太慘烈了嘛～
+20. [MARKER: Message] 老頭子D「
+好想喝茶喔。
+21. [MARKER: Message] 老奶奶「
+這個村子在14年前被盜賊襲擊了呢～，
+當時戰死的年輕人們，現在就沉睡在這座墓碑下面喔……。
+22. [MARKER: Message] 村婦「
+住在對面帳篷裡的人，
+聽說是一位很厲害的格鬥家呢。
+但為什麼要住帳篷啊……。
+23. [MARKER: Message] 村姑「
+沒想到你會來這種偏僻的地方呢……。
+24. [MARKER: Message] 村姑「
+……？ 
+你的眼睛……是紅色的呢。
+25. [MARKER: Message] 村姑「
+唔～……我總覺得
+好像在哪裡見過紅色眼睛的人呢～……。

@@ -1,0 +1,6 @@
+﻿1. [MARKER: Message] 
+　　　　　　　　　正門の扉を開けた！
+2. [MARKER: Message] 
+　　　　　　　　　正門の扉を開けた！
+3. [MARKER: Message] 
+　　　　　　　　　正門の扉を開けた！

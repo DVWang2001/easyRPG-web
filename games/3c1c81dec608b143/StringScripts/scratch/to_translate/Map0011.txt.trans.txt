@@ -1,0 +1,189 @@
+﻿1. [MARKER: Message] [FACE: Ｆタマ] 姫さんっ。
+2. [MARKER: Message] [FACE: Ｆ狐姫] \S[2]･････････
+3. [MARKER: Message] [FACE: Ｆ狐姫] \.ほう。
+4. [MARKER: Message] [FACE: Ｆ狐姫] \.･･･そなた
+ミケをを人質に ここまで来るとは
+なかなかやるな。
+5. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+6. [MARKER: Message] [FACE: Ｆタマ] \.姫さん
+人質になったわけじゃないニャ
+･････････というか
+7. [MARKER: Message] [FACE: Ｆタマ] \.その前に
+「ミケ」じゃなくて「タマ」･･･\.ニャ$d
+8. [MARKER: Message] [FACE: Ｆタマ] \.･･･オイラの名前
+そんなに覚えにくいニャ？
+9. [MARKER: Message] [FACE: Ｆ狐姫] \.ここには誰も連れてくるなと
+言っておいたはずだが。
+10. [MARKER: Message] [FACE: Ｆタマ] \.ごめんニャ。
+
+11. [MARKER: Message] [FACE: Ｆタマ] でも、こ奴
+なんかワケありみたいニャ。
+姫さんに話がしたいだけって
+言うから･･･
+12. [MARKER: Message] [FACE: F鞍春] \S[2]そなた･･････
+\.\S[1]相馬春信を 知っているな。
+13. [MARKER: Message] [FACE: Ｆ狐姫] \.\S[2]相馬･･････
+14. [MARKER: Message] [FACE: Ｆ狐姫] ･･････
+そなた、なぜ相馬のことを･･････
+15. [MARKER: Message] [FACE: F鞍春] \.\.相馬はもう、永くない。
+16. [MARKER: Message] [FACE: F鞍春] \.会いに行ってやってほしい。
+17. [MARKER: Message] [FACE: Ｆ狐姫] \S[2]･････････
+18. [MARKER: Message] [FACE: Ｆ狐姫] \.\.断る。
+19. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+20. [MARKER: Message] [FACE: F鞍春] \.それは･･･
+21. [MARKER: Message] [FACE: Ｆ狐姫] \.理由など
+おまえら人間に話したところで
+何一つ理解できまい。
+22. [MARKER: Message] [FACE: F鞍春] \.相馬に裏切られたからでは
+\.･･････ないのか。
+23. [MARKER: Message] [FACE: Ｆ狐姫] ･･････
+24. [MARKER: Message] [FACE: Ｆ狐姫] \.知っているなら
+余計なことを聞くな。
+25. [MARKER: Message] [FACE: Ｆ狐姫] 今なら見逃してやる。
+とっとと去れ。
+26. [MARKER: Message] [FACE: F鞍春] 待て。
+\.そなたは誤解しているのだ。
+27. [MARKER: Message] [FACE: Ｆタマ] 姫さん。
+聞いてやって欲しいニャ。
+28. [MARKER: Message] [FACE: Ｆタマ] こ奴
+無愛想で 態度がでかくて
+さらに物覚えが悪いけど
+29. [MARKER: Message] [FACE: Ｆタマ] オイラのこと助けてくれたし
+\.悪い奴ではなさそうニャ。
+30. [MARKER: Message] [FACE: F鞍春] \S[2]･･････$d
+私はそんな風に見えるのか？
+31. [MARKER: Message] [FACE: Ｆタマ] \.その 相馬という奴は
+姫さんの知り合いなんニャ？
+32. [MARKER: Message] [FACE: Ｆ狐姫] \.タマ。
+33. [MARKER: Message] [FACE: Ｆ狐姫] それ以上口を開けば
+そなたも斬るぞ。
+34. [MARKER: Message] [FACE: Ｆタマ] \.っモゴ。
+35. [MARKER: Message] [FACE: F鞍春] \S[2]･････････
+36. [MARKER: Message] [FACE: F鞍春] \.短気で人の話を聞かぬところは
+相馬そっくりだな。
+37. [MARKER: Message] [FACE: F鞍春] \.似たもの同士が
+惹かれ合うというのは
+人にも狐にも当てはまるらしい。
+38. [MARKER: Message] [FACE: Ｆ狐姫] \.\S[2]･････････
+39. [MARKER: Message] [FACE: Ｆ狐姫] \.どうしても
+相手になって欲しいようだな。
+40. [MARKER: Message] [FACE: Ｆ狐姫] よい、太刀を抜け！
+41. [MARKER: Message] [FACE: Ｆタマ] \.チョ、チョット待ってニャ！
+42. [MARKER: Message] [FACE: Ｆタマ] ････････････････････
+････････････････････
+43. [MARKER: Message] [FACE: Ｆタマ] ･･････
+44. [MARKER: Message] [FACE: Ｆタマ] ･･････あ、アレ？
+45. [MARKER: Message] [FACE: Ｆタマ] ･･････闘うの\.やめたのニャ？
+46. [MARKER: Message] [FACE: F鞍春] \.そなた･･･
+\.急に大願面になるな、タマ。
+47. [MARKER: Message] [FACE: Ｆタマ] だから、
+タマじゃなくって～～～･･････
+48. [MARKER: Message] [FACE: Ｆタマ] \.\S[5]････････････
+49. [MARKER: Message] [FACE: Ｆタマ] \.アレ？\.･･･タマニャ。
+あってるニャ。
+50. [MARKER: Message] [FACE: Ｆ狐姫] \S[2]･････････。
+51. [MARKER: Message] [FACE: Ｆ狐姫] \.そなた･･････
+52. [MARKER: Message] [FACE: Ｆ狐姫] \.ただの人間のくせに
+なぜ狐火を放つことが出来る？
+53. [MARKER: Message] [FACE: Ｆタマ] \.狐火？
+54. [MARKER: Message] [FACE: Ｆ狐姫] \.いや、その前に･･･
+55. [MARKER: Message] [FACE: Ｆ狐姫] \.なぜ、私と相馬春信のことを
+知っている？！
+56. [MARKER: Message] [FACE: F鞍春] 　\S[2]･････････。
+57. [MARKER: Message] [FACE: Ｆ狐姫] \.？！
+58. [MARKER: Message] [FACE: Ｆ狐姫] \.そなた、顔をよく見せろ！
+59. [MARKER: Message] [FACE: Ｆ狐姫] \S[2]････････････････････････････････
+････････････････････････････････
+60. [MARKER: Message] [FACE: F鞍春] \S[5]･････････\.$d
+61. [MARKER: Message] [FACE: Ｆタマ] \.ひ、\.姫さん？$d
+62. [MARKER: Message] [FACE: Ｆ狐姫] \S[2]････････････そなた
+63. [MARKER: Message] [FACE: Ｆ狐姫] \S[3]･･････鞍春か？
+64. [MARKER: Message] [FACE: F鞍春] \.･････････。
+65. [MARKER: Message] [FACE: F鞍春] \.･･････いかにも。
+66. [MARKER: Message] [FACE: F鞍春] \.私の顔を思い出すのに
+随分と時間がかかったものだな
+67. [MARKER: Message] [FACE: F鞍春] \S[2]･･････母上･･････
+68. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.･･･\.お。
+69. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.美味そうな狐が引っかかってるな。
+70. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.おいおい、ウソだって。
+\.そんなに暴れるなよ。
+71. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.私は猟師ではないし
+\.狐を食うという趣味もない･･･
+72. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.･･･って言っても、
+\.狐に言葉はわからないか。
+73. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.罠をはずしてやるから
+待っていろ。
+74. [MARKER: Message] [FACE: Ｆ春信] よし。はずれたぞ。
+75. [MARKER: Message] [FACE: Ｆ狐] \.･･････。
+76. [MARKER: Message] [FACE: Ｆ春信] \.怪我も大したことなさそうだ。
+77. [MARKER: Message] [FACE: Ｆ春信] \.良かったな。
+78. [MARKER: Message] [FACE: Ｆ狐] \.･･････。
+79. [MARKER: Message] [FACE: Ｆ春信] \S[2]･･････うむ。
+\.\S[1]しかし惜しいな。
+80. [MARKER: Message] [FACE: Ｆ春信] \.これが鶴だったら
+美女が恩返しに来たんだろうにな。
+81. [MARKER: Message] [FACE: Ｆ狐] ･･･\.･･･\.$d
+82. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]罠をはずしてくれたその男が
+そなたの父･･･
+83. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\S[2]\C[17]相馬春信だった･･････
+84. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]どうしてあの時･･･
+85. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]人と狐の垣根を超えてまで
+86. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]その男に
+また会いたいと思ったのだろうか･･･
+87. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]私は
+88. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]人の姿に変化すると
+偶然を装って、春信に近づいた･･･
+89. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\C[17]\S[2]私はただ、春信に
+　　　　　　もう一度会いたかっただけだった･･･
+90. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\C[17]\S[2]だが思いもよらず
+　　　　　　私と春信は互いに惹かれ合い
+91. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\C[17]\S[2]春信の家の者たちの反対を
+　　　　　　押し切る形で
+　　　　　　一緒に暮らし始めることになった･･･
+92. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]本来の姿は狐でありながら
+人として日々暮らしてゆくことは
+並大抵のことではない
+93. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]それでも
+そんな生活が幸せだと感じたのは
+94. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]春信と
+後に生まれたおまえが
+\.いつもそこにいたからだ･･････
+95. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\C[17]\S[2]だが
+96. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\C[17]\S[2]そんな生活が
+　　　　　　長く続くはずもなかった･･･
+97. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] さぁ、妖怪狐め！
+痛い目に遭いたくなければ
+とっととここを出て行け！
+98. [MARKER: Message] [FACE: Ｆ狐姫] 春信･･････
+春信はどこだ！
+99. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] ここにはおらぬわ！
+100. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] そなたが化け狐と知って
+鞍春と共にとうに屋敷を去っておる。
+101. [MARKER: Message] [FACE: Ｆ狐姫] \.なんだと･･･
+102. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]あの子供･･････鞍春は･･･
+103. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 妖怪狐の生んだ子など
+育てるにも値せぬが･･････
+104. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] それでもあの子は
+春信の子にも違いない。
+105. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]口惜しいが･･････
+私にとってもかわいい孫じゃ。
+106. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 子供には罪はなかろうて
+我々が引き取る！
+107. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] よいな！
+わかったら
+さっさと立ち去るのだ！
+108. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]･･････春信が･･･
+私を裏切った･･････？？
+109. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]私が･･････
+私が狐であると知って･･････
+110. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]確かに･･････
+111. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]いつまでも
+112. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]ずっと一緒にいられるなんて
+私も思ってはいなかった･･････
+113. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]しかし
+114. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]鞍春という
+子供までなした私を
+まさか
+115. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]春信が
+こんな形で裏切ってくれようとは
+想像もしていなかった！

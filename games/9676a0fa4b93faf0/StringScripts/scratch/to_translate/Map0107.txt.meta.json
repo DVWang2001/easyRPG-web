@@ -1,0 +1,30 @@
+[
+  {
+    "idx": 1,
+    "face": null,
+    "start_line_idx": 2,
+    "end_line_idx": 5,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 2,
+    "face": null,
+    "start_line_idx": 18,
+    "end_line_idx": 21,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 3,
+    "face": null,
+    "start_line_idx": 34,
+    "end_line_idx": 37,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 4,
+    "face": null,
+    "start_line_idx": 50,
+    "end_line_idx": 53,
+    "num_content_lines": 2
+  }
+]

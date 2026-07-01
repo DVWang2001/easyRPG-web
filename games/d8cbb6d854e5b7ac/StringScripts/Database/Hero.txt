@@ -1,0 +1,95 @@
+*****Entry1*****
+#Name# [12]
+卡因
+
+#Title# [12]
+劈柴少年
+
+#SkillCommand# [10]
+必殺技
+
+
+
+*****Entry2*****
+#Name# [12]
+瑪莉安
+
+#Title# [12]
+鐵匠的女兒
+
+#SkillCommand# [10]
+必殺技
+
+
+
+*****Entry3*****
+#Name# [12]
+綺沙羅
+
+#Title# [12]
+魔法師
+
+#SkillCommand# [10]
+魔法
+
+
+
+*****Entry4*****
+#Name# [12]
+尤莉亞
+
+#Title# [12]
+神官
+
+#SkillCommand# [10]
+魔法
+
+
+
+*****Entry5*****
+#Name# [12]
+阿妮特
+
+#Title# [12]
+狩人
+
+#SkillCommand# [10]
+必殺技
+
+
+
+*****Entry6*****
+#Name# [12]
+洛卡
+
+#Title# [12]
+採藥草少女
+
+#SkillCommand# [10]
+召還
+
+
+
+*****Entry7*****
+#Name# [12]
+莉莉
+
+#Title# [12]
+發明家
+
+#SkillCommand# [10]
+科學
+
+
+
+*****Entry8*****
+#Name# [12]
+阿妮特
+
+#Title# [12]
+狩人
+
+#SkillCommand# [10]
+必殺技
+
+

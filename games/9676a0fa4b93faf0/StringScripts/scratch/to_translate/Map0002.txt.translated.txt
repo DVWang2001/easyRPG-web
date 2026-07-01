@@ -1,0 +1,149 @@
+﻿1. [MARKER: Message] 以藏「
+公會在這裡往西吧。
+2. [MARKER: Message] 這裡是拿破崙的家。
+3. [MARKER: Message] 戰士「
+真是個破敗的城鎮啊～
+4. [MARKER: Message] 戰士「
+咦，那個常來的傢伙不在了啊。
+5. [MARKER: Message] 戰士「
+不管是義賊還是怪盜，
+讓可疑的傢伙在這裡亂晃，
+守衛也太鬆懈了吧……
+6. [MARKER: Message] 旅人「
+一個人旅行好孤單啊。
+7. [MARKER: Message] \N[1]「
+……是嗎……
+8. [MARKER: Message] 旅人「
+要我陪你一起嗎？
+9. [MARKER: Message] 旅人「
+騙你的。
+10. [MARKER: Message] 旅人「
+……這樣啊……
+11. [MARKER: Message] 旅人「
+我什麼時候才能離開這裡去旅行呢……
+12. [MARKER: Message] 奧斯卡「
+那種事我哪知道……
+13. [MARKER: Message] 旅人「
+里德·艾倫就是那個人對吧？
+就是那種義賊。
+我也好想見見他。
+14. [MARKER: Message] 士兵「
+此處是巴士底監獄。
+無事者禁止入內！
+15. [MARKER: Message] 士兵「
+此處是巴士底監獄。
+無事者禁止入內！
+16. [MARKER: Message] 丹迪「
+……唔，入口看來只有這裡……
+要怎麼進去呢……
+17. [MARKER: Message] 奧斯卡「
+說起來……我家的侍從
+說怪盜里德·艾倫就在這個凡爾賽，
+最近還提到……
+18. [MARKER: Message] 奧斯卡「
+也許他還在這個城鎮裡……
+要說進入這裡的方法，
+那傢伙也許知道些什麼。
+19. [MARKER: Message] 喬喬莉娜「
+那就把那個里德·艾倫
+找出來，好好修理一頓就行啦$g
+去找他吧$g$g
+20. [MARKER: Message] 奧斯卡「
+……也不必做到那個程度……
+21. [MARKER: Message] 士兵「
+此處是巴士底監獄。
+無事者禁止入內！
+22. [MARKER: Message] 士兵「
+此處是巴士底監獄。
+無事者禁止入內！
+23. [MARKER: Message] 士兵「
+呼～，站崗好累啊～
+24. [MARKER: Message] 女僕「
+奧斯卡大人在家裡呢。
+25. [MARKER: Message] 女僕「
+奧斯卡大人，一路順風。
+26. [MARKER: Message] 奧斯卡「
+嗯，家裡就拜託你了。
+27. [MARKER: Message] 女僕「
+奧斯卡大人，您回來了。
+28. [MARKER: Message] 女僕「
+裡面的同事說見過里德·艾倫……
+奧斯卡大人，要不要找她問問？
+29. [MARKER: Message] 士兵「
+你……你們……！到底從哪裡進來的……！？
+30. [MARKER: Message] 士兵「
+哈……
+31. [MARKER: Message] 
+　　　　　　　　士兵已昏迷。
+32. [MARKER: Message] 男子「
+冒險者公會就在這裡。
+33. [MARKER: Message] 黑衣男子「
+……別靠近我……
+34. [MARKER: Message] 里德·艾倫「
+……幹什麼！？
+35. [MARKER: Message] 貓「
+……你看什麼看！！
+36. [MARKER: Message] 士兵「
+這裡是監獄都市凡爾賽。
+37. [MARKER: Message] 以藏「
+得去奧斯卡那裡才行……
+38. [MARKER: Message] 以藏「
+得去奧斯卡那裡才行……
+39. [MARKER: Message] 以藏「
+得去奧斯卡那裡才行……
+40. [MARKER: Message] 以藏「
+得去奧斯卡那裡才行……
+41. [MARKER: Message] 以藏「
+得去奧斯卡那裡才行……
+42. [MARKER: Message] 以藏「
+得去奧斯卡那裡才行……
+43. [MARKER: Message] 士兵「
+每次值勤都在想……
+從這裡往上的巴士底監獄……
+蓋在城鎮中間，這樣真的沒問題嗎……
+44. [MARKER: Message] 士兵「
+所以才被叫做監獄都市啊……
+我也是這裡出身的……
+感覺就是……
+45. [MARKER: Message] 士兵「
+里德·艾倫……？
+怪盜要是在這種地方亂晃，
+早就被我們抓起來了吧……
+46. [MARKER: Message] 奧斯卡「
+嗯，那是……？
+47. [MARKER: Message] 奧斯卡「
+那就是……以前我家侍從提到的
+里德·艾倫吧……
+48. [MARKER: Message] 奧斯卡「
+就借用他開的密道！
+49. [MARKER: Message] 奧斯卡「
+嗯，那是……？
+50. [MARKER: Message] 奧斯卡「
+那就是……以前我家侍從提到的
+里德·艾倫吧……
+51. [MARKER: Message] 奧斯卡「
+就借用他開的密道！
+52. [MARKER: Message] 老人「
+你知道世界六大國嗎？
+53. [MARKER: Message] 老人「
+這樣啊……
+54. [MARKER: Message] 老人「
+英國、蘇聯、中國、
+印度、新日本、澳洲是也。
+55. [MARKER: Message] 老人「
+……哦，我總覺得還有一個……
+到底是哪裡來著……
+56. [MARKER: Message] 男孩「
+拿破崙的家總是沒人在。
+偶爾回來一下，馬上又走了……
+57. [MARKER: Message] 男孩「
+屋裡又大又好玩的說……
+58. [MARKER: Message] 男孩「
+就在最近，他一臉凶相
+回來了。
+59. [MARKER: Message] 男孩「
+但從那以後就一直沒從家裡出來……\.。
+是生病了嗎？
+60. [MARKER: Message] 男子「
+不管什麼時候看，都是棟堅固的建築……
+可別讓自己被關進去就好……

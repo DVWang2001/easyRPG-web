@@ -1,0 +1,73 @@
+1. [MARKER: Message] 兵士Ｂ「
+我也來幫忙……。
+2. [MARKER: Message] 兵士Ａ「
+喔喔，同志啊！！
+3. [MARKER: Message] 奧斯卡「
+啊，就是剛才在旁邊的那傢伙呢。
+4. [MARKER: Message] 以藏「
+……好煩人……。
+5. [MARKER: Message] 兵士Ｂ「
+啊啊～！！同志啊～～！！
+6. [MARKER: Message] 兵士Ｂ「
+竟敢對我的同伴下手！！！
+7. [MARKER: Message] 
+　　　　　　英國士兵Ｂ的ＨＰ完全恢復了
+8. [MARKER: Message] 以藏「
+……團結力還真驚人呢。
+9. [MARKER: Message] 奧斯卡「
+也就只有團結力還挺驚人的。
+10. [MARKER: Message] 兵士Ａ「
+喔喔喔～！！士兵Ｂ～～！！
+11. [MARKER: Message] 兵士Ａ「
+絕不原諒你～～！！
+12. [MARKER: Message] 
+　　　　　　英國士兵Ａ的ＨＰ完全恢復了
+13. [MARKER: Message] 奧斯卡「
+這下可麻煩了……。
+14. [MARKER: Message] 以藏「
+呼……真累人啊……。
+15. [MARKER: Message] 病毒「
+憑你們這群嘍囉，\|是不可能消滅我的！！\|
+16. [MARKER: Message] 流漸「
+住···住手啊啊啊————！！！
+17. [MARKER: Message] 病毒「
+流漸···\|你這傢伙··\.精神居然還在！！！？\|
+18. [MARKER: Message] 病毒「
+唔喔喔！！　唔喔喔喔喔————！！！\|
+19. [MARKER: Message] 鬼牌「
+好強···！！
+這裡就先撤退了……。
+20. [MARKER: Message] 戈巴契夫「
+挺有兩下子的嘛……。
+差不多該由我親自當你的對手了……。
+21. [MARKER: Message] \>丹達利翁的異常狀態痊癒了！\<\.\^
+22. [MARKER: Message] 
+　　　　　　安德烈支援攻擊！！
+23. [MARKER: Message] 安德烈「
+老哥我也會加把勁的！！！
+24. [MARKER: Message] \>給予丹達利翁 \V[39] 點傷害！！\<\.\^
+25. [MARKER: Message] 
+　　　　　里德·艾倫支援攻擊！！
+26. [MARKER: Message] 里德「
+你們幾個，給我看好了！！
+27. [MARKER: Message] \>給予丹達利翁 \V[39] 點傷害！！\<\.\^
+28. [MARKER: Message] 
+　　　　　　　　阿爾夫支援攻擊！！
+29. [MARKER: Message] 阿爾夫「
+誒————！！！
+30. [MARKER: Message] \>給予丹達利翁 \V[39] 點傷害！！\<\.\^
+31. [MARKER: Message] 
+　　　　　　　　阿勝支援攻擊！！
+32. [MARKER: Message] 阿勝「
+DANDY 大人～～～～～！！！！！！
+33. [MARKER: Message] 丹達利翁承受了所有的異常狀態！！\.\^
+34. [MARKER: Message] 
+　　　　　　　　　　　鳥的支援！！
+35. [MARKER: Message] 鳥「
+咕咕咕————！！！
+36. [MARKER: Message] 
+　　　　　　　　　　完全恢復！！！
+37. [MARKER: Message] 里德·艾倫「
+以藏！我們也一起並肩作戰！！
+38. [MARKER: Message] 以藏「
+艾倫！大家！幫大忙了！！

@@ -1,0 +1,8 @@
+﻿1. [MARKER: Message] 
+　　　　　　　　　　休みますか？
+2. [MARKER: Message] 
+　　　　　　　　　　休みますか？
+3. [MARKER: Message] 
+　　　　　　　　　　休みますか？
+4. [MARKER: Message] 
+　　　　　　　　　　休みますか？

@@ -1,0 +1,343 @@
+﻿**********Troop4********** (タマと蛇)
+---Page1---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+くっ苦しいニャ～っ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+暴れるな。　そなたに当たるぞ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+当てたら絶交ニャ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page2---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+バカ～っ！
+当たったニャ～っ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+よけろ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+捕まってるから
+よけられないニャっ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page4---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+オイラもうダメニャ～･･･
+##
+
+
+
+
+**********Troop6********** (黒髪)
+---Page1---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+息ができなひニャ～
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page2---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+何でオイラを狙うニャ～っ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+故意ではない$d
+##
+
+
+
+---Page4---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+オイラもうダメニャ～･･･
+##
+
+
+
+
+**********Troop7********** (亡き海女)
+---Page1---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]私の･･････貝を･･････
+##
+
+
+
+---Page2---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ゴボゴボゴボ～～～･･････
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]････････････$d
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+
+**********Troop16********** (真実)
+---Page1---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マコト！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ真実, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+君は一度、そっちの味方についたんだ。
+##
+
+
+#Message#
+最後までそっち側で闘うといい。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+
+**********Troop20********** (左童破天)
+---Page1---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.ん？
+右老杯受は呼んでねーぞ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+クルルル･･････
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+･･･しょうがねーな。
+\.じゃ俺は しばらく見物するぜ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+な、何者ニャ　コレは～っ$e
+どっから出てきたニャ～っ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+さしずめ
+鬼の創り出した幻影といったところか。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page2---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+痛いニャ～っ！
+##
+
+
+#Message#
+幻影なのに
+なんでいたいニャ～っ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page3---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ちっ
+思ったより役にたたねーな。
+##
+
+
+#Message#
+\.どけ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+
+**********Troop21********** (狐姫)
+---Page1---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+待ってニャ！
+オイラ姫さんと闘うの嫌ニャ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+私もだ。
+##
+
+
+#Message#
+だが私は
+相手が誰であろうと
+売られたケンカは買う主義でな。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+オイラ抜けるニャ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page2---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+やめるニャっ$e
+##
+
+
+#Message#
+お主
+話をしに来たダケって
+言ってたニャ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ狐姫, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+どけ、タマ！
+串猫になるぞ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+く、\.串猫$d　　　　　　　　　　　　　
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page3---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+･･････
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+･･････むか$n
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+
+---Page4---
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.･････････････
+\.･････････････
+\.すぅーーーーーーーーっ
+##
+
+
+#Message#
+やめるニャ～～～～～～～～～～～～$n
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+うおわ！
+##
+
+
+
+

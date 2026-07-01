@@ -1,0 +1,174 @@
+﻿1. [MARKER: Message] 
+　　　　　　扉は硬く閉ざされている・・
+2. [MARKER: Message] 名前：天使ベアル
+位：\V[23]位
+司る理：天の理
+3. [MARKER: Message] 名前：天使ベアル
+位：\V[23]位
+司る理：地の理
+4. [MARKER: Message] 名前：天使ベアル
+位：\V[23]位
+司る理：生の理
+5. [MARKER: Message] 名前：天使ベアル
+位：\V[23]位
+司る理：死の理
+6. [MARKER: Message] 名前：天使ベアル
+位：不明
+司る理：不明
+7. [MARKER: Message] 指定を変えますか？
+8. [MARKER: Message] この天使の位はいくつですか？
+9. [MARKER: Message] では、この天使の司る理は何ですか？
+10. [MARKER: Message] 名前：天使ベアル
+位：\V[23]位
+司る理：天の理
+11. [MARKER: Message] 名前：天使ベアル
+位：\V[23]位
+司る理：地の理
+12. [MARKER: Message] 名前：天使ベアル
+位：\V[23]位
+司る理：生の理
+13. [MARKER: Message] 名前：天使ベアル
+位：\V[23]位
+司る理：死の理
+14. [MARKER: Message] 名前：天使ベアル
+位：４位
+司る理：天の理
+15. [MARKER: Message] 名前：天使リディア
+位：\V[26]位
+司る理：天の理
+16. [MARKER: Message] 名前：天使リディア
+位：\V[26]位
+司る理：地の理
+17. [MARKER: Message] 名前：天使リディア
+位：\V[26]位
+司る理：生の理
+18. [MARKER: Message] 名前：天使リディア
+位：\V[26]位
+司る理：死の理
+19. [MARKER: Message] 名前：天使リディア
+位：不明
+司る理：不明
+20. [MARKER: Message] 指定を変えますか？
+21. [MARKER: Message] この天使の位はいくつですか？
+22. [MARKER: Message] では、この天使の司る理は何ですか？
+23. [MARKER: Message] 名前：天使リディア
+位：\V[26]位
+司る理：天の理
+24. [MARKER: Message] 名前：天使リディア
+位：\V[26]位
+司る理：地の理
+25. [MARKER: Message] 名前：天使リディア
+位：\V[26]位
+司る理：生の理
+26. [MARKER: Message] 名前：天使リディア
+位：\V[26]位
+司る理：死の理
+27. [MARKER: Message] 名前：天使リディア
+位：３位
+司る理：地の理
+28. [MARKER: Message] 名前：天使ファーデイル
+位：\V[27]位
+司る理：天の理
+29. [MARKER: Message] 名前：天使ファーデイル
+位：\V[27]位
+司る理：地の理
+30. [MARKER: Message] 名前：天使ファーデイル
+位：\V[27]位
+司る理：生の理
+31. [MARKER: Message] 名前：天使ファーデイル
+位：\V[27]位
+司る理：死の理
+32. [MARKER: Message] 名前：天使ファーデイル
+位：不明
+司る理：不明
+33. [MARKER: Message] 指定を変えますか？
+34. [MARKER: Message] この天使の位はいくつですか？
+35. [MARKER: Message] では、この天使の司る理は何ですか？
+36. [MARKER: Message] 名前：天使ファーデイル
+位：\V[27]位
+司る理：天の理
+37. [MARKER: Message] 名前：天使ファーデイル
+位：\V[27]位
+司る理：地の理
+38. [MARKER: Message] 名前：天使ファーデイル
+位：\V[27]位
+司る理：生の理
+39. [MARKER: Message] 名前：天使ファーデイル
+位：\V[27]位
+司る理：死の理
+40. [MARKER: Message] 名前：天使ファーデイル
+位：１位
+司る理：死の理
+41. [MARKER: Message] 名前：天使スピリットオブダンディズム
+位：\V[29]位
+司る理：天の理
+42. [MARKER: Message] 名前：天使スピリットオブダンディズム
+位：\V[29]位
+司る理：地の理
+43. [MARKER: Message] 名前：天使スピリットオブダンディズム
+位：\V[29]位
+司る理：生の理
+44. [MARKER: Message] 名前：天使スピリットオブダンディズム
+位：\V[29]位
+司る理：死の理
+45. [MARKER: Message] 名前：天使スピリットオブダンディズム
+位：不明
+司る理：不明
+46. [MARKER: Message] 指定を変えますか？
+47. [MARKER: Message] この天使の位はいくつですか？
+48. [MARKER: Message] では、この天使の司る理は何ですか？
+49. [MARKER: Message] 名前：天使スピリットオブダンディズム
+位：\V[29]位
+司る理：天の理
+50. [MARKER: Message] 名前：天使スピリットオブダンディズム
+位：\V[29]位
+司る理：地の理
+51. [MARKER: Message] 名前：天使スピリットオブダンディズム
+位：\V[29]位
+司る理：生の理
+52. [MARKER: Message] 名前：天使スピリットオブダンディズム
+位：\V[29]位
+司る理：死の理
+53. [MARKER: Message] 名前：天使スピリットオブダンディズム
+位：２位
+司る理：生の理
+54. [MARKER: Message]  何も無い真っ白な世界に神は４人の天使を遣わした。
+　　 天使はそれぞれ１位から４位の階級があり、
+　　地位によって司るべきものが定められていた。
+55. [MARKER: Message] 
+　　　　　　　　　　天使の名は・・
+56. [MARKER: Message] 
+　　　　　　　　　　　\S[3]ベアル
+57. [MARKER: Message] 
+　　　　　　　　　　\S[3]リディア
+58. [MARKER: Message] 
+　　　　　　　　　\S[3]ファーデイル
+59. [MARKER: Message] 
+　　　　　　\S[3]スピリットオブダンディズム
+60. [MARKER: Message] 
+　　　　　　　　司るべき理は・・・
+61. [MARKER: Message] 
+　　　　　　　　　　　\S[3]天の理
+62. [MARKER: Message] 
+　　　　　　　　　　　\S[3]地の理
+63. [MARKER: Message] 
+　　　　　　　　　　　\S[3]生の理
+64. [MARKER: Message] 
+　　　　　　　　　　　\S[3]死の理
+65. [MARKER: Message] 
+ １位の天使はスピリットオブダンディズムではなく、
+　　　　　　２位の天使は生の理を司る。
+66. [MARKER: Message] 
+３位の天使は地の理を司るが、それはファーデイルでも
+　　　　スピリットオブダンディズムでもない。
+67. [MARKER: Message] 
+　　　　　　　ベアルは天の理を司り、
+　　　　４位の天使はベアルかリディアである。
+68. [MARKER: Message] 
+　　　　　それぞれの天使の位と、それぞれの
+　　　　　　　司るべき理を指定せよ。
+69. [MARKER: Message] 
+　　　　　　さすれば、道は開かれん・・
+70. [MARKER: Message] 
+　　　　　　なお、１度でも部屋を出ると
+　　　　　　　 指定は全て解除される。

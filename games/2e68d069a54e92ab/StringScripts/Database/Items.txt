@@ -1,0 +1,989 @@
+*****Entry1*****
+#Name# [20]
+藥水
+
+#Description# [50]
+回復 50 點 HP。
+
+
+
+*****Entry2*****
+#Name# [20]
+高級藥水
+
+#Description# [50]
+回復 250 點 HP。
+
+
+
+*****Entry3*****
+#Name# [20]
+魔法水
+
+#Description# [50]
+回復 80 點 MP。
+
+
+
+*****Entry4*****
+#Name# [20]
+奇蹟水滴
+
+#Description# [50]
+完全回復 HP 與 MP。
+
+
+
+*****Entry5*****
+#Name# [20]
+甦醒藥
+
+#Description# [50]
+從無法戰鬥狀態中復活。
+
+
+
+*****Entry6*****
+#Name# [20]
+解毒藥
+
+#Description# [50]
+治癒中毒狀態。
+
+
+
+*****Entry7*****
+#Name# [20]
+驅魔草
+
+#Description# [50]
+治癒無法戰鬥以外的異常狀態。
+
+
+
+*****Entry8*****
+#Name# [20]
+口袋避難所
+
+#Description# [50]
+完全回復全體隊友。戰鬥中無法使用。
+
+
+
+*****Entry9*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+生命上限提升
+
+#Description# [50]
+提升 最大ＨＰ 5 點。
+
+
+
+*****Entry11*****
+#Name# [20]
+魔法上限提升
+
+#Description# [50]
+提升 最大ＭＰ 5 點。
+
+
+
+*****Entry12*****
+#Name# [20]
+力量提升
+
+#Description# [50]
+提升 攻擊力 3 點。
+
+
+
+*****Entry13*****
+#Name# [20]
+防禦提升
+
+#Description# [50]
+提升 防禦力 3 點。
+
+
+
+*****Entry14*****
+#Name# [20]
+魔力提升
+
+#Description# [50]
+提升 精神力 3 點。
+
+
+
+*****Entry15*****
+#Name# [20]
+速度提升
+
+#Description# [50]
+提升 敏捷性 3 點。
+
+
+
+*****Entry16*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+木棒
+
+#Description# [50]
+簡單的木製棍棒。
+
+
+
+*****Entry18*****
+#Name# [20]
+長劍
+
+#Description# [50]
+極其一般的量產型長劍。
+
+
+
+*****Entry19*****
+#Name# [20]
+長槍
+
+#Description# [50]
+極其一般的量產型長槍。
+
+
+
+*****Entry20*****
+#Name# [20]
+長弓
+
+#Description# [50]
+極其一般的量產型長弓。
+
+
+
+*****Entry21*****
+#Name# [20]
+皮鞭
+
+#Description# [50]
+使用動物皮革加工製成的鞭子。
+
+
+
+*****Entry22*****
+#Name# [20]
+闊劍
+
+#Description# [50]
+正統的寬刃長劍。
+
+
+
+*****Entry23*****
+#Name# [20]
+鐵指虎
+
+#Description# [50]
+使用鐵製成的格鬥家用爪刃。
+
+
+
+*****Entry24*****
+#Name# [20]
+釘頭槌
+
+#Description# [50]
+金屬製的純粹打擊武器。
+
+
+
+*****Entry25*****
+#Name# [20]
+三叉戟
+
+#Description# [50]
+由農具發展而來的三叉戟。
+
+
+
+*****Entry26*****
+#Name# [20]
+手半劍
+
+#Description# [50]
+比較容易上手的兩手大劍。
+
+
+
+*****Entry27*****
+#Name# [20]
+複合弓
+
+#Description# [50]
+在內側貼上動物肌腱強化的弓。
+
+
+
+*****Entry28*****
+#Name# [20]
+戰斧
+
+#Description# [50]
+由木工工具發展而來的戰鬥斧。
+
+
+
+*****Entry29*****
+#Name# [20]
+克雷莫大劍
+
+#Description# [50]
+注重斬擊敵人而製成的兩手大劍。
+
+
+
+*****Entry30*****
+#Name# [20]
+戟
+
+#Description# [50]
+不僅能刺擊，也能劈砍的長槍。
+
+
+
+*****Entry31*****
+#Name# [20]
+連枷
+
+#Description# [50]
+在木棒頂端用鐵鏈連接鐵球的打擊武器。
+
+
+
+*****Entry32*****
+#Name# [20]
+波形劍
+
+#Description# [50]
+擁有如火焰般波浪狀刃面的兩手大劍。
+
+
+
+*****Entry33*****
+#Name# [20]
+十字弓
+
+#Description# [50]
+能射出比普通弓更有威力箭矢的武器。
+
+
+
+*****Entry34*****
+#Name# [20]
+晨星槌
+
+#Description# [50]
+裝有帶刺鐵球的重槌。
+
+
+
+*****Entry35*****
+#Name# [20]
+秘銀指虎
+
+#Description# [50]
+使用魔法金屬秘銀製成的爪刃。
+
+
+
+*****Entry36*****
+#Name# [20]
+秘銀長槍
+
+#Description# [50]
+使用魔法金屬秘銀製成的長槍。
+
+
+
+*****Entry37*****
+#Name# [20]
+秘銀劍
+
+#Description# [50]
+使用魔法金屬秘銀製成的單手劍。
+
+
+
+*****Entry38*****
+#Name# [20]
+巨斧
+
+#Description# [50]
+加長了握柄的強力戰斧。
+
+
+
+*****Entry39*****
+#Name# [20]
+巨型十字弓
+
+#Description# [50]
+經過多次改良、易於使用的十字弓。
+
+
+
+*****Entry40*****
+#Name# [20]
+龍鞭
+
+#Description# [50]
+使用龍鬚加工製成的鞭子。
+
+
+
+*****Entry41*****
+#Name# [20]
+龍之槍
+
+#Description# [50]
+使用龍鱗加工製成的長槍。
+
+
+
+*****Entry42*****
+#Name# [20]
+龍之劍
+
+#Description# [50]
+使用龍鱗加工製成的單手劍。
+
+
+
+*****Entry43*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+木盾
+
+#Description# [50]
+非常普通的木製盾牌。
+
+
+
+*****Entry45*****
+#Name# [20]
+翼盾
+
+#Description# [50]
+點綴著羽毛裝飾的精美盾牌。
+
+
+
+*****Entry46*****
+#Name# [20]
+皮盾
+
+#Description# [50]
+貼上動物皮革製成的盾牌。
+
+
+
+*****Entry47*****
+#Name# [20]
+鱗盾
+
+#Description# [50]
+縫上細小金屬片成鱗片狀的盾牌。
+
+
+
+*****Entry48*****
+#Name# [20]
+青銅盾
+
+#Description# [50]
+使用厚青銅板製成的盾牌。
+
+
+
+*****Entry49*****
+#Name# [20]
+鐵盾
+
+#Description# [50]
+使用堅固鐵板加工製成的盾牌。
+
+
+
+*****Entry50*****
+#Name# [20]
+秘銀盾
+
+#Description# [50]
+使用魔法金屬秘銀製成的盾牌。
+
+
+
+*****Entry51*****
+#Name# [20]
+龍鱗盾
+
+#Description# [50]
+使用龍鱗加工製成的盾牌。
+
+
+
+*****Entry52*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+
+
+*****Entry53*****
+#Name# [20]
+長袍
+
+#Description# [50]
+廣泛普及的普通長袍。
+
+
+
+*****Entry54*****
+#Name# [20]
+布甲
+
+#Description# [50]
+使用堅固布料製成的鎧甲。
+
+
+
+*****Entry55*****
+#Name# [20]
+皮甲
+
+#Description# [50]
+使用熟皮革製成的輕型鎧甲。
+
+
+
+*****Entry56*****
+#Name# [20]
+環甲
+
+#Description# [50]
+將無數金屬環連接在一起製成的鎧甲。
+
+
+
+*****Entry57*****
+#Name# [20]
+魔法長袍
+
+#Description# [50]
+使用堅固布料製成的魔法長袍。
+
+
+
+*****Entry58*****
+#Name# [20]
+鱗甲
+
+#Description# [50]
+將小金屬片呈鱗片狀重疊製成的鎧甲。
+
+
+
+*****Entry59*****
+#Name# [20]
+鎖子甲
+
+#Description# [50]
+編織細小鐵鏈製成的鎖子甲。
+
+
+
+*****Entry60*****
+#Name# [20]
+神秘之衣
+
+#Description# [50]
+使用特殊面料製成、便於活動的衣服。
+
+
+
+*****Entry61*****
+#Name# [20]
+青銅鎧甲
+
+#Description# [50]
+使用厚青銅板製成的鎧甲。
+
+
+
+*****Entry62*****
+#Name# [20]
+鐵鎧甲
+
+#Description# [50]
+使用堅固鐵板加工製成的鎧甲。
+
+
+
+*****Entry63*****
+#Name# [20]
+神聖長袍
+
+#Description# [50]
+蘊含神聖力量、神聖莊嚴的長袍。
+
+
+
+*****Entry64*****
+#Name# [20]
+秘銀鎧甲
+
+#Description# [50]
+使用魔法金屬秘銀製成的鎧甲。
+
+
+
+*****Entry65*****
+#Name# [20]
+龍鱗甲
+
+#Description# [50]
+使用龍鱗加工製成的鎧甲。
+
+
+
+*****Entry66*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+
+
+*****Entry67*****
+#Name# [20]
+皮帽
+
+#Description# [50]
+使用熟皮革固化製成的輕型帽子。
+
+
+
+*****Entry68*****
+#Name# [20]
+翼帽
+
+#Description# [50]
+點綴著羽毛裝飾的精美帽子。
+
+
+
+*****Entry69*****
+#Name# [20]
+鎖子頭巾
+
+#Description# [50]
+編織細小鐵鏈製成的頭巾。
+
+
+
+*****Entry70*****
+#Name# [20]
+青銅頭盔
+
+#Description# [50]
+使用厚青銅板製成的頭盔。
+
+
+
+*****Entry71*****
+#Name# [20]
+鐵頭盔
+
+#Description# [50]
+使用堅固鐵板加工製成的頭盔。
+
+
+
+*****Entry72*****
+#Name# [20]
+頭冠
+
+#Description# [50]
+施有防護魔法的頭飾。
+
+
+
+*****Entry73*****
+#Name# [20]
+秘銀頭盔
+
+#Description# [50]
+使用魔法金屬秘銀製成的頭盔。
+
+
+
+*****Entry74*****
+#Name# [20]
+龍鱗頭盔
+
+#Description# [50]
+使用龍鱗加工製成的頭盔。
+
+
+
+*****Entry75*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+
+
+*****Entry76*****
+#Name# [20]
+護身符
+
+#Description# [50]
+使自身不會受到痛恨一擊的護符。
+
+
+
+*****Entry77*****
+#Name# [20]
+魔法項鍊
+
+#Description# [50]
+能夠以通常一半的 MP 使用特殊技能。
+
+
+
+*****Entry78*****
+#Name# [20]
+安全靴
+
+#Description# [50]
+防止毒沼等地形造成傷害的靴子。
+
+
+
+*****Entry79*****
+#Name# [20]
+力量手鐲
+
+#Description# [50]
+提升攻擊力，並降低暴走與混亂機率的手環。
+
+
+
+*****Entry80*****
+#Name# [20]
+魔力戒指
+
+#Description# [50]
+提升精神力，並降低沉默機率的戒指。
+
+
+
+*****Entry81*****
+#Name# [20]
+速度之靴
+
+#Description# [50]
+提升敏捷性的魔法之靴。
+
+
+
+*****Entry82*****
+#Name# [20]
+毒素ガード
+
+#Description# [50]
+完全防止中毒狀態的飾品。
+
+
+
+*****Entry83*****
+#Name# [20]
+狙擊之眼
+
+#Description# [50]
+完全防止黑暗狀態的飾品。
+
+
+
+*****Entry84*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+
+
+*****Entry85*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry86*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry87*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry88*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry89*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry90*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry91*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry92*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry93*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry94*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry95*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry96*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry97*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry98*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry99*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry100*****
+#Name# [20]
+麥奎
+
+#Description# [50]
+與人類奇美拉同化
+
+
+
+*****Entry101*****
+#Name# [20]
+恩德
+
+#Description# [50]
+與人類奇美拉同化
+
+
+
+*****Entry102*****
+#Name# [20]
+奧茲卡
+
+#Description# [50]
+與人類奇美拉同化
+
+
+
+*****Entry103*****
+#Name# [20]
+海優
+
+#Description# [50]
+與人類奇美拉同化
+
+
+
+*****Entry104*****
+#Name# [20]
+莫莉娜
+
+#Description# [50]
+與人類奇美拉同化
+
+
+
+*****Entry105*****
+#Name# [20]
+莉音
+
+#Description# [50]
+與人類奇美拉同化
+
+
+
+*****Entry106*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry107*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry108*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry109*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry110*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+

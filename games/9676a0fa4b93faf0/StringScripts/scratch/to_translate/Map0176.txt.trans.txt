@@ -1,0 +1,121 @@
+﻿1. [MARKER: Message] [FACE: 主人公2, 10, Left, Normal] オンドレ「
+俺が初めてココに来たときは\.
+そりゃ、凄いありさまだった・・。\|\^
+2. [MARKER: Message] [FACE: 主人公2, 10, Left, Normal] オンドレ「
+お前の、この村が盗賊団に教われ・・・\.
+刃向かうものは、全て殺される・・・。\|\^
+3. [MARKER: Message] [FACE: 主人公2, 10, Left, Normal] オンドレ「
+俺が来た頃は、生存者を探すことが\.
+出来なかった・・。\|\^
+4. [MARKER: Message] [FACE: 主人公2, 10, Left, Normal] オンドレ「
+\S[2]お前を除いてな・・・。\|\^
+5. [MARKER: Message] [FACE: Erase] オンドレ「
+・・子供・・？\.
+まだ生存者がいたのか！！\|\^
+6. [MARKER: Message] [FACE: Erase] 子供「
+う・・ううううぅぅ・・・・・！！！
+7. [MARKER: Message] [FACE: Erase] オンドレ「
+この惨劇を一人で乗り切ったのか・・。\|
+自らを『獣』に変えて・・。
+8. [MARKER: Message] [FACE: Erase] 
+　　　　\S[2]子供の周りに累々と横たわる死体、\.
+　　　　 それはどれも村人では無かった。\.\^
+9. [MARKER: Message] [FACE: Erase] オンドレ「
+そして、俺にも牙を向けるか。\.
+俺はお前に危害を加えるつもりは無いが\.
+かかってくるならば、容赦はしないぜ。\|\^
+10. [MARKER: Message] [FACE: Erase] 
+オンドレは圧倒的力を持つ獣の目で、少年を見据えた。\|\^
+11. [MARKER: Message] [FACE: Erase] オンドレ「
+やめとけ、\.お前では俺に勝てない。\|\^
+12. [MARKER: Message] [FACE: Erase] 
+　　　　　オンドレは静かに少年に近づき、\.
+　　　　　　そっとナイフを取り上げた。\|\^
+13. [MARKER: Message] [FACE: Erase] オンドレ「
+お前一人ぼっちなんだろ？\|
+じゃぁ俺と来るか？\|\^
+14. [MARKER: Message] [FACE: Erase] 
+　　　　　　　\S[2]少年は静かに頷いた。\.
+　　 もう、その表情に最早『獣』はいなかった。\|\^
+15. [MARKER: Message] [FACE: Erase] オンドレ「
+あの後、俺らはこの村を出、ベルサイユに
+流れてきたんだよな・・。
+16. [MARKER: Message] [FACE: Erase] オンドレ「
+つれてきた当初は、もう手のつけられない子供だった。\|
+だが、それだからこそ、俺も育て甲斐が
+あったってモノだ。
+17. [MARKER: Message] [FACE: Erase] イゾウ「
+・・・・・・・。
+18. [MARKER: Message] [FACE: Erase] イゾウ「
+アニキ・・・\.なんでアニキは俺を助けたんだ・・？
+19. [MARKER: Message] [FACE: Erase] オンドレ「
+今だから話してやろう・・。
+20. [MARKER: Message] [FACE: Erase] オンドレ「
+俺はマリー＝アントワネットの
+不死研究の実験体だった。
+21. [MARKER: Message] [FACE: Erase] オンドレ「
+マリーはな、ああ見えても３００年以上も
+不死の研究をしている。\.
+自らの美貌を失いたくない為に。
+22. [MARKER: Message] [FACE: Erase] オンドレ「
+そして今から１００年程前
+時間と空間を操ることにより
+不死になろうとする研究がされていた。
+23. [MARKER: Message] [FACE: Erase] オンドレ「
+だが、研究は失敗に終わり、
+完全なる不死は出来なかった。
+24. [MARKER: Message] [FACE: Erase] オンドレ「
+その時、俺らは廃棄されるハズだったが
+その時の実験で得た『空間転移』を使い
+逃げ出したのだ。
+25. [MARKER: Message] [FACE: Erase] イゾウ「
+\S[2]俺ら・・？　まさか・・。
+26. [MARKER: Message] [FACE: Erase] オンドレ「
+あぁ、俺の他にもう１人実験体がいた。\.
+それが『ナポレオン』だったのさ。
+27. [MARKER: Message] [FACE: Erase] オンドレ「
+俺と同じ実験体だとしても、ナポレオンと俺は
+一緒に逃げたわけじゃない。その時は『空間転移』を
+上手く操れなかったからな。
+28. [MARKER: Message] [FACE: Erase] オンドレ「
+だから、俺とナポレオンは
+この間まで直接的な面識が無かったのだ。
+29. [MARKER: Message] [FACE: Erase] イゾウ「
+\S[2]・・・・ってコトは・・・。
+アニキって今・・何歳なんだ・・？
+30. [MARKER: Message] [FACE: Erase] オンドレ「
+『空間転移』を繰り返し、実験を重ねられた結果
+俺は現在１２０歳となるな・・。
+31. [MARKER: Message] [FACE: Erase] オンドレ「
+だからといって、俺はマリーに復讐したいと思わない。\.
+人を超越した力を手に入れた以上、人の為に
+この力を使いたいと思っているからな。
+32. [MARKER: Message] [FACE: Erase] オンドレ「
+俺は、自ら望まない形で力を手に入れた時\.
+それを悪用しないと誓った・・・。
+33. [MARKER: Message] [FACE: Erase] オンドレ「
+だからこそ俺は、望まない形で１人になってしまった
+お前を助けたいと思った・・\.それだけさ・・。
+34. [MARKER: Message] [FACE: Erase] イゾウ「
+\S[2]・・・・・。
+35. [MARKER: Message] [FACE: Erase] オンドレ「
+さて、ちょっとしゃべりすぎたかな・・？\.
+お前も明日は早いんだろう？\.
+そろそろ寝たらどうだ？
+36. [MARKER: Message] [FACE: Erase] イゾウ「
+そうするよ、アニキ。
+37. [MARKER: Message] [FACE: Erase] オンドレ「
+たとえ離れていても、血が繋がって無くても
+お前は、俺の大切な弟だからな！
+38. [MARKER: Message] [FACE: Erase] イゾウ「
+俺もアニキは、オンドレ兄さん\.
+アンタだけだ！！
+39. [MARKER: Message] [FACE: Erase] オンドレ「
+おお、弟よ！！\.
+困ったときは、いつでも呼んでくれ！！
+40. [MARKER: Message] [FACE: Erase] 
+　　　　イゾウは熱血兄貴大行進を覚えた！！
+41. [MARKER: Message] [FACE: Erase] オンドレ「
+じゃ、\.コロエさんによろしくな！
+42. [MARKER: Message] [FACE: Erase] イゾウ「
+\S[2]・・・？\.　あ、\.ああ。

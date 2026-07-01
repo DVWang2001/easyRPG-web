@@ -1,0 +1,30 @@
+{
+  "name": "感受此刻的風",
+  "short_name": "感受此刻的風",
+  "id": "play-c65082d9f6ae7b64.html",
+  "start_url": "play-c65082d9f6ae7b64.html",
+  "scope": "play-c65082d9f6ae7b64.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "games/c65082d9f6ae7b64/pwa-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "games/c65082d9f6ae7b64/pwa-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "games/c65082d9f6ae7b64/pwa-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

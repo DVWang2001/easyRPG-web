@@ -1,0 +1,126 @@
+﻿1. [MARKER: Message] [FACE: Ｆ鬼] おや、こんなところにも墓があるね。
+2. [MARKER: Message] [FACE: Ｆ鬼] どれどれ･･･
+3. [MARKER: Message] [FACE: Ｆ真実] \.雪乃の墓･･････\.か。
+\.･･････違うな。
+4. [MARKER: Message] [FACE: Ｆ鬼] \.コレ
+人が先に見てるのに なんじゃ。
+動かすでない！
+5. [MARKER: Message] [FACE: Ｆ真実] \.あ、すみません。
+なんか･･･気が競っちゃって$e
+6. [MARKER: Message] [FACE: Ｆ鬼] \.ま、気持ちはわからないでもないが。
+7. [MARKER: Message] [FACE: Ｆ真実] \.･･･でも驚きました。
+
+8. [MARKER: Message] [FACE: Ｆ真実] \.綾どのが私と同郷だったとは･･････
+9. [MARKER: Message] [FACE: Ｆ鬼] そりゃ、こっちのセリフだよ。
+10. [MARKER: Message] [FACE: Ｆ鬼] \.７年振りに記憶を取り戻したアンタが
+私と同じ村出身だって
+言い出したんだからね。
+11. [MARKER: Message] [FACE: Ｆ真実] はぁ。
+12. [MARKER: Message] [FACE: Ｆ真実] 記憶を失ったままだったら
+危うく“田吾兵衛”なんて
+ダサイ名前で一生を終わるところでした。
+13. [MARKER: Message] [FACE: Ｆ鬼] るさいね。
+人がせっかく付けてやった名前に
+ケチつけんじゃないよ。
+14. [MARKER: Message] [FACE: Ｆ鬼] \.でも７年前、
+戦で瀕死になってるアンタを
+たまたま、薬師の私が
+発見して助けたのは
+15. [MARKER: Message] [FACE: Ｆ鬼] 単なる偶然じゃ
+なかったのかもしれないね。
+16. [MARKER: Message] [FACE: Ｆ真実] しかも一緒に
+墓探しをすることになるとは
+これはもう、運命としか言いようがないと
+･･････
+17. [MARKER: Message] [FACE: Ｆ真実] というか、夜明け前から
+墓ばっかり調べて回ってる姿って
+\.端から見たら 単に怪しいだけかも$d
+18. [MARKER: Message] [FACE: Ｆ鬼] 生きてるか死んでるかを調べるには
+これが一番手っ取り早いだろ。
+19. [MARKER: Message] [FACE: Ｆ鬼] \.しかし随分斜めってる墓だね。
+少し真っ直ぐに直してお上げ \.和真。
+20. [MARKER: Message] [FACE: Ｆ鬼] ところでさっきの･･･
+21. [MARKER: Message] [FACE: Ｆ鬼] アンタが昔住んでたっていう家の
+裏庭にあった墓
+\S[2]･･････竜太･･･と言ったね？
+22. [MARKER: Message] [FACE: Ｆ真実] \.はい。
+下の弟です。
+23. [MARKER: Message] [FACE: Ｆ鬼] なんで亡くなったか知らないが
+
+24. [MARKER: Message] [FACE: Ｆ鬼] アンタの
+歳の離れた弟っていうんだから
+まだ小さかっただろうに
+かわいそうなことをしたね。
+25. [MARKER: Message] [FACE: Ｆ真実] \.･･････はい。
+26. [MARKER: Message] [FACE: Ｆ鬼] しかし、だからって
+もう１人の･･･双子って言ったかね？
+27. [MARKER: Message] [FACE: Ｆ鬼] その双子の弟まで
+死んでしまったんじゃないかっていうのは
+\.考えすぎじゃないかい？
+28. [MARKER: Message] [FACE: Ｆ真実] \.はい･･････でも
+29. [MARKER: Message] [FACE: Ｆ真実] あいつ
+俺と双子のくせに 俺と違って
+妙に神経質なんです。
+30. [MARKER: Message] [FACE: Ｆ真実] もしかしたら
+竜太のことや俺のことで悩んで
+世を儚んでしまったりとか･･･
+31. [MARKER: Message] [FACE: Ｆ鬼] \.･･････アンタと違って･･･ねぇ･･･
+32. [MARKER: Message] [FACE: Ｆ真実] 家も今は
+誰も住んでないみたいですし
+33. [MARKER: Message] [FACE: Ｆ真実] 竜太の墓をほったらかしで
+どこかへ行ってしまうというのも
+考えにくいですし･･･
+34. [MARKER: Message] [FACE: Ｆ鬼] \S[2]･････････。
+35. [MARKER: Message] [FACE: Ｆ真実] \.でも、\.墓がないことを祈ります。
+36. [MARKER: Message] [FACE: Ｆ鬼] \.そうだね。
+なにかワケがあって
+よその村に行ってるだけかも
+しれないからね。
+37. [MARKER: Message] [FACE: Ｆ真実] \.それより綾どのの
+探しておられるお墓って･･･
+誰のお墓なんですか？
+38. [MARKER: Message] [FACE: Ｆ鬼] \S[2]･････････。
+39. [MARKER: Message] [FACE: Ｆ鬼] \.私の帰りを
+待っていてくれると言っていた
+私よりも一回り以上年上の
+爺さんの墓さ。
+40. [MARKER: Message] [FACE: Ｆ鬼] あんたの弟と違って
+６８才の私よりもさらに一回り年上の
+爺さんだからね
+41. [MARKER: Message] [FACE: Ｆ鬼] 人生５０年のこの世の中で
+生きているはずはないだろうよ。
+42. [MARKER: Message] [FACE: Ｆ真実] \.･････････。
+43. [MARKER: Message] [FACE: Ｆ鬼] すぐに帰るつもりだったのに
+帰れなかった･･････
+44. [MARKER: Message] [FACE: Ｆ鬼] 戦が終わった後も
+飢饉だ疫病だと･･････
+病人が減ることはなかったし
+45. [MARKER: Message] [FACE: Ｆ鬼] 父も死んでしまって
+何もかも１人でやるしかなかったからね。
+46. [MARKER: Message] [FACE: Ｆ鬼] せめて私のことなんか忘れて
+誰かと暮らしてくれていれば･･･\.と
+手紙一つ出さずじまいだったが
+47. [MARKER: Message] [FACE: Ｆ鬼] \.あの不器用な人では
+それもできなかったんじゃないかって
+今更ながら気になってね。
+48. [MARKER: Message] [FACE: Ｆ真実] \.\S[2]･････････。
+49. [MARKER: Message] [FACE: Ｆ真実] \.あの、でも･･････
+50. [MARKER: Message] [FACE: Ｆ鬼] ･･････？
+51. [MARKER: Message] [FACE: Ｆ真実] \.\S[2]･････････。
+52. [MARKER: Message] [FACE: Ｆ真実] ･･････いえ
+53. [MARKER: Message] [FACE: Ｆ真実] \.本当は
+54. [MARKER: Message] [FACE: Ｆ真実] ２人とも
+生きて会えるといいですね。
+55. [MARKER: Message] [FACE: Ｆ真実] \.だって、わかりませんよ。
+56. [MARKER: Message] [FACE: Ｆ真実] 戦で
+あんな瀕死状態だった俺が
+こうして無事でいるんですから
+57. [MARKER: Message] [FACE: Ｆ鬼] \.\S[2]･････････。
+58. [MARKER: Message] [FACE: Ｆ鬼] \.どうかね。
+59. [MARKER: Message] [FACE: Ｆ鬼] アンタはただ
+悪運が強いだけかもしれないよ。
+60. [MARKER: Message] [FACE: Ｆ鬼] ほら、この前アンタが話してた･･･
+61. [MARKER: Message] [FACE: Ｆ真実] あ、そーなんですよ。
+62. [MARKER: Message] [FACE: Ｆ真実] 昔、兄弟３人で畑仕事してるときに
+カラスのフンが落ちてきて
+63. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]他の兄弟２人にはフンがかかったのに･･････

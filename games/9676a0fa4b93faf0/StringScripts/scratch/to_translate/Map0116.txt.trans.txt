@@ -1,0 +1,108 @@
+﻿1. [MARKER: Message] イゾウ「
+何で俺がこんなコトを・・・。
+2. [MARKER: Message] チョチョリーナ「
+DANDY様の為に決まっているじゃない$g
+つべこべ言わずに、押すのよォ$g
+3. [MARKER: Message] イゾウ「
+へいへい・・。
+4. [MARKER: Message] イゾウ「
+う～～～～～～ん！！
+5. [MARKER: Message] イゾウ「
+ひーーーー・・・疲れる・・。
+おいDANDY！　お前も手伝え！！
+6. [MARKER: Message] DANDY「
+わかった。
+7. [MARKER: Message] イゾウ「
+えっ・・おい・・・。
+8. [MARKER: Message] DANDY「
+さぁ、行くぞぉっ！！
+9. [MARKER: Message] DANDY「
+なんてコトするんだ！！
+10. [MARKER: Message] イゾウ「
+向こうから押せぇぇぇーーー！！！
+11. [MARKER: Message] イゾウ「
+いっせーので、で押すぞ。
+\S[2]いっ\.せー\.のー\.でっ！！
+12. [MARKER: Message] イゾウ「
+よぉーーーし！！
+13. [MARKER: Message] DANDY「
+みんなでやれば、何とかなるものだ・・・。
+正に友情パワー。
+14. [MARKER: Message] イゾウ「
+貴様・・・・。
+15. [MARKER: Message] DANDY「
+やぁ、ボクの君達！！
+元気だったかい？
+16. [MARKER: Message] イゾウ「
+相変わらず、調子のいい奴だ・・。
+17. [MARKER: Message] チョチョリーナ「
+あ～ん$g$g　DANDY様ーー！！$g
+もう離しませんわ～$g$g
+18. [MARKER: Message] ？？？？？「
+えぇ～い！！　何をいちゃついておるか！！！！
+19. [MARKER: Message] DANDY「
+む！　その声はJOKER！！！
+20. [MARKER: Message] DANDY「
+右側から押してくれ。
+21. [MARKER: Message] JOKER「
+おい！！！
+22. [MARKER: Message] DANDY「
+今ごろ、何の用だ！？
+23. [MARKER: Message] JOKER「
+お前の持っている聖剣ドレッドノートをよこせ！！
+それが無いと、俺は死ぬっっ！！！！！
+24. [MARKER: Message] DANDY「
+うげぇ！
+何故聖剣の事を?!
+25. [MARKER: Message] JOKER「
+分かっているんだ！！、その玉座の下に
+隠されていることを・・・・。
+そこをどけぇっ！！！
+26. [MARKER: Message] DANDY「
+おのれ、タダでは渡さん！
+通りたかったら、私を倒すことだっ！！
+27. [MARKER: Message] JOKER「
+えぇい、わからん奴めっ！！！
+28. [MARKER: Message] ？？「
+見つけたぞ～～～～！！！！！
+29. [MARKER: Message] JOKER「
+貴様ぁ～～・・誰にぶつかっていると思って・・。
+30. [MARKER: Message] JOKER「
+ぎょぇぇぇぇぇぇぇぇぇぇ！！
+流漸！！！
+31. [MARKER: Message] 流漸「
+よくもやってくれたな！！　このガイコツ野郎！！！
+32. [MARKER: Message] JOKER「
+ひぇ～～～～！！！
+DANDY！　ひとまず聖剣はおあずけだっ！！
+また奪いに来るっ！！！　さらば！！！
+33. [MARKER: Message] 流漸「
+あ、コラ！　待てぇっ！！！
+34. [MARKER: Message] イゾウ「
+な・・一体なんだったんだ・・・。
+35. [MARKER: Message] DANDY「
+いいタイミングで流漸殿が現れてくれて
+助かったな・・・。
+今のうちにドレッドノートを入手しておこう。
+36. [MARKER: Message] イゾウ「
+何か、よーわからんが、とりあえず
+大事なモノなんだな。
+37. [MARKER: Message] DANDY「
+そういうコトだ。　
+ドレッドノートはこの玉座の下にある。
+イゾウ殿、ちょっと動かしてくれ。
+38. [MARKER: Message] ダンディ「
+どこ行く気ですか、イゾウ殿。
+ドレッドノートはここしか無いですぞ。
+39. [MARKER: Message] ダンディ「
+どこ行く気ですか、イゾウ殿。
+ドレッドノートはここしか無いですぞ。
+40. [MARKER: Message] ダンディ「
+どこ行く気ですか、イゾウ殿。
+ドレッドノートはここしか無いですぞ。
+41. [MARKER: Message] ダンディ「
+どこ行く気ですか、イゾウ殿。
+ドレッドノートはここしか無いですぞ。
+42. [MARKER: Message] ダンディ「
+どこ行く気ですか、イゾウ殿。
+ドレッドノートはここしか無いですぞ。

@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はヒールⅠを唱えた！",
+    "text": "はヒールⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ヒールⅡ",
+    "text": "ヒールⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "味方単体のＨＰを 120 ポイント程度回復する。",
+    "text": "味方単体のＨＰを 120 ポイント程度回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はヒールⅡを唱えた！",
+    "text": "はヒールⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ヒールⅢ",
+    "text": "ヒールⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "味方単体のＨＰを 480 ポイント程度回復する。",
+    "text": "味方単体のＨＰを 480 ポイント程度回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はヒールⅢを唱えた！",
+    "text": "はヒールⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "リカバーⅠ",
+    "text": "リカバーⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "味方全体のＨＰを 20 ポイント程度回復する。",
+    "text": "味方全体のＨＰを 20 ポイント程度回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はリカバーⅠを唱えた！",
+    "text": "はリカバーⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "リカバーⅡ",
+    "text": "リカバーⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "味方全体のＨＰを 80 ポイント程度回復する。",
+    "text": "味方全体のＨＰを 80 ポイント程度回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はリカバーⅡを唱えた！",
+    "text": "はリカバーⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "リカバーⅢ",
+    "text": "リカバーⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "味方全体のＨＰを 320 ポイント程度回復する。",
+    "text": "味方全体のＨＰを 320 ポイント程度回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はリカバーⅢを唱えた！",
+    "text": "はリカバーⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "キュアーⅠ",
+    "text": "キュアーⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "毒状態を回復する。",
+    "text": "毒状態を回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はキュアーⅠを唱えた！",
+    "text": "はキュアーⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "キュアーⅡ",
+    "text": "キュアーⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "毒、暗闇、沈黙、睡眠を回復する。",
+    "text": "毒、暗闇、沈黙、睡眠を回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はキュアーⅡを唱えた！",
+    "text": "はキュアーⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "キュアーⅢ",
+    "text": "キュアーⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "戦闘不能以外の状態異常を回復する。",
+    "text": "戦闘不能以外の状態異常を回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はキュアーⅢを唱えた！",
+    "text": "はキュアーⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "レイズⅠ",
+    "text": "レイズⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "戦闘不能から復活させ、ＨＰを10％回復する。",
+    "text": "戦闘不能から復活させ、ＨＰを10％回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はレイズⅠを唱えた！",
+    "text": "はレイズⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "レイズⅡ",
+    "text": "レイズⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "戦闘不能から復活させ、ＨＰを50％回復する。",
+    "text": "戦闘不能から復活させ、ＨＰを50％回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はレイズⅡを唱えた！",
+    "text": "はレイズⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "レイズⅢ",
+    "text": "レイズⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "戦闘不能から復活させ、ＨＰを100％回復する。",
+    "text": "戦闘不能から復活させ、ＨＰを100％回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はレイズⅢを唱えた！",
+    "text": "はレイズⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ノックアウト",
+    "text": "ノックアウト",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体を一撃で倒す。",
+    "text": "敵全体を一撃で倒す。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はノックアウトを唱えた！",
+    "text": "はノックアウトを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ポイズン",
+    "text": "ポイズン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はポイズンを唱えた！",
+    "text": "はポイズンを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ブラインド",
+    "text": "ブラインド",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はブラインドを唱えた！",
+    "text": "はブラインドを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "サイレンス",
+    "text": "サイレンス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はサイレンスを唱えた！",
+    "text": "はサイレンスを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "アンガー",
+    "text": "アンガー",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はアンガーを唱えた！",
+    "text": "はアンガーを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "コンフューズ",
+    "text": "コンフューズ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はコンフューズを唱えた！",
+    "text": "はコンフューズを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "スリープ",
+    "text": "スリープ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はスリープを唱えた！",
+    "text": "はスリープを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "パラライズ",
+    "text": "パラライズ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はパラライズを唱えた！",
+    "text": "はパラライズを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ウェポンブレス",
+    "text": "ウェポンブレス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "味方単体の攻撃力を上げる。",
+    "text": "味方単体の攻撃力を上げる。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はウェポンブレスを唱えた！",
+    "text": "はウェポンブレスを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ウェポンカース",
+    "text": "ウェポンカース",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体の攻撃力を下げる。",
+    "text": "敵全体の攻撃力を下げる。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はウェポンカースを唱えた！",
+    "text": "はウェポンカースを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "アーマーブレス",
+    "text": "アーマーブレス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "味方単体の防御力を上げる。",
+    "text": "味方単体の防御力を上げる。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はアーマーブレスを唱えた！",
+    "text": "はアーマーブレスを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "アーマーカース",
+    "text": "アーマーカース",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体の防御力を下げる。",
+    "text": "敵全体の防御力を下げる。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はアーマーカースを唱えた！",
+    "text": "はアーマーカースを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "スピリットブレス",
+    "text": "スピリットブレス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "味方単体の精神力を上げる。",
+    "text": "味方単体の精神力を上げる。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はスピリットブレスを唱えた！",
+    "text": "はスピリットブレスを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "スピリットカース",
+    "text": "スピリットカース",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体の精神力を下げる。",
+    "text": "敵全体の精神力を下げる。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はスピリットカースを唱えた！",
+    "text": "はスピリットカースを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "クイックムーブ",
+    "text": "クイックムーブ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "味方単体の敏捷性を上げる。",
+    "text": "味方単体の敏捷性を上げる。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はクイックムーブを唱えた！",
+    "text": "はクイックムーブを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "スロームーブ",
+    "text": "スロームーブ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体の敏捷性を下げる。",
+    "text": "敵全体の敏捷性を下げる。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はスロームーブを唱えた！",
+    "text": "はスロームーブを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ヒートバリア",
+    "text": "ヒートバリア",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "味方全体をバリアで包み、炎の攻撃から身を守る。",
+    "text": "味方全体をバリアで包み、炎の攻撃から身を守る。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はヒートバリアを唱えた！",
+    "text": "はヒートバリアを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "コールドバリア",
+    "text": "コールドバリア",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "味方全体をバリアで包み、冷気の攻撃から身を守る。",
+    "text": "味方全体をバリアで包み、冷気の攻撃から身を守る。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はコールドバリアを唱えた！",
+    "text": "はコールドバリアを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ライフアブソーブ",
+    "text": "ライフアブソーブ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はライフアブソーブを唱えた！",
+    "text": "はライフアブソーブを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ソウルアブソーブ",
+    "text": "ソウルアブソーブ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はソウルアブソーブを唱えた！",
+    "text": "はソウルアブソーブを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "テレポート",
+    "text": "テレポート",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "行ったことがある町などに瞬間移動する。",
+    "text": "行ったことがある町などに瞬間移動する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はテレポートを唱えた！",
+    "text": "はテレポートを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "エスケープ",
+    "text": "エスケープ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "洞窟などの中から外へ脱出する。",
+    "text": "洞窟などの中から外へ脱出する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はエスケープを唱えた！",
+    "text": "はエスケープを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ファイアⅠ",
+    "text": "ファイアⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体に炎属性のダメージを与える。",
+    "text": "敵単体に炎属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はファイアⅠを唱えた！",
+    "text": "はファイアⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ファイアⅡ",
+    "text": "ファイアⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はファイアⅡを唱えた！",
+    "text": "はファイアⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ファイアⅢ",
+    "text": "ファイアⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はファイアⅢを唱えた！",
+    "text": "はファイアⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "フレイムⅠ",
+    "text": "フレイムⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はフレイムⅠを唱えた！",
+    "text": "はフレイムⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "フレイムⅡ",
+    "text": "フレイムⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はフレイムⅡを唱えた！",
+    "text": "はフレイムⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "フレイムⅢ",
+    "text": "フレイムⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はフレイムⅢを唱えた！",
+    "text": "はフレイムⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "アイスⅠ",
+    "text": "アイスⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体に冷気属性のダメージを与える。",
+    "text": "敵単体に冷気属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はアイスⅠを唱えた！",
+    "text": "はアイスⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "アイスⅡ",
+    "text": "アイスⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はアイスⅡを唱えた！",
+    "text": "はアイスⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "アイスⅢ",
+    "text": "アイスⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はアイスⅢを唱えた！",
+    "text": "はアイスⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ブリザードⅠ",
+    "text": "ブリザードⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はブリザードⅠを唱えた！",
+    "text": "はブリザードⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ブリザードⅡ",
+    "text": "ブリザードⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はブリザードⅡを唱えた！",
+    "text": "はブリザードⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ブリザードⅢ",
+    "text": "ブリザードⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はブリザードⅢを唱えた！",
+    "text": "はブリザードⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "サンダーⅠ",
+    "text": "サンダーⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体に雷属性のダメージを与える。",
+    "text": "敵単体に雷属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はサンダーⅠを唱えた！",
+    "text": "はサンダーⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "サンダーⅡ",
+    "text": "サンダーⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はサンダーⅡを唱えた！",
+    "text": "はサンダーⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "サンダーⅢ",
+    "text": "サンダーⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はサンダーⅢを唱えた！",
+    "text": "はサンダーⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "スパークⅠ",
+    "text": "スパークⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はスパークⅠを唱えた！",
+    "text": "はスパークⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "スパークⅡ",
+    "text": "スパークⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はスパークⅡを唱えた！",
+    "text": "はスパークⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "スパークⅢ",
+    "text": "スパークⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はスパークⅢを唱えた！",
+    "text": "はスパークⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ウォーターⅠ",
+    "text": "ウォーターⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体に水属性のダメージを与える。",
+    "text": "敵単体に水属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はウォーターⅠを唱えた！",
+    "text": "はウォーターⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ウォーターⅡ",
+    "text": "ウォーターⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はウォーターⅡを唱えた！",
+    "text": "はウォーターⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ウォーターⅢ",
+    "text": "ウォーターⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はウォーターⅢを唱えた！",
+    "text": "はウォーターⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ウェーブⅠ",
+    "text": "ウェーブⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はウェーブⅠを唱えた！",
+    "text": "はウェーブⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ウェーブⅡ",
+    "text": "ウェーブⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はウェーブⅡを唱えた！",
+    "text": "はウェーブⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ウェーブⅢ",
+    "text": "ウェーブⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はウェーブⅢを唱えた！",
+    "text": "はウェーブⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ストーンⅠ",
+    "text": "ストーンⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体に大地属性のダメージを与える。",
+    "text": "敵単体に大地属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はストーンⅠを唱えた！",
+    "text": "はストーンⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ストーンⅡ",
+    "text": "ストーンⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はストーンⅡを唱えた！",
+    "text": "はストーンⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ストーンⅢ",
+    "text": "ストーンⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はストーンⅢを唱えた！",
+    "text": "はストーンⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  }
+]

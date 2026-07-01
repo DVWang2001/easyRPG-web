@@ -1,0 +1,245 @@
+*****Entry1*****
+#Name# [8]
+戰鬥不能
+
+#InflictedOnAlly# [30]
+倒下了！
+
+#InflictedOnEnemy# [30]
+打倒了！
+
+#Recovered# [30]
+站了起來！
+
+
+
+*****Entry2*****
+#Name# [8]
+毒
+
+#InflictedOnAlly# [30]
+中毒了！
+
+#InflictedOnEnemy# [30]
+中毒了！
+
+#AlreadyInflicted# [30]
+已經中毒了！
+
+#Continuing# [30]
+受到毒傷！
+
+#Recovered# [30]
+的毒素消失了！
+
+
+
+*****Entry3*****
+#Name# [8]
+暗闇
+
+#InflictedOnAlly# [30]
+被黑暗籠罩了！
+
+#InflictedOnEnemy# [30]
+陷入黑暗！
+
+#AlreadyInflicted# [30]
+已經處於黑暗之中！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+的黑暗狀態解除了！
+
+
+
+*****Entry4*****
+#Name# [8]
+沈默
+
+#InflictedOnAlly# [30]
+被沉默了！
+
+#InflictedOnEnemy# [30]
+陷入了沉默！
+
+#AlreadyInflicted# [30]
+已經處於沉默狀態！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+的沉默狀態解除了！
+
+
+
+*****Entry5*****
+#Name# [8]
+暴走
+
+#InflictedOnAlly# [30]
+暴走了！
+
+#InflictedOnEnemy# [30]
+陷入暴走！
+
+#AlreadyInflicted# [30]
+已經在暴走狀態！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+找回了自我！
+
+
+
+*****Entry6*****
+#Name# [8]
+混亂
+
+#InflictedOnAlly# [30]
+混亂了！
+
+#InflictedOnEnemy# [30]
+陷入了混亂！
+
+#AlreadyInflicted# [30]
+已經在混亂狀態！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+找回了自我！
+
+
+
+*****Entry7*****
+#Name# [8]
+睡眠
+
+#InflictedOnAlly# [30]
+睡著了！
+
+#InflictedOnEnemy# [30]
+被催眠了！
+
+#AlreadyInflicted# [30]
+已經睡著了！
+
+#Continuing# [30]
+正在沉睡中……
+
+#Recovered# [30]
+醒過來了！
+
+
+
+*****Entry8*****
+#Name# [8]
+麻痺
+
+#InflictedOnAlly# [30]
+身體麻痺動彈不得！
+
+#InflictedOnEnemy# [30]
+被麻痺了！
+
+#AlreadyInflicted# [30]
+已經麻痺了！
+
+#Continuing# [30]
+處於麻痺狀態動彈不得！
+
+#Recovered# [30]
+的麻痺狀態解除了！
+
+
+
+*****Entry9*****
+#Name# [8]
+發麻
+
+#InflictedOnAlly# [30]
+身體發麻！
+
+#InflictedOnEnemy# [30]
+使之發麻！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+正在發麻中……
+
+#Recovered# [30]
+發麻狀態解除了！
+
+
+
+*****Entry10*****
+#Name# [8]
+受驚
+
+#InflictedOnAlly# [30]
+嚇了一跳！
+
+#InflictedOnEnemy# [30]
+呆立在原地！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+嚇得畏縮不前……
+
+#Recovered# [30]
+重新振作了起來！
+
+
+
+*****Entry11*****
+#Name# [8]
+青蛙
+
+#InflictedOnAlly# [30]
+變成了青蛙！
+
+#InflictedOnEnemy# [30]
+變成了青蛙！
+
+#AlreadyInflicted# [30]
+已經是一隻青蛙了！
+
+#Continuing# [30]
+像青蛙一樣叫著……
+
+#Recovered# [30]
+恢復了原狀！
+
+
+
+*****Entry12*****
+#Name# [8]
+定身
+
+#InflictedOnAlly# [30]
+被定身了！
+
+#InflictedOnEnemy# [30]
+被定身了！
+
+#AlreadyInflicted# [30]
+已經在定身狀態！
+
+#Continuing# [30]
+被定身動彈不得！
+
+#Recovered# [30]
+從定身狀態解脫了！
+
+

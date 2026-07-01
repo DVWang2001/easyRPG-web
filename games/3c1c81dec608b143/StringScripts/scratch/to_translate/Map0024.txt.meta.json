@@ -1,0 +1,247 @@
+{
+    "filepath": "Map0024.txt",
+    "meta": [
+        {
+            "type": "message",
+            "start_line_idx": 5,
+            "end_line_idx": 5
+        },
+        {
+            "type": "message",
+            "start_line_idx": 10,
+            "end_line_idx": 10
+        },
+        {
+            "type": "message",
+            "start_line_idx": 17,
+            "end_line_idx": 17
+        },
+        {
+            "type": "message",
+            "start_line_idx": 24,
+            "end_line_idx": 25
+        },
+        {
+            "type": "message",
+            "start_line_idx": 30,
+            "end_line_idx": 33
+        },
+        {
+            "type": "message",
+            "start_line_idx": 40,
+            "end_line_idx": 40
+        },
+        {
+            "type": "message",
+            "start_line_idx": 45,
+            "end_line_idx": 46
+        },
+        {
+            "type": "message",
+            "start_line_idx": 53,
+            "end_line_idx": 53
+        },
+        {
+            "type": "message",
+            "start_line_idx": 58,
+            "end_line_idx": 58
+        },
+        {
+            "type": "message",
+            "start_line_idx": 65,
+            "end_line_idx": 65
+        },
+        {
+            "type": "message",
+            "start_line_idx": 72,
+            "end_line_idx": 72
+        },
+        {
+            "type": "message",
+            "start_line_idx": 83,
+            "end_line_idx": 83
+        },
+        {
+            "type": "message",
+            "start_line_idx": 90,
+            "end_line_idx": 90
+        },
+        {
+            "type": "message",
+            "start_line_idx": 97,
+            "end_line_idx": 99
+        },
+        {
+            "type": "message",
+            "start_line_idx": 104,
+            "end_line_idx": 104
+        },
+        {
+            "type": "message",
+            "start_line_idx": 115,
+            "end_line_idx": 115
+        },
+        {
+            "type": "message",
+            "start_line_idx": 120,
+            "end_line_idx": 120
+        },
+        {
+            "type": "message",
+            "start_line_idx": 127,
+            "end_line_idx": 127
+        },
+        {
+            "type": "message",
+            "start_line_idx": 134,
+            "end_line_idx": 136
+        },
+        {
+            "type": "message",
+            "start_line_idx": 143,
+            "end_line_idx": 143
+        },
+        {
+            "type": "message",
+            "start_line_idx": 148,
+            "end_line_idx": 149
+        },
+        {
+            "type": "message",
+            "start_line_idx": 154,
+            "end_line_idx": 156
+        },
+        {
+            "type": "message",
+            "start_line_idx": 161,
+            "end_line_idx": 162
+        },
+        {
+            "type": "message",
+            "start_line_idx": 169,
+            "end_line_idx": 169
+        }
+    ],
+    "items": [
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "あっ、そうニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "この上に、おジジがおるからニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.おジジ？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "次の扉を守ってる\nオイラたちの仲間の妖怪ニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "もしまた\n闘うことになっても\nおジジは歳いってるから\n手加減してやってニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "それは･･･\n\\.扉を守っている意味があるのか？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.\\S[2]･････････"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "　\\.\\.\\.$d"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "　\\.\\.\\.$d"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.\\.ま、あんまり深く考えないでニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.･･･おにぎり見っけ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.何でこんなトコロに？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "うーん。\n誰かココで夕飯食べたんだニャ。\nきっと。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "持っていこ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.\\S[2]ところで･･････"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.ひとつ聞いてもよいか？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.なんニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.なぜ そなたは\n「狐」のことを「姫さん」と\n呼んでいるのだ？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.ん～"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.この洞窟を取り仕切っているから\nってのもあるかもしれんが･･･"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.お姫さんみたいに\nキレイだから･･･ってのも\nあるかもしれんニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.他の者たちも\nみんなそう呼んどるニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.\\.\\S[2]･････････そうか。"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+﻿1. [MARKER: Message] [FACE: Ｆ鬼] ちっ･･･
+嫌なこと思い出しちまったぜ。
+2. [MARKER: Message] [FACE: F鞍春] ･･････。
+3. [MARKER: Message] [FACE: Ｆ鬼] ･･････。
+4. [MARKER: Message] [FACE: Ｆ鬼] ･･････そこの鍵だ。　持ってけ。
+5. [MARKER: Message] [FACE: Ｆタマ] ･･･いいのニャ？
+6. [MARKER: Message] [FACE: Ｆ鬼] るせーな
+用が済んだらさっさと行け！
+7. [MARKER: Message] [FACE: Ｆタマ] な、なんか
+オイラに対する態度と
+そやつに対する態度が違うニャ。
+8. [MARKER: Message] [FACE: F鞍春] ･･････。
+9. [MARKER: Message] [FACE: Ｆタマ] \.どうしたニャ。
+10. [MARKER: Message] [FACE: F鞍春] 強い･･･妖気のようなものを感じる。
+11. [MARKER: Message] [FACE: F鞍春] さっきの２人とは
+少々レベルの違う妖怪がいそうだな。
+12. [MARKER: Message] [FACE: Ｆタマ] それはそうニャ。
+ここの扉を守ってるのは･･･お
+13. [MARKER: Message] [FACE: F鞍春] ･･････。
+14. [MARKER: Message] [FACE: Ｆタマ] お
+15. [MARKER: Message] [FACE: F鞍春] お？
+16. [MARKER: Message] [FACE: Ｆタマ] ･･････
+17. [MARKER: Message] [FACE: Ｆタマ] へっくしょん$e
+18. [MARKER: Message] [FACE: F鞍春] ･･････。
+19. [MARKER: Message] [FACE: Ｆタマ] はニャ～、風邪ひいたかニャ。
+20. [MARKER: Message] [FACE: F鞍春] ･･･
+へっくしょん大魔王か。
+21. [MARKER: Message] [FACE: Ｆタマ] へ？
+22. [MARKER: Message] [FACE: Ｆタマ] あ、そニャ。
+23. [MARKER: Message] [FACE: Ｆタマ] コレ、お主にやるニャ。
+24. [MARKER: Message] [FACE: Ｆタマ] \.\.機会があったら
+\.ユキノさんのお墓に供えてニャ。
+25. [MARKER: Message] [FACE: Ｆタマ] \.\.お主のことだから
+こういうのは気がきかんだろうから･･･
+26. [MARKER: Message] [FACE: Ｆ鬼] \S[2]･････････

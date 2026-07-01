@@ -1,0 +1,3533 @@
+{
+    "Map0001.txt": {
+        "\\>【\\N[1]】\n\\>ついに・・・\n\\!\\>ついにここまで来たんだ・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>ついに・・・\n\\!\\>ついにここまで来たんだ・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・。\n\\!\\>ちょっとだけ・・・恐い。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・。\n\\!\\>ちょっとだけ・・・恐い。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・でも、行かなくちゃ・・・！\n\\!\\>この先に、何が待っているとしても・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・でも、行かなくちゃ・・・！\n\\!\\>この先に、何が待っているとしても・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>うん・・・。\n\\!\\>行こう・・・！\n\\!\\>後ろを振り返る為の目なら、もういらない・・！！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>うん・・・。\n\\!\\>行こう・・・！\n\\!\\>後ろを振り返る為の目なら、もういらない・・！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0002.txt": {
+        "\\>【\\N[1]】\n\\>ここが・・・山頂・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>ここが・・・山頂・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>何も・・・\n\\!\\>何もないじゃないか・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>何も・・・\n\\!\\>何もないじゃないか・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>宝石なんて・・・\n\\!\\>どこにもないじゃないか・・・！！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>宝石なんて・・・\n\\!\\>どこにもないじゃないか・・・！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>僕の目には・・・\n\\!\\>何も・・・何も映らないのか・・・": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>僕の目には・・・\n\\!\\>何も・・・何も映らないのか・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>あっ・・・！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>あっ・・・！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>夕焼け・・・！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>夕焼け・・・！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・\\<\\!\\>もしかして・・・\n\\!\\>これが・・・\n\\!\\>これが・・・レッドプロミス・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・\\<\\!\\>もしかして・・・\n\\!\\>これが・・・\n\\!\\>これが・・・レッドプロミス・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・キレイ・・・。\n\\!\\>凄く、キレイだ・・・": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・キレイ・・・。\n\\!\\>凄く、キレイだ・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>これが・・・\n\\!\\>世界で一番キレイなのかな・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>これが・・・\n\\!\\>世界で一番キレイなのかな・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>ううん・・・。\n\\!\\>もっとキレイなものが、\n\\>きっとどこかにある気がする・・・！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>ううん・・・。\n\\!\\>もっとキレイなものが、\n\\>きっとどこかにある気がする・・・！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>行こう・・・。\n\\!\\>もっとキレイなモノを探しに・・・。\n\\!\\>どこまでも、遠くへ・・・！！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>行こう・・・。\n\\!\\>もっとキレイなモノを探しに・・・。\n\\!\\>どこまでも、遠くへ・・・！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0003.txt": {
+        "\\>このゲームは、\n\\>爆弾を使ってステージ内の石を全て壊すことが目的の\n\\>パズルゲームです。\n\\!\\>まずは簡単に、ステージクリアの流れを説明します。": {
+            "text_to_translate": "\\>このゲームは、\n\\>爆弾を使ってステージ内の石を全て壊すことが目的の\n\\>パズルゲームです。\n\\!\\>まずは簡単に、ステージクリアの流れを説明します。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>爆弾にはそれぞれ、爆風の広がる範囲があります。\n\\!\\>爆風に石が当ると壊れ、\n\\>爆風に別の爆弾が当ると、その爆弾に引火して爆発し、\n\\>その爆風でまた石を壊したり爆弾へ引火したりします。": {
+            "text_to_translate": "\\>爆弾にはそれぞれ、爆風の広がる範囲があります。\n\\!\\>爆風に石が当ると壊れ、\n\\>爆風に別の爆弾が当ると、その爆弾に引火して爆発し、\n\\>その爆風でまた石を壊したり爆弾へ引火したりします。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>全ての石が壊れるように爆弾の位置を考え、\n\\>爆弾を動かします。": {
+            "text_to_translate": "\\>全ての石が壊れるように爆弾の位置を考え、\n\\>爆弾を動かします。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>次に、最初に爆発する爆弾を決定します。\n\\>導火線が黄色くなるので覚えておいてください。": {
+            "text_to_translate": "\\>次に、最初に爆発する爆弾を決定します。\n\\>導火線が黄色くなるので覚えておいてください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>そして、キャンセルキーでメニューを開き、\n\\>「起爆する」を選び、爆発を開始します。": {
+            "text_to_translate": "\\>そして、キャンセルキーでメニューを開き、\n\\>「起爆する」を選び、爆発を開始します。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>このように、全ての石を壊せたら\n\\>ステージクリアです。": {
+            "text_to_translate": "\\>このように、全ての石を壊せたら\n\\>ステージクリアです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>今のように、爆弾により\n\\>①石を壊す②次の爆弾へと引火する\n\\>ということが、このゲームの基本となります。": {
+            "text_to_translate": "\\>今のように、爆弾により\n\\>①石を壊す②次の爆弾へと引火する\n\\>ということが、このゲームの基本となります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>流れの説明は以上で終ります。\n\\!\\>では、続いて見たい説明を選んで下さい。": {
+            "text_to_translate": "\\>流れの説明は以上で終ります。\n\\!\\>では、続いて見たい説明を選んで下さい。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>爆弾の種類": {
+            "text_to_translate": "\\>爆弾の種類",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>石の種類": {
+            "text_to_translate": "\\>石の種類",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>操作方法": {
+            "text_to_translate": "\\>操作方法",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>その他・注意事項": {
+            "text_to_translate": "\\>その他・注意事項",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>説明を終了してよろしいですか？": {
+            "text_to_translate": "\\>説明を終了してよろしいですか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "はい": {
+            "text_to_translate": "はい",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "いいえ": {
+            "text_to_translate": "いいえ",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        }
+    },
+    "Map0004.txt": {
+        "\\>爆弾には、この４つの種類があります。": {
+            "text_to_translate": "\\>爆弾には、この４つの種類があります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>左上の小さい爆弾は・・・": {
+            "text_to_translate": "\\>左上の小さい爆弾は・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>このように、上下左右４マスに\n\\>爆風が広がります。": {
+            "text_to_translate": "\\>このように、上下左右４マスに\n\\>爆風が広がります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>右上の大きい爆弾は・・・": {
+            "text_to_translate": "\\>右上の大きい爆弾は・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>このように、周辺１２マスに\n\\>爆風が広がります。": {
+            "text_to_translate": "\\>このように、周辺１２マスに\n\\>爆風が広がります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>下段の赤い爆弾は、\n\\>動かすことが出来ません。\n\\!\\>爆風は・・・": {
+            "text_to_translate": "\\>下段の赤い爆弾は、\n\\>動かすことが出来ません。\n\\!\\>爆風は・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>このように、同じ大きさの黒い爆弾と同じです。\n\\>ちなみに、この赤い爆弾は\n\\>エンドレスモードには登場しません。": {
+            "text_to_translate": "\\>このように、同じ大きさの黒い爆弾と同じです。\n\\>ちなみに、この赤い爆弾は\n\\>エンドレスモードには登場しません。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>爆弾の種類は以上の４つです。\n\\!\\>爆風の広がる範囲は、\n\\>このゲームにおいて最も大切なことの一つです。\n\\>しっかりと覚えていってください。": {
+            "text_to_translate": "\\>爆弾の種類は以上の４つです。\n\\!\\>爆風の広がる範囲は、\n\\>このゲームにおいて最も大切なことの一つです。\n\\>しっかりと覚えていってください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>では、説明を終ります。": {
+            "text_to_translate": "\\>では、説明を終ります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0005.txt": {
+        "\\>石は、\n\\>「色」と「数字の有無」\n\\>で区別されます。": {
+            "text_to_translate": "\\>石は、\n\\>「色」と「数字の有無」\n\\>で区別されます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>青い石は、\n\\>一番基本的な石です。\n\\>一度爆風をあてると\n\\>壊すことが出来ます。": {
+            "text_to_translate": "\\>青い石は、\n\\>一番基本的な石です。\n\\>一度爆風をあてると\n\\>壊すことが出来ます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>オレンジ色の石は、\n\\>一度爆風を当てると青い石となり、\n\\>もう一度爆風を当てると壊れます。\n\\!\\>つまりオレンジ色の石は、\\c[13]二回の爆風で壊れます。": {
+            "text_to_translate": "\\>オレンジ色の石は、\n\\>一度爆風を当てると青い石となり、\n\\>もう一度爆風を当てると壊れます。\n\\!\\>つまりオレンジ色の石は、\\c[13]二回の爆風で壊れます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>石に、１～３の数字がついているものがあります。\n\\!\\>これらは、\n\\>\\c[13]数字の小さい順に壊さないと壊れません。": {
+            "text_to_translate": "\\>石に、１～３の数字がついているものがあります。\n\\!\\>これらは、\n\\>\\c[13]数字の小さい順に壊さないと壊れません。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>オレンジのものも同様です。\n\\!\\>但し、一回目の爆風でのオレンジ→青の変化は\n\\>数字に影響されません。": {
+            "text_to_translate": "\\>オレンジのものも同様です。\n\\!\\>但し、一回目の爆風でのオレンジ→青の変化は\n\\>数字に影響されません。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]石が壊れる時点で、\n\\>その石より数字の小さい石が壊れているかどうか、\n\\>\\c[13]という判断をします。": {
+            "text_to_translate": "\\>\\c[13]石が壊れる時点で、\n\\>その石より数字の小さい石が壊れているかどうか、\n\\>\\c[13]という判断をします。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>では、説明を終ります。": {
+            "text_to_translate": "\\>では、説明を終ります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0007.txt": {
+        "\\>ここでは、パズルを解くために重要な、\n\\>特殊な操作方法の説明をします。": {
+            "text_to_translate": "\\>ここでは、パズルを解くために重要な、\n\\>特殊な操作方法の説明をします。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>まずは、爆弾を動かす方法。\n\\>押す・引くの２種類がありますが、\n\\>押し方は簡単です。\n\\>押したい爆弾を押したい方向へ向かって触れるだけです。": {
+            "text_to_translate": "\\>まずは、爆弾を動かす方法。\n\\>押す・引くの２種類がありますが、\n\\>押し方は簡単です。\n\\>押したい爆弾を押したい方向へ向かって触れるだけです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>引く方法は少々複雑ですが、\n\\>\\c[13]非常に重要ですのでしっかり覚えていってください。": {
+            "text_to_translate": "\\>引く方法は少々複雑ですが、\n\\>\\c[13]非常に重要ですのでしっかり覚えていってください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>では、爆弾を引く方法を説明します。\n\\!\\>まず、引きたい爆弾に向かって\n\\>\\c[13]決定キーを押しっぱなしにします。": {
+            "text_to_translate": "\\>では、爆弾を引く方法を説明します。\n\\!\\>まず、引きたい爆弾に向かって\n\\>\\c[13]決定キーを押しっぱなしにします。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>次に、決定キーを押したまま、\n\\>\\c[13]引く方向のキーを押しっぱなしにします。": {
+            "text_to_translate": "\\>次に、決定キーを押したまま、\n\\>\\c[13]引く方向のキーを押しっぱなしにします。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>そして、方向キーは押したまま、\n\\>\\c[13]決定キーのみ押すのをやめると、\n\\>爆弾を引くことが出来ます。": {
+            "text_to_translate": "\\>そして、方向キーは押したまま、\n\\>\\c[13]決定キーのみ押すのをやめると、\n\\>爆弾を引くことが出来ます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>壁などにぶつかるか、方向キーを離すと、\n\\>引くのをやめることができます。": {
+            "text_to_translate": "\\>壁などにぶつかるか、方向キーを離すと、\n\\>引くのをやめることができます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>では、実際に練習してみてください。\n\\!\\>練習が済んだら、キャンセルキーを押してください。": {
+            "text_to_translate": "\\>では、実際に練習してみてください。\n\\!\\>練習が済んだら、キャンセルキーを押してください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>練習を終わる": {
+            "text_to_translate": "\\>練習を終わる",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>もう一度、爆弾の引き方を聞く": {
+            "text_to_translate": "\\>もう一度、爆弾の引き方を聞く",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>キャンセル": {
+            "text_to_translate": "\\>キャンセル",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>次の説明に進んでよろしいですか？": {
+            "text_to_translate": "\\>次の説明に進んでよろしいですか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "はい": {
+            "text_to_translate": "はい",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "いいえ": {
+            "text_to_translate": "いいえ",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>まず、引きたい爆弾に向かって\n\\>\\c[13]決定キーを押しっぱなしにします。": {
+            "text_to_translate": "\\>まず、引きたい爆弾に向かって\n\\>\\c[13]決定キーを押しっぱなしにします。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>では続いて、最初に爆発する爆弾の\n\\>設定の仕方を説明します。\n\\!\\>この設定をしないと爆発を開始できないので、\n\\>しっかり覚えておいてください。": {
+            "text_to_translate": "\\>では続いて、最初に爆発する爆弾の\n\\>設定の仕方を説明します。\n\\!\\>この設定をしないと爆発を開始できないので、\n\\>しっかり覚えておいてください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>とはいっても、やり方は非常に簡単です。\n\\!\\>最初に爆発させたい爆弾に向かって\n\\>\\c[13]短く決定キーを押して、\\c[0]離すだけです。\n\\!\\>最初に爆発する爆弾の導火線は黄色くなります。": {
+            "text_to_translate": "\\>とはいっても、やり方は非常に簡単です。\n\\!\\>最初に爆発させたい爆弾に向かって\n\\>\\c[13]短く決定キーを押して、\\c[0]離すだけです。\n\\!\\>最初に爆発する爆弾の導火線は黄色くなります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>もう一度、設定のしかたを聞く": {
+            "text_to_translate": "\\>もう一度、設定のしかたを聞く",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>最初に爆発させたい爆弾に向かって\n\\>\\c[13]短く決定キーを押して、\\c[0]離すだけです。": {
+            "text_to_translate": "\\>最初に爆発させたい爆弾に向かって\n\\>\\c[13]短く決定キーを押して、\\c[0]離すだけです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>では最後に、\n\\>実際に爆発を開始する方法を説明します。": {
+            "text_to_translate": "\\>では最後に、\n\\>実際に爆発を開始する方法を説明します。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>これもやり方は簡単で、\n\\>\\c[13]キャンセルキーを押し、選択肢の中から\n\\>「爆発を開始する」を選択するだけです。": {
+            "text_to_translate": "\\>これもやり方は簡単で、\n\\>\\c[13]キャンセルキーを押し、選択肢の中から\n\\>「爆発を開始する」を選択するだけです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>では、実際に、爆発を開始してみてください。": {
+            "text_to_translate": "\\>では、実際に、爆発を開始してみてください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>$w爆発を開始する": {
+            "text_to_translate": "\\>$w爆発を開始する",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$xキャンセル": {
+            "text_to_translate": "\\>$xキャンセル",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>これで、爆発が開始します。\n\\!\\>ちなみに、最初に爆発する爆弾の設定がされていないと\n\\>爆発を開始することは出来ません。": {
+            "text_to_translate": "\\>これで、爆発が開始します。\n\\!\\>ちなみに、最初に爆発する爆弾の設定がされていないと\n\\>爆発を開始することは出来ません。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>では、説明を終ります。": {
+            "text_to_translate": "\\>では、説明を終ります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0014.txt": {
+        "\\>パズルにおける、注意事項や\n\\>知っておいてもらいたいことを説明します。": {
+            "text_to_translate": "\\>パズルにおける、注意事項や\n\\>知っておいてもらいたいことを説明します。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>まず、上の３つの爆弾を見てください。\n\\!\\>このまま爆発を開始すると・・・": {
+            "text_to_translate": "\\>まず、上の３つの爆弾を見てください。\n\\!\\>このまま爆発を開始すると・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>中央の爆弾から左右二つの爆弾へ\n\\>同時に引火しそうですよね？": {
+            "text_to_translate": "\\>中央の爆弾から左右二つの爆弾へ\n\\>同時に引火しそうですよね？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>実はこのゲームでは、\n\\>\\c[13]一つの爆弾から二つ以上の爆弾に引火してはいけない、\n\\>\\c[0]という決まりがあります。": {
+            "text_to_translate": "\\>実はこのゲームでは、\n\\>\\c[13]一つの爆弾から二つ以上の爆弾に引火してはいけない、\n\\>\\c[0]という決まりがあります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>この場合ではまさに、\n\\>一つの爆弾から二つの爆弾へ引火する処理があるので\n\\>この場合、\\c[13]爆発を始めることは出来ません。": {
+            "text_to_translate": "\\>この場合ではまさに、\n\\>一つの爆弾から二つの爆弾へ引火する処理があるので\n\\>この場合、\\c[13]爆発を始めることは出来ません。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>そこでこうすると、順番に爆発していくので\n\\>一つの爆弾から二つ以上の爆弾に\n\\>引火する処理はありませんよね。": {
+            "text_to_translate": "\\>そこでこうすると、順番に爆発していくので\n\\>一つの爆弾から二つ以上の爆弾に\n\\>引火する処理はありませんよね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>このように、\n\\>\\c[13]一つの爆弾から二つ以上の爆弾に引火してはいけない、\n\\>\\c[0]という決まりがありますので、\n\\>それを覚えておいてください。": {
+            "text_to_translate": "\\>このように、\n\\>\\c[13]一つの爆弾から二つ以上の爆弾に引火してはいけない、\n\\>\\c[0]という決まりがありますので、\n\\>それを覚えておいてください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>次に、真ん中の爆弾と\n\\>数字のついた石を見てください。": {
+            "text_to_translate": "\\>次に、真ん中の爆弾と\n\\>数字のついた石を見てください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>この状態で爆発させると・・・": {
+            "text_to_translate": "\\>この状態で爆発させると・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>左右の両方の石に爆風が及びます。\n\\!\\>更に、処理の順番上、\n\\>１番が壊れた後、２番の処理が行われることになります": {
+            "text_to_translate": "\\>左右の両方の石に爆風が及びます。\n\\!\\>更に、処理の順番上、\n\\>１番が壊れた後、２番の処理が行われることになります",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>すると、数字の通り、１番→２番の順番どおりに\n\\>壊したかのように見えますが、\n\\>同じ爆弾による爆風は\n\\>\\c[13]全て同時とみなされます。": {
+            "text_to_translate": "\\>すると、数字の通り、１番→２番の順番どおりに\n\\>壊したかのように見えますが、\n\\>同じ爆弾による爆風は\n\\>\\c[13]全て同時とみなされます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>つまりこの場合、１番の石は壊れますが\n\\>２番の石は壊れないことになります。": {
+            "text_to_translate": "\\>つまりこの場合、１番の石は壊れますが\n\\>２番の石は壊れないことになります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>そこでこうすると、\n\\>一番が壊れた後、右側の小さな爆弾に引火し、\n\\>小さな爆弾の爆風で２番の石が壊れますよね。": {
+            "text_to_translate": "\\>そこでこうすると、\n\\>一番が壊れた後、右側の小さな爆弾に引火し、\n\\>小さな爆弾の爆風で２番の石が壊れますよね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>つまり、数字つきの石は\n\\>\\c[13]それぞれ別の爆弾でないと壊せません。\n\\!\\>\\c[0]重要なことですので、覚えておいてください。": {
+            "text_to_translate": "\\>つまり、数字つきの石は\n\\>\\c[13]それぞれ別の爆弾でないと壊せません。\n\\!\\>\\c[0]重要なことですので、覚えておいてください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>では、説明を終ります。": {
+            "text_to_translate": "\\>では、説明を終ります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0020.txt": {
+        "\\>【モスガー】\n\\>ふぅー。\n\\!\\>さっきはマジでサンクスな。": {
+            "text_to_translate": "\\>【モスガー】\n\\>ふぅー。\n\\!\\>さっきはマジでサンクスな。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>モスガーさん、\n\\>こんな所で一人で\n\\>何をしてたんですか？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>モスガーさん、\n\\>こんな所で一人で\n\\>何をしてたんですか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>俺はこう見えても、トレジャーハンターでな。\n\\!\\>この地方にあるって噂のお宝を\n\\>探しに来たって訳よ。": {
+            "text_to_translate": "\\>【モスガー】\n\\>俺はこう見えても、トレジャーハンターでな。\n\\!\\>この地方にあるって噂のお宝を\n\\>探しに来たって訳よ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>そういう青年は、\n\\>こんな所へ一人ぶらり旅かい？": {
+            "text_to_translate": "\\>【モスガー】\n\\>そういう青年は、\n\\>こんな所へ一人ぶらり旅かい？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>実は・・・": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>実は・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>ほぉー・・・。\n\\!\\>世界で一番キレイな物、ってか・・・。": {
+            "text_to_translate": "\\>【モスガー】\n\\>ほぉー・・・。\n\\!\\>世界で一番キレイな物、ってか・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>ええ・・・。\n\\!\\>ただ、それが何なのか見当もつかなくて、\n\\>あても無く旅をしているんです・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>ええ・・・。\n\\!\\>ただ、それが何なのか見当もつかなくて、\n\\>あても無く旅をしているんです・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>なるほどな・・・。\n\\!\\>そうだ、一つ、いい事を教えてやろう。": {
+            "text_to_translate": "\\>【モスガー】\n\\>なるほどな・・・。\n\\!\\>そうだ、一つ、いい事を教えてやろう。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>俺が探してたこの地方のお宝ってのが、\n\\>「レッドプロミス」っていう宝石でな。": {
+            "text_to_translate": "\\>【モスガー】\n\\>俺が探してたこの地方のお宝ってのが、\n\\>「レッドプロミス」っていう宝石でな。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>大変な価値のあるものらしいから、\n\\>ひょっとしたら、世界で一番、と言えるくらい\n\\>ビューティかもしれないわけだ。": {
+            "text_to_translate": "\\>【モスガー】\n\\>大変な価値のあるものらしいから、\n\\>ひょっとしたら、世界で一番、と言えるくらい\n\\>ビューティかもしれないわけだ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>！！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>そ、それは、どこにあるんですか！？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>そ、それは、どこにあるんですか！？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>実は、どうもそれがハッキリしなくてな・・・。": {
+            "text_to_translate": "\\>【モスガー】\n\\>実は、どうもそれがハッキリしなくてな・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>古くからこの地方に住んでる民族の集落が、\n\\>ココから東に行った所にあるから\n\\>そこに行って情報を得ようと思ってたんだが・・・。": {
+            "text_to_translate": "\\>【モスガー】\n\\>古くからこの地方に住んでる民族の集落が、\n\\>ココから東に行った所にあるから\n\\>そこに行って情報を得ようと思ってたんだが・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>あの・・・\n\\!\\>僕も、一緒に連れて行ってくれませんか・・・！？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>あの・・・\n\\!\\>僕も、一緒に連れて行ってくれませんか・・・！？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>その宝石をわけろなんて言いません。\n\\!\\>一目見られれば、\n\\>それで構いませんから・・・！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>その宝石をわけろなんて言いません。\n\\!\\>一目見られれば、\n\\>それで構いませんから・・・！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>フフフ・・・青年よ。\n\\!\\>俺はもう、街へ帰るつもりなんだよ。": {
+            "text_to_translate": "\\>【モスガー】\n\\>フフフ・・・青年よ。\n\\!\\>俺はもう、街へ帰るつもりなんだよ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>えっ・・・どうしてですか・・・？？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>えっ・・・どうしてですか・・・？？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>俺ももうヤングとは言い難いからな・・・。\n\\!\\>少々、お疲れモードだ。": {
+            "text_to_translate": "\\>【モスガー】\n\\>俺ももうヤングとは言い難いからな・・・。\n\\!\\>少々、お疲れモードだ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>街で少し休んでから、\n\\>次のお宝を探しに行くとするよ。": {
+            "text_to_translate": "\\>【モスガー】\n\\>街で少し休んでから、\n\\>次のお宝を探しに行くとするよ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>青年。\n\\!\\>世界で一番キレイな物は、\n\\>キミの手で探し、キミのその目で見つけるんだ・・・！": {
+            "text_to_translate": "\\>【モスガー】\n\\>青年。\n\\!\\>世界で一番キレイな物は、\n\\>キミの手で探し、キミのその目で見つけるんだ・・・！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>もう行くのか？": {
+            "text_to_translate": "\\>【モスガー】\n\\>もう行くのか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>ええ・・・！\n\\!\\>あまり時間はありませんからね。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>ええ・・・！\n\\!\\>あまり時間はありませんからね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>そうか・・・。\n\\!\\>気をつけてな。": {
+            "text_to_translate": "\\>【モスガー】\n\\>そうか・・・。\n\\!\\>気をつけてな。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>はい、いろいろありがとうございました。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>はい、いろいろありがとうございました。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\\<\\.\n\\>青年よ・・・！\n\\!\\.\\.\\>大志を抱け・・・！！": {
+            "text_to_translate": "\\>【モスガー】\\<\\.\n\\>青年よ・・・！\n\\!\\.\\.\\>大志を抱け・・・！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0022.txt": {
+        "\\>【作者】\n\\>ども、作者の山田裕希です。\n\\>最後までプレイしてくださって、本当にありがとう！": {
+            "text_to_translate": "\\>【作者】\n\\>ども、作者の山田裕希です。\n\\>最後までプレイしてくださって、本当にありがとう！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【作者】\n\\>時間に追われて妥協しながら創った短編だったけど、\n\\>今までで一番の出来だと自負しております。\n\\!\\>最新作が最高作、常にこの気持ちで行きたいですね。": {
+            "text_to_translate": "\\>【作者】\n\\>時間に追われて妥協しながら創った短編だったけど、\n\\>今までで一番の出来だと自負しております。\n\\!\\>最新作が最高作、常にこの気持ちで行きたいですね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【作者】\n\\>さてさて、この作品のこととか、\n\\>いろいろ書いておいたんで、\n\\>暇な方は本棚でも読んでみてくださいね。": {
+            "text_to_translate": "\\>【作者】\n\\>さてさて、この作品のこととか、\n\\>いろいろ書いておいたんで、\n\\>暇な方は本棚でも読んでみてくださいね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【作者】\n\\>んでは、帰りたくなったら話しかけて下さい。": {
+            "text_to_translate": "\\>【作者】\n\\>んでは、帰りたくなったら話しかけて下さい。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【作者】\n\\>メインメニューに帰る？": {
+            "text_to_translate": "\\>【作者】\n\\>メインメニューに帰る？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>はい": {
+            "text_to_translate": "\\>はい",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>いいえ": {
+            "text_to_translate": "\\>いいえ",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>今夜はまだ帰りたくないな･･･$g": {
+            "text_to_translate": "\\>今夜はまだ帰りたくないな・・・$g",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>【作者】\n\\>んじゃまた遊びにきてねー": {
+            "text_to_translate": "\\>【作者】\n\\>んじゃまた遊びにきてねー",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【作者】\n\\>貴様・・・リングにあがれェ！！！": {
+            "text_to_translate": "\\>【作者】\n\\>貴様・・・リングにあがれェ！！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【Bombeができるまで】\n\\>読みますか？": {
+            "text_to_translate": "\\>【Bombeができるまで】\n\\>読みますか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>えっと、今から思い出して書きます。\n\\>今回は製作日誌とか書かなかった・・・\n\\>っていうか書く暇なかったんで・・・。": {
+            "text_to_translate": "\\>えっと、今から思い出して書きます。\n\\>今回は製作日誌とか書かなかった・・・\n\\>っていうか書く暇なかったんで・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>※補足説明\n\\>≪コンパク≫\n\\>→エンターブレイン・デジタルファミ通内で\n\\>　開催されていた、アマチュアゲームコンテスト。": {
+            "text_to_translate": "\\>※補足説明\n\\>≪コンパク≫\n\\>→エンターブレイン・デジタルファミ通内で\n\\>　開催されていた、アマチュアゲームコンテスト。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【２月中旬】\n\\>何となく、何を創っても気持ちが続かず、\n\\>オープニングや基礎システムだけのゲームが\n\\>何本か溜まる。スランプみたいなもんでしょうか。": {
+            "text_to_translate": "\\>【２月中旬】\n\\>何となく、何を創っても気持ちが続かず、\n\\>オープニングや基礎システムだけのゲームが\n\\>何本か溜まる。スランプみたいなもんでしょうか。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>何となくＲＰＧ以外のものが創りたくなって、\n\\>色々と考える時間が続き、\n\\>ツクールにはあまり触れなかった。": {
+            "text_to_translate": "\\>何となくＲＰＧ以外のものが創りたくなって、\n\\>色々と考える時間が続き、\n\\>ツクールにはあまり触れなかった。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【３月上旬】\n\\>パズルゲームが創りたくなる。\n\\>テスト期間であった為、\n\\>ツクールには触らずパズルゲームのルールを色々と思案": {
+            "text_to_translate": "\\>【３月上旬】\n\\>パズルゲームが創りたくなる。\n\\>テスト期間であった為、\n\\>ツクールには触らずパズルゲームのルールを色々と思案",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>色々と考え、\n\\>爆弾を使ったパズルゲームのアイデアを思いつく。\n\\>テストが終わったら創ってやる、と\n\\>テスト勉強に励んでた立派な俺。": {
+            "text_to_translate": "\\>色々と考え、\n\\>爆弾を使ったパズルゲームのアイデアを思いつく。\n\\>テストが終わったら創ってやる、と\n\\>テスト勉強に励んでた立派な俺。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【三月中旬】\n\\>テストも終わり、そのパズルゲームを創り始める。\n\\>まず、爆弾のドット絵素材が\n\\>どこにも見つからないという悲劇。": {
+            "text_to_translate": "\\>【三月中旬】\n\\>テストも終わり、そのパズルゲームを創り始める。\n\\>まず、爆弾のドット絵素材が\n\\>どこにも見つからないという悲劇。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>結局自分で書いたけど・・・出来は微妙。\n\\>大分時間を食う。\n\\>その他、基礎的なシステムをちょこちょこと作ってた。": {
+            "text_to_translate": "\\>結局自分で書いたけど・・・出来は微妙。\n\\>大分時間を食う。\n\\>その他、基礎的なシステムをちょこちょこと作ってた。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【三月下旬～四月中旬】\n\\>基礎的なシステムができたのでステージを作り始める。\n\\>同時にストーリーも少しずつ進める。\n\\>あの頃は全然違うストーリーだったなぁ・・・。": {
+            "text_to_translate": "\\>【三月下旬～四月中旬】\n\\>基礎的なシステムができたのでステージを作り始める。\n\\>同時にストーリーも少しずつ進める。\n\\>あの頃は全然違うストーリーだったなぁ・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>とは言ったものの、\n\\>あまりモチベーションが高くなかったので\n\\>創ったり創らなかったりの毎日。\n\\>夏頃には完成してるだろう、という適当さでやってた。": {
+            "text_to_translate": "\\>とは言ったものの、\n\\>あまりモチベーションが高くなかったので\n\\>創ったり創らなかったりの毎日。\n\\>夏頃には完成してるだろう、という適当さでやってた。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【四月下旬】\n\\>家を引越した。\n\\>引越し前後はなかなかツクールもやれず、\n\\>特に進歩はなかった。": {
+            "text_to_translate": "\\>【四月下旬】\n\\>家を引越した。\n\\>引越し前後はなかなかツクールもやれず、\n\\>特に進歩はなかった。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ただ、引越しが終ったら\n\\>気合を入れ始めようか、とは\n\\>漠然と思っていた。": {
+            "text_to_translate": "\\>ただ、引越しが終ったら\n\\>気合を入れ始めようか、とは\n\\>漠然と思っていた。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【五月一日】\n\\>まさかのコンパク終了告知。\n\\>最初は驚いたが、少し考えた末、\n\\>作るなら「Bombe」を作ろう、と自然に思っていた。": {
+            "text_to_translate": "\\>【五月一日】\n\\>まさかのコンパク終了告知。\n\\>最初は驚いたが、少し考えた末、\n\\>作るなら「Bombe」を作ろう、と自然に思っていた。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【五月七日】\n\\>エンドレスモードを創った。\n\\>最初は創るのをやめようかとも思ってたけど\n\\>それほど苦労せず創れた。": {
+            "text_to_translate": "\\>【五月七日】\n\\>エンドレスモードを創った。\n\\>最初は創るのをやめようかとも思ってたけど\n\\>それほど苦労せず創れた。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>自分でプレイして結構ハマったりしてたし。\n\\>出来は結構満足。\n\\>ただ、バランス調整とかは相当むずかしかった・・・。": {
+            "text_to_translate": "\\>自分でプレイして結構ハマったりしてたし。\n\\>出来は結構満足。\n\\>ただ、バランス調整とかは相当むずかしかった・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【五月十日】\n\\>シナリオが何となく頭でまとまり始める。\n\\>とはいっても、まだまだ危機感もあまり感じず\n\\>「何とかなるべ」とのんびり創ってた。": {
+            "text_to_translate": "\\>【五月十日】\n\\>シナリオが何となく頭でまとまり始める。\n\\>とはいっても、まだまだ危機感もあまり感じず\n\\>「何とかなるべ」とのんびり創ってた。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【五月十四日】\n\\>やっとシナリオの最初んとこが完成。\n\\>ドクターと話すとこね。\n\\>そろそろ焦り始める。": {
+            "text_to_translate": "\\>【五月十四日】\n\\>やっとシナリオの最初んとこが完成。\n\\>ドクターと話すとこね。\n\\>そろそろ焦り始める。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【五月十七日】\n\\>２０日消印有効と知って飛び上がって喜ぶ。\n\\>必着だと思ってた・・・。\n\\>この日から、すげェ焦って創り始めた。": {
+            "text_to_translate": "\\>【五月十七日】\n\\>２０日消印有効と知って飛び上がって喜ぶ。\n\\>必着だと思ってた・・・。\n\\>この日から、すげェ焦って創り始めた。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【五月十八日】\n\\>ストーリーもエンディングを残すのみ、という所まで\n\\>完成。やっと終わりが見えてきた・・・。\n\\>操作説明に大苦戦。一番難しかったかもしれない。": {
+            "text_to_translate": "\\>【五月十八日】\n\\>ストーリーもエンディングを残すのみ、という所まで\n\\>完成。やっと終わりが見えてきた・・・。\n\\>操作説明に大苦戦。一番難しかったかもしれない。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【五月十九日】\n\\>今日です、はい。": {
+            "text_to_translate": "\\>【五月十九日】\n\\>今日です、はい。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>今、作者の部屋作ってて、\n\\>後はこの部屋とテストプレイ、んで書類だけですわ。": {
+            "text_to_translate": "\\>今、作者の部屋作ってて、\n\\>後はこの部屋とテストプレイ、んで書類だけですわ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>なんか、製作を頑張れば頑張るほど\n\\>時間があっという間に過ぎていって・・・。\n\\>よく間に合ったなぁ、って感じしか残ってないです。\n\\>はい。まぁまだ完成してないけど。": {
+            "text_to_translate": "\\>なんか、製作を頑張れば頑張るほど\n\\>時間があっという間に過ぎていって・・・。\n\\>よく間に合ったなぁ、って感じしか残ってないです。\n\\>はい。まぁまだ完成してないけど。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>なんかね、すごく初心にかえれた気がした。\n\\>受験が迫る中、焦って「Choice」を創ってたあの頃－。\n\\>Ａコンの〆切りまでにどうにか、って\n\\>がむしゃらに創ってたあの頃－。": {
+            "text_to_translate": "\\>なんかね、すごく初心にかえれた気がした。\n\\>受験が迫る中、焦って「Choice」を創ってたあの頃－。\n\\>Ａコンの〆切りまでにどうにか、って\n\\>がむしゃらに創ってたあの頃－。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>振り返れば、いつもツクールがいたなぁ。\n\\>なんか、最近はそれが当たり前になっちゃって、\n\\>創る喜びなんて忘れかけてたけど・・・。": {
+            "text_to_translate": "\\>振り返れば、いつもツクールがいたなぁ。\n\\>なんか、最近はそれが当たり前になっちゃって、\n\\>創る喜びなんて忘れかけてたけど・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ダラダラ作ってコンパクに送るより、\n\\>よっぽどいい作品に仕上がったと思います。\n\\>とにかく今は、ここまで頑張れた自分に驚いてるし\n\\>自分を凄く褒めてやりたい。": {
+            "text_to_translate": "\\>ダラダラ作ってコンパクに送るより、\n\\>よっぽどいい作品に仕上がったと思います。\n\\>とにかく今は、ここまで頑張れた自分に驚いてるし\n\\>自分を凄く褒めてやりたい。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>コンパクがなくなって、しばらくは\n\\>目標を見失うかもしれないけど・・・\n\\>でも、ツクールはやめたくない。絶対に。": {
+            "text_to_translate": "\\>コンパクがなくなって、しばらくは\n\\>目標を見失うかもしれないけど・・・\n\\>でも、ツクールはやめたくない。絶対に。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>自分はツクールが好きなんだ、って\n\\>再確認できたのが、今回の一番の収穫でした。\n\\>以上！！\n\\>また会おうね。": {
+            "text_to_translate": "\\>自分はツクールが好きなんだ、って\n\\>再確認できたのが、今回の一番の収穫でした。\n\\>以上！！\n\\>また会おうね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【名前の元ネタ】\n\\>読みますか？": {
+            "text_to_translate": "\\>【名前の元ネタ】\n\\>読みますか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>モ●バーガーを略して。\n\\>アレ、マジでうまいよね。\n\\>最近初めて食ったんだけど、その味と値段に吃驚でした": {
+            "text_to_translate": "\\>【モスガー】\n\\>モ●バーガーを略して。\n\\>アレ、マジでうまいよね。\n\\>最近初めて食ったんだけど、その味と値段に吃驚でした",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【サムエル】\n\\>サムシン●エルスより。\n\\>俺は彼ら大好きなんです。": {
+            "text_to_translate": "\\>【サムエル】\n\\>サムシン●エルスより。\n\\>俺は彼ら大好きなんです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>直感で。\n\\>もう時間がなかったから・・・。": {
+            "text_to_translate": "\\>【ロー】\n\\>直感で。\n\\>もう時間がなかったから・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ミカエル】\n\\>作りかけの、他のゲームから登場。": {
+            "text_to_translate": "\\>【ミカエル】\n\\>作りかけの、他のゲームから登場。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>つーかこれしかいないんですよね・・・少ない・・・。\n\\>キャラの名前には今後もこだわっていきたいっす。\n\\>おしまい。": {
+            "text_to_translate": "\\>つーかこれしかいないんですよね・・・少ない・・・。\n\\>キャラの名前には今後もこだわっていきたいっす。\n\\>おしまい。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【今までのこと】\n\\>読みますか？": {
+            "text_to_translate": "\\>【今までのこと】\n\\>読みますか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>知っててくださる方もいると思いますが、\n\\>今までに俺が作った作品を\n\\>今の視点で思い出してみまーす。": {
+            "text_to_translate": "\\>知っててくださる方もいると思いますが、\n\\>今までに俺が作った作品を\n\\>今の視点で思い出してみまーす。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>まず「Choice」。\n\\>受験の時に創った、\n\\>いろんな思い出の詰まったゲーム。\n\\>コンパク落選。": {
+            "text_to_translate": "\\>まず「Choice」。\n\\>受験の時に創った、\n\\>いろんな思い出の詰まったゲーム。\n\\>コンパク落選。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>なんていうか・・・\n\\>楽しんで創ってたよなぁ、ってのが\n\\>一番思い出すことです。": {
+            "text_to_translate": "\\>なんていうか・・・\n\\>楽しんで創ってたよなぁ、ってのが\n\\>一番思い出すことです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>たまーにやったりするんですが・・・\n\\>ウェイトが凄いだるいんですよね・・・（^^；\n\\>あれは失敗だった。": {
+            "text_to_translate": "\\>たまーにやったりするんですが・・・\n\\>ウェイトが凄いだるいんですよね・・・（^^；\n\\>あれは失敗だった。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>リメイクすべきかもしれないけど、多分しないな。\n\\>めんどくさいってのもあるけど、\n\\>あの時俺が作り上げたものを\n\\>あの時のまま大切にしたい。": {
+            "text_to_translate": "\\>リメイクすべきかもしれないけど、多分しないな。\n\\>めんどくさいってのもあるけど、\n\\>あの時俺が作り上げたものを\n\\>あの時のまま大切にしたい。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>そんなセンチメンタルな一作です。\n\\>思いで深いです、ホント。": {
+            "text_to_translate": "\\>そんなセンチメンタルな一作です。\n\\>思いで深いです、ホント。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>続いて「Shutter Chance」。\n\\>長編製作の息抜きに作った短編ＲＰＧ。\n\\>コンパクちょっと注目作品。": {
+            "text_to_translate": "\\>続いて「Shutter Chance」。\n\\>長編製作の息抜きに作った短編ＲＰＧ。\n\\>コンパクちょっと注目作品。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>これもねー、結構楽しんで創れましたよ。\n\\>息抜きだったんでね。\n\\>ちょっと注目作品は意外っつーか、\n\\>相当嬉しかったっす。はい。": {
+            "text_to_translate": "\\>これもねー、結構楽しんで創れましたよ。\n\\>息抜きだったんでね。\n\\>ちょっと注目作品は意外っつーか、\n\\>相当嬉しかったっす。はい。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>これは、キャラが凄く好きな作品です。\n\\>あいつら使ってまたなんかやりたいなぁ、とは\n\\>いつも思ってるけど、\n\\>コンパクがなくなると・・・発表しづらいかも。": {
+            "text_to_translate": "\\>これは、キャラが凄く好きな作品です。\n\\>あいつら使ってまたなんかやりたいなぁ、とは\n\\>いつも思ってるけど、\n\\>コンパクがなくなると・・・発表しづらいかも。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>今後、\n\\>こういう、肩の力を抜いて作れる作品を\n\\>もっと創りたいなぁ、って、思いますね。": {
+            "text_to_translate": "\\>今後、\n\\>こういう、肩の力を抜いて作れる作品を\n\\>もっと創りたいなぁ、って、思いますね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>最後に「Bombe」。\n\\>パズルゲームはあまりやらないほうなのに\n\\>無謀に挑戦しちゃって・・・\n\\>いろいろ苦労しました。": {
+            "text_to_translate": "\\>最後に「Bombe」。\n\\>パズルゲームはあまりやらないほうなのに\n\\>無謀に挑戦しちゃって・・・\n\\>いろいろ苦労しました。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ストーリーが意外と気に入ってます。\n\\>キャラのセリフとかも、何気ないんだけど、\n\\>結構気に入ってたりします。": {
+            "text_to_translate": "\\>ストーリーが意外と気に入ってます。\n\\>キャラのセリフとかも、何気ないんだけど、\n\\>結構気に入ってたりします。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>「昔の俺じゃ書けねーだろーなぁ」ってセリフも\n\\>結構あったりして。\n\\>俺も成長してたのかな？とか思ったり。": {
+            "text_to_translate": "\\>「昔の俺じゃ書けねーだろーなぁ」ってセリフも\n\\>結構あったりして。\n\\>俺も成長してたのかな？とか思ったり。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>３つの中ではやっぱり「Bombe」が一番気に入ってますね。\n\\>最新作ですし。": {
+            "text_to_translate": "\\>３つの中ではやっぱり「Bombe」が一番気に入ってますね。\n\\>最新作ですし。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ちなみにタイトルはフランス語で「爆弾」の意です。\n\\>英語のスペルミスじゃないです（^^；\n\\>フランス語であることに意味はありませんが、\n\\>まーなんとなくです。なんとなく。": {
+            "text_to_translate": "\\>ちなみにタイトルはフランス語で「爆弾」の意です。\n\\>英語のスペルミスじゃないです（^^；\n\\>フランス語であることに意味はありませんが、\n\\>まーなんとなくです。なんとなく。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>１年半で三作ってのが\n\\>多いか少ないかはわかんないですけど、\n\\>自分的にはよく頑張ったな、って思ってますし、\n\\>自分で作った作品はどれも大好きですね。おしまい！": {
+            "text_to_translate": "\\>１年半で三作ってのが\n\\>多いか少ないかはわかんないですけど、\n\\>自分的にはよく頑張ったな、って思ってますし、\n\\>自分で作った作品はどれも大好きですね。おしまい！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【これからのこと】\n\\>読みますか？": {
+            "text_to_translate": "\\>【これからのこと】\n\\>読みますか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>えーと、コンパクがなくなるわけなんですが・・・\n\\>どうしましょう（^^；": {
+            "text_to_translate": "\\>えーと、コンパクがなくなるわけなんですが・・・\n\\>どうしましょう（^^；",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>やっぱねー・・・目標がないと\n\\>モチベーションが続きませんし。\n\\>エビコンは目標にしては高すぎますし。": {
+            "text_to_translate": "\\>やっぱねー・・・目標がないと\n\\>モチベーションが続きませんし。\n\\>エビコンは目標にしては高すぎますし。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>同じエンターブレイン系列で\n\\>テックウィンの「デジたま」に\n\\>ちょっと注目してます。\n\\>配布件も奪われないようですし。": {
+            "text_to_translate": "\\>同じエンターブレイン系列で\n\\>テックウィンの「デジたま」に\n\\>ちょっと注目してます。\n\\>配布件も奪われないようですし。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>まぁ、今の時点では\n\\>今後のことは未定、としか言いようがないですね。\n\\>ゲームの発表先としては。": {
+            "text_to_translate": "\\>まぁ、今の時点では\n\\>今後のことは未定、としか言いようがないですね。\n\\>ゲームの発表先としては。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ジャンルは・・・最近、\n\\>アドベンチャーにハマってるんですよ。\n\\>サウンドノベルって言った方が良いですかね？\n\\>物語読んでく感じの。": {
+            "text_to_translate": "\\>ジャンルは・・・最近、\n\\>アドベンチャーにハマってるんですよ。\n\\>サウンドノベルって言った方が良いですかね？\n\\>物語読んでく感じの。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>もともと物語とか読むの\n\\>好きだからかもしれないですけど。\n\\>僕自身、昔は物語とか書いてたんで、\n\\>一度そういうゲームを創ってみたいな、とは思ってます": {
+            "text_to_translate": "\\>もともと物語とか読むの\n\\>好きだからかもしれないですけど。\n\\>僕自身、昔は物語とか書いてたんで、\n\\>一度そういうゲームを創ってみたいな、とは思ってます",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>後は・・・今回、ラストの方で\n\\>ちょっとアクションもどきっぽいのを\n\\>取り入れてるステージとかあったじゃないですか。": {
+            "text_to_translate": "\\>後は・・・今回、ラストの方で\n\\>ちょっとアクションもどきっぽいのを\n\\>取り入れてるステージとかあったじゃないですか。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>んで、アクション面白いなぁ、とも思いましたしねェ。\n\\>他にも貿易ゲームとか作ってみたいし。\n\\>妄想するのは簡単なんだけどねェ。": {
+            "text_to_translate": "\\>んで、アクション面白いなぁ、とも思いましたしねェ。\n\\>他にも貿易ゲームとか作ってみたいし。\n\\>妄想するのは簡単なんだけどねェ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>何にせよ、創作活動はやめたくないと思ってます。\n\\>もしかしたら、その表現手段が\n\\>ツクールじゃなくなるかもしれないけど。": {
+            "text_to_translate": "\\>何にせよ、創作活動はやめたくないと思ってます。\n\\>もしかしたら、その表現手段が\n\\>ツクールじゃなくなるかもしれないけど。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>今の時点で言えることはこれくらいですね。\n\\>あとは未定。\n\\>明々後日からテストなんで、\n\\>その間にでも色々考えますよ。おしまい！": {
+            "text_to_translate": "\\>今の時点で言えることはこれくらいですね。\n\\>あとは未定。\n\\>明々後日からテストなんで、\n\\>その間にでも色々考えますよ。おしまい！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【作曲】\n\\>読みますか？": {
+            "text_to_translate": "\\>【作曲】\n\\>読みますか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>えーと・・・\n\\>このゲームに、３曲オリジナル曲を入れてます。\n\\>実質２曲みたいなモンですけど。": {
+            "text_to_translate": "\\>えーと・・・\n\\>このゲームに、３曲オリジナル曲を入れてます。\n\\>実質２曲みたいなモンですけど。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>これと・・・": {
+            "text_to_translate": "\\>これと・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>さっきのやつのリメイクのこいつ。": {
+            "text_to_translate": "\\>さっきのやつのリメイクのこいつ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>んで、最後にコレ。\n\\>どこで聞けるかはヒミツ★": {
+            "text_to_translate": "\\>んで、最後にコレ。\n\\>どこで聞けるかはヒミツ★",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>自分以外の環境でどう聞こえるのか\n\\>凄い不安なんですけど、\n\\>とりあえず自作曲をいれられて\n\\>ちょっと満足してます。": {
+            "text_to_translate": "\\>自分以外の環境でどう聞こえるのか\n\\>凄い不安なんですけど、\n\\>とりあえず自作曲をいれられて\n\\>ちょっと満足してます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ホントはもっといっぱい自作曲を入れたかったけど･･･\n\\>時間的にも技術的にも厳しいものがありましてね。\n\\>今後の課題としましょうか。": {
+            "text_to_translate": "\\>ホントはもっといっぱい自作曲を入れたかったけど・・・\n\\>時間的にも技術的にも厳しいものがありましてね。\n\\>今後の課題としましょうか。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ちなみに、この曲は\n\\>デジファミ音楽堂の曲の中で\n\\>多分一番好きな曲なんです。\n\\>半ば無理矢理、ゲーム中に使ってやりました。": {
+            "text_to_translate": "\\>ちなみに、この曲は\n\\>デジファミ音楽堂の曲の中で\n\\>多分一番好きな曲なんです。\n\\>半ば無理矢理、ゲーム中に使ってやりました。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>俺もこんないい曲を作れるようになりたいねぇ・・・。\n\\>おしまい！": {
+            "text_to_translate": "\\>俺もこんないい曲を作れるようになりたいねぇ・・・。\n\\>おしまい！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ストーリーモード】\n\\>読みますか？": {
+            "text_to_translate": "\\>【ストーリーモード】\n\\>読みますか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>最初は、全然違うお話を考えてました。\n\\>通称「ボンブズマン」っていう、\n\\>爆弾を操るトレジャーハンターの男の話。\n\\>５章だて＋αの予定でした。": {
+            "text_to_translate": "\\>最初は、全然違うお話を考えてました。\n\\>通称「ボンブズマン」っていう、\n\\>爆弾を操るトレジャーハンターの男の話。\n\\>５章だて＋αの予定でした。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>でも、こっち（今）の方が良いシナリオに仕上がったと\n\\>思ってます。\n\\>古い方は、なんか妊娠とか中絶とか\n\\>テーマにしてたし・・・微妙でしたよ。": {
+            "text_to_translate": "\\>でも、こっち（今）の方が良いシナリオに仕上がったと\n\\>思ってます。\n\\>古い方は、なんか妊娠とか中絶とか\n\\>テーマにしてたし・・・微妙でしたよ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>で、今のシナリオのテーマは、というと・・・\n\\>「失って分かること」とか\n\\>そんな感じじゃないですかねェ。": {
+            "text_to_translate": "\\>で、今のシナリオのテーマは、というと・・・\n\\>「失って分かること」とか\n\\>そんな感じじゃないですかねェ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>もともと僕の視力が落ちてきたことを元にして\n\\>思いついたシナリオでして。\n\\>視力が悪くなって、初めて\n\\>今までの目の大切さに気付いたわけで。": {
+            "text_to_translate": "\\>もともと僕の視力が落ちてきたことを元にして\n\\>思いついたシナリオでして。\n\\>視力が悪くなって、初めて\n\\>今までの目の大切さに気付いたわけで。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>多分、コンパクもそうなんだよね。\n\\>今までは当たり前に存在してたけど、\n\\>それがなくなるってわかって、\n\\>初めてその大きさに気付かされて。": {
+            "text_to_translate": "\\>多分、コンパクもそうなんだよね。\n\\>今までは当たり前に存在してたけど、\n\\>それがなくなるってわかって、\n\\>初めてその大きさに気付かされて。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>でも、まだなくなってないわけ。\n\\>コンパクも、\\N[1]の視力も。まぁ俺の視力も(^^；\n\\>残された時間でどうするか、ってね。\n\\>そんな感じですわ。": {
+            "text_to_translate": "\\>でも、まだなくなってないわけ。\n\\>コンパクも、\\N[1]の視力も。まぁ俺の視力も(^^；\n\\>残された時間でどうするか、ってね。\n\\>そんな感じですわ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>短いけど、いつになく気に入ったシナリオです。\n\\>答えは用意してません。\n\\>何かを感じ取って、考えていただければ\n\\>そんなに嬉しいことはありません。おしまい！": {
+            "text_to_translate": "\\>短いけど、いつになく気に入ったシナリオです。\n\\>答えは用意してません。\n\\>何かを感じ取って、考えていただければ\n\\>そんなに嬉しいことはありません。おしまい！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【エンドレスモード】\n\\>読みますか？": {
+            "text_to_translate": "\\>【エンドレスモード】\n\\>読みますか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>創るかどうか、結構悩んだ末に作りました。\n\\>個人的には満足してます。はい。": {
+            "text_to_translate": "\\>創るかどうか、結構悩んだ末に作りました。\n\\>個人的には満足してます。はい。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>んではココで、スコアの算出方法を教えちゃいまーす。": {
+            "text_to_translate": "\\>んではココで、スコアの算出方法を教えちゃいまーす。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>クリアしたステージ数の二乗×２０\n\\>＋大きい爆弾の数×６０\n\\>＋小さい爆弾の数×３０\n\\>－プレイタイム÷３÷クリアしたステージ数＝です。": {
+            "text_to_translate": "\\>クリアしたステージ数の二乗×２０\n\\>＋大きい爆弾の数×６０\n\\>＋小さい爆弾の数×３０\n\\>－プレイタイム÷３÷クリアしたステージ数＝です。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ちなみに、良いスコアを出しても\n\\>特に何もないですが・・・(^^；\n\\>もしコンパクで入賞できたら、\n\\>HPでスコアランキングでもやりたいなー、と思ってます": {
+            "text_to_translate": "\\>ちなみに、良いスコアを出しても\n\\>特に何もないですが・・・(^^；\n\\>もしコンパクで入賞できたら、\n\\>HPでスコアランキングでもやりたいなー、と思ってます",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>あと、俺の最高スコアは\n\\>2940でした！\n\\>暇な方、挑戦してみてください！おしまい！": {
+            "text_to_translate": "\\>あと、俺の最高スコアは\n\\>2940でした！\n\\>暇な方、挑戦してみてください！おしまい！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>遊ぶ": {
+            "text_to_translate": "\\>遊ぶ",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>説明を読む": {
+            "text_to_translate": "\\>説明を読む",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>セーブする": {
+            "text_to_translate": "\\>セーブする",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>何もしない": {
+            "text_to_translate": "\\>何もしない",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>これをプレイしたらもうゲームには戻れません。\n\\>ゲームを始めてよろしいですか？": {
+            "text_to_translate": "\\>これをプレイしたらもうゲームには戻れません。\n\\>ゲームを始めてよろしいですか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "いいえ": {
+            "text_to_translate": "いいえ",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "はい": {
+            "text_to_translate": "はい",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>えーと、コンパク審査には間に合いませんでしたが、\n\\>何かおまけをいれたくて入れてみました。\n\\>この便器グラフィックとは全く関係ない\n\\>サッカーをモチーフにしたミニゲームが遊べます。": {
+            "text_to_translate": "\\>えーと、コンパク審査には間に合いませんでしたが、\n\\>何かおまけをいれたくて入れてみました。\n\\>この便器グラフィックとは全く関係ない\n\\>サッカーをモチーフにしたミニゲームが遊べます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>作ったきっかけはですねェ、\n\\>ワールドカップと、５月度コンパクの「Active」。": {
+            "text_to_translate": "\\>作ったきっかけはですねェ、\n\\>ワールドカップと、５月度コンパクの「Active」。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>Activeにハマって、「何かアクション作りたいなぁ」\n\\>と思ってたら、テレビの中にはワールドカップ。\n\\>こりゃサッカーのアクションを作るしかないだろう、\n\\>ってなことで作りました。": {
+            "text_to_translate": "\\>Activeにハマって、「何かアクション作りたいなぁ」\n\\>と思ってたら、テレビの中にはワールドカップ。\n\\>こりゃサッカーのアクションを作るしかないだろう、\n\\>ってなことで作りました。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>が、ワールドカップも終わりに近づき、\n\\>気持ちも盛り下がり、\n\\>また、アクション作りの難しさに直面してたので\n\\>中途半端な状態ですが、こっちにおまけで入れました。": {
+            "text_to_translate": "\\>が、ワールドカップも終わりに近づき、\n\\>気持ちも盛り下がり、\n\\>また、アクション作りの難しさに直面してたので\n\\>中途半端な状態ですが、こっちにおまけで入れました。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>まだ楽しめるレベルまで行ってませんが、\n\\>お暇な方はプレイしてみてください。": {
+            "text_to_translate": "\\>まだ楽しめるレベルまで行ってませんが、\n\\>お暇な方はプレイしてみてください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ただし、本来別のゲームからもってきたんで、\n\\>一度プレイしたら、もうこっちには戻れません。\n\\>プレイ前にはセーブをお忘れなく。\n\\>そして重いかもしれません。ご注意を。": {
+            "text_to_translate": "\\>ただし、本来別のゲームからもってきたんで、\n\\>一度プレイしたら、もうこっちには戻れません。\n\\>プレイ前にはセーブをお忘れなく。\n\\>そして重いかもしれません。ご注意を。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ゲームのルールは簡単。\n\\>モンスターにボールを当てて倒す。そんだけ。\n\\>主人公がモンスターに触れると一発死にですので。\n\\>お気をつけて。": {
+            "text_to_translate": "\\>ゲームのルールは簡単。\n\\>モンスターにボールを当てて倒す。そんだけ。\n\\>主人公がモンスターに触れると一発死にですので。\n\\>お気をつけて。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>十時キーで主人公の移動。\n\\>決定キーを押しながら移動でダッシュ。\n\\>ボールを持った状態で決定キーを短く押して離すと\n\\>ﾊﾞｯｸﾊﾟｽもどき。壁際などで使ってください。": {
+            "text_to_translate": "\\>十時キーで主人公の移動。\n\\>決定キーを押しながら移動でダッシュ。\n\\>ボールを持った状態で決定キーを短く押して離すと\n\\>バックパスもどき。壁際などで使ってください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>キャンセルキーを押しっぱなしにすると\n\\>左上のゲージがぐいぐい動きます。\n\\>ボールを持った状態で、ためてキャンセルキーを離すと\n\\>そのゲージ分の威力のシュートを打てます。": {
+            "text_to_translate": "\\>キャンセルキーを押しっぱなしにすると\n\\>左上のゲージがぐいぐい動きます。\n\\>ボールを持った状態で、ためてキャンセルキーを離すと\n\\>そのゲージ分の威力のシュートを打てます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ちなみに、「ボールを持った状態」というのは\n\\>足元にボールがあるとき。\n\\>ドリブル中も「ボールを持った状態」になるので\n\\>ﾄﾞﾘﾌﾞﾙしながらｼｭｰﾄも打てます。": {
+            "text_to_translate": "\\>ちなみに、「ボールを持った状態」というのは\n\\>足元にボールがあるとき。\n\\>ドリブル中も「ボールを持った状態」になるので\n\\>ドリブルしながらシュートも打てます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>まぁ、後はやってみてください。\n\\>あ、ちなみにサッカーのBGMは自作。\n\\>サッカーっぽさを考えて作ってみました。\n\\>・・・しかし、相変わらず単調なめろでぃ・・・。": {
+            "text_to_translate": "\\>まぁ、後はやってみてください。\n\\>あ、ちなみにサッカーのBGMは自作。\n\\>サッカーっぽさを考えて作ってみました。\n\\>・・・しかし、相変わらず単調なめろでぃ・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0023.txt": {
+        "\\>・クリアステージ数　$t　\\v[46]\n\\>・大爆弾　　　　　　$t  \\v[101]\n\\>・小爆弾　　　　　　$t  \\v[102]\n\\>・プレイタイム　　　$t  \\v[48]": {
+            "text_to_translate": "\\>・クリアステージ数　$t　\\v[46]\n\\>・大爆弾　　　　　　$t  \\v[101]\n\\>・小爆弾　　　　　　$t  \\v[102]\n\\>・プレイタイム　　　$t  \\v[48]",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>プレイスコア\\<\\.・\\.・\\.・\\.\\c[5]\\v[49]": {
+            "text_to_translate": "\\>プレイスコア\\<\\.・\\.・\\.・\\.\\c[5]\\v[49]",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>只今のスコアが、\n\\>スコアランキング第１位にランクインしました！\n\\!\\>スコアネームを入れてください。": {
+            "text_to_translate": "\\>只今のスコアが、\n\\>スコアランキング第１位にランクインしました！\n\\!\\>スコアネームを入れてください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>只今のスコアが、\n\\>スコアランキング第２位にランクインしました！\n\\!\\>スコアネームを入れてください。": {
+            "text_to_translate": "\\>只今のスコアが、\n\\>スコアランキング第２位にランクインしました！\n\\!\\>スコアネームを入れてください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>只今のスコアが、\n\\>スコアランキング第３位にランクインしました！\n\\!\\>スコアネームを入れてください。": {
+            "text_to_translate": "\\>只今のスコアが、\n\\>スコアランキング第３位にランクインしました！\n\\!\\>スコアネームを入れてください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]　　 \\c[15]\\N[2]\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[3]\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[4]": {
+            "text_to_translate": "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]　　 \\c[15]\\N[2]\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[3]\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[4]",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[2]\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[4]\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[3]": {
+            "text_to_translate": "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[2]\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[4]\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[3]",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[3]\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]  　 \\c[15]\\N[2]\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[4]　　　": {
+            "text_to_translate": "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[3]\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]  　 \\c[15]\\N[2]\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[4]　　　",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[4]　　　\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[2]　　　\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[3]　　　": {
+            "text_to_translate": "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[4]　　　\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[2]　　　\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[3]　　　",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[3]　　　\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[4]　　　\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[2]　　　": {
+            "text_to_translate": "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[3]　　　\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[4]　　　\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[2]　　　",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[4]　　　\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[3]　　　\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[2]　　　": {
+            "text_to_translate": "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[4]　　　\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[3]　　　\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[2]　　　",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0026.txt": {
+        "\\>くりあー♪": {
+            "text_to_translate": "\\>くりあー♪",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0027.txt": {
+        "\\>$nゲームスタート": {
+            "text_to_translate": "\\>$nゲームスタート",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$nゲーム説明": {
+            "text_to_translate": "\\>$nゲーム説明",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$nスコアランキング": {
+            "text_to_translate": "\\>$nスコアランキング",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$nメニューに戻る": {
+            "text_to_translate": "\\>$nメニューに戻る",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\^": {
+            "text_to_translate": "\\^",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>≪エンドレスモードの説明≫\n\\!\\>「Bombe」の基本ルールはそのままに、\n\\>次々に現れるステージをクリアしていくモードです。": {
+            "text_to_translate": "\\>≪エンドレスモードの説明≫\n\\!\\>「Bombe」の基本ルールはそのままに、\n\\>次々に現れるステージをクリアしていくモードです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ステージは毎回、自動で生成され、\n\\>ステージを進むごとに\n\\>難しくなっていくようになっています。": {
+            "text_to_translate": "\\>ステージは毎回、自動で生成され、\n\\>ステージを進むごとに\n\\>難しくなっていくようになっています。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>爆弾は、ステージをクリアするごとに\n\\>ランダムで支給されますが、\n\\>\\c[13]使わなかった爆弾は\n\\>次のステージへ持ち越すことが出来ます。": {
+            "text_to_translate": "\\>爆弾は、ステージをクリアするごとに\n\\>ランダムで支給されますが、\n\\>\\c[13]使わなかった爆弾は\n\\>次のステージへ持ち越すことが出来ます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>爆弾の使用を最低限に抑え、\n\\>より多くの爆弾を貯めていく事が重要です。\n\\>※爆弾のストックは８個までです。": {
+            "text_to_translate": "\\>爆弾の使用を最低限に抑え、\n\\>より多くの爆弾を貯めていく事が重要です。\n\\>※爆弾のストックは８個までです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>もうそのステージをクリア出来ないと思ったら、\n\\>\\c[13]キャンセルを押して「ギブアップ」を選択しましょう。\n\\>\\c[0]そこでゲームは終了となり、\n\\>スコア発表に移ります。": {
+            "text_to_translate": "\\>もうそのステージをクリア出来ないと思ったら、\n\\>\\c[13]キャンセルを押して「ギブアップ」を選択しましょう。\n\\>\\c[0]そこでゲームは終了となり、\n\\>スコア発表に移ります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>スコアは、\n\\>クリアしたステージの数、\n\\>最後の時点で持っていた爆弾の数、\n\\>ステージ平均タイムから算出されます。": {
+            "text_to_translate": "\\>スコアは、\n\\>クリアしたステージの数、\n\\>最後の時点で持っていた爆弾の数、\n\\>ステージ平均タイムから算出されます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>≪ポイント≫\n\\>このゲームでは、技術だけでなく運も重要です。\n\\>持っている爆弾数により、\n\\>クリアできないステージがおのずと現れてきます。": {
+            "text_to_translate": "\\>≪ポイント≫\n\\>このゲームでは、技術だけでなく運も重要です。\n\\>持っている爆弾数により、\n\\>クリアできないステージがおのずと現れてきます。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>そんな時、クリア出来ないと思ったら、\n\\>\\c[13]早めに諦めるのも手でしょう。\n\\>\\c[0]諦めが悪いと\n\\>無駄にプレイタイムが長くなってしまいますからね。": {
+            "text_to_translate": "\\>そんな時、クリア出来ないと思ったら、\n\\>\\c[13]早めに諦めるのも手でしょう。\n\\>\\c[0]諦めが悪いと\n\\>無駄にプレイタイムが長くなってしまいますからね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]　　 \\c[15]\\N[2]\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[3]\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[4]": {
+            "text_to_translate": "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]　　 \\c[15]\\N[2]\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[3]\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[4]",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[2]\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[4]\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[3]": {
+            "text_to_translate": "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[2]\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[4]\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[3]",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[3]\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]  　 \\c[15]\\N[2]\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[4]　　　": {
+            "text_to_translate": "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[3]\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]  　 \\c[15]\\N[2]\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[4]　　　",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[4]　　　\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[2]　　　\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[3]　　　": {
+            "text_to_translate": "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[4]　　　\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[2]　　　\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[3]　　　",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[3]　　　\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[4]　　　\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[2]　　　": {
+            "text_to_translate": "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[3]　　　\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[4]　　　\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[2]　　　",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[4]　　　\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[3]　　　\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[2]　　　": {
+            "text_to_translate": "\\>\\c[13]≪$oスコアランキング$o≫\n\\>\\c[0]$w　第１位　\\c[10]\\v[51]     \\c[15]\\N[4]　　　\n\\>\\c[0]$t　第２位　\\c[10]\\v[52]     \\c[15]\\N[3]　　　\n\\>\\c[0]$x　第３位　\\c[10]\\v[53]     \\c[15]\\N[2]　　　",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0029.txt": {
+        "\\>【ミカエル】\n\\>ココカラ先ハ神聖ナル場所ダ。\n\\!\\>人間ガ何ノヨウダ？": {
+            "text_to_translate": "\\>【ミカエル】\n\\>ココカラ先ハ神聖ナル場所ダ。\n\\!\\>人間ガ何ノヨウダ？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・レッドプロミスを、見にきた。\n\\!\\>・・・通してくれ。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・レッドプロミスを、見にきた。\n\\!\\>・・・通してくれ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ミカエル】\n\\>ソンナフザケタ理由ナノカ？\n\\!\\>立チ去ルガイイ。": {
+            "text_to_translate": "\\>【ミカエル】\n\\>ソンナフザケタ理由ナノカ？\n\\!\\>立チ去ルガイイ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・もう、引き返せないんだ・・・。\n\\!\\>そこをどいてくれ。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・もう、引き返せないんだ・・・。\n\\!\\>そこをどいてくれ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ミカエル】\n\\>止マレッ！！": {
+            "text_to_translate": "\\>【ミカエル】\n\\>止マレッ！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ミカエル】\n\\>力ヅクデモ止メテヤルゾ・・・？": {
+            "text_to_translate": "\\>【ミカエル】\n\\>力ヅクデモ止メテヤルゾ・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・望むところだ・・・！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・望むところだ・・・！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ミカエル】\n\\>後悔スルゾ・・・": {
+            "text_to_translate": "\\>【ミカエル】\n\\>後悔スルゾ・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>ステージ1６と同じ要領でモンスターを倒して下さい。\n\\>ミカエルのライフは５です。\n\\>攻撃を避けつつ、上手く爆弾を配置しましょう。": {
+            "text_to_translate": "\\>ステージ1６と同じ要領でモンスターを倒して下さい。\n\\>ミカエルのライフは５です。\n\\>攻撃を避けつつ、上手く爆弾を配置しましょう。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0031.txt": {
+        "\\>【\\N[1]】\n\\>・・・！？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・！？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>だ、誰か・・・\\<\\!\\>助けて・・・！！": {
+            "text_to_translate": "\\>【ロー】\n\\>だ、誰か・・・\\<\\!\\>助けて・・・！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>！！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>化け物ッ！\n\\!\\>こっちだ！！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>化け物ッ！\n\\!\\>こっちだ！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>今のうちに！！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>今のうちに！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\.\\>あ、ありがとう！！": {
+            "text_to_translate": "\\>【ロー】\n\\.\\>あ、ありがとう！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>よーし・・・、来い！！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>よーし・・・、来い！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>石を破壊するのと同じ要領で、\n\\>モンスターを倒してください！": {
+            "text_to_translate": "\\>石を破壊するのと同じ要領で、\n\\>モンスターを倒してください！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>モンスターは、三回爆風を当てると倒せます。\n\\>うまく爆風を当てられるように、\n\\>爆弾を配置して起爆しましょう。": {
+            "text_to_translate": "\\>モンスターは、三回爆風を当てると倒せます。\n\\>うまく爆風を当てられるように、\n\\>爆弾を配置して起爆しましょう。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>なお、配置中にモンスターに触れると\n\\>ライフが１つ減ってしまいます。\n\\>ライフが３つ全てなくなると、\n\\>ステージやり直しとなります。": {
+            "text_to_translate": "\\>なお、配置中にモンスターに触れると\n\\>ライフが１つ減ってしまいます。\n\\>ライフが３つ全てなくなると、\n\\>ステージやり直しとなります。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0036.txt": {
+        "\\>$rこのステージを始めますか？": {
+            "text_to_translate": "\\>$rこのステージを始めますか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>$wはい": {
+            "text_to_translate": "\\>$wはい",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$xいいえ": {
+            "text_to_translate": "\\>$xいいえ",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>【モスガー】\n\\>・・・俺は、モスガーだ。": {
+            "text_to_translate": "\\>【モスガー】\n\\>・・・俺は、モスガーだ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>えっ・・・$e\n\\!\\>だ、誰も聞いてないんですけど・・・": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>えっ・・・$e\n\\!\\>だ、誰も聞いてないんですけど・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>むっ、そうか・・・\n\\!\\>まぁ、とりあえず・・・": {
+            "text_to_translate": "\\>【モスガー】\n\\>むっ、そうか・・・\n\\!\\>まぁ、とりあえず・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>ヘルプミー。": {
+            "text_to_translate": "\\>【モスガー】\n\\>ヘルプミー。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>ど、どうしたんですか・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>ど、どうしたんですか・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>ま、大体は見ての通りだ。\n\\!\\>気付いたら妙な石に囲まれてて、\n\\>身動きが取れないという寸法だ。": {
+            "text_to_translate": "\\>【モスガー】\n\\>ま、大体は見ての通りだ。\n\\!\\>気付いたら妙な石に囲まれてて、\n\\>身動きが取れないという寸法だ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・わかりましたよ・・・。\n\\!\\>石をどうにかすればいいんですね・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・わかりましたよ・・・。\n\\!\\>石をどうにかすればいいんですね・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【モスガー】\n\\>悪いな、青年。\n\\!\\>あ、くれぐれも、\n\\>俺に爆風が当らないようにしてくれな。": {
+            "text_to_translate": "\\>【モスガー】\n\\>悪いな、青年。\n\\!\\>あ、くれぐれも、\n\\>俺に爆風が当らないようにしてくれな。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【サムエル】\n\\>うぇ～ん・・・。\n\\!\\>誰か助けてぇ～・・・！": {
+            "text_to_translate": "\\>【サムエル】\n\\>うぇ～ん・・・。\n\\!\\>誰か助けてぇ～・・・！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>っ！！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>っ！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>ど、どうしたんだい！？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>ど、どうしたんだい！？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【サムエル】\n\\>あっ・・・！！\n\\>お兄ちゃん助けて～！！": {
+            "text_to_translate": "\\>【サムエル】\n\\>あっ・・・！！\n\\>お兄ちゃん助けて～！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>わ、わかった！！\n\\!\\>今すぐその石をどうにかしてあげるよ・・・！\n\\>ちょっと待ってて！": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>わ、わかった！！\n\\!\\>今すぐその石をどうにかしてあげるよ・・・！\n\\>ちょっと待ってて！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0038.txt": {
+        "\\>【ドクター】\n\\>・・・。\n\\!\\>次の方、どうぞ。": {
+            "text_to_translate": "\\>【ドクター】\n\\>・・・。\n\\!\\>次の方、どうぞ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>そこに座ってください。": {
+            "text_to_translate": "\\>【ドクター】\n\\>そこに座ってください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>ではまず最初に、\n\\>ここにあなたの名前を書いて下さい。": {
+            "text_to_translate": "\\>【ドクター】\n\\>ではまず最初に、\n\\>ここにあなたの名前を書いて下さい。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>\\N[1]さん・・・。\n\\!\\>わかりました。": {
+            "text_to_translate": "\\>【ドクター】\n\\>\\N[1]さん・・・。\n\\!\\>わかりました。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>さて・・・。\n\\!\\>今日は、どうなさったんですか？": {
+            "text_to_translate": "\\>【ドクター】\n\\>さて・・・。\n\\!\\>今日は、どうなさったんですか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>一週間くらい前からなんです・・・。\n\\!\\>時々、目の前が真っ暗になるんです・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>一週間くらい前からなんです・・・。\n\\!\\>時々、目の前が真っ暗になるんです・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>真っ暗・・・？": {
+            "text_to_translate": "\\>【ドクター】\n\\>真っ暗・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>はい・・・何も見えなくなって・・・。\n\\!\\>日を追うごとに、\n\\>それがどんどん頻繁に起こるようになって・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>はい・・・何も見えなくなって・・・。\n\\!\\>日を追うごとに、\n\\>それがどんどん頻繁に起こるようになって・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>・・・。\n\\!\\>今までに眼病などにかかったことは・・・？": {
+            "text_to_translate": "\\>【ドクター】\n\\>・・・。\n\\!\\>今までに眼病などにかかったことは・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>いえ、ありません。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>いえ、ありません。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>・・・ご家族や親戚の方で、\n\\>眼病の方や特に目の悪い方はいませんか？": {
+            "text_to_translate": "\\>【ドクター】\n\\>・・・ご家族や親戚の方で、\n\\>眼病の方や特に目の悪い方はいませんか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>いえ・・・思い当たりません。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>いえ・・・思い当たりません。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>そうですか・・・。\n\\!\\>・・・では、\n\\>ちょっと目を見せていただきますね・・・。": {
+            "text_to_translate": "\\>【ドクター】\n\\>そうですか・・・。\n\\!\\>・・・では、\n\\>ちょっと目を見せていただきますね・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>・・・・・\n\\!\\>・・・・・・・": {
+            "text_to_translate": "\\>【ドクター】\n\\>・・・・・\n\\!\\>・・・・・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>・・・ッ！？": {
+            "text_to_translate": "\\>【ドクター】\n\\>・・・ッ！？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>・・・\\<\\!\\>非常に申し上げにくいんですが・・・": {
+            "text_to_translate": "\\>【ドクター】\n\\>・・・\\<\\!\\>非常に申し上げにくいんですが・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>・・・\\c[15]『Eye Scream病』、\\c[0]です・・・。": {
+            "text_to_translate": "\\>【ドクター】\n\\>・・・\\c[15]『Eye Scream病』、\\c[0]です・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・アイスクリーム病・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・アイスクリーム病・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>原因・治療法ともに\n\\>まだ解明されていない、謎の病気です・・・。": {
+            "text_to_translate": "\\>【ドクター】\n\\>原因・治療法ともに\n\\>まだ解明されていない、謎の病気です・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・僕の目・・・\n\\!\\>どうなっちゃうんですか・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・僕の目・・・\n\\!\\>どうなっちゃうんですか・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>・・・はっきり申し上げましょう。\n\\!\\>せいぜいもって、あと１ヶ月で・・・\n\\>あなたの目は、失明します。": {
+            "text_to_translate": "\\>【ドクター】\n\\>・・・はっきり申し上げましょう。\n\\!\\>せいぜいもって、あと１ヶ月で・・・\n\\>あなたの目は、失明します。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>ッ！？\n\\!\\>なっ、治せないんですか・・・！？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>ッ！？\n\\!\\>なっ、治せないんですか・・・！？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>残念ですが・・・\n\\>先ほど申し上げました通り、\n\\>原因も治療法も未だ解明されていないのです・・・。": {
+            "text_to_translate": "\\>【ドクター】\n\\>残念ですが・・・\n\\>先ほど申し上げました通り、\n\\>原因も治療法も未だ解明されていないのです・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>そっ、そんな・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>そっ、そんな・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>・・・。\n\\!\\>ここからは、医者ではなく\n\\>一人の男の言葉として聞いてください・・・。": {
+            "text_to_translate": "\\>【ドクター】\n\\>・・・。\n\\!\\>ここからは、医者ではなく\n\\>一人の男の言葉として聞いてください・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>残りの１ヶ月間で、\n\\>あなたの目が失明する前に\n\\>｢世界で一番キレイな物｣を探してみてはいかがですか？": {
+            "text_to_translate": "\\>【ドクター】\n\\>残りの１ヶ月間で、\n\\>あなたの目が失明する前に\n\\>「世界で一番キレイな物」を探してみてはいかがですか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>世界で一番キレイな物・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>世界で一番キレイな物・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>ええ。\n\\!\\>１ヶ月以内に世界で一番キレイな物を見つけ、\n\\>失明する前にそれを目に焼き付けるのです。": {
+            "text_to_translate": "\\>【ドクター】\n\\>ええ。\n\\!\\>１ヶ月以内に世界で一番キレイな物を見つけ、\n\\>失明する前にそれを目に焼き付けるのです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>気休めと言われればそれまでですが・・・": {
+            "text_to_translate": "\\>【ドクター】\n\\>気休めと言われればそれまでですが・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>病気のことを少しの間でも忘れて頂く意味も含めて、\n\\>この病気の患者さんには皆\n\\>このような提案をすることにしているんです。": {
+            "text_to_translate": "\\>【ドクター】\n\\>病気のことを少しの間でも忘れて頂く意味も含めて、\n\\>この病気の患者さんには皆\n\\>このような提案をすることにしているんです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>世界で一番キレイな物・・・\n\\!\\>それは、どこにあるんですか・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>世界で一番キレイな物・・・\n\\!\\>それは、どこにあるんですか・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>さすがにそれはわかりませんよ。\n\\!\\>何が世界で一番キレイなのかも、\n\\>私にはわかりませんしね。": {
+            "text_to_translate": "\\>【ドクター】\n\\>さすがにそれはわかりませんよ。\n\\!\\>何が世界で一番キレイなのかも、\n\\>私にはわかりませんしね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>さて、私に出来ることはもう何もありません。\n\\!\\>世界で一番キレイな物を、\n\\>捜しに行くのも、行かないのも、あなたの自由です。": {
+            "text_to_translate": "\\>【ドクター】\n\\>さて、私に出来ることはもう何もありません。\n\\!\\>世界で一番キレイな物を、\n\\>捜しに行くのも、行かないのも、あなたの自由です。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>わかりました・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>わかりました・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ドクター】\n\\>医者として、お役に立てなくてごめんなさい。": {
+            "text_to_translate": "\\>【ドクター】\n\\>医者として、お役に立てなくてごめんなさい。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>いえ・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>いえ・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>僕はなぜか、\n\\>病気のことや、医者の言う気休めなんかより、\n\\>｢世界で一番キレイな物｣が気になって仕方がなかった。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>僕はなぜか、\n\\>病気のことや、医者の言う気休めなんかより、\n\\>「世界で一番キレイな物」が気になって仕方がなかった。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>そして次の日の朝、\n\\>僕は当然の如く旅立った。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>そして次の日の朝、\n\\>僕は当然の如く旅立った。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>目的地など無い。\n\\!\\>あるとすれば、それは\n\\>世界で一番キレイな物のある場所－。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>目的地など無い。\n\\!\\>あるとすれば、それは\n\\>世界で一番キレイな物のある場所－。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>あても無く彷徨う僕の目に映るのは、\n\\!\\>光か、闇か。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>あても無く彷徨う僕の目に映るのは、\n\\!\\>光か、闇か。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0042.txt": {
+        "\\>【見張り】\n\\>お止まりください。": {
+            "text_to_translate": "\\>【見張り】\n\\>お止まりください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【見張り】\n\\>現在、我が村の村長のお孫様・サムエル様が\n\\>行方不明なのです。": {
+            "text_to_translate": "\\>【見張り】\n\\>現在、我が村の村長のお孫様・サムエル様が\n\\>行方不明なのです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【見張り】\n\\>全ての出口を封鎖し、現在、\n\\>村中をくまなく捜索している最中ゆえ、\n\\>今は誰であろうと村の中にお入れすることは出来ません": {
+            "text_to_translate": "\\>【見張り】\n\\>全ての出口を封鎖し、現在、\n\\>村中をくまなく捜索している最中ゆえ、\n\\>今は誰であろうと村の中にお入れすることは出来ません",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【見張り】\n\\>申し訳ありませんが、お引き取りください。": {
+            "text_to_translate": "\\>【見張り】\n\\>申し訳ありませんが、お引き取りください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【サムエル】\n\\>ばぁ！": {
+            "text_to_translate": "\\>【サムエル】\n\\>ばぁ！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【見張り】\n\\>サ、サムエル様！！": {
+            "text_to_translate": "\\>【見張り】\n\\>サ、サムエル様！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【見張り】\n\\>ど、どちらにいらっしゃったのですか！？": {
+            "text_to_translate": "\\>【見張り】\n\\>ど、どちらにいらっしゃったのですか！？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【サムエル】\n\\>虫取りしてたら、\n\\>変な石に囲まれて動けなくなっちゃったんだ・・・。\n\\!\\>勝手に出かけてゴメンなさい。": {
+            "text_to_translate": "\\>【サムエル】\n\\>虫取りしてたら、\n\\>変な石に囲まれて動けなくなっちゃったんだ・・・。\n\\!\\>勝手に出かけてゴメンなさい。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【見張り】\n\\>ええ・・・村長が心配しておられますよ・・・！\n\\!\\>早く村にお入りください。": {
+            "text_to_translate": "\\>【見張り】\n\\>ええ・・・村長が心配しておられますよ・・・！\n\\!\\>早く村にお入りください。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【サムエル】\n\\>うん。\n\\!\\>あっ、このお兄ちゃんが助けてくれたんだよ！！": {
+            "text_to_translate": "\\>【サムエル】\n\\>うん。\n\\!\\>あっ、このお兄ちゃんが助けてくれたんだよ！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【見張り】\n\\>そうだったのですか・・・！\n\\!\\>さ、旅のお方も、村へお入りください。\n\\>お礼の一つでもしなければなりませんからね。": {
+            "text_to_translate": "\\>【見張り】\n\\>そうだったのですか・・・！\n\\!\\>さ、旅のお方も、村へお入りください。\n\\>お礼の一つでもしなければなりませんからね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0043.txt": {
+        "\\>【村長】\n\\>孫を助けていただいたそうで・・・。\n\\>本当に、どうもありがとうございました。\n\\!\\>なんとお礼を言っていいものやら・・・。": {
+            "text_to_translate": "\\>【村長】\n\\>孫を助けていただいたそうで・・・。\n\\>本当に、どうもありがとうございました。\n\\!\\>なんとお礼を言っていいものやら・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>いえ・・・。\n\\!\\>それより、\n\\>一つお聞きしたいことがあるんですが・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>いえ・・・。\n\\!\\>それより、\n\\>一つお聞きしたいことがあるんですが・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【村長】\n\\>おぉ、何でも聞いて下され。\n\\!\\>私で答えられる事でしたら、\n\\>何でもお答えしますぞ。": {
+            "text_to_translate": "\\>【村長】\n\\>おぉ、何でも聞いて下され。\n\\!\\>私で答えられる事でしたら、\n\\>何でもお答えしますぞ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>実は、\n\\>「レッドプロミス」というものを\n\\>探しているんです。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>実は、\n\\>「レッドプロミス」というものを\n\\>探しているんです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【村長】\n\\>ほぉ・・・。\n\\!\\>なぜ、「レッドプロミス」をお探しですかな・・・？": {
+            "text_to_translate": "\\>【村長】\n\\>ほぉ・・・。\n\\!\\>なぜ、「レッドプロミス」をお探しですかな・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>実は・・・": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>実は・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【村長】\n\\>なるほど・・・。\n\\!\\>「世界で一番キレイな物」と・・・。": {
+            "text_to_translate": "\\>【村長】\n\\>なるほど・・・。\n\\!\\>「世界で一番キレイな物」と・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【村長】\n\\>実を言いますと、\n\\>私どもも、「レッドプロミス」の\n\\>実物を見たことはないんです。": {
+            "text_to_translate": "\\>【村長】\n\\>実を言いますと、\n\\>私どもも、「レッドプロミス」の\n\\>実物を見たことはないんです。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【村長】\n\\>神話によりますと・・・\n\\>「レッドプロミス」は、\n\\>神と我々の御先祖が交わした、紅い約束－。": {
+            "text_to_translate": "\\>【村長】\n\\>神話によりますと・・・\n\\>「レッドプロミス」は、\n\\>神と我々の御先祖が交わした、紅い約束－。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【村長】\n\\>神が、我々一族の繁栄と栄華を約束し、\n\\>それを表す紅く輝く宝石を、\n\\>ジャンゴ山の山頂に置いた、とされております。": {
+            "text_to_translate": "\\>【村長】\n\\>神が、我々一族の繁栄と栄華を約束し、\n\\>それを表す紅く輝く宝石を、\n\\>ジャンゴ山の山頂に置いた、とされております。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>ジャンゴ山・・・？\n\\!\\>どこにあるんですか・・・！？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>ジャンゴ山・・・？\n\\!\\>どこにあるんですか・・・！？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【村長】\n\\>この村から北に行ったところにありますが・・・。": {
+            "text_to_translate": "\\>【村長】\n\\>この村から北に行ったところにありますが・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【村長】\n\\>本当に、レッドプロミスがあるかどうかわかりません。\n\\!\\>それに、ジャンゴ山にはモンスターが住み着いてる、\n\\>などという噂さえあります・・・。": {
+            "text_to_translate": "\\>【村長】\n\\>本当に、レッドプロミスがあるかどうかわかりません。\n\\!\\>それに、ジャンゴ山にはモンスターが住み着いてる、\n\\>などという噂さえあります・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【村長】\n\\>それでも・・・行くのですか・・・？": {
+            "text_to_translate": "\\>【村長】\n\\>それでも・・・行くのですか・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・僕は、前に進むことしか出来ないんです。\n\\!\\>僕の目は、前についていますから・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・僕は、前に進むことしか出来ないんです。\n\\!\\>僕の目は、前についていますから・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>立ち止まったり、後戻りしたりするのは、\n\\>この目が見えなくなってからでも\n\\>遅くはないでしょう・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>立ち止まったり、後戻りしたりするのは、\n\\>この目が見えなくなってからでも\n\\>遅くはないでしょう・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【村長】\n\\>そうですか・・・わかりました。\n\\!\\>くれぐれも、お気をつけて行ってらしてくださいな。": {
+            "text_to_translate": "\\>【村長】\n\\>そうですか・・・わかりました。\n\\!\\>くれぐれも、お気をつけて行ってらしてくださいな。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>はい・・・！\n\\!\\>色々ありがとうございました。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>はい・・・！\n\\!\\>色々ありがとうございました。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【村長】\\<\\.\n\\>それと・・・。\n\\!\\.\\.\\>目に見えるものだけが、\n\\>真実とは限りませんぞ・・・。": {
+            "text_to_translate": "\\>【村長】\\<\\.\n\\>それと・・・。\n\\!\\.\\.\\>目に見えるものだけが、\n\\>真実とは限りませんぞ・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0047.txt": {
+        "\\>【サムエル】\n\\>あ～ん、恐かったよぉ～！！\n\\!\\>お兄ちゃん、ありがとぉぉ～！！": {
+            "text_to_translate": "\\>【サムエル】\n\\>あ～ん、恐かったよぉ～！！\n\\!\\>お兄ちゃん、ありがとぉぉ～！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>う、うん。\n\\!\\>ボク、一人でこんな所で何してたんだい？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>う、うん。\n\\!\\>ボク、一人でこんな所で何してたんだい？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【サムエル】\n\\>あのね、虫取りしててね、\n\\>キレイなチョウチョを見つけたの。": {
+            "text_to_translate": "\\>【サムエル】\n\\>あのね、虫取りしててね、\n\\>キレイなチョウチョを見つけたの。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【サムエル】\n\\>夢中になってそのチョウチョを追いかけてたら、\n\\>いつの間にか変な石の間から出られなくなってたの。": {
+            "text_to_translate": "\\>【サムエル】\n\\>夢中になってそのチョウチョを追いかけてたら、\n\\>いつの間にか変な石の間から出られなくなってたの。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・・・$d\n\\!\\>キ、キレイなチョウチョ、か・・・。\n\\!\\>どのくらいキレイだったの？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・・・$d\n\\!\\>キ、キレイなチョウチョ、か・・・。\n\\!\\>どのくらいキレイだったの？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【サムエル】\n\\>すっごいキレイだったよー！\n\\!\\>世界一キレイだったよ☆": {
+            "text_to_translate": "\\>【サムエル】\n\\>すっごいキレイだったよー！\n\\!\\>世界一キレイだったよ☆",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・僕も見たかったな・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・僕も見たかったな・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【サムエル】\n\\>お兄ちゃんも、チョウチョ好きなのー？？": {
+            "text_to_translate": "\\>【サムエル】\n\\>お兄ちゃんも、チョウチョ好きなのー？？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>ふふふ・・・まぁね・・・。\n\\!\\>ボク、おうちはどこ？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>ふふふ・・・まぁね・・・。\n\\!\\>ボク、おうちはどこ？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【サムエル】\n\\>おうちは、あっちの方だよー！": {
+            "text_to_translate": "\\>【サムエル】\n\\>おうちは、あっちの方だよー！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>じゃあ、おうちまで連れて行ってあげるよ。\n\\!\\>またさっきみたいな石に囲まれたりしたら大変だしね。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>じゃあ、おうちまで連れて行ってあげるよ。\n\\!\\>またさっきみたいな石に囲まれたりしたら大変だしね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【サムエル】\n\\>うん！行こー！！": {
+            "text_to_translate": "\\>【サムエル】\n\\>うん！行こー！！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Map0048.txt": {
+        "\\>【ロー】\n\\>さっきはホントにありがとね・・・。\n\\!\\>怪我とかはない？": {
+            "text_to_translate": "\\>【ロー】\n\\>さっきはホントにありがとね・・・。\n\\!\\>怪我とかはない？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>うん、大丈夫だよ。\n\\!\\>ローは、こんな危ない山で\n\\>何をしてたの？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>うん、大丈夫だよ。\n\\!\\>ローは、こんな危ない山で\n\\>何をしてたの？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>あたしね、パノラマハンターなの。": {
+            "text_to_translate": "\\>【ロー】\n\\>あたしね、パノラマハンターなの。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>パノラマハンター・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>パノラマハンター・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>あら、知らない？\n\\!\\>キレイな景色とか、凄く壮大な景色とか・・・\n\\>色んな景色を見るのが好きな人たちのことを言うのよ。": {
+            "text_to_translate": "\\>【ロー】\n\\>あら、知らない？\n\\!\\>キレイな景色とか、凄く壮大な景色とか・・・\n\\>色んな景色を見るのが好きな人たちのことを言うのよ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>あたしは、とにかく高いところから見る景色が大好き。\n\\!\\>・・・バカと煙は高いところが好き・・・なんて\n\\>バカにされたりもするんだけどね・・・。": {
+            "text_to_translate": "\\>【ロー】\n\\>あたしは、とにかく高いところから見る景色が大好き。\n\\!\\>・・・バカと煙は高いところが好き・・・なんて\n\\>バカにされたりもするんだけどね・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>でも、高いところって、気持ちいいじゃない？\n\\!\\>あたしのことをバカにする人も、\n\\>みーんな、すっごく小さく見えちゃうんだから。": {
+            "text_to_translate": "\\>【ロー】\n\\>でも、高いところって、気持ちいいじゃない？\n\\!\\>あたしのことをバカにする人も、\n\\>みーんな、すっごく小さく見えちゃうんだから。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>へぇ・・・！\n\\>パノラマハンターなんて、知らなかったよ。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>へぇ・・・！\n\\>パノラマハンターなんて、知らなかったよ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>ふふふ・・・名前なんてどうでもいいのよ。\n\\!\\>キレイな景色を見て、何かを感じ取れる人なら、\n\\>それはみんな、きっとパノラマハンターなのよ。": {
+            "text_to_translate": "\\>【ロー】\n\\>ふふふ・・・名前なんてどうでもいいのよ。\n\\!\\>キレイな景色を見て、何かを感じ取れる人なら、\n\\>それはみんな、きっとパノラマハンターなのよ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>ところで、そういう\\N[1]は\n\\>こんな所で何をしてたの？": {
+            "text_to_translate": "\\>【ロー】\n\\>ところで、そういう\\N[1]は\n\\>こんな所で何をしてたの？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・実は・・・": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・実は・・・",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>ふーん・・・。\n\\!\\>世界で一番キレイな物、ねぇ・・・。": {
+            "text_to_translate": "\\>【ロー】\n\\>ふーん・・・。\n\\!\\>世界で一番キレイな物、ねぇ・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>その・・・「レッドプロミス」だっけ？\n\\!\\>それって、世界で一番キレイなの？": {
+            "text_to_translate": "\\>【ロー】\n\\>その・・・「レッドプロミス」だっけ？\n\\!\\>それって、世界で一番キレイなの？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>わからないけど・・・。\n\\!\\>でも、他には当ても何もないし・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>わからないけど・・・。\n\\!\\>でも、他には当ても何もないし・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>そっか・・・。": {
+            "text_to_translate": "\\>【ロー】\n\\>そっか・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>\\N[1]はさ、\n\\>もし、その「レッドプロミス」がすごくキレイだったら、\n\\>もうそれでいいの・・・？": {
+            "text_to_translate": "\\>【ロー】\n\\>\\N[1]はさ、\n\\>もし、その「レッドプロミス」がすごくキレイだったら、\n\\>もうそれでいいの・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>もうそれで、って・・・\n\\!\\>・・・どういうこと・・・？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>もうそれで、って・・・\n\\!\\>・・・どういうこと・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>つまり・・・\\<\\!\\>えっと、\n\\.\\>その宝石がキレイだったらさ、\n\\>もう目が見えなくなっちゃっても・・・いいの？": {
+            "text_to_translate": "\\>【ロー】\n\\>つまり・・・\\<\\!\\>えっと、\n\\.\\>その宝石がキレイだったらさ、\n\\>もう目が見えなくなっちゃっても・・・いいの？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・よくはないけど・・・\n\\!\\>もう、治らないって言われたから・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・よくはないけど・・・\n\\!\\>もう、治らないって言われたから・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>そうなのかもしれないけどさ・・・\n\\!\\>もっと、諦め悪くてもいいんじゃない・・・？": {
+            "text_to_translate": "\\>【ロー】\n\\>そうなのかもしれないけどさ・・・\n\\!\\>もっと、諦め悪くてもいいんじゃない・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>諦め悪くても、そんなのカッコ悪くないし・・・\n\\>むしろ・・・そう、\n\\>それもキレイだと思う。": {
+            "text_to_translate": "\\>【ロー】\n\\>諦め悪くても、そんなのカッコ悪くないし・・・\n\\>むしろ・・・そう、\n\\>それもキレイだと思う。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>・・・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>・・・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>あははっ、何言ってるのか\n\\>わけわかんなくなっちゃったね・・・。": {
+            "text_to_translate": "\\>【ロー】\n\\>あははっ、何言ってるのか\n\\>わけわかんなくなっちゃったね・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>山頂まで行ったら、レッドプロミスだけじゃなくて、\n\\>ちょっとは景色も見てみてね。\n\\!\\>きっと、景色もキレイだと思うから。": {
+            "text_to_translate": "\\>【ロー】\n\\>山頂まで行ったら、レッドプロミスだけじゃなくて、\n\\>ちょっとは景色も見てみてね。\n\\!\\>きっと、景色もキレイだと思うから。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>うん・・・！\n\\!\\>ローは上まで行かないの？": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>うん・・・！\n\\!\\>ローは上まで行かないの？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>さすがに、あんなモンスターに出会っちゃね・・・。\n\\!\\>景色を楽しみながら、もう山を降りるよ。": {
+            "text_to_translate": "\\>【ロー】\n\\>さすがに、あんなモンスターに出会っちゃね・・・。\n\\!\\>景色を楽しみながら、もう山を降りるよ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>それじゃ・・・気をつけてね。": {
+            "text_to_translate": "\\>【ロー】\n\\>それじゃ・・・気をつけてね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>ありがとう。\\<\\!\\>ローこそね。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>ありがとう。\\<\\!\\>ローこそね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>うん・・・。\n\\!\\>また、いつかどこかで会えたらいいね。": {
+            "text_to_translate": "\\>【ロー】\n\\>うん・・・。\n\\!\\>また、いつかどこかで会えたらいいね。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【\\N[1]】\n\\>うん。\n\\!\\>それじゃ・・・。": {
+            "text_to_translate": "\\>【\\N[1]】\n\\>うん。\n\\!\\>それじゃ・・・。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>あのさ・・・\n\\!\\>変なこと、聞いていいかな・・・？": {
+            "text_to_translate": "\\>【ロー】\n\\>あのさ・・・\n\\!\\>変なこと、聞いていいかな・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【ロー】\n\\>あたしは・・・\n\\!\\>世界で何番目くらいにキレイかな・・・？": {
+            "text_to_translate": "\\>【ロー】\n\\>あたしは・・・\n\\!\\>世界で何番目くらいにキレイかな・・・？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Database\\Animations.txt": {
+        "小": {
+            "text_to_translate": "小",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "大": {
+            "text_to_translate": "大",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "爆発": {
+            "text_to_translate": "爆発",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "MBで使う予定だった": {
+            "text_to_translate": "MBで使う予定だった",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "吸血": {
+            "text_to_translate": "吸血",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "吸収魔法Ａ": {
+            "text_to_translate": "吸収魔法Ａ",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "嘴": {
+            "text_to_translate": "嘴",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "消滅": {
+            "text_to_translate": "消滅",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        }
+    },
+    "Database\\ChipSet.txt": {
+        "基本セット": {
+            "text_to_translate": "基本セット",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "外観セット": {
+            "text_to_translate": "外観セット",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "内装セット": {
+            "text_to_translate": "内装セット",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "ダンジョンセット": {
+            "text_to_translate": "ダンジョンセット",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "船セット": {
+            "text_to_translate": "船セット",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "SK": {
+            "text_to_translate": "SK",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "ダンジョン": {
+            "text_to_translate": "ダンジョン",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "山": {
+            "text_to_translate": "山",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        }
+    },
+    "Database\\Conditions.txt": {
+        "戦闘不能": {
+            "text_to_translate": "戦闘不能",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "は倒れた！": {
+            "text_to_translate": "は倒れた！",
+            "original_marker": "InflictedOnAlly",
+            "speaker_id": "SYSTEM"
+        },
+        "を倒した！": {
+            "text_to_translate": "を倒した！",
+            "original_marker": "InflictedOnEnemy",
+            "speaker_id": "SYSTEM"
+        },
+        "は立ち上がった！": {
+            "text_to_translate": "は立ち上がった！",
+            "original_marker": "Recovered",
+            "speaker_id": "SYSTEM"
+        }
+    },
+    "Database\\Hero.txt": {
+        "しゅじんこう": {
+            "text_to_translate": "しゅじんこう",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "ヤマダヒロキ": {
+            "text_to_translate": "ヤマダヒロキ",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "トッカロピ": {
+            "text_to_translate": "トッカロピ",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "アキピロ": {
+            "text_to_translate": "アキピロ",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        }
+    },
+    "Database\\Terrain.txt": {
+        "ふつう": {
+            "text_to_translate": "ふつう",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        },
+        "ここはよし": {
+            "text_to_translate": "ここはよし",
+            "original_marker": "Name",
+            "speaker_id": "SYSTEM"
+        }
+    },
+    "Database\\Vocab.txt": {
+        "debut": {
+            "text_to_translate": "debut",
+            "original_marker": "NewGame",
+            "speaker_id": "SYSTEM"
+        },
+        "suite": {
+            "text_to_translate": "suite",
+            "original_marker": "Continue",
+            "speaker_id": "SYSTEM"
+        },
+        "fin": {
+            "text_to_translate": "fin",
+            "original_marker": "Quit",
+            "speaker_id": "SYSTEM"
+        },
+        "どのファイルにセーブしますか？": {
+            "text_to_translate": "どのファイルにセーブしますか？",
+            "original_marker": "ChooseSaveFile",
+            "speaker_id": "SYSTEM"
+        },
+        "どのファイルをロードしますか？": {
+            "text_to_translate": "どのファイルをロードしますか？",
+            "original_marker": "ChooseLoadFile",
+            "speaker_id": "SYSTEM"
+        },
+        "ファイル": {
+            "text_to_translate": "ファイル",
+            "original_marker": "File",
+            "speaker_id": "SYSTEM"
+        },
+        "終了してよろしいですか？": {
+            "text_to_translate": "終了してよろしいですか？",
+            "original_marker": "QuitConfirm",
+            "speaker_id": "SYSTEM"
+        },
+        "はい": {
+            "text_to_translate": "はい",
+            "original_marker": "QuitYes",
+            "speaker_id": "SYSTEM"
+        },
+        "いいえ": {
+            "text_to_translate": "いいえ",
+            "original_marker": "QuitNo",
+            "speaker_id": "SYSTEM"
+        }
+    },
+    "Database\\Commons\\Common0002.txt": {
+        "\\>【モスガー】\n\\>俺を殺す気かい、青年？": {
+            "text_to_translate": "\\>【モスガー】\n\\>俺を殺す気かい、青年？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>一つの爆弾から\n\\>二つ以上の爆弾へ引火する処理が入っています！": {
+            "text_to_translate": "\\>一つの爆弾から\n\\>二つ以上の爆弾へ引火する処理が入っています！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>$r爆発を始めてよろしいですか？": {
+            "text_to_translate": "\\>$r爆発を始めてよろしいですか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>$wはい": {
+            "text_to_translate": "\\>$wはい",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$xいいえ": {
+            "text_to_translate": "\\>$xいいえ",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        }
+    },
+    "Database\\Commons\\Common0004.txt": {
+        "\\>起爆の設定がされていません！": {
+            "text_to_translate": "\\>起爆の設定がされていません！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Database\\Commons\\Common0006.txt": {
+        "\\>【作者】\n\\>なかなかやるじゃないか。\n\\>ここまでこのゲームを遊んでくれて\n\\>俺は嬉しいよ。": {
+            "text_to_translate": "\\>【作者】\n\\>なかなかやるじゃないか。\n\\>ここまでこのゲームを遊んでくれて\n\\>俺は嬉しいよ。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【作者】\n\\>では・・・\n\\!\\>とっておきの物を出してやろう。": {
+            "text_to_translate": "\\>【作者】\n\\>では・・・\n\\!\\>とっておきの物を出してやろう。",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>【作者】\n\\>もう何も出ないよん☆": {
+            "text_to_translate": "\\>【作者】\n\\>もう何も出ないよん☆",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Database\\Commons\\Common0008.txt": {
+        "\\>$w爆発を開始する": {
+            "text_to_translate": "\\>$w爆発を開始する",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$tギブアップ": {
+            "text_to_translate": "\\>$tギブアップ",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$xキャンセル": {
+            "text_to_translate": "\\>$xキャンセル",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>【作者】\n\\>貴様逃げられると思うなよ？": {
+            "text_to_translate": "\\>【作者】\n\\>貴様逃げられると思うなよ？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>$rステージセレクト画面に戻りますか？": {
+            "text_to_translate": "\\>$rステージセレクト画面に戻りますか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>$wはい": {
+            "text_to_translate": "\\>$wはい",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$xいいえ": {
+            "text_to_translate": "\\>$xいいえ",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$rギブアップしますか？": {
+            "text_to_translate": "\\>$rギブアップしますか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        }
+    },
+    "Database\\Commons\\Common0011.txt": {
+        "\\>$wセーブ": {
+            "text_to_translate": "\\>$wセーブ",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$tメインメニューに戻る": {
+            "text_to_translate": "\\>$tメインメニューに戻る",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$xキャンセル": {
+            "text_to_translate": "\\>$xキャンセル",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>メインメニューに戻りますか？\n\\>（またこの続きからプレーできます）": {
+            "text_to_translate": "\\>メインメニューに戻りますか？\n\\>（またこの続きからプレーできます）",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>はい": {
+            "text_to_translate": "\\>はい",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>いいえ": {
+            "text_to_translate": "\\>いいえ",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        }
+    },
+    "Database\\Commons\\Common0012.txt": {
+        "\\>一つの爆弾から\n\\>二つ以上の爆弾へ引火する処理が入っています！": {
+            "text_to_translate": "\\>一つの爆弾から\n\\>二つ以上の爆弾へ引火する処理が入っています！",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>$r爆発を始めてよろしいですか？": {
+            "text_to_translate": "\\>$r爆発を始めてよろしいですか？",
+            "original_marker": "Message",
+            "speaker_id": "NARRATION"
+        },
+        "\\>$wはい": {
+            "text_to_translate": "\\>$wはい",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        },
+        "\\>$xいいえ": {
+            "text_to_translate": "\\>$xいいえ",
+            "original_marker": "Choice",
+            "speaker_id": "SYSTEM"
+        }
+    },
+    "_RM2K_Names_": {
+        "RM2K_MapNames:1": {
+            "text_to_translate": "18ｲﾍﾞﾝﾄ後半",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:2": {
+            "text_to_translate": "エンディング",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:3": {
+            "text_to_translate": "説明①",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:4": {
+            "text_to_translate": "説明　爆弾の種類",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:5": {
+            "text_to_translate": "説明　石の種類",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:6": {
+            "text_to_translate": "2",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:7": {
+            "text_to_translate": "操作方法",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:8": {
+            "text_to_translate": "3",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:9": {
+            "text_to_translate": "4",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:10": {
+            "text_to_translate": "5",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:11": {
+            "text_to_translate": "6",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:12": {
+            "text_to_translate": "12",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:13": {
+            "text_to_translate": "7",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:14": {
+            "text_to_translate": "その他",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:15": {
+            "text_to_translate": "最初メニュー",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:16": {
+            "text_to_translate": "9",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:17": {
+            "text_to_translate": "イベント",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:18": {
+            "text_to_translate": "エンドレス",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:19": {
+            "text_to_translate": "まっくら",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:20": {
+            "text_to_translate": "イベント後半",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:21": {
+            "text_to_translate": "8",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:22": {
+            "text_to_translate": "俺の部屋",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:23": {
+            "text_to_translate": "スコア",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:24": {
+            "text_to_translate": "11",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:25": {
+            "text_to_translate": "俺とﾊﾞﾄﾙ",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:26": {
+            "text_to_translate": "サッカー",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:27": {
+            "text_to_translate": "ｴﾝﾄﾞﾚｽ最初",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:28": {
+            "text_to_translate": "15",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:29": {
+            "text_to_translate": "18ｲﾍﾞﾝﾄ",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:31": {
+            "text_to_translate": "16ｲﾍﾞﾝﾄ",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:35": {
+            "text_to_translate": "1",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:36": {
+            "text_to_translate": "セレクト",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:38": {
+            "text_to_translate": "最初",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:39": {
+            "text_to_translate": "14",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:40": {
+            "text_to_translate": "13",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:41": {
+            "text_to_translate": "16",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:42": {
+            "text_to_translate": "10イベント１",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:43": {
+            "text_to_translate": "10イベント２",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:45": {
+            "text_to_translate": "18",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:46": {
+            "text_to_translate": "12　イベント1",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:47": {
+            "text_to_translate": "12　イベント後半",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:48": {
+            "text_to_translate": "16ｲﾍﾞﾝﾄ後半",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_MapNames:49": {
+            "text_to_translate": "17",
+            "original_marker": "RM2K_MapNames",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:1": {
+            "text_to_translate": "１が起爆",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:2": {
+            "text_to_translate": "２が起爆",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:3": {
+            "text_to_translate": "３が起爆",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:4": {
+            "text_to_translate": "４が起爆",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:5": {
+            "text_to_translate": "５が起爆",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:6": {
+            "text_to_translate": "６が起爆",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:7": {
+            "text_to_translate": "７が起爆",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:8": {
+            "text_to_translate": "８が起爆",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:9": {
+            "text_to_translate": "爆弾流れチェック",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:10": {
+            "text_to_translate": "定期キーをとらない",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:11": {
+            "text_to_translate": "ｷｬﾝｾﾙメニュー",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:12": {
+            "text_to_translate": "マップで移動中",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:13": {
+            "text_to_translate": "イベント１済んだ？",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:14": {
+            "text_to_translate": "イベント２済んだ？",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:15": {
+            "text_to_translate": "俺を殺す気か？",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:16": {
+            "text_to_translate": "ｾﾚｸﾄﾒﾆｭｰｷｰ取らない",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:17": {
+            "text_to_translate": "イベント３済み",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:18": {
+            "text_to_translate": "エンドレスモード",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:19": {
+            "text_to_translate": "イベント３終了",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:20": {
+            "text_to_translate": "ﾐｶｴﾙ貯めてます",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:21": {
+            "text_to_translate": "爆発ﾁｪｯｸ1既に爆発",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:22": {
+            "text_to_translate": "爆発ﾁｪｯｸ2既に爆発",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:23": {
+            "text_to_translate": "爆発ﾁｪｯｸ3既に爆発",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:24": {
+            "text_to_translate": "爆発ﾁｪｯｸ4既に爆発",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:25": {
+            "text_to_translate": "爆発ﾁｪｯｸ5既に爆発",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:26": {
+            "text_to_translate": "爆発ﾁｪｯｸ6既に爆発",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:27": {
+            "text_to_translate": "爆発ﾁｪｯｸ7既に爆発",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:28": {
+            "text_to_translate": "爆発ﾁｪｯｸ8既に爆発",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:29": {
+            "text_to_translate": "ローの最初終った？",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:30": {
+            "text_to_translate": "ロー助け終わった？",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:31": {
+            "text_to_translate": "光飛んでる",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:32": {
+            "text_to_translate": "光りが終ったあと",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:33": {
+            "text_to_translate": "ストップ",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:34": {
+            "text_to_translate": "今説明中",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:35": {
+            "text_to_translate": "説明選択できる",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:36": {
+            "text_to_translate": "ﾊﾞﾄﾙのみだけど",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:37": {
+            "text_to_translate": "ｽﾄのｵｰﾌﾟﾆﾝｸﾞ見た？",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:38": {
+            "text_to_translate": "石を光らせる定期",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:39": {
+            "text_to_translate": "ワールドカップ開幕",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:40": {
+            "text_to_translate": "ワールドカップ中",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:41": {
+            "text_to_translate": "ｻﾑｴﾙのｲﾍﾞﾝﾄ見た？",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:42": {
+            "text_to_translate": "ｻﾑ救助した？",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:43": {
+            "text_to_translate": "ミカエル見た？",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:44": {
+            "text_to_translate": "始まった？",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:45": {
+            "text_to_translate": "ストーリークリア？",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:46": {
+            "text_to_translate": "俺と話した。",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:61": {
+            "text_to_translate": "1クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:62": {
+            "text_to_translate": "2クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:63": {
+            "text_to_translate": "3クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:64": {
+            "text_to_translate": "4クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:65": {
+            "text_to_translate": "5クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:66": {
+            "text_to_translate": "6クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:67": {
+            "text_to_translate": "7クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:68": {
+            "text_to_translate": "8クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:69": {
+            "text_to_translate": "9クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:70": {
+            "text_to_translate": "10クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:71": {
+            "text_to_translate": "11クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:72": {
+            "text_to_translate": "12クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:73": {
+            "text_to_translate": "13クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:74": {
+            "text_to_translate": "14クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:75": {
+            "text_to_translate": "15クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:76": {
+            "text_to_translate": "16クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:77": {
+            "text_to_translate": "17クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:78": {
+            "text_to_translate": "18クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:79": {
+            "text_to_translate": "19クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:80": {
+            "text_to_translate": "20クリア",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:81": {
+            "text_to_translate": "爆弾1あり",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:82": {
+            "text_to_translate": "爆弾2あり",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:83": {
+            "text_to_translate": "爆弾3あり",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:84": {
+            "text_to_translate": "爆弾4あり",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:85": {
+            "text_to_translate": "爆弾5あり",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:86": {
+            "text_to_translate": "爆弾6あり",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:87": {
+            "text_to_translate": "爆弾7あり",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:88": {
+            "text_to_translate": "爆弾8あり",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:89": {
+            "text_to_translate": "爆弾9あり",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:90": {
+            "text_to_translate": "爆弾10あり",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:91": {
+            "text_to_translate": "ｴﾝﾄﾞﾚｽ　1既登場",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:92": {
+            "text_to_translate": "ｴﾝﾄﾞﾚｽ　2既登場",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Switches:93": {
+            "text_to_translate": "ｴﾝﾄﾞﾚｽ　3既登場",
+            "original_marker": "RM2K_Switches",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:1": {
+            "text_to_translate": "X",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:2": {
+            "text_to_translate": "Y",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:3": {
+            "text_to_translate": "決定押した回数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:4": {
+            "text_to_translate": "キー",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:5": {
+            "text_to_translate": "向き",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:6": {
+            "text_to_translate": "その種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:7": {
+            "text_to_translate": "次の爆発爆弾ＩＤ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:8": {
+            "text_to_translate": "起動爆弾ＩＤ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:9": {
+            "text_to_translate": "チェック用　起爆ＩＤ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:10": {
+            "text_to_translate": "ｲﾍﾞﾝﾄ呼び出し時ﾍﾟｰｼﾞ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:11": {
+            "text_to_translate": "チェック用　代入ＩＤ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:12": {
+            "text_to_translate": "再開時X",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:13": {
+            "text_to_translate": "再開時Y",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:14": {
+            "text_to_translate": "ﾁｪｯｸ　一つの範囲内数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:15": {
+            "text_to_translate": "キャンセルのみ受け付",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:16": {
+            "text_to_translate": "ﾋﾟｸﾁｬｰX",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:17": {
+            "text_to_translate": "ﾋﾟｸﾁｬｰY",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:18": {
+            "text_to_translate": "爆弾爆発総数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:19": {
+            "text_to_translate": "爆発時　代入ＩＤ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:20": {
+            "text_to_translate": "壊した石の数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:21": {
+            "text_to_translate": "石ID9爆風回数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:22": {
+            "text_to_translate": "石ID10爆風回数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:23": {
+            "text_to_translate": "石ID11爆風回数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:24": {
+            "text_to_translate": "石ID12爆風回数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:25": {
+            "text_to_translate": "石ID13爆風回数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:26": {
+            "text_to_translate": "石ID14爆風回数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:27": {
+            "text_to_translate": "石ID15爆風回数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:28": {
+            "text_to_translate": "石ID16爆風回数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:29": {
+            "text_to_translate": "石ID17爆風回数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:30": {
+            "text_to_translate": "石ID18爆風回数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:31": {
+            "text_to_translate": "計算用",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:32": {
+            "text_to_translate": "計算用２",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:33": {
+            "text_to_translate": "数字つきその１",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:34": {
+            "text_to_translate": "数字つきその２",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:35": {
+            "text_to_translate": "数字つきその３",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:36": {
+            "text_to_translate": "現在ステージ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:37": {
+            "text_to_translate": "場所記憶ＩＤ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:38": {
+            "text_to_translate": "場所記憶Ｘ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:39": {
+            "text_to_translate": "場所記憶Ｙ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:40": {
+            "text_to_translate": "ハイスコア代入",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:41": {
+            "text_to_translate": "ｽﾃｰｼﾞ内石の総数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:43": {
+            "text_to_translate": "ｼﾅﾘｵによるｽｺｱ変数",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:44": {
+            "text_to_translate": "ｽﾃｰｼﾞ移行で向く方向",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:45": {
+            "text_to_translate": "ｼﾅﾘｵ1ｵｰﾌﾟﾆﾝｸﾞ用",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:46": {
+            "text_to_translate": "ｴﾝﾄﾞﾚｽ　現在ｽﾃｰｼﾞ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:47": {
+            "text_to_translate": "なんでも",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:48": {
+            "text_to_translate": "ｴﾝﾄﾞﾚｽｶｳﾝﾄﾀｲﾑ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:49": {
+            "text_to_translate": "ｴﾝﾄﾞﾚｽ　ｽｺｱ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:51": {
+            "text_to_translate": "１位のスコア",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:52": {
+            "text_to_translate": "２位のスコア",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:53": {
+            "text_to_translate": "３位のスコア",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:54": {
+            "text_to_translate": "１個目の名前は何位？",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:55": {
+            "text_to_translate": "２個目の名前は何位？",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:56": {
+            "text_to_translate": "３個目の名前は何位？",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:58": {
+            "text_to_translate": "動作説明ステップ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:59": {
+            "text_to_translate": "動作説明キー",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:61": {
+            "text_to_translate": "主人公ライフ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:62": {
+            "text_to_translate": "敵ライフ",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:63": {
+            "text_to_translate": "ﾐｶｴﾙの光のx",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:64": {
+            "text_to_translate": "ﾐｶｴﾙの光のy",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:65": {
+            "text_to_translate": "ﾐｶｴﾙの向き",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:81": {
+            "text_to_translate": "爆弾１種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:82": {
+            "text_to_translate": "爆弾２種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:83": {
+            "text_to_translate": "爆弾３種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:84": {
+            "text_to_translate": "爆弾４種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:85": {
+            "text_to_translate": "爆弾５種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:86": {
+            "text_to_translate": "爆弾６種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:87": {
+            "text_to_translate": "爆弾７種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:88": {
+            "text_to_translate": "爆弾８種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:91": {
+            "text_to_translate": "石1種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:92": {
+            "text_to_translate": "石2種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:93": {
+            "text_to_translate": "石3種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:94": {
+            "text_to_translate": "石4種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:95": {
+            "text_to_translate": "石5種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:96": {
+            "text_to_translate": "石6種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:97": {
+            "text_to_translate": "石7種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:98": {
+            "text_to_translate": "石8種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:99": {
+            "text_to_translate": "石9種類",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:100": {
+            "text_to_translate": "ｴﾝﾄﾞﾚｽ　ｽﾃｰｼﾞ難易度",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:101": {
+            "text_to_translate": "ｴﾝﾄﾞﾚｽ結果大爆弾",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:102": {
+            "text_to_translate": "ｴﾝﾄﾞﾚｽ結果小爆弾",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_Variables:110": {
+            "text_to_translate": "サッカー倒した敵",
+            "original_marker": "RM2K_Variables",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:1": {
+            "text_to_translate": "起動爆弾を決める",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:2": {
+            "text_to_translate": "爆発の流れﾁｪｯｸ",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:3": {
+            "text_to_translate": "ﾁｪｯｸ　既に爆発したか",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:4": {
+            "text_to_translate": "流れﾁｪｯｸの前に",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:5": {
+            "text_to_translate": "移動時向き戻し",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:6": {
+            "text_to_translate": "爆発時色々チェック",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:7": {
+            "text_to_translate": "ｽﾃｰｼﾞ移動前のstart",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:8": {
+            "text_to_translate": "ｽﾃｰｼﾞ内のｷｬﾝｾﾙ時ﾒﾆｭ",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:10": {
+            "text_to_translate": "ｽﾃｰｼﾞに移行する前に",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:11": {
+            "text_to_translate": "セレクト画面メニュー",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:12": {
+            "text_to_translate": "爆発流れﾁｪｯｸ　ｴﾝﾄﾞﾚｽ",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:13": {
+            "text_to_translate": "ｴﾝﾄﾞﾚｽ　最後計算",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:15": {
+            "text_to_translate": "主人公ｲﾍﾞﾝﾄ接触判定",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:16": {
+            "text_to_translate": "シュート",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:17": {
+            "text_to_translate": "ダッシュ判断",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:18": {
+            "text_to_translate": "足踏み判断",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:19": {
+            "text_to_translate": "ボール移動管理",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        },
+        "RM2K_CommonEvents:20": {
+            "text_to_translate": "移動",
+            "original_marker": "RM2K_CommonEvents",
+            "speaker_id": "SYSTEM"
+        }
+    }
+}

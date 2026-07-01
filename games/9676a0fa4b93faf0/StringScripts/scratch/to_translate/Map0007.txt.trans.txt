@@ -1,0 +1,160 @@
+﻿1. [MARKER: Message] 　　　　　　　　　アルバイト募集
+　　　　　　やる気のある人、募集します。
+　　　　　　　１８歳以上の方は、是非！
+　　　　　　　　　　　　　　　　　　　　Pubエルミ
+2. [MARKER: Message] 詳細は落書きがあって、読めない。
+おそらくこの町の子供達がやったと思われる。
+3. [MARKER: Message] 商人「
+こちらは道具を扱っております。
+4. [MARKER: Message] 商人「
+ありがとう、またご利用ください。
+5. [MARKER: Message] 
+　　　　　　　　　エルミ船舶センター
+6. [MARKER: Message] 戦士「
+メシ食いてぇっっ！！！
+7. [MARKER: Message] イゾウ「
+・・・・・・俺も食いてぇっっ！！
+8. [MARKER: Message] オスカー「
+・・・・・・・・・・・・・・・。
+9. [MARKER: Message] 戦士「
+メシ食いてぇっっ！！！
+10. [MARKER: Message] オスカー「
+いや、まだ食べたくないな。
+11. [MARKER: Message] 戦士「
+ノリが悪いなぁ・・・。
+12. [MARKER: Message] 戦士「
+メシ食いてぇっっ！！！
+13. [MARKER: Message] チョチョリーナ「
+力説しなくても、食べればいいじゃない$g
+14. [MARKER: Message] 戦士「
+ハ・・・ハイ・・・。
+15. [MARKER: Message] イゾウ「
+・・・・・・・・・・・・・・・・・・・・。
+16. [MARKER: Message] オンドレ「
+俺は商人じゃないからな・・。
+17. [MARKER: Message] ＊「
+ままー、これが欲しい～。
+18. [MARKER: Message] ＊「
+はいはい、後で買ってあげるからね。
+19. [MARKER: Message] オヤジ「
+そこによくいるカモメは
+この地域に生息する『モヒカンカモメ』と
+呼ばれるカモメだ。
+20. [MARKER: Message] オヤジ「
+決して、ニワトリが飛んでいるわけではないのだよ。
+21. [MARKER: Message] 娘「
+ようこそエルミへ！
+22. [MARKER: Message] オスカー「
+船を利用したいのだが・・。
+23. [MARKER: Message] 娘「
+でしたら、ここから右に向かって
+突き当たりを左に・・。
+24. [MARKER: Message] 娘「
+向かった先に船舶センターがありますので
+そちらからご利用ください。
+25. [MARKER: Message] オスカー「
+・・・ありがとう。
+26. [MARKER: Message] 娘「
+お二人で旅行ですか？
+27. [MARKER: Message] 娘「
+ようこそエルミへ！
+28. [MARKER: Message] レビット「
+ゲッ！見つかっちゃった！！
+オイラが張り紙に落書きしたの、ヒミツだよ！
+29. [MARKER: Message] レビット「
+え、まだオイラに何か用？
+30. [MARKER: Message] 男の子「
+今日はレビットのヤツ、見ないなぁ～。
+どっか隠れてるのかな？
+31. [MARKER: Message] 女の子「
+あのねー、レビットは酒場の張り紙に
+落書きしちゃったんだって！
+32. [MARKER: Message] 船員「
+おっと、邪魔だよ！！
+・・早く荷物を積まなきゃ！！
+33. [MARKER: Message] \S[5]
+　　　　　イゾウ達はイギリスへ向かった・・\|\|\^
+34. [MARKER: Message] オスカー「
+イゾウ、自分の船があるのだから
+別にこれに乗らなくてもいいだろう。
+35. [MARKER: Message] イゾウ「
+あ・・\.そうだな・・。
+36. [MARKER: Message] イゾウ「
+こんな所に行くより、ベルサイユだ。ベルサイユ。
+37. [MARKER: Message] オスカー「
+バスチーユへ向かおう・・。
+38. [MARKER: Message] 男「
+乗船券をご提示お願いします。
+39. [MARKER: Message] イゾウ「
+あ、まだ買ってない・・。
+40. [MARKER: Message] オスカー「
+船舶センターに戻って、買ってこよう。
+41. [MARKER: Message] 男「
+乗船券をご提示お願いします。
+42. [MARKER: Message] イゾウ「
+これでいいか？
+43. [MARKER: Message] 男「
+確かに拝見しました。
+では、どうぞお通りください。
+44. [MARKER: Message] 男「
+良い船旅を。
+45. [MARKER: Message] 男「
+良い船旅を。
+46. [MARKER: Message] 男「
+今はイギリス行きの船は出ておりません。
+47. [MARKER: Message] 男「
+現在イギリスへは戦争の関係上
+入港できなくなっています。
+ここではなく、別ルートからの利用をお願いします。
+48. [MARKER: Message] 男「
+乗船券をご提示お願いします。
+49. [MARKER: Message] イゾウ「
+あ、まだ買ってない・・。
+50. [MARKER: Message] オスカー「
+船舶センターに戻って、買ってこよう。
+51. [MARKER: Message] 男「
+乗船券をご提示お願いします。
+52. [MARKER: Message] イゾウ「
+これでいいか？
+53. [MARKER: Message] 男「
+確かに拝見しました。
+では、どうぞお通りください。
+54. [MARKER: Message] 男「
+良い船旅を。
+55. [MARKER: Message] 船員「
+あー、この船は今のところ
+出る予定は無いよ。
+隣の船に行きなよ。
+56. [MARKER: Message] 商人「
+はい、いらっしゃい。
+イギリスからの輸入品を扱っています。
+57. [MARKER: Message] 商人「
+ありがとよ、また来てくれよな！
+58. [MARKER: Message] 剣士「
+このラインナップ、さすがイギリスって感じだな。
+俺もイギリスに行きたくなったよ。
+59. [MARKER: Message] イゾウ「
+おっ、何か入っているぜ。
+60. [MARKER: Message] [FACE: Erase] 
+　　　　　　　　　　りんごゲット！！
+61. [MARKER: Message] [FACE: Erase] オスカー「
+\S[3]・・・・・・。
+わびしいなぁ・・・。
+62. [MARKER: Message] [FACE: Erase] オスカー「
+何か入っているな・・。
+63. [MARKER: Message] [FACE: Erase] 
+　　　　　　　　　　りんごゲット！！
+64. [MARKER: Message] [FACE: Erase] イゾウ「
+おっ、何か入っているぜ。
+65. [MARKER: Message] [FACE: Erase] 
+　　　　　　　　　　りんごゲット！！
+66. [MARKER: Message] [FACE: Erase] チョチョリーナ「
+貧乏臭いわねぇ・・・$g
+67. [MARKER: Message] [FACE: Erase] 男「
+良い船旅を。
+68. [MARKER: Message] [FACE: Erase] 男「
+今はイギリス行きの船は出ておりません。
+69. [MARKER: Message] [FACE: Erase] 男「
+現在イギリスへは戦争の関係上
+入港できなくなっています。
+ここではなく、別ルートからの利用をお願いします。

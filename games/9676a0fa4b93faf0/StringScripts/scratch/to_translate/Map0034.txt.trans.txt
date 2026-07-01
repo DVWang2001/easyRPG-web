@@ -1,0 +1,8 @@
+﻿1. [MARKER: Message] 神殿騎士「
+こちらは『強さの間』です。
+2. [MARKER: Message] 神殿騎士「
+こちらは『素早さの間』です。
+3. [MARKER: Message] 神殿騎士「
+こちらは『賢さの間』です。
+4. [MARKER: Message] オンドレ「
+俺って、ここにいていいのかナ・・・。

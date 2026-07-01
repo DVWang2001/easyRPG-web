@@ -1,0 +1,32 @@
+﻿1. [MARKER: Message] 流漸「
+さて・・奴らがどこまでやれるか
+楽しみだな・・クク・・。
+2. [MARKER: Message] 流漸「
+・・・・なっ！！
+3. [MARKER: Message] JOKER「
+\S[2]・・・くくく・・貴様が流漸だな・・。
+4. [MARKER: Message] 流漸「
+だったらどうした・・？
+5. [MARKER: Message] 流漸「
+がはァっ！！！！
+6. [MARKER: Message] ？？？？？「
+殺ったか・・。
+7. [MARKER: Message] JOKER「
+はい・・ソクシです・・。
+8. [MARKER: Message] ？？？？？「
+頭を切り取れ・・。
+ヤツの意識に隠されたアレが必要なのだ。
+9. [MARKER: Message] JOKER「
+ククク・・おおせのままに・・・。
+10. [MARKER: Message] JOKER「
+・・・・・様・・既にそれは無いようです・・。
+11. [MARKER: Message] ？？？？？「
+・・ちっ・・・・モバイルめ・・・
+やはりオスカー達の手に渡ったらしいな・・・
+12. [MARKER: Message] JOKER「
+私が奴らから奪ってきましょうか？
+13. [MARKER: Message] ？？？？？「
+よい、いずれ私の元へ来る事になるだろう・・。
+まだ私の予想範囲内の出来事に過ぎん。
+14. [MARKER: Message] ？？？？？「
+フフフフ・・・・・。

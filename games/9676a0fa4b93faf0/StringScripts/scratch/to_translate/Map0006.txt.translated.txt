@@ -1,0 +1,87 @@
+﻿1. [MARKER: Message] 受付「
+目前沒有前往艾爾米的船班預定。
+請稍後再來。
+2. [MARKER: Message] 士兵「
+前方請止步……
+3. [MARKER: Message] 奧斯卡「
+有點可疑……有什麼蹊蹺……
+4. [MARKER: Message] 以藏「
+背刺——！！
+5. [MARKER: Message] 士兵「
+哇！！！
+6. [MARKER: Message] 奧斯卡「
+……那是雙刃劍喔……
+7. [MARKER: Message] 以藏「
+·\.·\.·\.是你想太多了。
+8. [MARKER: Message] 士兵「
+……………………………………
+9. [MARKER: Message] 安德烈「
+大哥我哪裡都跟$g
+10. [MARKER: Message] 伊莉莎白「
+這裡所有的東西，都是新日本的
+「\N[5]」親手建造的。
+11. [MARKER: Message] 伊莉莎白「
+他設計了城堡……甚至連我國的兵器
+都是他設計的。
+12. [MARKER: Message] 路易十三世「
+我是國王。
+13. [MARKER: Message] 男子「
+我打算從這裡前往北邊的英國城鎮，
+再去印度。
+14. [MARKER: Message] 鋼琴師「
+哎？果然又見面了！
+15. [MARKER: Message] 鋼琴師「
+我打算從北邊的英國城鎮
+前往印度。
+16. [MARKER: Message] 奧斯卡「
+等等，以藏！
+伊莉莎白八號應該就在城內！！
+17. [MARKER: Message] 奧斯卡「
+等等，以藏！
+伊莉莎白八號應該就在城內！！
+18. [MARKER: Message] ？「
+等著……別以為能活著出去！！
+19. [MARKER: Message] 以藏「
+……？
+20. [MARKER: Message] 士兵「
+你用背刺騙我，把我殺了！
+21. [MARKER: Message] 奧斯卡「
+果然是雙刃……
+22. [MARKER: Message] 以藏「
+是你想太多了……
+23. [MARKER: Message] 士兵「
+真……遺憾……
+24. [MARKER: Message] 以藏「
+……走吧……
+25. [MARKER: Message] ？「
+等著……別以為能活著出去！！
+26. [MARKER: Message] 以藏「
+……？
+27. [MARKER: Message] 士兵「
+你用背刺騙我，把我殺了！
+28. [MARKER: Message] 奧斯卡「
+果然是雙刃……
+29. [MARKER: Message] 以藏「
+是你想太多了……
+30. [MARKER: Message] 士兵「
+真……遺憾……
+31. [MARKER: Message] 以藏「
+……走吧……
+32. [MARKER: Message] 男子「
+哎呀，聽說船班好像延誤了。
+33. [MARKER: Message] 
+　　　　　　　前方，英國碼頭
+34. [MARKER: Message] 士兵「
+「\N[5]」據說是世界第一的設計工程師。
+35. [MARKER: Message] 士兵「
+而他的故鄉「新日本」
+據說也全由他一手建造。
+36. [MARKER: Message] 士兵「
+因此，整個國家都成為了機械都市……
+37. [MARKER: Message] 大臣「
+讓別國人設計城堡……
+我王到底在想什麼……
+38. [MARKER: Message] 商人「
+現在英國正值戰事，
+所以進不去呢……
+好可怕啊……

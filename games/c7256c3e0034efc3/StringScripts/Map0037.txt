@@ -1,0 +1,125 @@
+﻿**********Event1**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+看來正面防線已經清理乾淨了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+啊啊，看來是這樣。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+那麼，要怎麼做？
+##
+
+
+#Message#
+就這樣從正面衝進去嗎？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+雖然正常來說繞到後面之類的才是最合適的
+……
+##
+
+
+#Message#
+但既然都鬧得這麼大了，不論從哪裡進去其
+實都差不多吧。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+哈哈，正如你所說。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+所以說，班達納。
+##
+
+
+#Message#
+你對自己的體力有自信嗎？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+那算什麼啊？
+##
+
+
+#Message#
+那個，倒也不是完全不行啦……
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+是有的吧？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+雖然確實是這樣沒錯……
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+那就沒問題了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+你，你想幹嘛！？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+抱歉。
+##
+
+
+#Message#
+不過，我多半是被利用了呢。
+##
+
+
+#Message#
+這點小事就忍耐一下吧。
+##
+
+
+#Message#
+那麼，就來為我的過去畫上休止符吧！
+##
+
+
+
+

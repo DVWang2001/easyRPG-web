@@ -1,0 +1,286 @@
+{
+    "filepath": "Database/Skills.txt",
+    "meta": [
+        {
+            "type": "tag",
+            "line_idx": 17
+        },
+        {
+            "type": "tag",
+            "line_idx": 20
+        },
+        {
+            "type": "tag",
+            "line_idx": 23
+        },
+        {
+            "type": "tag",
+            "line_idx": 122
+        },
+        {
+            "type": "tag",
+            "line_idx": 125
+        },
+        {
+            "type": "tag",
+            "line_idx": 128
+        },
+        {
+            "type": "tag",
+            "line_idx": 407
+        },
+        {
+            "type": "tag",
+            "line_idx": 410
+        },
+        {
+            "type": "tag",
+            "line_idx": 413
+        },
+        {
+            "type": "tag",
+            "line_idx": 467
+        },
+        {
+            "type": "tag",
+            "line_idx": 470
+        },
+        {
+            "type": "tag",
+            "line_idx": 473
+        },
+        {
+            "type": "tag",
+            "line_idx": 842
+        },
+        {
+            "type": "tag",
+            "line_idx": 857
+        },
+        {
+            "type": "tag",
+            "line_idx": 860
+        },
+        {
+            "type": "tag",
+            "line_idx": 863
+        },
+        {
+            "type": "tag",
+            "line_idx": 1022
+        },
+        {
+            "type": "tag",
+            "line_idx": 1025
+        },
+        {
+            "type": "tag",
+            "line_idx": 1028
+        },
+        {
+            "type": "tag",
+            "line_idx": 1037
+        },
+        {
+            "type": "tag",
+            "line_idx": 1082
+        },
+        {
+            "type": "tag",
+            "line_idx": 1097
+        },
+        {
+            "type": "tag",
+            "line_idx": 1100
+        },
+        {
+            "type": "tag",
+            "line_idx": 1103
+        },
+        {
+            "type": "tag",
+            "line_idx": 1112
+        },
+        {
+            "type": "tag",
+            "line_idx": 1115
+        },
+        {
+            "type": "tag",
+            "line_idx": 1118
+        },
+        {
+            "type": "tag",
+            "line_idx": 1547
+        },
+        {
+            "type": "tag",
+            "line_idx": 1550
+        },
+        {
+            "type": "tag",
+            "line_idx": 1553
+        },
+        {
+            "type": "tag",
+            "line_idx": 1907
+        }
+    ],
+    "items": [
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "鎮魂"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "実体のない敵に有効。"
+        },
+        {
+            "face": "NONE",
+            "marker": "UseMessage1",
+            "text": "は鎮魂を唱えた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "叩きつけ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "敵全体に樹木を叩きつける"
+        },
+        {
+            "face": "NONE",
+            "marker": "UseMessage1",
+            "text": "は枝を叩きつけてきた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "巻き付き"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "敵単体にダメージを与え、麻痺状態にする。"
+        },
+        {
+            "face": "NONE",
+            "marker": "UseMessage1",
+            "text": "は髪を巻き付けてきた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "体当たり"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "敵単体にダメージを与え、バランスを崩させる。"
+        },
+        {
+            "face": "NONE",
+            "marker": "UseMessage1",
+            "text": "は体当たりした！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "--------------------"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "増強術"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "味方全体の攻撃力を上げる。"
+        },
+        {
+            "face": "NONE",
+            "marker": "UseMessage1",
+            "text": "の精神増強術！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "なめる"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "自分の小さな傷をなめて治す"
+        },
+        {
+            "face": "NONE",
+            "marker": "UseMessage1",
+            "text": "は傷口をなめた"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "--------------------"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "--------------------"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "鬼火"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "広範囲に小さな火の玉"
+        },
+        {
+            "face": "NONE",
+            "marker": "UseMessage1",
+            "text": "は鬼火を放った！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "狐火"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "小さな火の玉"
+        },
+        {
+            "face": "NONE",
+            "marker": "UseMessage1",
+            "text": "は狐火を放った！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "招風"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "敵単体に風属性のダメージを与える。"
+        },
+        {
+            "face": "NONE",
+            "marker": "UseMessage1",
+            "text": "は風をおこした！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "--------------------"
+        }
+    ]
+}

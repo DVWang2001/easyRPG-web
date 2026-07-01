@@ -1,0 +1,30 @@
+{
+  "name": "闇閻神族1",
+  "short_name": "闇閻神族1",
+  "id": "play-fc6d8393e09f61fd.html",
+  "start_url": "play-fc6d8393e09f61fd.html",
+  "scope": "play-fc6d8393e09f61fd.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "games/fc6d8393e09f61fd/pwa-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "games/fc6d8393e09f61fd/pwa-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "games/fc6d8393e09f61fd/pwa-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

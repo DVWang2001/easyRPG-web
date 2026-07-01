@@ -1,0 +1,210 @@
+﻿1. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+2. [MARKER: Message] 警備兵「
+咕哇……。
+3. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+4. [MARKER: Message] 警備兵「
+咕哇……。
+5. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+6. [MARKER: Message] 警備兵「
+咕哇……。
+7. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+8. [MARKER: Message] 警備兵「
+咕哇……。
+9. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+10. [MARKER: Message] 警備兵「
+咕哇……。
+11. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+12. [MARKER: Message] 警備兵「
+咕哇……。
+13. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+14. [MARKER: Message] 警備兵「
+咕哇……。
+15. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+16. [MARKER: Message] 警備兵「
+咕哇……。
+17. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+18. [MARKER: Message] 警備兵「
+咕哇……。
+19. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+20. [MARKER: Message] 警備兵「
+咕哇……。
+21. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+22. [MARKER: Message] 警備兵「
+咕哇……。
+23. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+24. [MARKER: Message] 警備兵「
+咕哇……。
+25. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+26. [MARKER: Message] 警備兵「
+咕哇……。
+27. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+28. [MARKER: Message] 警備兵「
+咕哇……。
+29. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+30. [MARKER: Message] 警備兵「
+咕哇……。
+31. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+32. [MARKER: Message] 警備兵「
+咕哇……。
+33. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！? 
+34. [MARKER: Message] 警備兵「
+咕哇……。
+35. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+36. [MARKER: Message] 警備兵「
+咕哇……。
+37. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+38. [MARKER: Message] 警備兵「
+咕哇……。
+39. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+40. [MARKER: Message] 警備兵「
+咕哇……。
+41. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+42. [MARKER: Message] 警備兵「
+咕哇……。
+43. [MARKER: Message] 警備兵 什麼人！你們這群傢伙！！？
+44. [MARKER: Message] 警備兵「
+咕哇……。
+45. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+46. [MARKER: Message] 警備兵「
+咕哇……。
+47. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+48. [MARKER: Message] 警備兵「
+咕哇……。
+49. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+50. [MARKER: Message] 警備兵「
+咕哇……。
+51. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+52. [MARKER: Message] 警備兵「
+咕哇……。
+53. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+54. [MARKER: Message] 警備兵「
+咕哇……。
+55. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+56. [MARKER: Message] 警備兵「
+咕哇……。
+57. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+58. [MARKER: Message] 警備兵「
+咕哇……。
+59. [MARKER: Message] 安德烈「
+以藏！已經沒有鑰匙了喔！
+60. [MARKER: Message] 以藏「
+也就是說……這一層樓的門都打不開了
+是這樣吧……。
+61. [MARKER: Message] 奧斯卡「
+只能放棄了呢……。
+62. [MARKER: Message] 
+　　　鑰匙用完之後，請放回櫃子裡
+
+　　　　　　　　　　　　　　　　　中國兵團委員會
+63. [MARKER: Message] 以藏「
+……找到鑰匙了喔。
+64. [MARKER: Message] 奧斯卡「
+看來有４把備用鑰匙，和１把不同的鑰匙。
+可能是很久沒被使用了，
+鑰匙都破破爛爛的……。
+65. [MARKER: Message] 以藏「
+也就是說，用一次就會壞掉啊……。
+66. [MARKER: Message] 
+　 獲得了４把拋棄式鑰匙，和１把入口鑰匙！
+67. [MARKER: Message] 以藏「
+鑰匙已經拿到了吧。
+68. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+69. [MARKER: Message] 警備兵「
+咕哇……。
+70. [MARKER: Message] 警備兵「
+什麼人！你們這群傢伙！！？
+71. [MARKER: Message] 警備兵「
+咕哇……。
+72. [MARKER: Message] 以藏「
+有鑰匙也有警備兵……。
+這一層樓到底是搞什麼鬼……。
+73. [MARKER: Message] 奧斯卡「
+這代表著有如此重要的東西沉眠於此嗎……？
+74. [MARKER: Message] 以藏「
+從這一層漂浮的氣息來看，
+警備兵看來不只剛剛那些人而已呢……。
+75. [MARKER: Message] 奧斯卡「
+而且備用鑰匙有４把……。
+如果能好好利用這個，
+說不定能避免與警備兵交戰。
+76. [MARKER: Message] 以藏「
+思考太麻煩了，直接把警備兵打倒
+強行突破如何？
+鑰匙也不會浪費。
+77. [MARKER: Message] 奧斯卡「
+……。
+好吧……交給你決定……。
+78. [MARKER: Message] 
+　　　　請巧妙利用４把備用鑰匙，
+　　　　　　抵達那個小房間。
+79. [MARKER: Message] 
+　　　　　　在抵達小房間之前，
+　　若４把備用鑰匙用光了，就得重來一次。
+80. [MARKER: Message] 奧斯卡「
+感覺不到士兵們的氣息……。
+81. [MARKER: Message] 以藏「
+……難道……
+全都被人幹掉了……！？
+82. [MARKER: Message] 奧斯卡「
+別說這種可怕的話……。
+恐怕是知道了我們的行動，
+而在皇帝陛下的身邊集結了吧。
+83. [MARKER: Message] 以藏「
+也就是說……等一下我們得和那一大群士兵
+正面交鋒囉……。
+84. [MARKER: Message] 奧斯卡「
+就是這樣。
+85. [MARKER: Message] 以藏「
+啊……打不開……！
+86. [MARKER: Message] 奧斯卡「
+看來……需要鑰匙呢……。
+87. [MARKER: Message] 以藏「
+那個櫃子……很可疑呢……。
+88. [MARKER: Message] 以藏「
+這是……？
+89. [MARKER: Message] 奧斯卡「
+這一層的鳥瞰圖……？
+90. [MARKER: Message] 奧斯卡「
+呃……。
+91. [MARKER: Message] 　　　防範入侵者，請按照上述內容配置兵力。
+　　　　　\C[5]紅\C[0]為兵力，\C[4]黃\C[0]為門，
+　　　　　而\C[9]綠\C[0]則是必須誓死守護的場所。
+92. [MARKER: Message] 奧斯卡「
+看來是這樣呢。
+也就是說，這一層的中心有著什麼東西吧。
+93. [MARKER: Message] 　　　防範入侵者，請按照上述內容配置兵力。
+　　　　　\C[5]紅\C[0]為兵力，\C[4]黃\C[0]為門，
+　　　　　而\C[9]綠\C[0]則是必須誓死守護的場所。
+94. [MARKER: Message] 安德烈「
+真……真是大迷宮啊……（吞口水）
+95. [MARKER: Message] 
+　　　　　從內側鎖上了！

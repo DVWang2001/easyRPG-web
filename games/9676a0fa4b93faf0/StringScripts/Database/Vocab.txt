@@ -1,0 +1,385 @@
+﻿*** Battle Messages 1 ***
+#StartBattle# [30]
+出現了！！
+
+#PreemptiveAttack# [50]
+搶先攻擊的機會！
+
+#EscapeSuccess# [50]
+成功逃脫了！
+
+#EscapeFailure# [50]
+逃脫失敗！
+
+#Victory# [50]
+戰鬥勝利！
+
+#Defeat# [50]
+敗北了……
+
+#GetEXP# [38]
+的經驗值！
+
+#GetMoneyPart1# [10]
+
+
+#GetMoneyPart2# [24]
+到手了！
+
+#GetItem# [30]
+到手了！
+
+
+*** Battle Messages 2 ***
+#NormalAttack# [30]
+的攻擊！
+
+#CriticalHit# [50]
+致命一擊！
+
+#EnemyCritical# [50]
+致命一擊！
+
+#DefendMessage# [30]
+正在防禦！
+
+#EnemyObserve# [30]
+在觀察動向……
+
+#EnemyBuildStrength# [30]
+在蓄積力量……
+
+#EnemyBurst# [30]
+自爆了！
+
+#EnemyEscape# [30]
+逃跑了！
+
+#EnemyTransform# [30]
+變身了！
+
+
+*** Battle Messages 3 ***
+#DamageEnemy# [24]
+點傷害！
+
+#MissEnemy# [32]
+無法造成傷害！
+
+#DamageAlly# [24]
+點傷害！
+
+#MissAlly# [32]
+沒有受到傷害！
+
+#SkillFailureA# [32]
+沒有效果！
+
+#SkillFailureB# [32]
+毫無影響！
+
+#SkillFailureC# [32]
+沒有睡著！
+
+#AvoidPhysical# [32]
+閃避了攻擊！
+
+#UseItem# [14]
+使用了
+
+
+*** Battle Messages 4 ***
+#RecoverHPMP# [12]
+回復了！
+
+#StatUp# [12]
+提升了！
+
+#StatDown# [12]
+下降了！
+
+#StatAbsorb# [12]
+奪取了！
+
+#StatSucked# [12]
+被奪走了！
+
+#DefenseUp# [20]
+的抵抗力提升了！
+
+#DefenseDown# [20]
+的抵抗力下降了！
+
+#LevelUp# [16]
+升級了！
+
+#LearnSkill# [26]
+學會了！
+
+
+*** Shop Messages A ***
+#ShopA:ChoiceScreen# [50]
+「歡迎光臨」
+
+#ShopA:ChoiceScreenAgain# [50]
+「還有其他需要嗎？」
+
+#ShopA:Buy# [12]
+購買
+
+#ShopA:Sell# [12]
+賣出
+
+#ShopA:Leave# [12]
+離開
+
+#ShopA:BuyScreen# [50]
+「請問您要購買什麼？」
+
+#ShopA:HowManyToBuy# [50]
+「請問您要購買幾個？」
+
+#ShopA:PurchaseMade# [50]
+「感謝您的惠顧」
+
+#ShopA:SellScreen# [50]
+「請問您要賣出什麼？」
+
+#ShopA:HowManyToSell# [50]
+「請問您要賣出幾個？」
+
+#ShopA:SaleComplete# [50]
+「感謝您的惠顧」
+
+
+*** Shop Messages B ***
+#ShopB:ChoiceScreen# [50]
+「歡迎！今天有什麼需要？」
+
+#ShopB:ChoiceScreenAgain# [50]
+「還有別的事嗎？」
+
+#ShopB:Buy# [12]
+購買
+
+#ShopB:Sell# [12]
+賣出
+
+#ShopB:Leave# [12]
+離開
+
+#ShopB:BuyScreen# [50]
+「要買什麼？」
+
+#ShopB:HowManyToBuy# [50]
+「要買幾個？」
+
+#ShopB:PurchaseMade# [50]
+「謝了！」
+
+#ShopB:SellScreen# [50]
+「要賣什麼？」
+
+#ShopB:HowManyToSell# [50]
+「要賣幾個？」
+
+#ShopB:SaleComplete# [50]
+「謝了！」
+
+
+*** Shop Messages C ***
+#ShopC:ChoiceScreen# [50]
+「你好，有什麼需要嗎？」
+
+#ShopC:ChoiceScreenAgain# [50]
+「還有其他需要嗎？」
+
+#ShopC:Buy# [12]
+購買
+
+#ShopC:Sell# [12]
+賣出
+
+#ShopC:Leave# [12]
+離開
+
+#ShopC:BuyScreen# [50]
+「請問要買什麼？」
+
+#ShopC:HowManyToBuy# [50]
+「請問要買幾個？」
+
+#ShopC:PurchaseMade# [50]
+「非常感謝」
+
+#ShopC:SellScreen# [50]
+「請問要賣什麼？」
+
+#ShopC:HowManyToSell# [50]
+「請問要賣幾個？」
+
+#ShopC:SaleComplete# [50]
+「非常感謝」
+
+
+*** Inn Messages A ***
+#InnA:IntroLine1a# [16]
+「住宿費用為
+
+#InnA:IntroLine1b# [20]
+。
+
+#InnA:IntroLine2# [50]
+
+
+#InnA:Lodge# [12]
+住宿
+
+#InnA:DoNotLodge# [12]
+不住宿
+
+
+*** Inn Messages B ***
+#InnB:IntroLine1a# [16]
+「一晚
+
+#InnB:IntroLine1b# [20]
+，
+
+#InnB:IntroLine2# [50]
+　要住嗎？
+
+#InnB:Lodge# [12]
+住宿
+
+#InnB:DoNotLodge# [12]
+不住宿
+
+
+*** Shop Parameters ***
+#OwnedQuantity# [16]
+持有數
+
+#EquippedQuantity# [16]
+裝備數
+
+#CurrencyUnit# [6]
+Ｄ
+
+
+*** Commands ***
+#Fight# [10]
+戰鬥
+
+#Auto# [10]
+自動
+
+#Escape# [10]
+逃跑
+
+#Attack# [10]
+攻擊
+
+#Defend# [10]
+防禦
+
+#Item# [10]
+道具
+
+#Skill# [10]
+技能
+
+#Equip# [12]
+裝備
+
+#Save# [12]
+存檔
+
+#EndGame# [12]
+中斷遊戲
+
+#NewGame# [16]
+New Game
+
+#Continue# [16]
+Load Game
+
+#Quit# [16]
+End Game
+
+
+*** Stats & Equipment ***
+#Level# [10]
+等級
+
+#HP# [10]
+ＨＰ
+
+#MP# [10]
+ＭＰ
+
+#NormalState# [10]
+正常
+
+#EXPShort# [2]
+Ｅ
+
+#LevelShort# [2]
+Ｌ
+
+#HPShort# [2]
+Ｈ
+
+#MPShort# [2]
+Ｍ
+
+#MPCost# [10]
+消耗ＭＰ
+
+#Offense# [10]
+攻擊力
+
+#Defense# [10]
+防禦力
+
+#Mind# [10]
+精神力
+
+#Agility# [10]
+敏捷性
+
+#Arms# [10]
+武器
+
+#Shield# [10]
+盾牌
+
+#Armor# [10]
+鎧甲
+
+#Helmet# [10]
+頭盔
+
+#Other# [10]
+飾品
+
+
+*** Save/Load/End ***
+#ChooseSaveFile# [50]
+要存入哪個檔案？
+
+#ChooseLoadFile# [50]
+要讀取哪個檔案？
+
+#File# [10]
+File
+
+#QuitConfirm# [50]
+確定要中斷遊戲嗎？
+
+#QuitYes# [10]
+Yes
+
+#QuitNo# [10]
+No
+

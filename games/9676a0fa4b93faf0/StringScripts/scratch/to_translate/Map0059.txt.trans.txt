@@ -1,0 +1,34 @@
+﻿1. [MARKER: Message] マスター「
+ここで、酒と踊りを楽しんでいってくれよ。
+2. [MARKER: Message] 踊り子「
+め・・、目が回るぅぅぅ～～～・・・。
+3. [MARKER: Message] イゾウ「
+既に踊りではないな・・。
+4. [MARKER: Message] オスカー「
+のろわれているんじゃないのか・・？
+5. [MARKER: Message] DANDY「
+こんなもの、踊りではない・・。
+6. [MARKER: Message] オスカー「
+回っているだけだもんなァ・・。
+7. [MARKER: Message] 男「
+ココからじゃ踊り子が見えません・・・。
+8. [MARKER: Message] 男「
+いいぞ～！もっと踊れ～！
+9. [MARKER: Message] 女「
+う～ん・・・。
+あんな踊りの何処が良いのかしら？
+10. [MARKER: Message] 酔ってる男「
+うぃ～・・・\.ヒック！
+11. [MARKER: Message] おじさん「
+いや～、目の保養になりますな～。
+12. [MARKER: Message] 男「
+この国は暑いなぁ～。
+13. [MARKER: Message] 女「
+きゃ！
+人の部屋に入って来るなんてサイテイ！
+14. [MARKER: Message] 男「
+な・・・何ですか！
+貴方達は！
+出てって下さい！
+15. [MARKER: Message] 男「
+中々良い部屋だなぁ～。

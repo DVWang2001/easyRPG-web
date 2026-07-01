@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "Database\\Skills.txt",
+    "key": "クェイクⅠ",
+    "text": "クェイクⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はクェイクⅠを唱えた！",
+    "text": "はクェイクⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "クェイクⅡ",
+    "text": "クェイクⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はクェイクⅡを唱えた！",
+    "text": "はクェイクⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "クェイクⅢ",
+    "text": "クェイクⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はクェイクⅢを唱えた！",
+    "text": "はクェイクⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ウィンドⅠ",
+    "text": "ウィンドⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体に風属性のダメージを与える。",
+    "text": "敵単体に風属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はウィンドⅠを唱えた！",
+    "text": "はウィンドⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ウィンドⅡ",
+    "text": "ウィンドⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はウィンドⅡを唱えた！",
+    "text": "はウィンドⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ウィンドⅢ",
+    "text": "ウィンドⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はウィンドⅢを唱えた！",
+    "text": "はウィンドⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "トルネードⅠ",
+    "text": "トルネードⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はトルネードⅠを唱えた！",
+    "text": "はトルネードⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "トルネードⅡ",
+    "text": "トルネードⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はトルネードⅡを唱えた！",
+    "text": "はトルネードⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "トルネードⅢ",
+    "text": "トルネードⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はトルネードⅢを唱えた！",
+    "text": "はトルネードⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "セイントⅠ",
+    "text": "セイントⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体に神聖属性のダメージを与える。",
+    "text": "敵単体に神聖属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はセイントⅠを唱えた！",
+    "text": "はセイントⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "セイントⅡ",
+    "text": "セイントⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はセイントⅡを唱えた！",
+    "text": "はセイントⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "セイントⅢ",
+    "text": "セイントⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はセイントⅢを唱えた！",
+    "text": "はセイントⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "スターライトⅠ",
+    "text": "スターライトⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体に神聖属性のダメージを与える。",
+    "text": "敵全体に神聖属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はスターライトⅠを唱えた！",
+    "text": "はスターライトⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "スターライトⅡ",
+    "text": "スターライトⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はスターライトⅡを唱えた！",
+    "text": "はスターライトⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "スターライトⅢ",
+    "text": "スターライトⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はスターライトⅢを唱えた！",
+    "text": "はスターライトⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "シェイドⅠ",
+    "text": "シェイドⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体に暗黒属性のダメージを与える。",
+    "text": "敵単体に暗黒属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はシェイドⅠを唱えた！",
+    "text": "はシェイドⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "シェイドⅡ",
+    "text": "シェイドⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はシェイドⅡを唱えた！",
+    "text": "はシェイドⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "シェイドⅢ",
+    "text": "シェイドⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はシェイドⅢを唱えた！",
+    "text": "はシェイドⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ダークネスⅠ",
+    "text": "ダークネスⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体に暗黒属性のダメージを与える。",
+    "text": "敵全体に暗黒属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はダークネスⅠを唱えた！",
+    "text": "はダークネスⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ダークネスⅡ",
+    "text": "ダークネスⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はダークネスⅡを唱えた！",
+    "text": "はダークネスⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ダークネスⅢ",
+    "text": "ダークネスⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はダークネスⅢを唱えた！",
+    "text": "はダークネスⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "バーストⅠ",
+    "text": "バーストⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体に無属性のダメージを与える。",
+    "text": "敵単体に無属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はバーストⅠを唱えた！",
+    "text": "はバーストⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "バーストⅡ",
+    "text": "バーストⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はバーストⅡを唱えた！",
+    "text": "はバーストⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "バーストⅢ",
+    "text": "バーストⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はバーストⅢを唱えた！",
+    "text": "はバーストⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ニュークリアⅠ",
+    "text": "ニュークリアⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体に無属性のダメージを与える。",
+    "text": "敵全体に無属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はニュークリアⅠを唱えた！",
+    "text": "はニュークリアⅠを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ニュークリアⅡ",
+    "text": "ニュークリアⅡ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はニュークリアⅡを唱えた！",
+    "text": "はニュークリアⅡを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ニュークリアⅢ",
+    "text": "ニュークリアⅢ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はニュークリアⅢを唱えた！",
+    "text": "はニュークリアⅢを唱えた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "毒攻撃",
+    "text": "毒攻撃",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体にダメージを与え、毒状態にする。",
+    "text": "敵単体にダメージを与え、毒状態にする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Terrain.txt",
+    "key": "草原",
+    "text": "草原",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Terrain.txt",
+    "key": "森",
+    "text": "森",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Terrain.txt",
+    "key": "砂漠",
+    "text": "砂漠",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Terrain.txt",
+    "key": "荒地",
+    "text": "荒地",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Terrain.txt",
+    "key": "毒沼",
+    "text": "毒沼",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Terrain.txt",
+    "key": "雪原",
+    "text": "雪原",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Terrain.txt",
+    "key": "雪原：森",
+    "text": "雪原：森",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Terrain.txt",
+    "key": "ダメージ床",
+    "text": "ダメージ床",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Terrain.txt",
+    "key": "海：浅瀬",
+    "text": "海：浅瀬",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Terrain.txt",
+    "key": "海：沖合",
+    "text": "海：沖合",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Terrain.txt",
+    "key": "洞窟壁",
+    "text": "洞窟壁",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "重装警備兵：\n　侵入者は許さん！！！",
+    "text": "重装警備兵：\n　侵入者は許さん！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ヴァディス：\n　お前のような、ナイフ使いを失うのは\n　惜しいような気もするが…",
+    "text": "ヴァディス：\n　お前のような、ナイフ使いを失うのは\n　惜しいような気もするが…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ヴァディス：\n　まぁ、これも命令・・・\\!\n　しかたない…\\!\\>死んでもらう！！！\\<",
+    "text": "ヴァディス：\n　まぁ、これも命令・・・\\!\n　しかたない…\\!\\>死んでもらう！！！\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ラグ：\n　（師匠に勝てるんか！？）",
+    "text": "ラグ：\n　（師匠に勝てるんか！？）",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ラグ：\n　ダメや…攻撃が全部かわされてしまう…\\!\n　さすがは、師匠…最強といわれるわけや・・・",
+    "text": "ラグ：\n　ダメや…攻撃が全部かわされてしまう…\\!\n　さすがは、師匠…最強といわれるわけや・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ラグ：\n　ど、どうする…このままじゃ、絶対勝てんやろ・・・",
+    "text": "ラグ：\n　ど、どうする…このままじゃ、絶対勝てんやろ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ヴァディス：\n　まったく、張り合いがない・・・\\!\n　そろそろ決めるか・・・",
+    "text": "ヴァディス：\n　まったく、張り合いがない・・・\\!\n　そろそろ決めるか・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ラグ：\n　くっ…\\!マジでヤバイで・・・",
+    "text": "ラグ：\n　くっ…\\!マジでヤバイで・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ヴァディス：\n　だが、お前に、これほどの力しかないとは・・・\n　期待はずれだな…\\!失望したよ・・・。",
+    "text": "ヴァディス：\n　だが、お前に、これほどの力しかないとは・・・\n　期待はずれだな…\\!失望したよ・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ラグ：\n　くっ…どうすれば\\.・\\.・\\.・",
+    "text": "ラグ：\n　くっ…どうすれば\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ラグ：\n　ん？\\!これは\\.・\\.・\\.・\\.？",
+    "text": "ラグ：\n　ん？\\!これは\\.・\\.・\\.・\\.？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ラグ：\n　くっ…どうしようもない・・・",
+    "text": "ラグ：\n　くっ…どうしようもない・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ラグ：\n　そうや・・・\\!これを組み合わせて・・・",
+    "text": "ラグ：\n　そうや・・・\\!これを組み合わせて・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ラグ：\n　くらえっ！！！",
+    "text": "ラグ：\n　くらえっ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ヴァディス：\n　ムダだと言ってるだろ！！！",
+    "text": "ヴァディス：\n　ムダだと言ってるだろ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "\\>ヴァディスはナイフを弾き飛ばした。\\<",
+    "text": "\\>ヴァディスはナイフを弾き飛ばした。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "\\>壁にナイフがささった。\\<",
+    "text": "\\>壁にナイフがささった。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ヴァディス：\n　さて、それで最後のあがきは終わりか？\\!\n　それじゃ、死んでもらう・・・",
+    "text": "ヴァディス：\n　さて、それで最後のあがきは終わりか？\\!\n　それじゃ、死んでもらう・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ラグ：\n　・・・。",
+    "text": "ラグ：\n　・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ラグ：\n　５\\.・\\.・\\.・\\|４\\.・\\.・\\.・\\|３\\.・\\.・\\.・",
+    "text": "ラグ：\n　５\\.・\\.・\\.・\\|４\\.・\\.・\\.・\\|３\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ヴァディス：\n　ん？",
+    "text": "ヴァディス：\n　ん？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "\\>ラグ：\\<\n　\\>５・・・４・・・３・・・\\<\\.２\\.・\\.・\\.・\\|１\\.・\\.・\\.・",
+    "text": "\\>ラグ：\\<\n　\\>５・・・４・・・３・・・\\<\\.２\\.・\\.・\\.・\\|１\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ヴァディス：\n　何をしてる！？\\!とにかく、これで終わりだ！！！",
+    "text": "ヴァディス：\n　何をしてる！？\\!とにかく、これで終わりだ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ラグ：\n　ゼロ。",
+    "text": "ラグ：\n　ゼロ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "\\>壁にささったナイフが、爆発した！！！\\<",
+    "text": "\\>壁にささったナイフが、爆発した！！！\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Troops.txt",
+    "key": "ヴァディス：\n　ぐぉっ！！！",
+    "text": "ヴァディス：\n　ぐぉっ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "と遭遇！",
+    "text": "と遭遇！",
+    "marker": "StartBattle",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "先制攻撃のチャンス！",
+    "text": "先制攻撃のチャンス！",
+    "marker": "PreemptiveAttack",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "無事に逃げ出した！",
+    "text": "無事に逃げ出した！",
+    "marker": "EscapeSuccess",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "逃げ切れなかった！",
+    "text": "逃げ切れなかった！",
+    "marker": "EscapeFailure",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "敵を打ちのめした！！！",
+    "text": "敵を打ちのめした！！！",
+    "marker": "Victory",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "負けてしまった・・・",
+    "text": "負けてしまった・・・",
+    "marker": "Defeat",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "の経験値を獲得！",
+    "text": "の経験値を獲得！",
+    "marker": "GetEXP",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "お金を",
+    "text": "お金を",
+    "marker": "GetMoneyPart1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "手に入れた！",
+    "text": "手に入れた！",
+    "marker": "GetMoneyPart2",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "を手に入れた！",
+    "text": "を手に入れた！",
+    "marker": "GetItem",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "の攻撃！",
+    "text": "の攻撃！",
+    "marker": "NormalAttack",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "会心の一撃！！",
+    "text": "会心の一撃！！",
+    "marker": "CriticalHit",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "痛恨の一撃！！",
+    "text": "痛恨の一撃！！",
+    "marker": "EnemyCritical",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "は身を守っている！",
+    "text": "は身を守っている！",
+    "marker": "DefendMessage",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "は様子を見ている・・・",
+    "text": "は様子を見ている・・・",
+    "marker": "EnemyObserve",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "は力をためている・・・",
+    "text": "は力をためている・・・",
+    "marker": "EnemyBuildStrength",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "は自爆した！",
+    "text": "は自爆した！",
+    "marker": "EnemyBurst",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "は逃げてしまった！",
+    "text": "は逃げてしまった！",
+    "marker": "EnemyEscape",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "は姿を変えた！",
+    "text": "は姿を変えた！",
+    "marker": "EnemyTransform",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "のダメージを与えた！",
+    "text": "のダメージを与えた！",
+    "marker": "DamageEnemy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "にダメージを与えられない！",
+    "text": "にダメージを与えられない！",
+    "marker": "MissEnemy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "のダメージを受けた！",
+    "text": "のダメージを受けた！",
+    "marker": "DamageAlly",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "はダメージを受けていない！",
+    "text": "はダメージを受けていない！",
+    "marker": "MissAlly",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "には効かなかった！",
+    "text": "には効かなかった！",
+    "marker": "SkillFailureA",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "は平気だった！",
+    "text": "は平気だった！",
+    "marker": "SkillFailureB",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "は眠らなかった！",
+    "text": "は眠らなかった！",
+    "marker": "SkillFailureC",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "は攻撃をかわした！",
+    "text": "は攻撃をかわした！",
+    "marker": "AvoidPhysical",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "を使った！",
+    "text": "を使った！",
+    "marker": "UseItem",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "回復した！",
+    "text": "回復した！",
+    "marker": "RecoverHPMP",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "上がった！",
+    "text": "上がった！",
+    "marker": "StatUp",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "下がった！",
+    "text": "下がった！",
+    "marker": "StatDown",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "奪った！",
+    "text": "奪った！",
+    "marker": "StatAbsorb",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "奪われた！",
+    "text": "奪われた！",
+    "marker": "StatSucked",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "に強くなった！",
+    "text": "に強くなった！",
+    "marker": "DefenseUp",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "に弱くなった！",
+    "text": "に弱くなった！",
+    "marker": "DefenseDown",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "になった！",
+    "text": "になった！",
+    "marker": "LevelUp",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "を覚えた！",
+    "text": "を覚えた！",
+    "marker": "LearnSkill",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "交換受付：あら？何と交換するの？",
+    "text": "交換受付：あら？何と交換するの？",
+    "marker": "ShopA:ChoiceScreen",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "交換受付：ほかにまだ交換するの？",
+    "text": "交換受付：ほかにまだ交換するの？",
+    "marker": "ShopA:ChoiceScreenAgain",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "交換する",
+    "text": "交換する",
+    "marker": "ShopA:Buy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "売却する",
+    "text": "売却する",
+    "marker": "ShopC:Sell",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "やめる",
+    "text": "やめる",
+    "marker": "ShopC:Leave",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "交換受付：何と交換するのかしら？",
+    "text": "交換受付：何と交換するのかしら？",
+    "marker": "ShopA:BuyScreen",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "交換受付：いくつ交換するの？",
+    "text": "交換受付：いくつ交換するの？",
+    "marker": "ShopA:HowManyToBuy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "交換受付：はい。それじゃ、これが景品ね。",
+    "text": "交換受付：はい。それじゃ、これが景品ね。",
+    "marker": "ShopA:PurchaseMade",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「何をお売りになりますか？」",
+    "text": "「何をお売りになりますか？」",
+    "marker": "ShopA:SellScreen",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「いくつお売りになりますか？」",
+    "text": "「いくつお売りになりますか？」",
+    "marker": "ShopA:HowManyToSell",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「毎度ありがとうございます」",
+    "text": "「毎度ありがとうございます」",
+    "marker": "ShopA:SaleComplete",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「いらっしゃい！　今日はどんな用だい？」",
+    "text": "「いらっしゃい！　今日はどんな用だい？」",
+    "marker": "ShopB:ChoiceScreen",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「ほかにも用があるかい？」",
+    "text": "「ほかにも用があるかい？」",
+    "marker": "ShopB:ChoiceScreenAgain",
+    "speaker": "SYSTEM"
+  }
+]

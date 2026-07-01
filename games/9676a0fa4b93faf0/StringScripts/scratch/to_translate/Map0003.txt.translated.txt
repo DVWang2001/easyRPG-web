@@ -1,0 +1,47 @@
+﻿1. [MARKER: Message] 安德烈「
+嘿——！奧斯卡！！
+2. [MARKER: Message] 雞「
+咕——咕——！！！
+3. [MARKER: Message] 以藏「
+好燙！！
+4. [MARKER: Message] 奧斯卡「
+真的很熱。
+5. [MARKER: Message] 以藏「
+要不要稍微休息一下？
+6. [MARKER: Message] 奧斯卡「
+雖然是以藏的家……可以休息一下嗎？
+7. [MARKER: Message] 雞「
+咕——咕——！！
+8. [MARKER: Message] 以藏「
+大哥，我一直很好奇，
+這隻雞到底是怎麼回事？
+9. [MARKER: Message] 安德烈「
+那可不得了，這傢伙聲帶有治癒效果，
+是全世界只有一隻的珍貴雞。
+10. [MARKER: Message] 安德烈「
+是我以前旅行時發現的。
+光聽牠的聲音就能消除疲勞。
+11. [MARKER: Message] 雞「
+咕——咕——！！！
+12. [MARKER: Message] 
+　　　　　　　　　　全員回復！！
+13. [MARKER: Message] [FACE: 主人公2, 10, Left, Normal] 安德烈「
+醒了嗎，以藏。\.
+雖然有點突然，但公會傳來
+通知了。
+14. [MARKER: Message] [FACE: イゾウ, 1, Right, Flip Horizontal] 以藏「
+反正肯定是奧斯卡吧……
+15. [MARKER: Message] [FACE: Erase] 安德烈「
+真好啊你，被心愛的奧斯卡差來差去……
+16. [MARKER: Message] [FACE: Erase] 以藏「
+把他當心愛的
+是大哥你吧？
+17. [MARKER: Message] [FACE: Erase] 安德烈「
+……呃……$g……
+18. [MARKER: Message] [FACE: Erase] 以藏「
+………………………………
+總之我先去了。
+19. [MARKER: Message] [FACE: Erase] 安德烈「
+去之前先存個檔！
+20. [MARKER: Message] [FACE: Erase] 安德烈「
+先存個檔吧。

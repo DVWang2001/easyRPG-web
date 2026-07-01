@@ -1,0 +1,55 @@
+﻿1. [MARKER: Message] お爺さん「
+池は心がなごむなぁ～。
+2. [MARKER: Message] 畑の男「
+耕してます。
+3. [MARKER: Message] 牛飼い「
+牛臭い。
+4. [MARKER: Message] 村娘「
+田舎よねぇ～～。
+5. [MARKER: Message] じじぃA「
+ようやくこの村も活気が出てきましたなぁ～。
+6. [MARKER: Message] じじぃB「
+そうですなぁ～
+7. [MARKER: Message] じじぃC「
+１４年前はひどかったですからなぁ～
+8. [MARKER: Message] じじぃD「
+茶がのみてぇ。
+9. [MARKER: Message] じじぃA「
+ようやくこの村も活気が出てきましたなぁ～。
+10. [MARKER: Message] じじぃB「
+そうですなぁ～
+11. [MARKER: Message] じじぃC「
+１４年前はひどかったですからなぁ～
+12. [MARKER: Message] じじぃD「
+茶がのみてぇ。
+13. [MARKER: Message] じじぃA「
+ようやくこの村も活気が出てきましたなぁ～。
+14. [MARKER: Message] じじぃB「
+そうですなぁ～
+15. [MARKER: Message] じじぃC「
+１４年前はひどかったですからなぁ～
+16. [MARKER: Message] じじぃD「
+茶がのみてぇ。
+17. [MARKER: Message] じじぃA「
+ようやくこの村も活気が出てきましたなぁ～。
+18. [MARKER: Message] じじぃB「
+そうですなぁ～
+19. [MARKER: Message] じじぃC「
+１４年前はひどかったですからなぁ～
+20. [MARKER: Message] じじぃD「
+茶がのみてぇ。
+21. [MARKER: Message] ばぁさん「
+この村は１４年前に夜盗に襲撃されてなぁ～、
+戦った若者達はこの墓の下でねむっているのじゃ・・。
+22. [MARKER: Message] 村女「
+向こうのテントに住んでる人って
+凄い格闘家らしいわよ。
+でも何でテントなのかしら・・・。
+23. [MARKER: Message] 村娘「
+こんな辺鄙なトコによく来たわねぇ・・。
+24. [MARKER: Message] 村娘「
+\S[2]・・・・？　\S[1]
+貴方・・・目が赤いのね。
+25. [MARKER: Message] 村娘「
+う～ん・・目が赤い人を
+どっかで見たことあるんだけどなぁ～・・。

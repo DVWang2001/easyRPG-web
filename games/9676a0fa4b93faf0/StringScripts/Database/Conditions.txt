@@ -1,0 +1,266 @@
+﻿*****Entry1*****
+#Name# [8]
+戰鬥不能
+
+#InflictedOnAlly# [30]
+倒下了！
+
+#InflictedOnEnemy# [30]
+打倒了！
+
+#Recovered# [30]
+站了起來！
+
+
+
+*****Entry2*****
+#Name# [8]
+毒
+
+#InflictedOnAlly# [30]
+中毒了！
+
+#InflictedOnEnemy# [30]
+中毒了！
+
+#AlreadyInflicted# [30]
+已經中毒了！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+的毒解除了！
+
+
+
+*****Entry3*****
+#Name# [8]
+黑暗
+
+#InflictedOnAlly# [30]
+被黑暗籠罩了！
+
+#InflictedOnEnemy# [30]
+籠罩在黑暗中！
+
+#AlreadyInflicted# [30]
+已經被黑暗籠罩了！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+的黑暗解除了！
+
+
+
+*****Entry4*****
+#Name# [8]
+沉默
+
+#InflictedOnAlly# [30]
+陷入沉默！
+
+#InflictedOnEnemy# [30]
+陷入沉默！
+
+#AlreadyInflicted# [30]
+已經陷入沉默了！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+的沉默解除了！
+
+
+
+*****Entry5*****
+#Name# [8]
+暴走
+
+#InflictedOnAlly# [30]
+暴走了！
+
+#InflictedOnEnemy# [30]
+陷入暴走！
+
+#AlreadyInflicted# [30]
+已經陷入暴走！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+恢復了理智！
+
+
+
+*****Entry6*****
+#Name# [8]
+混亂
+
+#InflictedOnAlly# [30]
+混亂了！
+
+#InflictedOnEnemy# [30]
+陷入混亂！
+
+#AlreadyInflicted# [30]
+已經陷入混亂！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+恢復了理智！
+
+
+
+*****Entry7*****
+#Name# [8]
+睡眠
+
+#InflictedOnAlly# [30]
+睡著了！
+
+#InflictedOnEnemy# [30]
+陷入沉睡！
+
+#AlreadyInflicted# [30]
+已經睡著了！
+
+#Continuing# [30]
+正在熟睡中……
+
+#Recovered# [30]
+醒來了！
+
+
+
+*****Entry8*****
+#Name# [8]
+麻痺
+
+#InflictedOnAlly# [30]
+麻痺而動彈不得！
+
+#InflictedOnEnemy# [30]
+陷入麻痺！
+
+#AlreadyInflicted# [30]
+已經麻痺了！
+
+#Continuing# [30]
+處於麻痺狀態動彈不得！
+
+#Recovered# [30]
+的麻痺解除了！
+
+
+
+*****Entry9*****
+#Name# [8]
+踉蹌
+
+#InflictedOnAlly# [30]
+失去平衡！
+
+#InflictedOnEnemy# [30]
+失去平衡！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+站不穩……
+
+#Recovered# [30]
+站不穩……
+
+
+
+*****Entry10*****
+#Name# [8]
+震驚
+
+#InflictedOnAlly# [30]
+呆立在原地！
+
+#InflictedOnEnemy# [30]
+呆立在原地！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+呆立不動中……
+
+#Recovered# [30]
+呆立不動中……
+
+
+
+*****Entry11*****
+#Name# [8]
+貧血
+
+#InflictedOnAlly# [30]
+貧血發作了！
+
+#InflictedOnEnemy# [30]
+貧血了！
+
+#AlreadyInflicted# [30]
+看起來還搖搖晃晃的
+
+#Continuing# [30]
+「血不夠用……
+
+#Recovered# [30]
+從貧血中康復了！
+
+
+
+*****Entry12*****
+#Name# [8]
+精神污染
+
+#InflictedOnAlly# [30]
+中了詛咒！
+
+#InflictedOnEnemy# [30]
+中了詛咒！
+
+#AlreadyInflicted# [30]
+已經被詛咒了！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+的詛咒被解除了！
+
+
+
+*****Entry13*****
+#Name# [8]
+石化
+
+#InflictedOnAlly# [30]
+的身體正在石化！
+
+#InflictedOnEnemy# [30]
+的身體正在石化！
+
+#AlreadyInflicted# [30]
+已經石化了。
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+的身體恢復了原狀！
+
+

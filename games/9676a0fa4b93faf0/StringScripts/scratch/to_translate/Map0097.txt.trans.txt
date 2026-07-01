@@ -1,0 +1,6 @@
+﻿1. [MARKER: Message] イゾウ「
+\S[2]・・？\.　ここは・・・。
+2. [MARKER: Message] オスカー「
+\S[2]・・イゾウ・・？
+3. [MARKER: Message] イゾウ「
+・・母さん・・。

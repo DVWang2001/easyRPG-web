@@ -1,0 +1,337 @@
+[
+  {
+    "idx": 1,
+    "tag": "Name",
+    "line_idx": 2
+  },
+  {
+    "idx": 2,
+    "tag": "InflictedOnAlly",
+    "line_idx": 5
+  },
+  {
+    "idx": 3,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 8
+  },
+  {
+    "idx": 4,
+    "tag": "Recovered",
+    "line_idx": 11
+  },
+  {
+    "idx": 5,
+    "tag": "Name",
+    "line_idx": 17
+  },
+  {
+    "idx": 6,
+    "tag": "InflictedOnAlly",
+    "line_idx": 20
+  },
+  {
+    "idx": 7,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 23
+  },
+  {
+    "idx": 8,
+    "tag": "AlreadyInflicted",
+    "line_idx": 26
+  },
+  {
+    "idx": 9,
+    "tag": "Recovered",
+    "line_idx": 32
+  },
+  {
+    "idx": 10,
+    "tag": "Name",
+    "line_idx": 38
+  },
+  {
+    "idx": 11,
+    "tag": "InflictedOnAlly",
+    "line_idx": 41
+  },
+  {
+    "idx": 12,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 44
+  },
+  {
+    "idx": 13,
+    "tag": "AlreadyInflicted",
+    "line_idx": 47
+  },
+  {
+    "idx": 14,
+    "tag": "Recovered",
+    "line_idx": 53
+  },
+  {
+    "idx": 15,
+    "tag": "Name",
+    "line_idx": 59
+  },
+  {
+    "idx": 16,
+    "tag": "InflictedOnAlly",
+    "line_idx": 62
+  },
+  {
+    "idx": 17,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 65
+  },
+  {
+    "idx": 18,
+    "tag": "AlreadyInflicted",
+    "line_idx": 68
+  },
+  {
+    "idx": 19,
+    "tag": "Recovered",
+    "line_idx": 74
+  },
+  {
+    "idx": 20,
+    "tag": "Name",
+    "line_idx": 80
+  },
+  {
+    "idx": 21,
+    "tag": "InflictedOnAlly",
+    "line_idx": 83
+  },
+  {
+    "idx": 22,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 86
+  },
+  {
+    "idx": 23,
+    "tag": "AlreadyInflicted",
+    "line_idx": 89
+  },
+  {
+    "idx": 24,
+    "tag": "Recovered",
+    "line_idx": 95
+  },
+  {
+    "idx": 25,
+    "tag": "Name",
+    "line_idx": 101
+  },
+  {
+    "idx": 26,
+    "tag": "InflictedOnAlly",
+    "line_idx": 104
+  },
+  {
+    "idx": 27,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 107
+  },
+  {
+    "idx": 28,
+    "tag": "AlreadyInflicted",
+    "line_idx": 110
+  },
+  {
+    "idx": 29,
+    "tag": "Recovered",
+    "line_idx": 116
+  },
+  {
+    "idx": 30,
+    "tag": "Name",
+    "line_idx": 122
+  },
+  {
+    "idx": 31,
+    "tag": "InflictedOnAlly",
+    "line_idx": 125
+  },
+  {
+    "idx": 32,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 128
+  },
+  {
+    "idx": 33,
+    "tag": "AlreadyInflicted",
+    "line_idx": 131
+  },
+  {
+    "idx": 34,
+    "tag": "Continuing",
+    "line_idx": 134
+  },
+  {
+    "idx": 35,
+    "tag": "Recovered",
+    "line_idx": 137
+  },
+  {
+    "idx": 36,
+    "tag": "Name",
+    "line_idx": 143
+  },
+  {
+    "idx": 37,
+    "tag": "InflictedOnAlly",
+    "line_idx": 146
+  },
+  {
+    "idx": 38,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 149
+  },
+  {
+    "idx": 39,
+    "tag": "AlreadyInflicted",
+    "line_idx": 152
+  },
+  {
+    "idx": 40,
+    "tag": "Continuing",
+    "line_idx": 155
+  },
+  {
+    "idx": 41,
+    "tag": "Recovered",
+    "line_idx": 158
+  },
+  {
+    "idx": 42,
+    "tag": "Name",
+    "line_idx": 164
+  },
+  {
+    "idx": 43,
+    "tag": "InflictedOnAlly",
+    "line_idx": 167
+  },
+  {
+    "idx": 44,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 170
+  },
+  {
+    "idx": 45,
+    "tag": "Continuing",
+    "line_idx": 176
+  },
+  {
+    "idx": 46,
+    "tag": "Recovered",
+    "line_idx": 179
+  },
+  {
+    "idx": 47,
+    "tag": "Name",
+    "line_idx": 185
+  },
+  {
+    "idx": 48,
+    "tag": "InflictedOnAlly",
+    "line_idx": 188
+  },
+  {
+    "idx": 49,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 191
+  },
+  {
+    "idx": 50,
+    "tag": "Continuing",
+    "line_idx": 197
+  },
+  {
+    "idx": 51,
+    "tag": "Recovered",
+    "line_idx": 200
+  },
+  {
+    "idx": 52,
+    "tag": "Name",
+    "line_idx": 206
+  },
+  {
+    "idx": 53,
+    "tag": "InflictedOnAlly",
+    "line_idx": 209
+  },
+  {
+    "idx": 54,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 212
+  },
+  {
+    "idx": 55,
+    "tag": "AlreadyInflicted",
+    "line_idx": 215
+  },
+  {
+    "idx": 56,
+    "tag": "Continuing",
+    "line_idx": 218
+  },
+  {
+    "idx": 57,
+    "tag": "Recovered",
+    "line_idx": 221
+  },
+  {
+    "idx": 58,
+    "tag": "Name",
+    "line_idx": 227
+  },
+  {
+    "idx": 59,
+    "tag": "InflictedOnAlly",
+    "line_idx": 230
+  },
+  {
+    "idx": 60,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 233
+  },
+  {
+    "idx": 61,
+    "tag": "AlreadyInflicted",
+    "line_idx": 236
+  },
+  {
+    "idx": 62,
+    "tag": "Recovered",
+    "line_idx": 242
+  },
+  {
+    "idx": 63,
+    "tag": "Name",
+    "line_idx": 248
+  },
+  {
+    "idx": 64,
+    "tag": "InflictedOnAlly",
+    "line_idx": 251
+  },
+  {
+    "idx": 65,
+    "tag": "InflictedOnEnemy",
+    "line_idx": 254
+  },
+  {
+    "idx": 66,
+    "tag": "AlreadyInflicted",
+    "line_idx": 257
+  },
+  {
+    "idx": 67,
+    "tag": "Recovered",
+    "line_idx": 263
+  }
+]

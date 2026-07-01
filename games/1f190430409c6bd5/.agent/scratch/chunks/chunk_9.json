@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "Map0045.txt",
+    "key": "ミチタ：\n　もう、逃げたんだろうな…\\!\n　まさかこんなことになるなんて！",
+    "text": "ミチタ：\n　もう、逃げたんだろうな…\\!\n　まさかこんなことになるなんて！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0045.txt",
+    "key": "ウェイン：\n　・・・\\!行こう。",
+    "text": "ウェイン：\n　・・・\\!行こう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0045.txt",
+    "key": "ウェイン：\n　ん…こんなところにでるのか・・・",
+    "text": "ウェイン：\n　ん…こんなところにでるのか・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0045.txt",
+    "key": "ラグ：\n　せやけど、もうＤ・ハッシュも逃げた後やな・・・",
+    "text": "ラグ：\n　せやけど、もうＤ・ハッシュも逃げた後やな・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0045.txt",
+    "key": "ウェイン：\n　くっ\\.・\\.・\\.・",
+    "text": "ウェイン：\n　くっ\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "\n　　　　　　　　　\\>－　そして…　－\\<",
+    "text": "\n　　　　　　　　　\\>－　そして…　－\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ウェイン：\n　クレア…\\!結局、君を助けることはできなかったよ…",
+    "text": "ウェイン：\n　クレア…\\!結局、君を助けることはできなかったよ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ウェイン：\n　クレア・・・。",
+    "text": "ウェイン：\n　クレア・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ウェイン：\n　どうすればいいんだ・・・。",
+    "text": "ウェイン：\n　どうすればいいんだ・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "？：\n　ウェインはん！！！",
+    "text": "？：\n　ウェインはん！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ウェイン：\n　ん？",
+    "text": "ウェイン：\n　ん？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ウェイン：\n　ラグ・・・どうした？",
+    "text": "ウェイン：\n　ラグ・・・どうした？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ラグ：\n　ウェインはん、ええ知らせや！！！",
+    "text": "ラグ：\n　ウェインはん、ええ知らせや！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "クウィール：\n　どうも、覚えていますか？",
+    "text": "クウィール：\n　どうも、覚えていますか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ウェイン：\n　あなたは、あの地下牢の時の…",
+    "text": "ウェイン：\n　あなたは、あの地下牢の時の…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "クウィール：\n　なんでも、病気の人がいるって聞いてね。",
+    "text": "クウィール：\n　なんでも、病気の人がいるって聞いてね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ウェイン：\n　それじゃ、あなたが…",
+    "text": "ウェイン：\n　それじゃ、あなたが…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "クウィール：\n　そう。私が彼女の病気を治しましょう。",
+    "text": "クウィール：\n　そう。私が彼女の病気を治しましょう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ラグ：\n　そうなんや。\\!あの時助けた人が世界的名医だって\n　聞いたもんで、ミチタに頼んで探してもらったんや。",
+    "text": "ラグ：\n　そうなんや。\\!あの時助けた人が世界的名医だって\n　聞いたもんで、ミチタに頼んで探してもらったんや。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ミチタ：\n　まったく、職権乱用ですよ。\n　しかも、有給まで使っちゃいました。",
+    "text": "ミチタ：\n　まったく、職権乱用ですよ。\n　しかも、有給まで使っちゃいました。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ウェイン：\n　みんな…\\!ありがとう・・・",
+    "text": "ウェイン：\n　みんな…\\!ありがとう・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ウェイン：\n　だ、だが…俺には・・・",
+    "text": "ウェイン：\n　だ、だが…俺には・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "クウィール：\n　大丈夫。すべて無料でやらせてもらうよ。\\!\n　あの時の恩返しさ。",
+    "text": "クウィール：\n　大丈夫。すべて無料でやらせてもらうよ。\\!\n　あの時の恩返しさ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "クウィール：\n　それじゃ、早速、診てみようか・・・",
+    "text": "クウィール：\n　それじゃ、早速、診てみようか・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "クウィール：\n　なるほど・・・\\!これは難しい・・・",
+    "text": "クウィール：\n　なるほど・・・\\!これは難しい・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ウェイン：\n　クレアは、助かるんですか？",
+    "text": "ウェイン：\n　クレアは、助かるんですか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "クウィール：\n　確かに難しい・・・\\!だが、私なら可能だ。",
+    "text": "クウィール：\n　確かに難しい・・・\\!だが、私なら可能だ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "クウィール：\n　しかし、ここでは無理だ。\\!私の病院に行こう。\\!\n　そしたら、さっそく手術開始だ。",
+    "text": "クウィール：\n　しかし、ここでは無理だ。\\!私の病院に行こう。\\!\n　そしたら、さっそく手術開始だ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ウェイン：\n　は、はい！！！",
+    "text": "ウェイン：\n　は、はい！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0047.txt",
+    "key": "ウェイン：\n　くっ・・・！",
+    "text": "ウェイン：\n　くっ・・・！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0048.txt",
+    "key": "\n　　　　　　　　　\\>－　数日後　－\\<",
+    "text": "\n　　　　　　　　　\\>－　数日後　－\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0048.txt",
+    "key": "ウェイン：\n　クレア！！！",
+    "text": "ウェイン：\n　クレア！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0048.txt",
+    "key": "クレア：\n　ウェイン\\.・\\.・\\.・\\.あなたのおかげね。",
+    "text": "クレア：\n　ウェイン\\.・\\.・\\.・\\.あなたのおかげね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0048.txt",
+    "key": "クレア：\n　命をかけたゲームをしたんでしょ。",
+    "text": "クレア：\n　命をかけたゲームをしたんでしょ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0048.txt",
+    "key": "ウェイン：\n　クレア…",
+    "text": "ウェイン：\n　クレア…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0048.txt",
+    "key": "クレア：\n　でも、危ないことはやめて。",
+    "text": "クレア：\n　でも、危ないことはやめて。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0048.txt",
+    "key": "クレア：\n　私が治っても、もし、あなたが\\.・\\.・\\.・",
+    "text": "クレア：\n　私が治っても、もし、あなたが\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0048.txt",
+    "key": "ウェイン：\n　・\\.・\\.・\\.クレア。\\.・\\.・\\.・ごめん。",
+    "text": "ウェイン：\n　・\\.・\\.・\\.クレア。\\.・\\.・\\.・ごめん。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0048.txt",
+    "key": "クレア：\n　ううん、でも、ウェイン\\.・\\.・\\.・\\!ありがとう。",
+    "text": "クレア：\n　ううん、でも、ウェイン\\.・\\.・\\.・\\!ありがとう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0048.txt",
+    "key": "ウェイン：\n　クレア\\.・\\.・\\.・",
+    "text": "ウェイン：\n　クレア\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0051.txt",
+    "key": "男：\n　こんな村に、旅の人がくるなんて久しぶりですね。\n　あの貸家に住んでる神父さん以来かな？",
+    "text": "男：\n　こんな村に、旅の人がくるなんて久しぶりですね。\n　あの貸家に住んでる神父さん以来かな？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0052.txt",
+    "key": "女：\n　何でこんなに朝って忙しいのかしら？\n　もう、やんなっちゃうわ。",
+    "text": "女：\n　何でこんなに朝って忙しいのかしら？\n　もう、やんなっちゃうわ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0052.txt",
+    "key": "男：\n　ふわぁぁぁぁ・・・\\!まだ眠いよ…",
+    "text": "男：\n　ふわぁぁぁぁ・・・\\!まだ眠いよ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0053.txt",
+    "key": "神父：\n　私も世界を旅して回っているのです。\n　まだ、しばらくはここにいますけどね。\n　あなたに、神のご加護のあらんことを…アーメン。",
+    "text": "神父：\n　私も世界を旅して回っているのです。\n　まだ、しばらくはここにいますけどね。\n　あなたに、神のご加護のあらんことを…アーメン。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0054.txt",
+    "key": "男：\n　ったく、あの偏屈男が！\n　用心棒を頼んだのに、あっさり断りやがった！",
+    "text": "男：\n　ったく、あの偏屈男が！\n　用心棒を頼んだのに、あっさり断りやがった！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0054.txt",
+    "key": "男：\n　え？村はずれに住むドゥーガのことだよ。",
+    "text": "男：\n　え？村はずれに住むドゥーガのことだよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0054.txt",
+    "key": "男：\n　ったく、あの偏屈男が！",
+    "text": "男：\n　ったく、あの偏屈男が！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0054.txt",
+    "key": "男：\n　ドゥーガ！おまえのことだよ！！！",
+    "text": "男：\n　ドゥーガ！おまえのことだよ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0054.txt",
+    "key": "ドゥーガ：\n　なんだと！？",
+    "text": "ドゥーガ：\n　なんだと！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0054.txt",
+    "key": "男：\n　あんな、いかさまコイン使いやがって！！！",
+    "text": "男：\n　あんな、いかさまコイン使いやがって！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0054.txt",
+    "key": "ウェイン：\n　まぁまぁ・・・",
+    "text": "ウェイン：\n　まぁまぁ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0054.txt",
+    "key": "男：\n　ふんっ！",
+    "text": "男：\n　ふんっ！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0054.txt",
+    "key": "女：\n　うちの人ったら、ずっと怒ってばかりいるんだから。",
+    "text": "女：\n　うちの人ったら、ずっと怒ってばかりいるんだから。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0054.txt",
+    "key": "ジュリ：\n　さてと…散歩にでも行こうかしら？",
+    "text": "ジュリ：\n　さてと…散歩にでも行こうかしら？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "打撃Ａ",
+    "text": "打撃Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "打撃Ｂ",
+    "text": "打撃Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "打撃Ｃ",
+    "text": "打撃Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "打撃Ｄ",
+    "text": "打撃Ｄ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "剣Ａ",
+    "text": "剣Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "剣Ｂ",
+    "text": "剣Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "剣Ｃ",
+    "text": "剣Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "剣Ｄ",
+    "text": "剣Ｄ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "槍Ａ",
+    "text": "槍Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "槍Ｂ",
+    "text": "槍Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "槍Ｃ",
+    "text": "槍Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "槍Ｄ",
+    "text": "槍Ｄ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "斧Ａ",
+    "text": "斧Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "斧Ｂ",
+    "text": "斧Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "弓Ａ",
+    "text": "弓Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "弓Ｂ",
+    "text": "弓Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "爪Ａ",
+    "text": "爪Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "爪Ｂ",
+    "text": "爪Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "鞭Ａ",
+    "text": "鞭Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "鞭Ｂ",
+    "text": "鞭Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "--------------------",
+    "text": "--------------------",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "火炎のブレス",
+    "text": "火炎のブレス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "吹雪のブレス",
+    "text": "吹雪のブレス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "毒のブレス",
+    "text": "毒のブレス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "眠りのブレス",
+    "text": "眠りのブレス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "花粉Ａ",
+    "text": "花粉Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "花粉Ｂ",
+    "text": "花粉Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "超音波Ａ",
+    "text": "超音波Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "超音波Ｂ",
+    "text": "超音波Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "霧Ａ",
+    "text": "霧Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "霧Ｂ",
+    "text": "霧Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "沈黙の歌",
+    "text": "沈黙の歌",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "子守り歌",
+    "text": "子守り歌",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "誘惑の歌",
+    "text": "誘惑の歌",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "砂けむり",
+    "text": "砂けむり",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "まぶしい光",
+    "text": "まぶしい光",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "巻き付き",
+    "text": "巻き付き",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "吸血",
+    "text": "吸血",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "不気味なダンス",
+    "text": "不気味なダンス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "麻痺にらみ",
+    "text": "麻痺にらみ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "体当たり",
+    "text": "体当たり",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "足払い",
+    "text": "足払い",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "おたけび",
+    "text": "おたけび",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "回復魔法Ａ",
+    "text": "回復魔法Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "回復魔法Ｂ",
+    "text": "回復魔法Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "回復魔法Ｃ",
+    "text": "回復魔法Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "状態治療魔法Ａ",
+    "text": "状態治療魔法Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "状態治療魔法Ｂ",
+    "text": "状態治療魔法Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "状態治療魔法Ｃ",
+    "text": "状態治療魔法Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "蘇生魔法Ａ",
+    "text": "蘇生魔法Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "蘇生魔法Ｂ",
+    "text": "蘇生魔法Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "蘇生魔法Ｃ",
+    "text": "蘇生魔法Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "気絶魔法",
+    "text": "気絶魔法",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "毒魔法",
+    "text": "毒魔法",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "暗闇魔法",
+    "text": "暗闇魔法",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "沈黙魔法",
+    "text": "沈黙魔法",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "暴走魔法",
+    "text": "暴走魔法",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "混乱魔法",
+    "text": "混乱魔法",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "睡眠魔法",
+    "text": "睡眠魔法",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "麻痺魔法",
+    "text": "麻痺魔法",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "攻撃力アップ",
+    "text": "攻撃力アップ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "攻撃力ダウン",
+    "text": "攻撃力ダウン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "防御力アップ",
+    "text": "防御力アップ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "防御力ダウン",
+    "text": "防御力ダウン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "精神力アップ",
+    "text": "精神力アップ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "精神力ダウン",
+    "text": "精神力ダウン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "敏捷性アップ",
+    "text": "敏捷性アップ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "敏捷性ダウン",
+    "text": "敏捷性ダウン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "ヒートバリア",
+    "text": "ヒートバリア",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "コールドバリア",
+    "text": "コールドバリア",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "吸収魔法Ａ",
+    "text": "吸収魔法Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "吸収魔法Ｂ",
+    "text": "吸収魔法Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "炎魔法・単Ａ",
+    "text": "炎魔法・単Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "炎魔法・単Ｂ",
+    "text": "炎魔法・単Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "炎魔法・単Ｃ",
+    "text": "炎魔法・単Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "炎魔法・全Ａ",
+    "text": "炎魔法・全Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "炎魔法・全Ｂ",
+    "text": "炎魔法・全Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "炎魔法・全Ｃ",
+    "text": "炎魔法・全Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "冷気魔法・単Ａ",
+    "text": "冷気魔法・単Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "冷気魔法・単Ｂ",
+    "text": "冷気魔法・単Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "冷気魔法・単Ｃ",
+    "text": "冷気魔法・単Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "冷気魔法・全Ａ",
+    "text": "冷気魔法・全Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "冷気魔法・全Ｂ",
+    "text": "冷気魔法・全Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "冷気魔法・全Ｃ",
+    "text": "冷気魔法・全Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "雷魔法・単Ａ",
+    "text": "雷魔法・単Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "雷魔法・単Ｂ",
+    "text": "雷魔法・単Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "雷魔法・単Ｃ",
+    "text": "雷魔法・単Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "雷魔法・全Ａ",
+    "text": "雷魔法・全Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "雷魔法・全Ｂ",
+    "text": "雷魔法・全Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "雷魔法・全Ｃ",
+    "text": "雷魔法・全Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "水魔法・単Ａ",
+    "text": "水魔法・単Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "水魔法・単Ｂ",
+    "text": "水魔法・単Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "水魔法・単Ｃ",
+    "text": "水魔法・単Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "水魔法・全Ａ",
+    "text": "水魔法・全Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "水魔法・全Ｂ",
+    "text": "水魔法・全Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "水魔法・全Ｃ",
+    "text": "水魔法・全Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  }
+]

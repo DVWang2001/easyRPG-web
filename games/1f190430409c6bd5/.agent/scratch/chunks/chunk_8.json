@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　な！？",
+    "text": "ウェイン：\n　な！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ヘイムレイク：\n　断る気かな？",
+    "text": "ヘイムレイク：\n　断る気かな？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　あたりまえだ。そんな条件、誰が納得できるか！",
+    "text": "ウェイン：\n　あたりまえだ。そんな条件、誰が納得できるか！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ヘイムレイク：\n　そうか・\\.・\\.・\\!まぁ、そう言うと思ったよ。\n　ならば、予定通り、君の仲間を殺すことになる。",
+    "text": "ヘイムレイク：\n　そうか・\\.・\\.・\\!まぁ、そう言うと思ったよ。\n　ならば、予定通り、君の仲間を殺すことになる。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　なに！？",
+    "text": "ウェイン：\n　なに！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ヘイムレイク：\n　さっきラグを連れて行った男・・・\\!誰だと思う？",
+    "text": "ヘイムレイク：\n　さっきラグを連れて行った男・・・\\!誰だと思う？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ヘイムレイク：\n　さて、どうする？\\!ＹＥＳかＮＯか？\n　まぁ、ＮＯなら、ヴァディスがラグを殺すまでだ。",
+    "text": "ヘイムレイク：\n　さて、どうする？\\!ＹＥＳかＮＯか？\n　まぁ、ＮＯなら、ヴァディスがラグを殺すまでだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　くっ・・・",
+    "text": "ウェイン：\n　くっ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ヘイムレイク：\n　！？\\!なにごとだ！！！",
+    "text": "ヘイムレイク：\n　！？\\!なにごとだ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "警備兵：\n　大変です！！！",
+    "text": "警備兵：\n　大変です！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "警備兵：\n　ヴァ…ヴァディスがやられました！！！",
+    "text": "警備兵：\n　ヴァ…ヴァディスがやられました！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ヘイムレイク：\n　な！？\\!なに！？",
+    "text": "ヘイムレイク：\n　な！？\\!なに！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "警備兵：\n　しかし、ラグも気を失っていたため、\n　牢屋に閉じ込めておきました。",
+    "text": "警備兵：\n　しかし、ラグも気を失っていたため、\n　牢屋に閉じ込めておきました。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ヘイムレイク：\n　・\\.・\\.・\\.そうか…もういいぞ。",
+    "text": "ヘイムレイク：\n　・\\.・\\.・\\.そうか…もういいぞ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ヘイムレイク：\n　まぁ、予定とは少々狂ってしまったが、\n　ラグはいつでも殺せる状態にあるようだ・・・",
+    "text": "ヘイムレイク：\n　まぁ、予定とは少々狂ってしまったが、\n　ラグはいつでも殺せる状態にあるようだ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ヘイムレイク：\n　さて、どうするかね？\n　死ぬまで無報酬でＤ.Ｊに参加してくれるかな？",
+    "text": "ヘイムレイク：\n　さて、どうするかね？\n　死ぬまで無報酬でＤ.Ｊに参加してくれるかな？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：",
+    "text": "ウェイン：",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "「やる。」",
+    "text": "「やる。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "「やらない。」",
+    "text": "「やらない。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "「考える。」",
+    "text": "「考える。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　（ダメだ…ラグを犠牲にするなんてできない…）",
+    "text": "ウェイン：\n　（ダメだ…ラグを犠牲にするなんてできない…）",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　（どうする・・・\n　　もし、やれば、クレアを助けることはできない…）",
+    "text": "ウェイン：\n　（どうする・・・\n　　もし、やれば、クレアを助けることはできない…）",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　（だが、断れば、ラグを犠牲にすることになる…\n　　それは、できない・・・）",
+    "text": "ウェイン：\n　（だが、断れば、ラグを犠牲にすることになる…\n　　それは、できない・・・）",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　（くっ…やるしかないのか・・・）",
+    "text": "ウェイン：\n　（くっ…やるしかないのか・・・）",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ヘイムレイク：\n　そう・・・。\\!それが１番いい選択だ。",
+    "text": "ヘイムレイク：\n　そう・・・。\\!それが１番いい選択だ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ヘイムレイク：\n　それでは、よろしくな。",
+    "text": "ヘイムレイク：\n　それでは、よろしくな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　・\\.・\\.・\\!これからどうすればいいんだ…",
+    "text": "ウェイン：\n　・\\.・\\.・\\!これからどうすればいいんだ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　このままだと、牢屋とＤ.Ｊを往復するだけの生活だ。\n　死ぬまでここから出られない…",
+    "text": "ウェイン：\n　このままだと、牢屋とＤ.Ｊを往復するだけの生活だ。\n　死ぬまでここから出られない…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　無報酬のＤ.Ｊではクレアを助けられない！",
+    "text": "ウェイン：\n　無報酬のＤ.Ｊではクレアを助けられない！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　どうにかして、外部と連絡を取らないと・・・",
+    "text": "ウェイン：\n　どうにかして、外部と連絡を取らないと・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　ここには…\\|ないな…",
+    "text": "ウェイン：\n　ここには…\\|ないな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　ここには…\\|ないか…",
+    "text": "ウェイン：\n　ここには…\\|ないか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　本棚の中には…\\|ダメだ…",
+    "text": "ウェイン：\n　本棚の中には…\\|ダメだ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　本の間とかに…\\|ないな…",
+    "text": "ウェイン：\n　本の間とかに…\\|ないな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　時計の中…\\|だめだ…ないな…",
+    "text": "ウェイン：\n　時計の中…\\|だめだ…ないな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　ここはどうだ…\\|ないか…",
+    "text": "ウェイン：\n　ここはどうだ…\\|ないか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　この本棚は…\\|ないみたいだな…",
+    "text": "ウェイン：\n　この本棚は…\\|ないみたいだな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　鏡台か…もしかして…\\|ダメだ…ここにもない…",
+    "text": "ウェイン：\n　鏡台か…もしかして…\\|ダメだ…ここにもない…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　タンスの中には…\\|ここにもないな…",
+    "text": "ウェイン：\n　タンスの中には…\\|ここにもないな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　このタンスは…\\|だめだ…",
+    "text": "ウェイン：\n　このタンスは…\\|だめだ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　もしかして、鎧の中に…\\|ないか・・・",
+    "text": "ウェイン：\n　もしかして、鎧の中に…\\|ないか・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　この本の間に…\\|ダメだ…",
+    "text": "ウェイン：\n　この本の間に…\\|ダメだ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0033.txt",
+    "key": "ウェイン：\n　まさか、ランプの中になんて…\\|やっぱりないか…",
+    "text": "ウェイン：\n　まさか、ランプの中になんて…\\|やっぱりないか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0035.txt",
+    "key": "\n　　　　　　　　\\>－　そのころ…　－\\<",
+    "text": "\n　　　　　　　　\\>－　そのころ…　－\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0035.txt",
+    "key": "ヘイムレイク：\n　！？",
+    "text": "ヘイムレイク：\n　！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0035.txt",
+    "key": "ヘイムレイク：\n　いったい、なにごとだ！！！",
+    "text": "ヘイムレイク：\n　いったい、なにごとだ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0035.txt",
+    "key": "重装警備兵：\n　う\\.・\\.・\\.・",
+    "text": "重装警備兵：\n　う\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0035.txt",
+    "key": "重装警備兵：\n　し\\.・\\.・\\.・\\.侵入\\.者\\.・\\.・\\.・\\.です\\.・\\.・\\.・",
+    "text": "重装警備兵：\n　し\\.・\\.・\\.・\\.侵入\\.者\\.・\\.・\\.・\\.です\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0035.txt",
+    "key": "ヘイムレイク：\n　な！？\\!侵入者だと！！！\n　貴様！なぜ侵入を防げなかった！！！",
+    "text": "ヘイムレイク：\n　な！？\\!侵入者だと！！！\n　貴様！なぜ侵入を防げなかった！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0035.txt",
+    "key": "ヘイムレイク：\n　この役立たずがっ！！！",
+    "text": "ヘイムレイク：\n　この役立たずがっ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0035.txt",
+    "key": "重装警備兵：\n　ぐっ！！！",
+    "text": "重装警備兵：\n　ぐっ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0035.txt",
+    "key": "男：\n　まぁまぁ…\\!彼に当たってもしかたがないですよ…\n　そんなことより、早く侵入者を見つけましょう。",
+    "text": "男：\n　まぁまぁ…\\!彼に当たってもしかたがないですよ…\n　そんなことより、早く侵入者を見つけましょう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0035.txt",
+    "key": "ヘイムレイク：\n　・\\.・\\.・\\.そうだな…行くぞ。",
+    "text": "ヘイムレイク：\n　・\\.・\\.・\\.そうだな…行くぞ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0035.txt",
+    "key": "重装警備兵：\n　くっ・\\.・\\.・",
+    "text": "重装警備兵：\n　くっ・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0036.txt",
+    "key": "男：\n　さて\\.・\\.・\\.・ラグ・・・\\!まさか、ここで会うとはね…",
+    "text": "男：\n　さて\\.・\\.・\\.・ラグ・・・\\!まさか、ここで会うとはね…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0036.txt",
+    "key": "ラグ：\n　えぇ…\\!ヴァディス師匠。",
+    "text": "ラグ：\n　えぇ…\\!ヴァディス師匠。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0036.txt",
+    "key": "ラグ：\n　世界一のナイフ使いと言われた\n　ヴァディス師匠と、ここで会うなんて・・・。",
+    "text": "ラグ：\n　世界一のナイフ使いと言われた\n　ヴァディス師匠と、ここで会うなんて・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0036.txt",
+    "key": "ヴァディス：\n　悪いが、今はお前の師匠じゃない。\n　ヘイムレイクのＳＰだ。",
+    "text": "ヴァディス：\n　悪いが、今はお前の師匠じゃない。\n　ヘイムレイクのＳＰだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0036.txt",
+    "key": "ヴァディス：\n　簡単に言おう、私は命令に従い、お前を殺す。\n　お前がここから出れるのは、私を倒したときだけだ。",
+    "text": "ヴァディス：\n　簡単に言おう、私は命令に従い、お前を殺す。\n　お前がここから出れるのは、私を倒したときだけだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0036.txt",
+    "key": "ラグ：\n　単純明快でいいやんか！！！",
+    "text": "ラグ：\n　単純明快でいいやんか！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0036.txt",
+    "key": "ヴァディス：\n　行くぞ！！！",
+    "text": "ヴァディス：\n　行くぞ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0036.txt",
+    "key": "ヴァディス：\n　ま、まさか\\.・\\.・\\.・",
+    "text": "ヴァディス：\n　ま、まさか\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0036.txt",
+    "key": "ラグ：\n　へっへっへ\\.・\\.・\\.・爆薬入りナイフはどうや\\.・\\.・\\.・\\!\n　せやけど、量がちと、多かったかな\\.・\\.・\\.・",
+    "text": "ラグ：\n　へっへっへ\\.・\\.・\\.・爆薬入りナイフはどうや\\.・\\.・\\.・\\!\n　せやけど、量がちと、多かったかな\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0040.txt",
+    "key": "STAND",
+    "text": "STAND",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0040.txt",
+    "key": "HIT",
+    "text": "HIT",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0040.txt",
+    "key": "DOUBLE DOWN",
+    "text": "DOUBLE DOWN",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0040.txt",
+    "key": "SURRENDER",
+    "text": "SURRENDER",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0040.txt",
+    "key": "CONTINUE",
+    "text": "CONTINUE",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0040.txt",
+    "key": "END",
+    "text": "END",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ウェイン：\n　いた！！！",
+    "text": "ウェイン：\n　いた！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "Ｄ・ハッシュ：\n　・・・。",
+    "text": "Ｄ・ハッシュ：\n　・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ラグ：\n　ウェインはん！！！",
+    "text": "ラグ：\n　ウェインはん！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ウェイン：\n　ラグ！どうして、ここに！？",
+    "text": "ウェイン：\n　ラグ！どうして、ここに！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ラグ：\n　なんか、王国警察っちゅうのが来て、\n　地下牢から出してくれたんや。",
+    "text": "ラグ：\n　なんか、王国警察っちゅうのが来て、\n　地下牢から出してくれたんや。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ミチタ：\n　ここの摘発と同時に、ヘイムレイクの家宅捜索も\n　行っているのです。",
+    "text": "ミチタ：\n　ここの摘発と同時に、ヘイムレイクの家宅捜索も\n　行っているのです。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ラグ：\n　そう、それや。\\!そんで、セデュース・ハウスが\n　どうのこうのって言うから、様子を身に来たんや。",
+    "text": "ラグ：\n　そう、それや。\\!そんで、セデュース・ハウスが\n　どうのこうのって言うから、様子を身に来たんや。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ウェイン：\n　それにしては、早く来たな…",
+    "text": "ウェイン：\n　それにしては、早く来たな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ラグ：\n　あたりまえやん！もう心配で心配で。",
+    "text": "ラグ：\n　あたりまえやん！もう心配で心配で。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ウェイン：\n　そういや、ドゥーガは？",
+    "text": "ウェイン：\n　そういや、ドゥーガは？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ラグ：\n　あの人なら「俺の仕事はここまでだ」なんて\n　言って、帰ったんや。",
+    "text": "ラグ：\n　あの人なら「俺の仕事はここまでだ」なんて\n　言って、帰ったんや。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ウェイン：\n　そうか・・・まぁ、しかたないな。",
+    "text": "ウェイン：\n　そうか・・・まぁ、しかたないな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ラグ：\n　またなんか、やってるようやな。\n　わいも、手伝うわ。",
+    "text": "ラグ：\n　またなんか、やってるようやな。\n　わいも、手伝うわ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ウェイン：\n　ありがとう。",
+    "text": "ウェイン：\n　ありがとう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ウェイン：\n　Ｄ・ハッシュを追うんだ！",
+    "text": "ウェイン：\n　Ｄ・ハッシュを追うんだ！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ウェイン：\n　ん？この壁、つなぎ目が不自然だな…",
+    "text": "ウェイン：\n　ん？この壁、つなぎ目が不自然だな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "ウェイン：",
+    "text": "ウェイン：",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "「押す。」",
+    "text": "「押す。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0043.txt",
+    "key": "「押さない。」",
+    "text": "「押さない。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　捕まえたぞ！",
+    "text": "ウェイン：\n　捕まえたぞ！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　もう、逃がさない！！！",
+    "text": "ウェイン：\n　もう、逃がさない！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　・\\.・\\.・\\|これでもか？",
+    "text": "Ｄ・ハッシュ：\n　・\\.・\\.・\\|これでもか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "\n\\>－　ウェインの腕にナイフが深々と突き刺さった！　－\\<",
+    "text": "\n\\>－　ウェインの腕にナイフが深々と突き刺さった！　－\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　ぐぅっ！！！！",
+    "text": "ウェイン：\n　ぐぅっ！！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ミチタ：\n　ウェインさん！大丈夫ですか！！！",
+    "text": "ミチタ：\n　ウェインさん！大丈夫ですか！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ラグ：\n　き・・・貴様ぁぁぁぁぁぁぁ！！！",
+    "text": "ラグ：\n　き・・・貴様ぁぁぁぁぁぁぁ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　や\\.・\\.・\\.・\\.やめろ…ラグ\\.・\\.・\\.・\\!\n　やめるんだ・・・",
+    "text": "ウェイン：\n　や\\.・\\.・\\.・\\.やめろ…ラグ\\.・\\.・\\.・\\!\n　やめるんだ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ラグ：\n　せ、せやけど！",
+    "text": "ラグ：\n　せ、せやけど！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　俺なら、大丈夫だ。\n　絶対、この手は放さない･･･\\!\n　くっ・・・",
+    "text": "ウェイン：\n　俺なら、大丈夫だ。\n　絶対、この手は放さない・・・\\!\n　くっ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　いい度胸じゃないか。\\!\n　だが、これでも？",
+    "text": "Ｄ・ハッシュ：\n　いい度胸じゃないか。\\!\n　だが、これでも？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　ぐぁっ！！！！",
+    "text": "ウェイン：\n　ぐぁっ！！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　どうだ？まだ放さないか？",
+    "text": "Ｄ・ハッシュ：\n　どうだ？まだ放さないか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　ぐ・・・\\!放さない･･･\\!この手を放せば…\\!\n　クレアを助けることができない！！！",
+    "text": "ウェイン：\n　ぐ・・・\\!放さない・・・\\!この手を放せば…\\!\n　クレアを助けることができない！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　クレア？\\!…なるほど、この俺にかかってる賞金で\n　その、クレアを助けたいというのか…",
+    "text": "Ｄ・ハッシュ：\n　クレア？\\!…なるほど、この俺にかかってる賞金で\n　その、クレアを助けたいというのか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　・\\.・\\.・\\.ふ。",
+    "text": "Ｄ・ハッシュ：\n　・\\.・\\.・\\.ふ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　ふはははははははははは！！！",
+    "text": "Ｄ・ハッシュ：\n　ふはははははははははは！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ラグ：\n　こいつ！\\!なにがおかしいんや!!!",
+    "text": "ラグ：\n　こいつ！\\!なにがおかしいんや!!!",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　いや、気に入った。\\!\n　いまどき、こんなやつがいるなんてな。",
+    "text": "Ｄ・ハッシュ：\n　いや、気に入った。\\!\n　いまどき、こんなやつがいるなんてな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　いいだろう。\\!ここはおとなしく捕まろうじゃないか。\n　俺の懸賞金で、そいつを助けてやれ。",
+    "text": "Ｄ・ハッシュ：\n　いいだろう。\\!ここはおとなしく捕まろうじゃないか。\n　俺の懸賞金で、そいつを助けてやれ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　・・・。",
+    "text": "ウェイン：\n　・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　捕まっても脱獄すればいいことさ。\n　な？そうだろ？ミチタ君。",
+    "text": "Ｄ・ハッシュ：\n　捕まっても脱獄すればいいことさ。\n　な？そうだろ？ミチタ君。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ミチタ：\n　くっ・・・",
+    "text": "ミチタ：\n　くっ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　これが、そこにある扉の鍵だ。\\!\n　それじゃ、行こうか。",
+    "text": "Ｄ・ハッシュ：\n　これが、そこにある扉の鍵だ。\\!\n　それじゃ、行こうか。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "\n　　　　\\>－　Ｄ・ハッシュを捕まえた！　－\\<",
+    "text": "\n　　　　\\>－　Ｄ・ハッシュを捕まえた！　－\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　なめるなっ！",
+    "text": "Ｄ・ハッシュ：\n　なめるなっ！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　くっ…",
+    "text": "ウェイン：\n　くっ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　ダメだ…開かない。",
+    "text": "ウェイン：\n　ダメだ…開かない。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　それじゃ、ここから出るか…",
+    "text": "ウェイン：\n　それじゃ、ここから出るか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　な？",
+    "text": "ウェイン：\n　な？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ミチタ：\n　トライフィア？",
+    "text": "ミチタ：\n　トライフィア？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "トライフィア：\n　ごめんなさい…\\!私も１０００万￡欲しいんです…",
+    "text": "トライフィア：\n　ごめんなさい…\\!私も１０００万￡欲しいんです…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ミチタ：\n　なに言ってるんだ！！！",
+    "text": "ミチタ：\n　なに言ってるんだ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "トライフィア：\n　１０００万￡…一生遊んで暮らせるじゃないですか。",
+    "text": "トライフィア：\n　１０００万￡…一生遊んで暮らせるじゃないですか。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "トライフィア：\n　それじゃ。",
+    "text": "トライフィア：\n　それじゃ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　ま、待て！",
+    "text": "ウェイン：\n　ま、待て！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ラグ：\n　ウェイン！どうするんや！？",
+    "text": "ラグ：\n　ウェイン！どうするんや！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　ダメだ…開かない。\\!\n　なにか扉を開けられるものはないのか？",
+    "text": "ウェイン：\n　ダメだ…開かない。\\!\n　なにか扉を開けられるものはないのか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　ん！これは・・・バール？\\!こんなところに？",
+    "text": "ウェイン：\n　ん！これは・・・バール？\\!こんなところに？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "「拾う。」",
+    "text": "「拾う。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "「拾わない。」",
+    "text": "「拾わない。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　これでこじ開ければ…",
+    "text": "ウェイン：\n　これでこじ開ければ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ラグ：\n　わいも力を貸したる。",
+    "text": "ラグ：\n　わいも力を貸したる。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ミチタ：\n　わ…私も！！！",
+    "text": "ミチタ：\n　わ…私も！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン＆ラグ＆ミチタ：\n　ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.・\\.・\\.・\n\\^",
+    "text": "ウェイン＆ラグ＆ミチタ：\n　ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.ぐ\\.・\\.・\\.・\n\\^",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　よし！開いた！！！",
+    "text": "ウェイン：\n　よし！開いた！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　ここで、バールを使うのか？",
+    "text": "ウェイン：\n　ここで、バールを使うのか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　な！？真っ暗な部屋？？？",
+    "text": "ウェイン：\n　な！？真っ暗な部屋？？？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ラグ：\n　少しの周りしか見えへんで！！！",
+    "text": "ラグ：\n　少しの周りしか見えへんで！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ミチタ：\n　今来た壁も、もう動きません！",
+    "text": "ミチタ：\n　今来た壁も、もう動きません！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　さて・・・",
+    "text": "Ｄ・ハッシュ：\n　さて・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ミチタ：\n　Ｄ・ハッシュ！どこにいる！！！",
+    "text": "ミチタ：\n　Ｄ・ハッシュ！どこにいる！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　ウェインだったかな？\\!\n　さっき君は「逃げるのか」と言ったね。",
+    "text": "Ｄ・ハッシュ：\n　ウェインだったかな？\\!\n　さっき君は「逃げるのか」と言ったね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　いいだろう。俺は逃げない。\n　いまから、お前らを殺すことにするよ。",
+    "text": "Ｄ・ハッシュ：\n　いいだろう。俺は逃げない。\n　いまから、お前らを殺すことにするよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "トライフィア：\n　Ｄ・ハッシュは炎の使い手です！\n　この暗闇じゃ、どこから飛んでくるか\n　まったく、わかりませんよ！！！",
+    "text": "トライフィア：\n　Ｄ・ハッシュは炎の使い手です！\n　この暗闇じゃ、どこから飛んでくるか\n　まったく、わかりませんよ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　さて、どうする？",
+    "text": "Ｄ・ハッシュ：\n　さて、どうする？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "ウェイン：\n　簡単なことだ。\\!Ｄ・ハッシュ、お前を捕まえる。",
+    "text": "ウェイン：\n　簡単なことだ。\\!Ｄ・ハッシュ、お前を捕まえる。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "Ｄ・ハッシュ：\n　そうか\\.・\\.・\\.・\\!\\>ならば、やってみな！！！\\<",
+    "text": "Ｄ・ハッシュ：\n　そうか\\.・\\.・\\.・\\!\\>ならば、やってみな！！！\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0044.txt",
+    "key": "\\>　　　　　　　　　－　注意　－\\<\n\\>　　　　　Ｄ・ハッシュを捕まえてください。\\<\n\\>　　ただし、パーティーの誰かが戦闘不能に陥ると\\<\n\\>　　　　　　ゲームオーバーとなります。\\<",
+    "text": "\\>　　　　　　　　　－　注意　－\\<\n\\>　　　　　Ｄ・ハッシュを捕まえてください。\\<\n\\>　　ただし、パーティーの誰かが戦闘不能に陥ると\\<\n\\>　　　　　　ゲームオーバーとなります。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0045.txt",
+    "key": "ミチタ：\n　トライフィア！！！",
+    "text": "ミチタ：\n　トライフィア！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0045.txt",
+    "key": "ウェイン：\n　ダメだ・・・\\!くっ！！！",
+    "text": "ウェイン：\n　ダメだ・・・\\!くっ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0045.txt",
+    "key": "ラグ：\n　Ｄ・ハッシュは！？",
+    "text": "ラグ：\n　Ｄ・ハッシュは！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  }
+]

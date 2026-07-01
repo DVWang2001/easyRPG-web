@@ -1,0 +1,116 @@
+﻿*****Entry1*****
+#Name# [20]
+短刀
+
+#Description# [50]
+單刃的特殊短劍。似乎是從遠東流傳過來的。
+
+
+
+*****Entry2*****
+#Name# [20]
+夾克
+
+#Description# [50]
+內側墊有薄鐵板，非常適合戰鬥。
+
+
+
+*****Entry3*****
+#Name# [20]
+臂甲
+
+#Description# [50]
+從肩膀一直覆蓋到手掌的特殊護手。
+
+
+
+*****Entry4*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+藥草
+
+#Description# [50]
+塗抹在患部可以微量恢復HP。
+
+
+
+*****Entry12*****
+#Name# [20]
+明靈草
+
+#Description# [50]
+儲存氣的草藥，服用後可提升AP。
+
+
+
+*****Entry13*****
+#Name# [20]
+天命草
+
+#Description# [50]
+蘊含著驚人的生命力，服用後可恢復HP。
+
+

@@ -1,0 +1,193 @@
+﻿**********Event1**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+嘖…
+想起討人厭的往事了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……。
+##
+
+
+#Message#
+……那是這裡的鑰匙。拿去吧。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+…可以拿走喵？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+囉嗦死啦，
+事辦完了就快點滾啦！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+怎麼感覺，
+他對本喵的態度，
+和對那傢伙的態度差那麼多喵。
+##
+
+
+
+
+**********Event5**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.怎麼了喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+我感覺到一股強大的…類似妖氣的東西。
+##
+
+
+#Message#
+看來接下來，會遇到和剛才那兩個人
+實力完全不在同一個檔次的妖怪。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+那是當然的喵。
+守著這扇門的可是…超
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+超
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+超？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+哈啾$e
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+哈喵～，本喵感冒了嗎。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+…
+是哈啾大魔王嗎。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+欸？
+##
+
+
+
+
+**********Event6**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+啊，對了喵。
+##
+
+
+#Message#
+這個，送給你喵。
+##
+
+
+#Message#
+\.\.有機會的話，
+\.幫本喵供奉到雪乃小姐的墓前喵。
+##
+
+
+#Message#
+\.\.因為要是你的話，
+大概不會注意到這種細微的心意吧…
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]……………
+##
+
+
+
+

@@ -1,0 +1,77 @@
+﻿1. [MARKER: Message] \>製作該物品所需材料　　　所需數量　　當前持有數\.
+·回復之札　　　　　　　 ×１０　　　　\V[43]\<
+2. [MARKER: Message] 決定製作這個嗎？\!\^
+3. [MARKER: Message] 稍微等我一下喔……。
+4. [MARKER: Message] 好囉，大功告成！
+5. [MARKER: Message] 
+　　　　　　 獲得了回復之札豪華版！！
+6. [MARKER: Message] 製作所需的材料不夠喔。
+7. [MARKER: Message] \>製作該物品所需材料　　　所需數量　　當前持有數\.
+·天龍石　　　　　　　　 ×１０　　　　\V[43]\<
+8. [MARKER: Message] 決定製作這個嗎？\!\^
+9. [MARKER: Message] 稍微等我一下喔……。
+10. [MARKER: Message] 好囉，大功告成！
+11. [MARKER: Message] 
+　　　　　　　獲得了天龍石豪華版！！
+12. [MARKER: Message] 製作所需的材料不夠喔。
+13. [MARKER: Message] \>製作該物品所需材料　　　所需數量　　當前持有數\.
+·斬鐵劍　　　　　　　　 ×１　　　　　\V[43]
+·奧里哈魯根之劍　　　　 ×１　　　　　\V[44]\<
+14. [MARKER: Message] 決定製作這個嗎？\!\^
+15. [MARKER: Message] 稍微等我一下喔……。
+16. [MARKER: Message] 好囉，大功告成！
+17. [MARKER: Message] 
+　　　　　　　　　 獲得了超斬鐵劍！！
+18. [MARKER: Message] 製作所需的材料不夠喔。
+19. [MARKER: Message] 製作所需的材料不夠喔。
+20. [MARKER: Message] \>製作該物品所需材料　　　所需數量　　當前持有數\.
+·超強力馬達　　　　　　 ×１　　　　　\V[43]
+·奧里哈魯根之劍　　　　 ×１　　　　　\V[44]\<
+21. [MARKER: Message] 決定製作這個嗎？\!\^
+22. [MARKER: Message] 稍微等我一下喔……。
+23. [MARKER: Message] 好囉，大功告成！
+24. [MARKER: Message] 
+　　　　　　　　　  獲得了機工斧！！
+25. [MARKER: Message] 製作所需的材料不夠喔。
+26. [MARKER: Message] 製作所需的材料不夠喔。
+27. [MARKER: Message] \>製作該物品所需材料　　　所需數量　　當前持有數\.
+·水晶匕首　　　　　　　 ×７　　　　　\V[43]
+·水晶研磨機　　　　　　 ×１　　　　　\V[44]\<
+28. [MARKER: Message] 決定製作這個嗎？\!\^
+29. [MARKER: Message] 稍微等我一下喔……。
+30. [MARKER: Message] 好囉，大功告成！
+31. [MARKER: Message] 
+　　　　　　獲得了水晶之刃！！
+32. [MARKER: Message] 製作所需的材料不夠喔。
+33. [MARKER: Message] 製作所需的材料不夠喔。
+34. [MARKER: Message] \>製作該物品所需材料　　　所需數量　　當前持有數\.
+·戰斧　　　　　　　　　 ×１　　　　　\V[43]
+·電漿噴射推進器　　　　 ×１　　　　　\V[44]\<
+35. [MARKER: Message] 決定製作這個嗎？\!\^
+36. [MARKER: Message] 稍微等我一下喔……。
+37. [MARKER: Message] 好囉，大功告成！
+38. [MARKER: Message] 
+　　　　　　　　　獲得了 ICBM！！
+39. [MARKER: Message] 製作所需的材料不夠喔。
+40. [MARKER: Message] 製作所需的材料不夠喔。
+41. [MARKER: Message] \>製作該物品所需材料　　　所需數量　　當前持有數\.
+·護盾　　　　　　　　　 ×１　　　　　\V[43]
+·高科技指環　　　　　　 ×１　　　　　\V[44]\<
+42. [MARKER: Message] 決定製作這個嗎？\!\^
+43. [MARKER: Message] 稍微等我一下喔……。
+44. [MARKER: Message] 好囉，大功告成！
+45. [MARKER: Message] 
+　　　　　　 獲得了偉大之盾！！
+46. [MARKER: Message] 製作所需的材料不夠喔。
+47. [MARKER: Message] 製作所需的材料不夠喔。
+48. [MARKER: Message] \>製作該物品所需材料　　　所需數量　　當前持有數\.
+·水晶研磨機　　　　　　 ×１　　　　　\V[43]
+·紅水晶　　　　　　　　 ×３　　　　　\V[44]\<
+49. [MARKER: Message] 決定製作這個嗎？\!\^
+50. [MARKER: Message] 稍微等我一下喔……。
+51. [MARKER: Message] 好囉，大功告成！
+52. [MARKER: Message] 
+　　　　　 獲得了水晶護盾！！
+53. [MARKER: Message] 製作所需的材料不夠喔。
+54. [MARKER: Message] 製作所需的材料不夠喔。
+55. [MARKER: Message] 你想要做些什麼呢？

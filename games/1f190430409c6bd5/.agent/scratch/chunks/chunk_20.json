@@ -1,0 +1,289 @@
+[
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:52",
+    "text": "スロット回転（保存）",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:53",
+    "text": "スロット処理リール１",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:54",
+    "text": "スロット処理リール２",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:55",
+    "text": "スロット処理リール３",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:57",
+    "text": "スロット回転１（旧）",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:58",
+    "text": "スロット回転２（旧）",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:59",
+    "text": "スロット回転３（旧）",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:61",
+    "text": "スロット役判定",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:62",
+    "text": "スロット結果計算",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:63",
+    "text": "スロット賭け数決定",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:65",
+    "text": "スロット回転１",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:66",
+    "text": "スロット回転２",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:67",
+    "text": "スロット回転３",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:69",
+    "text": "ポーカー主役チェック",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:70",
+    "text": "ポーカー敵役チェック",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:71",
+    "text": "ポーカー主カード配布",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:72",
+    "text": "ポーカー敵カード配布",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:73",
+    "text": "ポーカー初期値代入",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:74",
+    "text": "ポーカー初期化",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:75",
+    "text": "ほぞん",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:77",
+    "text": "主人公ベットアップ",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:79",
+    "text": "ウェインが掘った",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:80",
+    "text": "ダンジョン生きてるか",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:82",
+    "text": "いくら賭ける？（見習",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:83",
+    "text": "賭け数入力処理（見習",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:85",
+    "text": "ルーレット賭けたか",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:86",
+    "text": "ルーレット当たり判定",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:87",
+    "text": "ルーレゲット数位分け",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:90",
+    "text": "並列処理",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:91",
+    "text": "敵セリフ（親決め）",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:92",
+    "text": "敵セリフ（親決まっ）",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:93",
+    "text": "敵ライフ代入",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:94",
+    "text": "敵セリフ（始め）",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:95",
+    "text": "敵セリフ（親チェンジ",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:96",
+    "text": "敵セリフ（くらう！",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:97",
+    "text": "主セリフ（くらえ！",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:98",
+    "text": "カオグラ表示",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:99",
+    "text": "主セリフ（くらう！",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:100",
+    "text": "エミバト配布",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:101",
+    "text": "エミバト主人公配布",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:102",
+    "text": "エミバト主人公５枚配",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  }
+]

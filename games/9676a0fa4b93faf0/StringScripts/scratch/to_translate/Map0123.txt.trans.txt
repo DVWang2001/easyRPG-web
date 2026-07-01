@@ -1,0 +1,27 @@
+﻿1. [MARKER: Message] JOKER「
+ひぃ・・ひぃ・・ここまで来れば大丈夫だろう・・。
+2. [MARKER: Message] JOKER「
+お・・おのれ・・・・。
+貴様等だけでも・・・・。
+3. [MARKER: Message] JOKER「
+だ・・・DANDY・・イイーーーー！！！
+ぐはァッ！！！！
+4. [MARKER: Message] DANDY「
+・・・・・JOKER・・・。
+5. [MARKER: Message] 
+　　　　　　　ダンディシールドゲット！
+6. [MARKER: Message] 流漸「
+ふははは！　もう逃がさん！！
+7. [MARKER: Message] JOKER「
+ぎゃーーー！！　来るなバケモンッ！！！
+8. [MARKER: Message] 流漸「
+必殺技を見せてやる！！
+見たら死ねェっ！！！！
+9. [MARKER: Message] 流漸「
+はぁぁーーーーー！！！！
+10. [MARKER: Message] JOKER「
+やめろおおぉぉぉーーーーーーー！！！
+11. [MARKER: Message] JOKER「
+\S[2]・・・・・・・・・・・・・・・・・・・・・。
+12. [MARKER: Message] 流漸「
+ふん・・・！！！

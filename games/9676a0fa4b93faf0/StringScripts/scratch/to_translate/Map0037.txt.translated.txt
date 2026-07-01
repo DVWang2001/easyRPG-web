@@ -1,0 +1,26 @@
+﻿1. [MARKER: Message] 
+　　　　　門緊緊地關著……
+2. [MARKER: Message] 奧斯卡「
+應該在某處有能打開這扇門的控制桿。
+找找看吧。
+3. [MARKER: Message] 
+　　　　　聽到了某處解鎖的聲音。
+4. [MARKER: Message] DANDY「
+這是什麼構造？
+5. [MARKER: Message] 奧斯卡「
+……不清楚……
+6. [MARKER: Message] 
+　　　　　　　　聽到了上鎖的聲音。
+7. [MARKER: Message] 奧斯卡「
+關上它幹嘛……
+8. [MARKER: Message] 丹迪「
+哎呀……
+9. [MARKER: Message] 士兵「
+這裡為了防範逃獄，特意設計得非常複雜。
+簡直就是個迷宮呢。
+10. [MARKER: Message] 士兵「
+其實我也不例外，
+迷路了……
+真是丟臉呢。
+11. [MARKER: Message] DANDY「
+真是的呢。

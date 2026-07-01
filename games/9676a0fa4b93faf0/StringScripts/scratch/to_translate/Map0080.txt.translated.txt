@@ -1,0 +1,32 @@
+﻿1. [MARKER: Message] 流漸「
+好啦……讓我看看那些傢伙能走到哪一步吧，
+真是令人期待呢……呵呵……。
+2. [MARKER: Message] 流漸「
+……什麼人！！
+3. [MARKER: Message] JOKER「
+……呵呵呵……你就是流漸吧……。
+4. [MARKER: Message] 流漸「
+是又怎麼樣……？
+5. [MARKER: Message] 流漸「
+咕哇啊！！！！
+6. [MARKER: Message] ？？？？？「
+得手了嗎……。
+7. [MARKER: Message] JOKER「
+是的……已經斷氣了……。
+8. [MARKER: Message] ？？？？？「
+把他的頭砍下來……。
+我們需要隱藏在他意識裡的那個東西。
+9. [MARKER: Message] JOKER「
+呵呵呵……遵命……。
+10. [MARKER: Message] JOKER「
+……大人……看來那件東西已經不在了……。
+11. [MARKER: Message] ？？？？？「
+……嘖……那台行動電腦嗎……
+看來果然落入奧斯卡他們手中了呢……
+12. [MARKER: Message] JOKER「
+需要我去從他們手中奪回來嗎？
+13. [MARKER: Message] ？？？？？「
+不必，他們總有一天會自己來到我面前的……。
+這也不過是在我的預料之內罷了。
+14. [MARKER: Message] ？？？？？「
+呵呵呵呵……。

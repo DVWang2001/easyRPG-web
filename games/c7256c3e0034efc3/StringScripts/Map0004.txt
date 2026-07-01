@@ -1,0 +1,125 @@
+﻿**********Event6**********
+-----Page2-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……是誰？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+我是沃爾。
+##
+
+
+#Message#
+那個，怎麼說……妳沒事吧？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+對不起。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+別太責怪自己了。
+##
+
+
+#Message#
+我其實並不在意。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……嗯。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+你是叫班達納對吧？
+##
+
+
+#Message#
+他因為工作的事在找你。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+我知道了。
+##
+
+
+#Message#
+呵呵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+嗯？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+妳似乎誤會了，我們以前可不是戀人關係喔
+。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+跟班達納說我馬上過去。
+##
+
+
+
+-----Page3-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……。
+##
+
+
+
+-----Page5-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+蒂爾法？
+##
+
+
+#Message#
+如果她不在這裡，那到底會在哪裡呢？
+##
+
+
+
+

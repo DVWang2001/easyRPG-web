@@ -1,0 +1,44 @@
+﻿1. [MARKER: Message] 
+　　　　　　　　　出————局！！
+2. [MARKER: Message] 
+　　　　　　　　　出————局！！
+3. [MARKER: Message] 
+　　　　　　　　　出————局！！
+4. [MARKER: Message] 
+　　　　　　　　　出————局！！
+5. [MARKER: Message] 
+　　　　　　　　　出————局！！
+6. [MARKER: Message] 
+　　　　　　　　　出————局！！
+7. [MARKER: Message] 
+　　　　　　　　　出————局！！
+8. [MARKER: Message] 
+　　　　　　　　　出————局！！
+9. [MARKER: Message] 
+　　　　　　　　　出————局！！
+10. [MARKER: Message] 
+　　　　　　　　　出————局！！
+11. [MARKER: Message] 
+　　　　　　　　　出————局！！
+12. [MARKER: Message] 
+　　　　　　　　　出————局！！
+13. [MARKER: Message] 
+　　　　　　　　　出————局！！
+14. [MARKER: Message] 要放棄嗎？
+15. [MARKER: Message] 要放棄嗎？
+16. [MARKER: Message] 神殿騎士「
+太精彩了！！
+17. [MARKER: Message] 神殿騎士「
+這樣一來，『敏捷之間』的試練就完成了。
+如果還有剩下的試練，請去完成吧。
+如果全都通過了，就請回到大廳去。
+18. [MARKER: Message] 神殿騎士「
+太精彩了！！
+19. [MARKER: Message] 神殿騎士「
+這樣一來，『敏捷之間』的試練就完成了。
+如果還有剩下的試練，請去完成吧。
+如果全都通過了，就請回到大廳去。
+20. [MARKER: Message] 
+　　　　　　　　　時間到！！
+21. [MARKER: Message] 神殿騎士「
+不要氣餒，請再次挑戰吧。

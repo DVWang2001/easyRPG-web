@@ -1,0 +1,48 @@
+﻿1. [MARKER: Message] オンドレ「
+やあっ！！　オスカーッ！！
+2. [MARKER: Message] ニワトリ「
+こけーーーー！！！
+3. [MARKER: Message] イゾウ「
+あちちっ！！
+4. [MARKER: Message] オスカー「
+熱いな。
+5. [MARKER: Message] イゾウ「
+ちょっと休もうかな？
+6. [MARKER: Message] オスカー「
+イゾウの家だが・・休んでもいいかな？
+7. [MARKER: Message] ニワトリ「
+こけーーー！！
+8. [MARKER: Message] イゾウ「
+アニキ、今まで思っていたけど
+このニワトリって何なんだ？
+9. [MARKER: Message] オンドレ「
+それはな、声帯にヒーリング作用がある
+世界に１匹しかいない、とても珍しいニワトリだ。
+10. [MARKER: Message] オンドレ「
+俺が昔旅をしていたときに、見つけたものだ。
+声を聞くだけで、疲労回復の効果があるのだ。
+11. [MARKER: Message] ニワトリ「
+こけーーーー！！！
+12. [MARKER: Message] 
+　　　　　　　　　　全快！！
+13. [MARKER: Message] [FACE: 主人公2, 10, Left, Normal] オンドレ「
+起きたか、イゾウ。\.
+寝起きに悪いが、ギルドからお呼びが
+かかっていたぜ。
+14. [MARKER: Message] [FACE: イゾウ, 1, Right, Flip Horizontal] イゾウ「
+どうせオスカーだろぅ・・。
+15. [MARKER: Message] [FACE: Erase] オンドレ「
+いいよなお前、愛しのオスカーに
+コキ使われて・・。
+16. [MARKER: Message] [FACE: Erase] イゾウ「
+愛しいと思っているのは
+アニキだろ？
+17. [MARKER: Message] [FACE: Erase] オンドレ「
+・・・・ポッ$g・・。
+18. [MARKER: Message] [FACE: Erase] イゾウ「
+・・・・・・・・・・・・・・
+とりあえず、行ってくるよ。
+19. [MARKER: Message] [FACE: Erase] オンドレ「
+その前に、一度セーブしていけっ！
+20. [MARKER: Message] [FACE: Erase] オンドレ「
+とりあえず、セーブだな。

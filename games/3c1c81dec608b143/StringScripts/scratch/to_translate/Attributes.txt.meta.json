@@ -1,0 +1,160 @@
+{
+    "filepath": "Database/Attributes.txt",
+    "meta": [
+        {
+            "type": "tag",
+            "line_idx": 2
+        },
+        {
+            "type": "tag",
+            "line_idx": 8
+        },
+        {
+            "type": "tag",
+            "line_idx": 14
+        },
+        {
+            "type": "tag",
+            "line_idx": 20
+        },
+        {
+            "type": "tag",
+            "line_idx": 26
+        },
+        {
+            "type": "tag",
+            "line_idx": 32
+        },
+        {
+            "type": "tag",
+            "line_idx": 38
+        },
+        {
+            "type": "tag",
+            "line_idx": 44
+        },
+        {
+            "type": "tag",
+            "line_idx": 50
+        },
+        {
+            "type": "tag",
+            "line_idx": 56
+        },
+        {
+            "type": "tag",
+            "line_idx": 62
+        },
+        {
+            "type": "tag",
+            "line_idx": 68
+        },
+        {
+            "type": "tag",
+            "line_idx": 74
+        },
+        {
+            "type": "tag",
+            "line_idx": 80
+        },
+        {
+            "type": "tag",
+            "line_idx": 86
+        },
+        {
+            "type": "tag",
+            "line_idx": 92
+        },
+        {
+            "type": "tag",
+            "line_idx": 98
+        }
+    ],
+    "items": [
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "剣"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "槍"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "打撃"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "弓"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "炎"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "冷気"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "雷"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "水"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "大地"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "風"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "神聖"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "暗黒"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "攻撃力"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "防御力"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "精神力"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "敏捷性"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "吸収"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+﻿1. [MARKER: Message] 
+　　　　　　　　　　動いてない・・。
+2. [MARKER: Message] イゾウ「
+\S[2]・・・・えっ・・・・？
+3. [MARKER: Message] イゾウ「
+\S[5]なんじゃこりゃーーー！！？
+4. [MARKER: Message] オスカー「
+・・・流漸はドコに・・・。
+5. [MARKER: Message] DANDY「
+一体どういうコトなのか
+説明して貰わないとな・・・。
+6. [MARKER: Message] オンドレ「
+広いなぁ～～。
+7. [MARKER: Message] 
+　　　　出口が塞がれているので、使えない。

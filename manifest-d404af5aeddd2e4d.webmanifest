@@ -1,0 +1,30 @@
+{
+  "name": "bombe",
+  "short_name": "bombe",
+  "id": "play-d404af5aeddd2e4d.html",
+  "start_url": "play-d404af5aeddd2e4d.html",
+  "scope": "play-d404af5aeddd2e4d.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "games/d404af5aeddd2e4d/pwa-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "games/d404af5aeddd2e4d/pwa-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "games/d404af5aeddd2e4d/pwa-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

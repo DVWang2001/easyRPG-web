@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:91",
+    "text": "きのこ３HIT-１",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:92",
+    "text": "マンドラ３HIT-２",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:93",
+    "text": "きのこ３HIT-２",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:94",
+    "text": "マンドラ３HIT-３",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:95",
+    "text": "きのこ３HIT-３",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:96",
+    "text": "マンドラ３HIT-４",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:97",
+    "text": "きのこ３HIT-４",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:98",
+    "text": "マンドラ３HIT-５",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:99",
+    "text": "きのこ３HIT-５",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:101",
+    "text": "マンドラ２ＨＩＴ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:102",
+    "text": "マンドラＨＩＴ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:103",
+    "text": "きのこ２ＨＩＴ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:104",
+    "text": "きのこＨＩＴ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:105",
+    "text": "パンプゥＨＩＴ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:106",
+    "text": "うさぎＨＩＴ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:107",
+    "text": "ファイロンＨＩＴ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:108",
+    "text": "魔王ＨＩＴ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:109",
+    "text": "天使ＨＩＴ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:112",
+    "text": "主人公ロイヤル",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:113",
+    "text": "主人公ストフラ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:114",
+    "text": "主人公４カード",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:115",
+    "text": "主人公フルハウス",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:116",
+    "text": "主人公フラッシュ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:117",
+    "text": "主人公ストレート",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:118",
+    "text": "主人公スリーカード",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:119",
+    "text": "主人公ツーペア",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:120",
+    "text": "主人公ワンペア",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:121",
+    "text": "主人公役あり",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:122",
+    "text": "主人公役なし",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:126",
+    "text": "主人公チェンジ①",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:127",
+    "text": "主人公チェンジ②",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:128",
+    "text": "主人公チェンジ③",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:129",
+    "text": "主人公チェンジ④",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:130",
+    "text": "主人公チェンジ⑤",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:132",
+    "text": "敵ロイヤル",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:141",
+    "text": "スロット１－１回転",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:142",
+    "text": "スロット１－２回転",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:143",
+    "text": "スロット１－３回転",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:144",
+    "text": "スロット２－１回転",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:145",
+    "text": "スロット２－２回転",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:146",
+    "text": "スロット２－３回転",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:147",
+    "text": "スロット３－１回転",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:148",
+    "text": "スロット３－２回転",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:149",
+    "text": "スロット３－３回転",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:161",
+    "text": "ルーレットNo.1選択",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:162",
+    "text": "ルーレットNo.2選択",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:163",
+    "text": "ルーレットNo.3選択",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:164",
+    "text": "ルーレットNo.4選択",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:165",
+    "text": "ルーレットNo.5選択",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:166",
+    "text": "ルーレットNo.6選択",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:167",
+    "text": "ルーレットNo.7選択",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:168",
+    "text": "ルーレットNo.8選択",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:169",
+    "text": "ルーレットNo.9選択",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:170",
+    "text": "ルーレットNo.10選択",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:171",
+    "text": "ルーレットNo.11選択",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:172",
+    "text": "ルーレットNo.12選択",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:173",
+    "text": "ルーレット賭けた",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:174",
+    "text": "ゲット数1000以上",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:175",
+    "text": "ゲット数100以上",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:176",
+    "text": "ゲット数10以上",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:177",
+    "text": "ルーレットヒット",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:181",
+    "text": "バトルセグメイン",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:182",
+    "text": "バトルザング",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:183",
+    "text": "バトルエミール",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:184",
+    "text": "バトルサフィールス",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:200",
+    "text": "バトルエンド",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:201",
+    "text": "オープニング終了",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:202",
+    "text": "酒場の老人に行け",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:203",
+    "text": "ディーラー①勝負",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:204",
+    "text": "ディーラー②勝負",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:205",
+    "text": "ディーラー③勝負",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:206",
+    "text": "ディーラー④勝負",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:207",
+    "text": "ディーラー⑤勝負",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:208",
+    "text": "ディーラー⑥勝負",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:209",
+    "text": "最初の挨拶＆説明終了",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:210",
+    "text": "タイマー作動中",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:211",
+    "text": "主人公ガラスセット",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:212",
+    "text": "敵ガラスセット",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:213",
+    "text": "バトル開始",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:214",
+    "text": "穴に着陸",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:215",
+    "text": "ライニーと話す",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:216",
+    "text": "川越えた",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:217",
+    "text": "ツルハシゲット",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:218",
+    "text": "ツルハシ使用",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:219",
+    "text": "ツルハシで壊した①",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:220",
+    "text": "ツルハシ掘る価値あり",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:221",
+    "text": "ツルハシで壊した②",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:222",
+    "text": "ツルハシで壊した③",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:223",
+    "text": "ツルハシで壊した④",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:224",
+    "text": "ツルハシで壊した⑤",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:225",
+    "text": "ツルハシで壊した⑥",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:226",
+    "text": "ラグ目を覚ます",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:227",
+    "text": "ラグ立ち上がる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:228",
+    "text": "ラグ仲間になる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:229",
+    "text": "金貨ゲット①",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:230",
+    "text": "金貨ゲット②",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:231",
+    "text": "金貨ゲット③",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:232",
+    "text": "金貨ゲット④",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:233",
+    "text": "金貨ゲット⑤",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:234",
+    "text": "金貨ゲット⑥",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:235",
+    "text": "金貨ゲット⑦",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:236",
+    "text": "金貨ゲット⑧",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:237",
+    "text": "金貨ゲット⑨",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:238",
+    "text": "金貨ゲット⑩",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:239",
+    "text": "岩越えた",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:240",
+    "text": "魔方陣出現",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:241",
+    "text": "宝箱出現①",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:242",
+    "text": "宝箱出現②",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:243",
+    "text": "宝箱出現③",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:244",
+    "text": "宝箱出現④",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:245",
+    "text": "宝箱出現⑤",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:246",
+    "text": "宝箱出現⑥",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:247",
+    "text": "宝箱出現⑦",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:248",
+    "text": "宝箱出現⑧",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:249",
+    "text": "宝箱出現⑨",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:250",
+    "text": "マリスゲームスタート",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:251",
+    "text": "宝箱OPEN①",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:252",
+    "text": "宝箱OPEN②",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:253",
+    "text": "宝箱OPEN③",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:254",
+    "text": "宝箱OPEN④",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:255",
+    "text": "宝箱OPEN⑤",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:256",
+    "text": "宝箱OPEN⑥",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:257",
+    "text": "宝箱OPEN⑦",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:258",
+    "text": "宝箱OPEN⑧",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:259",
+    "text": "宝箱OPEN⑨",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:260",
+    "text": "金貨ゲット⑪",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:261",
+    "text": "マリスゲーム終了",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:262",
+    "text": "まさかね・・・",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:263",
+    "text": "陰謀を知った",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:264",
+    "text": "ラグが出る",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:265",
+    "text": "夜なんです",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:266",
+    "text": "１００￡ゲット",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:267",
+    "text": "お金ないどうする？",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:268",
+    "text": "寝てまっせ。",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:269",
+    "text": "あさでっせ。",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:270",
+    "text": "ベッド",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:271",
+    "text": "朝ラグ加わる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:272",
+    "text": "ラグの目覚め",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:273",
+    "text": "朝ラグ加わる２",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:274",
+    "text": "朝宿屋の女将に話した",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:275",
+    "text": "プッチ・メッセは？",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:276",
+    "text": "プッチ・メッセは？２",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:277",
+    "text": "プッチ・メッセゲット",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:278",
+    "text": "ドゥーガはなした",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:279",
+    "text": "ドゥーガ仲間に",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:280",
+    "text": "武器屋箱①ＯＰＥＮ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:281",
+    "text": "投げナイフのはなし",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:282",
+    "text": "武器屋箱②ＯＰＥＮ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:283",
+    "text": "ミチタに話した",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:284",
+    "text": "警備兵（右）確認消",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  }
+]

@@ -1,0 +1,108 @@
+﻿1. [MARKER: Message] 以藏「
+為什麼我要做這種粗活啊……。
+2. [MARKER: Message] 喬喬莉娜「
+這還用問嗎？當然 is 為了 DANDY 大人啊$g
+別抱怨了，快推啦$g
+3. [MARKER: Message] 以藏「
+好好好……。
+4. [MARKER: Message] 以藏「
+唔～～～～～～嗯！！
+5. [MARKER: Message] 以藏「
+呼————……累死了……。
+喂，DANDY！你也來幫忙啊！！
+6. [MARKER: Message] DANDY「
+知道了。
+7. [MARKER: Message] 以藏「
+額……喂……。
+8. [MARKER: Message] DANDY「
+好，要用力推囉！！
+9. [MARKER: Message] DANDY「
+你在幹什麼啊！！
+10. [MARKER: Message] 以藏「
+從對面用力推啊啊啊————！！！
+11. [MARKER: Message] 以藏「
+聽我口令，預備——推喔。
+預——\.備——\.推——\.唷！！
+12. [MARKER: Message] 以藏「
+好極了————！！
+13. [MARKER: Message] DANDY「
+大家一起合力的話，總會有辦法的呢……。
+這就是友情的力量。
+14. [MARKER: Message] 以藏「
+你這傢伙……。
+15. [MARKER: Message] DANDY「
+嗨，我親愛的各位！！
+過得還好嗎？
+16. [MARKER: Message] 以藏「
+你還是一如既往的厚臉皮呢……。
+17. [MARKER: Message] 喬喬莉娜「
+啊～嗯$g$g DANDY大人——！！$g
+我再也不要離開您了～$g$g
+18. [MARKER: Message] ？？？？？「
+餵——！！ 你們在親熱個什麼勁啊！！！！
+19. [MARKER: Message] DANDY「
+姆！這聲音是 JOKER！！！
+20. [MARKER: Message] DANDY「
+從右邊推過來啊。
+21. [MARKER: Message] JOKER「
+喂！！！
+22. [MARKER: Message] DANDY「
+事到如今，你還有何貴幹 retreat 嗎！？
+23. [MARKER: Message] JOKER「
+把你手上的聖劍「德雷德諾特」交出來！！
+如果沒有那個，我可是會死的啊！！！！！
+24. [MARKER: Message] DANDY「
+嗚哇！
+你為什麼會知道聖劍的事情？！
+25. [MARKER: Message] JOKER「
+我早就知道啦！！就在那座王座的下面
+隱藏著它……。
+給我讓開！！！
+26. [MARKER: Message] DANDY「
+可惡，舊恨未消，休想輕易拿走它！
+想要過去的話，就先打倒我吧！！
+27. [MARKER: Message] JOKER「
+可惡，真是個冥頑不靈的大笨蛋！！！
+28. [MARKER: Message] ？？「
+找到你啦～～～～！！！！！
+29. [MARKER: Message] JOKER「
+你這傢伙……知道自己撞到的是誰……。
+30. [MARKER: Message] JOKER「
+嗝哇啊啊啊啊啊啊啊啊啊！！
+流漸！！！
+31. [MARKER: Message] 流漸「
+居然敢算計我！！你這個骷髏頭混蛋！！！
+32. [MARKER: Message] JOKER「
+噫————！！！
+DANDY！ 聖劍就先寄放在你那！！
+我遲早會來奪走的！！！ 告辭！！！
+33. [MARKER: Message] 流漸「
+啊，喂！ 別跑！！！
+34. [MARKER: Message] 以藏「
+這……這到底是搞什麼名堂啊……。
+35. [MARKER: Message] DANDY「
+流漸殿下出現的時機真是太完美了，
+幫大忙了呢……。
+我們趁現在把德雷德諾特拿到手吧。
+36. [MARKER: Message] 以藏「
+雖然搞不太懂，但總之
+那是個非常重要的東西對吧。
+37. [MARKER: Message] DANDY「
+就是這麼回事。 
+德雷德諾特就在這座王座的下方。
+以藏殿下，麻煩你把它移開吧。
+38. [MARKER: Message] DANDY「
+你打算去哪裡啊，以藏殿下。
+德雷德諾特只可能在這邊喔。
+39. [MARKER: Message] DANDY「
+你打算去哪裡啊，以藏殿下。
+德雷德諾特只可能在這邊喔。
+40. [MARKER: Message] DANDY「
+你打算去哪裡啊，以藏殿下。
+德雷德諾特只可能在這邊喔。
+41. [MARKER: Message] DANDY「
+你打算去哪裡啊，以藏殿下。
+德雷德諾特只可能在這邊喔。
+42. [MARKER: Message] DANDY「
+你打算去哪裡啊，以藏殿下。
+德雷德諾特只可能在這邊喔。

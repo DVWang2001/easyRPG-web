@@ -1,0 +1,62 @@
+﻿1. [MARKER: Message] 倉庫守衛「
+這個倉庫裡的糧食，全部都是里德先生送給我們的喔。
+2. [MARKER: Message] 老奶奶「
+咖哩的原材料，是一種叫作薑黃（鬱金）的香料喔！
+3. [MARKER: Message] 
+　　　　　裡面裝著滿滿的褐色薑黃粉！
+4. [MARKER: Message] 
+　　　　　裡面裝著滿滿的褐色薑黃粉！
+5. [MARKER: Message] 
+　　　　　裡面裝著滿滿的褐色薑黃粉！
+6. [MARKER: Message] 
+　　　　　裡面裝著滿滿的褐色薑黃粉！
+7. [MARKER: Message] 
+　　　　　裡面裝著滿滿的褐色薑黃粉！
+8. [MARKER: Message] 咖哩大師「
+老夫就是咖哩大師！
+就賞賜你老夫親自熟成了三個月的特製咖哩吧！
+9. [MARKER: Message] 
+　　　　　　　獲得了大師咖哩！
+10. [MARKER: Message] 咖哩大師「
+已經賣完囉。
+11. [MARKER: Message] 次男「
+肚子好餓喔～。
+12. [MARKER: Message] 長男「
+那邊的木桶是我們用來囤積咖哩的喔。
+13. [MARKER: Message] 三男「
+咖………………咖哩給我啊啊啊啊！
+14. [MARKER: Message] 老爹「
+這小鬼因為吃了太多咖哩，
+都得咖哩中毒症了！
+我們家暫時要實行禁咖哩令！
+15. [MARKER: Message] 大嬸「
+肚子會餓就代表你還沒超越凡俗，
+像我三天不吃不喝也無關痛癢！
+16. [MARKER: Message] 倉庫看管員「
+這上面是倉庫喔。
+17. [MARKER: Message] 
+　　　　　　傳來了一股好聞的咖哩香味！
+18. [MARKER: Message] 
+　　　　　　傳來了一股好聞的咖哩香味！
+19. [MARKER: Message] 
+　　　　　　傳來了一股好聞的咖哩香味！
+20. [MARKER: Message] 
+　　　　　　傳來了一股好聞的咖哩香味！
+21. [MARKER: Message] 
+　　　　　　傳來了一股好聞的咖哩香味！
+22. [MARKER: Message] 
+　　　　　　傳來了一股好聞的咖哩香味！
+23. [MARKER: Message] 
+　　　　　　裡面裝著滿滿的白米！
+24. [MARKER: Message] 
+　　　　　　裡面裝著滿滿的白米！
+25. [MARKER: Message] 
+　　　　　　裡面裝著滿滿的白米！
+26. [MARKER: Message] 
+　　　　　　裡面裝著滿滿的白米！
+27. [MARKER: Message] 
+　　　　　　裡面裝著滿滿的白米！
+28. [MARKER: Message] 
+　　　　　　裡面裝著滿滿的白米！
+29. [MARKER: Message] 
+　　　　　　裡面裝著滿滿的白米！

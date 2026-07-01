@@ -1,0 +1,1644 @@
+Total entries in this batch: 750
+--- ENTRY 1501 (Name) ---
+大地魔法・単Ａ
+--- ENTRY 1502 (Name) ---
+大地魔法・単Ｂ
+--- ENTRY 1503 (Name) ---
+大地魔法・単Ｃ
+--- ENTRY 1504 (Name) ---
+大地魔法・全Ａ
+--- ENTRY 1505 (Name) ---
+大地魔法・全Ｂ
+--- ENTRY 1506 (Name) ---
+大地魔法・全Ｃ
+--- ENTRY 1507 (Name) ---
+風魔法・単Ａ
+--- ENTRY 1508 (Name) ---
+風魔法・単Ｂ
+--- ENTRY 1509 (Name) ---
+風魔法・単Ｃ
+--- ENTRY 1510 (Name) ---
+風魔法・全Ａ
+--- ENTRY 1511 (Name) ---
+風魔法・全Ｂ
+--- ENTRY 1512 (Name) ---
+風魔法・全Ｃ
+--- ENTRY 1513 (Name) ---
+神聖魔法・単Ａ
+--- ENTRY 1514 (Name) ---
+神聖魔法・単Ｂ
+--- ENTRY 1515 (Name) ---
+神聖魔法・単Ｃ
+--- ENTRY 1516 (Name) ---
+神聖魔法・全Ａ
+--- ENTRY 1517 (Name) ---
+神聖魔法・全Ｂ
+--- ENTRY 1518 (Name) ---
+神聖魔法・全Ｃ
+--- ENTRY 1519 (Name) ---
+暗黒魔法・単Ａ
+--- ENTRY 1520 (Name) ---
+暗黒魔法・単Ｂ
+--- ENTRY 1521 (Name) ---
+暗黒魔法・単Ｃ
+--- ENTRY 1522 (Name) ---
+暗黒魔法・全Ａ
+--- ENTRY 1523 (Name) ---
+暗黒魔法・全Ｂ
+--- ENTRY 1524 (Name) ---
+暗黒魔法・全Ｃ
+--- ENTRY 1525 (Name) ---
+無属性魔法・単Ａ
+--- ENTRY 1526 (Name) ---
+無属性魔法・単Ｂ
+--- ENTRY 1527 (Name) ---
+無属性魔法・単Ｃ
+--- ENTRY 1528 (Name) ---
+無属性魔法・全Ａ
+--- ENTRY 1529 (Name) ---
+無属性魔法・全Ｂ
+--- ENTRY 1530 (Name) ---
+無属性魔法・全Ｃ
+--- ENTRY 1531 (Name) ---
+マリス・宝箱出現
+--- ENTRY 1532 (Name) ---
+痺れ麻痺ガード
+--- ENTRY 1533 (Name) ---
+ヘイムレイク殴る
+--- ENTRY 1534 (Name) ---
+ラグナイフ投げ
+--- ENTRY 1535 (Name) ---
+キャラフラッシュ
+--- ENTRY 1536 (Name) ---
+プッチ・メッセ送信
+--- ENTRY 1537 (Name) ---
+Ｄ・ハッシュ出現
+--- ENTRY 1538 (Name) ---
+闇
+--- ENTRY 1539 (Name) ---
+Ｄ・ハッシュ上
+--- ENTRY 1540 (Name) ---
+Ｄ・ハッシュ右
+--- ENTRY 1541 (Name) ---
+Ｄ・ハッシュ下
+--- ENTRY 1542 (Name) ---
+Ｄ・ハッシュ左
+--- ENTRY 1543 (Name) ---
+Ｄ・ハッシュ右上
+--- ENTRY 1544 (Name) ---
+Ｄ・ハッシュ右下
+--- ENTRY 1545 (Name) ---
+Ｄ・ハッシュ左上
+--- ENTRY 1546 (Name) ---
+Ｄ・ハッシュ左下
+--- ENTRY 1547 (Name) ---
+剣
+--- ENTRY 1548 (Name) ---
+槍
+--- ENTRY 1549 (Name) ---
+打撃
+--- ENTRY 1550 (Name) ---
+弓
+--- ENTRY 1551 (Name) ---
+炎
+--- ENTRY 1552 (Name) ---
+冷気
+--- ENTRY 1553 (Name) ---
+雷
+--- ENTRY 1554 (Name) ---
+水
+--- ENTRY 1555 (Name) ---
+大地
+--- ENTRY 1556 (Name) ---
+風
+--- ENTRY 1557 (Name) ---
+神聖
+--- ENTRY 1558 (Name) ---
+暗黒
+--- ENTRY 1559 (Name) ---
+攻撃力
+--- ENTRY 1560 (Name) ---
+防御力
+--- ENTRY 1561 (Name) ---
+精神力
+--- ENTRY 1562 (Name) ---
+敏捷性
+--- ENTRY 1563 (Name) ---
+吸収
+--- ENTRY 1564 (Name) ---
+map03
+--- ENTRY 1565 (Name) ---
+map04
+--- ENTRY 1566 (Name) ---
+外観セット
+--- ENTRY 1567 (Name) ---
+戦闘不能
+--- ENTRY 1568 (InflictedOnAlly) ---
+は倒れた！
+--- ENTRY 1569 (InflictedOnEnemy) ---
+を倒した！
+--- ENTRY 1570 (Recovered) ---
+は立ち上がった！
+--- ENTRY 1571 (Name) ---
+毒
+--- ENTRY 1572 (InflictedOnEnemy) ---
+は毒に冒された！
+--- ENTRY 1573 (AlreadyInflicted) ---
+はすでに毒に冒されている！
+--- ENTRY 1574 (Recovered) ---
+の毒が消えた！
+--- ENTRY 1575 (Name) ---
+暗闇
+--- ENTRY 1576 (InflictedOnAlly) ---
+は暗闇に閉ざされた！
+--- ENTRY 1577 (InflictedOnEnemy) ---
+を暗闇に閉ざした！
+--- ENTRY 1578 (AlreadyInflicted) ---
+はすでに暗闇に閉ざされている！
+--- ENTRY 1579 (Recovered) ---
+の暗闇が消えた！
+--- ENTRY 1580 (Name) ---
+沈黙
+--- ENTRY 1581 (InflictedOnAlly) ---
+は沈黙した！
+--- ENTRY 1582 (InflictedOnEnemy) ---
+を沈黙させた！
+--- ENTRY 1583 (AlreadyInflicted) ---
+はすでに沈黙している！
+--- ENTRY 1584 (Recovered) ---
+の沈黙が解けた！
+--- ENTRY 1585 (Name) ---
+暴走
+--- ENTRY 1586 (InflictedOnAlly) ---
+は暴走した！
+--- ENTRY 1587 (InflictedOnEnemy) ---
+を暴走させた！
+--- ENTRY 1588 (AlreadyInflicted) ---
+はすでに暴走している！
+--- ENTRY 1589 (Recovered) ---
+は我に返った！
+--- ENTRY 1590 (Name) ---
+混乱
+--- ENTRY 1591 (InflictedOnAlly) ---
+は混乱した！
+--- ENTRY 1592 (InflictedOnEnemy) ---
+を混乱させた！
+--- ENTRY 1593 (AlreadyInflicted) ---
+はすでに混乱している！
+--- ENTRY 1594 (Name) ---
+睡眠
+--- ENTRY 1595 (InflictedOnAlly) ---
+は眠ってしまった！
+--- ENTRY 1596 (InflictedOnEnemy) ---
+を眠らせた！
+--- ENTRY 1597 (AlreadyInflicted) ---
+はすでに眠っている！
+--- ENTRY 1598 (Continuing) ---
+は眠っている・・・
+--- ENTRY 1599 (Recovered) ---
+は目を覚ました！
+--- ENTRY 1600 (Name) ---
+麻痺
+--- ENTRY 1601 (InflictedOnAlly) ---
+は麻痺して動けなくなった！
+--- ENTRY 1602 (InflictedOnEnemy) ---
+を麻痺させた！
+--- ENTRY 1603 (AlreadyInflicted) ---
+はすでに麻痺している！
+--- ENTRY 1604 (Continuing) ---
+は麻痺していて動けない！
+--- ENTRY 1605 (Recovered) ---
+の麻痺が解けた！
+--- ENTRY 1606 (Name) ---
+よろめき
+--- ENTRY 1607 (InflictedOnEnemy) ---
+はバランスを崩した！
+--- ENTRY 1608 (Recovered) ---
+はよろめいている・・・
+--- ENTRY 1609 (Name) ---
+驚き
+--- ENTRY 1610 (InflictedOnEnemy) ---
+は立ちすくんだ！
+--- ENTRY 1611 (Recovered) ---
+は立ちすくんでいる・・・
+--- ENTRY 1612 (Name) ---
+ウェイン
+--- ENTRY 1613 (Title) ---
+青年
+--- ENTRY 1614 (Name) ---
+ラグ
+--- ENTRY 1615 (Title) ---
+軽業師
+--- ENTRY 1616 (Name) ---
+とーめい
+--- ENTRY 1617 (Name) ---
+ドゥーガ
+--- ENTRY 1618 (Title) ---
+きこり
+--- ENTRY 1619 (Name) ---
+ミチタ
+--- ENTRY 1620 (Title) ---
+王警七番隊長
+--- ENTRY 1621 (Name) ---
+トライフィア
+--- ENTRY 1622 (Title) ---
+王警七番隊員
+--- ENTRY 1623 (Name) ---
+フックつきロープ
+--- ENTRY 1624 (Description) ---
+フックのついたロープ。作業用。
+--- ENTRY 1625 (Name) ---
+ツルハシ
+--- ENTRY 1626 (Description) ---
+古びて重いツルハシ。薄い壁くらいなら崩せそうだ。
+--- ENTRY 1627 (Name) ---
+金貨
+--- ENTRY 1628 (Description) ---
+洞窟に長い間あったはずなのに、なぜかきれいな金貨。
+--- ENTRY 1629 (Name) ---
+１００￡
+--- ENTRY 1630 (Description) ---
+拾った１００￡。これで宿屋に泊まれます。
+--- ENTRY 1631 (Name) ---
+プッチ・メッセ
+--- ENTRY 1632 (Description) ---
+いつでもどこでもだれにでも、メッセージが送れます。
+--- ENTRY 1633 (Name) ---
+いかさまコイン
+--- ENTRY 1634 (Description) ---
+投げると絶対に表がでるコイン。もちろんいかさま。
+--- ENTRY 1635 (Name) ---
+薬草
+--- ENTRY 1636 (Description) ---
+薬草。ＨＰを５０ポイント回復する。
+--- ENTRY 1637 (Name) ---
+投げナイフ
+--- ENTRY 1638 (Description) ---
+投げナイフのセット。なくなる事はないらしいので安心
+--- ENTRY 1639 (Name) ---
+爆薬
+--- ENTRY 1640 (Description) ---
+手に持って投げるタイプの爆薬。取り扱い注意。
+--- ENTRY 1641 (Name) ---
+Ｓ.Ｗ
+--- ENTRY 1642 (Description) ---
+高圧電流の鎧を３秒間だけ発生することができる装置。
+--- ENTRY 1643 (Description) ---
+手に持って投げるタイプの爆薬。これを使えば…
+--- ENTRY 1644 (Name) ---
+扉の鍵
+--- ENTRY 1645 (Description) ---
+隠し部屋の鍵。これがなければ開けられない。
+--- ENTRY 1646 (Name) ---
+バール
+--- ENTRY 1647 (Description) ---
+丈夫なバール。これでこじ開けたりできるかも。
+--- ENTRY 1648 (Name) ---
+まがったバール
+--- ENTRY 1649 (Description) ---
+扉をこじ開けたので曲がってしまったバール。
+--- ENTRY 1650 (Name) ---
+---------
+--- ENTRY 1651 (Name) ---
+ダイヤの指輪
+--- ENTRY 1652 (Description) ---
+１カラットのダイヤの指輪。
+--- ENTRY 1653 (Name) ---
+エナメルピアス
+--- ENTRY 1654 (Description) ---
+エナメル素材のピアス。女性専用。
+--- ENTRY 1655 (Name) ---
+イェーズローブ
+--- ENTRY 1656 (Description) ---
+厚めのローブ。厚めなので暖かい。
+--- ENTRY 1657 (Name) ---
+ゴッズハンマー
+--- ENTRY 1658 (Description) ---
+大きなハンマー。腕力がないと扱えません。
+--- ENTRY 1659 (Name) ---
+スプリットダガー
+--- ENTRY 1660 (Description) ---
+軽めだが、切れ味のするどいダガー
+--- ENTRY 1661 (Name) ---
+クレイルマント
+--- ENTRY 1662 (Description) ---
+ウェインのいつも着てる。お気に入りマント。
+--- ENTRY 1663 (Name) ---
+スヴェンジャケット
+--- ENTRY 1664 (Description) ---
+スヴェン社製のジャケット。
+--- ENTRY 1665 (Name) ---
+王国警察鎧
+--- ENTRY 1666 (Description) ---
+王国警察の鎧。言ってしまえば制服である。
+--- ENTRY 1667 (Name) ---
+バンダナ
+--- ENTRY 1668 (Description) ---
+いろいろな用途につかえるバンダナ。結構便利。
+--- ENTRY 1669 (Name) ---
+山師の服
+--- ENTRY 1670 (Description) ---
+山師やきこりが愛用している服。結構丈夫にできている
+--- ENTRY 1671 (Name) ---
+サーベル
+--- ENTRY 1672 (Description) ---
+王国警察のサーベル。意外に軽く切れ味もなかなか。
+--- ENTRY 1673 (Name) ---
+重装警備兵
+--- ENTRY 1674 (Name) ---
+ヴァディス
+--- ENTRY 1675 (Name) ---
+ささったナイフ
+--- ENTRY 1676 (Name) ---
+大蛇
+--- ENTRY 1677 (Name) ---
+大サソリ
+--- ENTRY 1678 (Name) ---
+ゴースト
+--- ENTRY 1679 (Name) ---
+コボルト
+--- ENTRY 1680 (Name) ---
+怪魚
+--- ENTRY 1681 (Name) ---
+鬼火
+--- ENTRY 1682 (Name) ---
+使い魔
+--- ENTRY 1683 (Name) ---
+スケルトン
+--- ENTRY 1684 (Name) ---
+ゴブリン
+--- ENTRY 1685 (Name) ---
+ゾンビ
+--- ENTRY 1686 (Name) ---
+オーク
+--- ENTRY 1687 (Name) ---
+マミー
+--- ENTRY 1688 (Name) ---
+ワーウルフ
+--- ENTRY 1689 (Name) ---
+ミミック
+--- ENTRY 1690 (Name) ---
+リッチ
+--- ENTRY 1691 (Name) ---
+リザードマン
+--- ENTRY 1692 (Name) ---
+マーマン
+--- ENTRY 1693 (Name) ---
+ヴァンパイア
+--- ENTRY 1694 (Name) ---
+ケルベロス
+--- ENTRY 1695 (Name) ---
+メデューサ
+--- ENTRY 1696 (Name) ---
+トレント
+--- ENTRY 1697 (Name) ---
+コカトリス
+--- ENTRY 1698 (Name) ---
+死神
+--- ENTRY 1699 (Name) ---
+キマイラ
+--- ENTRY 1700 (Name) ---
+ダークエルフ
+--- ENTRY 1701 (Name) ---
+ガーゴイル
+--- ENTRY 1702 (Name) ---
+グリフォン
+--- ENTRY 1703 (Name) ---
+ミノタウロス
+--- ENTRY 1704 (Name) ---
+ハーピー
+--- ENTRY 1705 (Name) ---
+トルーパー
+--- ENTRY 1706 (Name) ---
+ドラゴン
+--- ENTRY 1707 (Name) ---
+ワイバーン
+--- ENTRY 1708 (Name) ---
+ゴーレム
+--- ENTRY 1709 (Name) ---
+ブラックナイト
+--- ENTRY 1710 (Name) ---
+龍
+--- ENTRY 1711 (Name) ---
+デーモン
+--- ENTRY 1712 (Name) ---
+クラーケン
+--- ENTRY 1713 (Name) ---
+ヒュドラ
+--- ENTRY 1714 (Name) ---
+ドラゴンナイト
+--- ENTRY 1715 (Name) ---
+魔王
+--- ENTRY 1716 (Name) ---
+魔神
+--- ENTRY 1717 (Name) ---
+ヴァディスナイフ
+--- ENTRY 1718 (UseMessage1) ---
+はラグめがけてナイフを投げる！
+--- ENTRY 1719 (Name) ---
+暗闇攻撃
+--- ENTRY 1720 (Description) ---
+敵単体にダメージを与え、暗闇状態にする。
+--- ENTRY 1721 (UseMessage1) ---
+の攻撃！
+--- ENTRY 1722 (Name) ---
+睡眠攻撃
+--- ENTRY 1723 (Description) ---
+敵単体にダメージを与え、睡眠状態にする。
+--- ENTRY 1724 (Name) ---
+麻痺攻撃
+--- ENTRY 1725 (Description) ---
+敵単体にダメージを与え、麻痺状態にする。
+--- ENTRY 1726 (Name) ---
+火炎のブレス
+--- ENTRY 1727 (Description) ---
+敵全体に炎属性のダメージを与える。
+--- ENTRY 1728 (UseMessage1) ---
+は火炎のブレスを吐いた！
+--- ENTRY 1729 (Name) ---
+吹雪のブレス
+--- ENTRY 1730 (Description) ---
+敵全体に冷気属性のダメージを与える。
+--- ENTRY 1731 (UseMessage1) ---
+は吹雪のブレスを吐いた！
+--- ENTRY 1732 (Name) ---
+電撃
+--- ENTRY 1733 (Description) ---
+敵全体に雷属性のダメージを与える。
+--- ENTRY 1734 (UseMessage1) ---
+は電撃を放った！
+--- ENTRY 1735 (Name) ---
+津波
+--- ENTRY 1736 (Description) ---
+敵全体に水属性のダメージを与える。
+--- ENTRY 1737 (UseMessage1) ---
+は津波を放った！
+--- ENTRY 1738 (Name) ---
+石つぶて
+--- ENTRY 1739 (Description) ---
+敵全体に大地属性のダメージを与える。
+--- ENTRY 1740 (UseMessage1) ---
+は石つぶてを放った！
+--- ENTRY 1741 (Name) ---
+鎌いたち
+--- ENTRY 1742 (Description) ---
+敵全体に風属性のダメージを与える。
+--- ENTRY 1743 (UseMessage1) ---
+は鎌いたちを放った！
+--- ENTRY 1744 (Name) ---
+毒のブレス
+--- ENTRY 1745 (Description) ---
+敵全体を毒状態にする。
+--- ENTRY 1746 (UseMessage1) ---
+は毒のブレスを吐いた！
+--- ENTRY 1747 (Name) ---
+眠りのブレス
+--- ENTRY 1748 (Description) ---
+敵全体を睡眠状態にする。
+--- ENTRY 1749 (UseMessage1) ---
+は眠りのブレスを吐いた！
+--- ENTRY 1750 (Name) ---
+花粉（毒）
+--- ENTRY 1751 (UseMessage1) ---
+は花粉をまき散らした！
+--- ENTRY 1752 (Name) ---
+花粉（暗闇）
+--- ENTRY 1753 (Description) ---
+敵全体を暗闇状態にする。
+--- ENTRY 1754 (Name) ---
+花粉（暴走）
+--- ENTRY 1755 (Description) ---
+敵全体を暴走状態にする。
+--- ENTRY 1756 (Name) ---
+花粉（混乱）
+--- ENTRY 1757 (Description) ---
+敵全体を混乱状態にする。
+--- ENTRY 1758 (Name) ---
+花粉（麻痺）
+--- ENTRY 1759 (Description) ---
+敵全体を麻痺状態にする。
+--- ENTRY 1760 (Name) ---
+超音波（暴走）
+--- ENTRY 1761 (UseMessage1) ---
+は超音波を放った！
+--- ENTRY 1762 (Name) ---
+超音波（混乱）
+--- ENTRY 1763 (Name) ---
+超音波（睡眠）
+--- ENTRY 1764 (Name) ---
+妖しい霧（沈黙）
+--- ENTRY 1765 (Description) ---
+敵全体を沈黙状態にする。
+--- ENTRY 1766 (UseMessage1) ---
+は妖しい霧を放った！
+--- ENTRY 1767 (Name) ---
+妖しい霧（睡眠）
+--- ENTRY 1768 (Name) ---
+沈黙の歌
+--- ENTRY 1769 (UseMessage1) ---
+沈黙の歌を歌った！
+--- ENTRY 1770 (Name) ---
+子守り歌
+--- ENTRY 1771 (UseMessage1) ---
+は子守り歌を歌った！
+--- ENTRY 1772 (Name) ---
+誘惑の歌
+--- ENTRY 1773 (UseMessage1) ---
+は誘惑の歌を歌った！
+--- ENTRY 1774 (Name) ---
+砂けむり
+--- ENTRY 1775 (UseMessage1) ---
+は砂けむりを巻き起こした！
+--- ENTRY 1776 (Name) ---
+まぶしい光
+--- ENTRY 1777 (UseMessage1) ---
+はまぶしい光を放った！
+--- ENTRY 1778 (Name) ---
+巻き付き
+--- ENTRY 1779 (UseMessage1) ---
+は巻き付きで攻撃！
+--- ENTRY 1780 (Name) ---
+麻痺にらみ
+--- ENTRY 1781 (Description) ---
+敵単体を麻痺状態にする。
+--- ENTRY 1782 (UseMessage1) ---
+は鋭い目でにらみつけた！
+--- ENTRY 1783 (Name) ---
+吸血
+--- ENTRY 1784 (Description) ---
+敵単体のＨＰを吸収する。
+--- ENTRY 1785 (UseMessage1) ---
+の吸血攻撃！
+--- ENTRY 1786 (Name) ---
+不気味なダンス
+--- ENTRY 1787 (Description) ---
+敵単体のＭＰを吸収する。
+--- ENTRY 1788 (UseMessage1) ---
+は不気味なダンスを踊った！
+--- ENTRY 1789 (Name) ---
+体当たり
+--- ENTRY 1790 (Description) ---
+敵単体にダメージを与え、バランスを崩させる。
+--- ENTRY 1791 (UseMessage1) ---
+は体当たりした！
+--- ENTRY 1792 (Name) ---
+足払い
+--- ENTRY 1793 (Description) ---
+敵単体のバランスを崩させる。
+--- ENTRY 1794 (UseMessage1) ---
+は足払いを仕掛けた！
+--- ENTRY 1795 (Name) ---
+おたけび
+--- ENTRY 1796 (Description) ---
+敵全体を驚かせ、行動できなくする。
+--- ENTRY 1797 (UseMessage1) ---
+はおたけびをあげた！
+--- ENTRY 1798 (Name) ---
+--------------------
+--- ENTRY 1799 (Name) ---
+ヒールⅠ
+--- ENTRY 1800 (Description) ---
+味方単体のＨＰを 30 ポイント程度回復する。
+--- ENTRY 1801 (UseMessage1) ---
+はヒールⅠを唱えた！
+--- ENTRY 1802 (Name) ---
+ヒールⅡ
+--- ENTRY 1803 (Description) ---
+味方単体のＨＰを 120 ポイント程度回復する。
+--- ENTRY 1804 (UseMessage1) ---
+はヒールⅡを唱えた！
+--- ENTRY 1805 (Name) ---
+ヒールⅢ
+--- ENTRY 1806 (Description) ---
+味方単体のＨＰを 480 ポイント程度回復する。
+--- ENTRY 1807 (UseMessage1) ---
+はヒールⅢを唱えた！
+--- ENTRY 1808 (Name) ---
+リカバーⅠ
+--- ENTRY 1809 (Description) ---
+味方全体のＨＰを 20 ポイント程度回復する。
+--- ENTRY 1810 (UseMessage1) ---
+はリカバーⅠを唱えた！
+--- ENTRY 1811 (Name) ---
+リカバーⅡ
+--- ENTRY 1812 (Description) ---
+味方全体のＨＰを 80 ポイント程度回復する。
+--- ENTRY 1813 (UseMessage1) ---
+はリカバーⅡを唱えた！
+--- ENTRY 1814 (Name) ---
+リカバーⅢ
+--- ENTRY 1815 (Description) ---
+味方全体のＨＰを 320 ポイント程度回復する。
+--- ENTRY 1816 (UseMessage1) ---
+はリカバーⅢを唱えた！
+--- ENTRY 1817 (Name) ---
+キュアーⅠ
+--- ENTRY 1818 (Description) ---
+毒状態を回復する。
+--- ENTRY 1819 (UseMessage1) ---
+はキュアーⅠを唱えた！
+--- ENTRY 1820 (Name) ---
+キュアーⅡ
+--- ENTRY 1821 (Description) ---
+毒、暗闇、沈黙、睡眠を回復する。
+--- ENTRY 1822 (UseMessage1) ---
+はキュアーⅡを唱えた！
+--- ENTRY 1823 (Name) ---
+キュアーⅢ
+--- ENTRY 1824 (Description) ---
+戦闘不能以外の状態異常を回復する。
+--- ENTRY 1825 (UseMessage1) ---
+はキュアーⅢを唱えた！
+--- ENTRY 1826 (Name) ---
+レイズⅠ
+--- ENTRY 1827 (Description) ---
+戦闘不能から復活させ、ＨＰを10％回復する。
+--- ENTRY 1828 (UseMessage1) ---
+はレイズⅠを唱えた！
+--- ENTRY 1829 (Name) ---
+レイズⅡ
+--- ENTRY 1830 (Description) ---
+戦闘不能から復活させ、ＨＰを50％回復する。
+--- ENTRY 1831 (UseMessage1) ---
+はレイズⅡを唱えた！
+--- ENTRY 1832 (Name) ---
+レイズⅢ
+--- ENTRY 1833 (Description) ---
+戦闘不能から復活させ、ＨＰを100％回復する。
+--- ENTRY 1834 (UseMessage1) ---
+はレイズⅢを唱えた！
+--- ENTRY 1835 (Name) ---
+ノックアウト
+--- ENTRY 1836 (Description) ---
+敵全体を一撃で倒す。
+--- ENTRY 1837 (UseMessage1) ---
+はノックアウトを唱えた！
+--- ENTRY 1838 (Name) ---
+ポイズン
+--- ENTRY 1839 (UseMessage1) ---
+はポイズンを唱えた！
+--- ENTRY 1840 (Name) ---
+ブラインド
+--- ENTRY 1841 (UseMessage1) ---
+はブラインドを唱えた！
+--- ENTRY 1842 (Name) ---
+サイレンス
+--- ENTRY 1843 (UseMessage1) ---
+はサイレンスを唱えた！
+--- ENTRY 1844 (Name) ---
+アンガー
+--- ENTRY 1845 (UseMessage1) ---
+はアンガーを唱えた！
+--- ENTRY 1846 (Name) ---
+コンフューズ
+--- ENTRY 1847 (UseMessage1) ---
+はコンフューズを唱えた！
+--- ENTRY 1848 (Name) ---
+スリープ
+--- ENTRY 1849 (UseMessage1) ---
+はスリープを唱えた！
+--- ENTRY 1850 (Name) ---
+パラライズ
+--- ENTRY 1851 (UseMessage1) ---
+はパラライズを唱えた！
+--- ENTRY 1852 (Name) ---
+ウェポンブレス
+--- ENTRY 1853 (Description) ---
+味方単体の攻撃力を上げる。
+--- ENTRY 1854 (UseMessage1) ---
+はウェポンブレスを唱えた！
+--- ENTRY 1855 (Name) ---
+ウェポンカース
+--- ENTRY 1856 (Description) ---
+敵全体の攻撃力を下げる。
+--- ENTRY 1857 (UseMessage1) ---
+はウェポンカースを唱えた！
+--- ENTRY 1858 (Name) ---
+アーマーブレス
+--- ENTRY 1859 (Description) ---
+味方単体の防御力を上げる。
+--- ENTRY 1860 (UseMessage1) ---
+はアーマーブレスを唱えた！
+--- ENTRY 1861 (Name) ---
+アーマーカース
+--- ENTRY 1862 (Description) ---
+敵全体の防御力を下げる。
+--- ENTRY 1863 (UseMessage1) ---
+はアーマーカースを唱えた！
+--- ENTRY 1864 (Name) ---
+スピリットブレス
+--- ENTRY 1865 (Description) ---
+味方単体の精神力を上げる。
+--- ENTRY 1866 (UseMessage1) ---
+はスピリットブレスを唱えた！
+--- ENTRY 1867 (Name) ---
+スピリットカース
+--- ENTRY 1868 (Description) ---
+敵全体の精神力を下げる。
+--- ENTRY 1869 (UseMessage1) ---
+はスピリットカースを唱えた！
+--- ENTRY 1870 (Name) ---
+クイックムーブ
+--- ENTRY 1871 (Description) ---
+味方単体の敏捷性を上げる。
+--- ENTRY 1872 (UseMessage1) ---
+はクイックムーブを唱えた！
+--- ENTRY 1873 (Name) ---
+スロームーブ
+--- ENTRY 1874 (Description) ---
+敵全体の敏捷性を下げる。
+--- ENTRY 1875 (UseMessage1) ---
+はスロームーブを唱えた！
+--- ENTRY 1876 (Name) ---
+ヒートバリア
+--- ENTRY 1877 (Description) ---
+味方全体をバリアで包み、炎の攻撃から身を守る。
+--- ENTRY 1878 (UseMessage1) ---
+はヒートバリアを唱えた！
+--- ENTRY 1879 (Name) ---
+コールドバリア
+--- ENTRY 1880 (Description) ---
+味方全体をバリアで包み、冷気の攻撃から身を守る。
+--- ENTRY 1881 (UseMessage1) ---
+はコールドバリアを唱えた！
+--- ENTRY 1882 (Name) ---
+ライフアブソーブ
+--- ENTRY 1883 (UseMessage1) ---
+はライフアブソーブを唱えた！
+--- ENTRY 1884 (Name) ---
+ソウルアブソーブ
+--- ENTRY 1885 (UseMessage1) ---
+はソウルアブソーブを唱えた！
+--- ENTRY 1886 (Name) ---
+テレポート
+--- ENTRY 1887 (Description) ---
+行ったことがある町などに瞬間移動する。
+--- ENTRY 1888 (UseMessage1) ---
+はテレポートを唱えた！
+--- ENTRY 1889 (Name) ---
+エスケープ
+--- ENTRY 1890 (Description) ---
+洞窟などの中から外へ脱出する。
+--- ENTRY 1891 (UseMessage1) ---
+はエスケープを唱えた！
+--- ENTRY 1892 (Name) ---
+ファイアⅠ
+--- ENTRY 1893 (Description) ---
+敵単体に炎属性のダメージを与える。
+--- ENTRY 1894 (UseMessage1) ---
+はファイアⅠを唱えた！
+--- ENTRY 1895 (Name) ---
+ファイアⅡ
+--- ENTRY 1896 (UseMessage1) ---
+はファイアⅡを唱えた！
+--- ENTRY 1897 (Name) ---
+ファイアⅢ
+--- ENTRY 1898 (UseMessage1) ---
+はファイアⅢを唱えた！
+--- ENTRY 1899 (Name) ---
+フレイムⅠ
+--- ENTRY 1900 (UseMessage1) ---
+はフレイムⅠを唱えた！
+--- ENTRY 1901 (Name) ---
+フレイムⅡ
+--- ENTRY 1902 (UseMessage1) ---
+はフレイムⅡを唱えた！
+--- ENTRY 1903 (Name) ---
+フレイムⅢ
+--- ENTRY 1904 (UseMessage1) ---
+はフレイムⅢを唱えた！
+--- ENTRY 1905 (Name) ---
+アイスⅠ
+--- ENTRY 1906 (Description) ---
+敵単体に冷気属性のダメージを与える。
+--- ENTRY 1907 (UseMessage1) ---
+はアイスⅠを唱えた！
+--- ENTRY 1908 (Name) ---
+アイスⅡ
+--- ENTRY 1909 (UseMessage1) ---
+はアイスⅡを唱えた！
+--- ENTRY 1910 (Name) ---
+アイスⅢ
+--- ENTRY 1911 (UseMessage1) ---
+はアイスⅢを唱えた！
+--- ENTRY 1912 (Name) ---
+ブリザードⅠ
+--- ENTRY 1913 (UseMessage1) ---
+はブリザードⅠを唱えた！
+--- ENTRY 1914 (Name) ---
+ブリザードⅡ
+--- ENTRY 1915 (UseMessage1) ---
+はブリザードⅡを唱えた！
+--- ENTRY 1916 (Name) ---
+ブリザードⅢ
+--- ENTRY 1917 (UseMessage1) ---
+はブリザードⅢを唱えた！
+--- ENTRY 1918 (Name) ---
+サンダーⅠ
+--- ENTRY 1919 (Description) ---
+敵単体に雷属性のダメージを与える。
+--- ENTRY 1920 (UseMessage1) ---
+はサンダーⅠを唱えた！
+--- ENTRY 1921 (Name) ---
+サンダーⅡ
+--- ENTRY 1922 (UseMessage1) ---
+はサンダーⅡを唱えた！
+--- ENTRY 1923 (Name) ---
+サンダーⅢ
+--- ENTRY 1924 (UseMessage1) ---
+はサンダーⅢを唱えた！
+--- ENTRY 1925 (Name) ---
+スパークⅠ
+--- ENTRY 1926 (UseMessage1) ---
+はスパークⅠを唱えた！
+--- ENTRY 1927 (Name) ---
+スパークⅡ
+--- ENTRY 1928 (UseMessage1) ---
+はスパークⅡを唱えた！
+--- ENTRY 1929 (Name) ---
+スパークⅢ
+--- ENTRY 1930 (UseMessage1) ---
+はスパークⅢを唱えた！
+--- ENTRY 1931 (Name) ---
+ウォーターⅠ
+--- ENTRY 1932 (Description) ---
+敵単体に水属性のダメージを与える。
+--- ENTRY 1933 (UseMessage1) ---
+はウォーターⅠを唱えた！
+--- ENTRY 1934 (Name) ---
+ウォーターⅡ
+--- ENTRY 1935 (UseMessage1) ---
+はウォーターⅡを唱えた！
+--- ENTRY 1936 (Name) ---
+ウォーターⅢ
+--- ENTRY 1937 (UseMessage1) ---
+はウォーターⅢを唱えた！
+--- ENTRY 1938 (Name) ---
+ウェーブⅠ
+--- ENTRY 1939 (UseMessage1) ---
+はウェーブⅠを唱えた！
+--- ENTRY 1940 (Name) ---
+ウェーブⅡ
+--- ENTRY 1941 (UseMessage1) ---
+はウェーブⅡを唱えた！
+--- ENTRY 1942 (Name) ---
+ウェーブⅢ
+--- ENTRY 1943 (UseMessage1) ---
+はウェーブⅢを唱えた！
+--- ENTRY 1944 (Name) ---
+ストーンⅠ
+--- ENTRY 1945 (Description) ---
+敵単体に大地属性のダメージを与える。
+--- ENTRY 1946 (UseMessage1) ---
+はストーンⅠを唱えた！
+--- ENTRY 1947 (Name) ---
+ストーンⅡ
+--- ENTRY 1948 (UseMessage1) ---
+はストーンⅡを唱えた！
+--- ENTRY 1949 (Name) ---
+ストーンⅢ
+--- ENTRY 1950 (UseMessage1) ---
+はストーンⅢを唱えた！
+--- ENTRY 1951 (Name) ---
+クェイクⅠ
+--- ENTRY 1952 (UseMessage1) ---
+はクェイクⅠを唱えた！
+--- ENTRY 1953 (Name) ---
+クェイクⅡ
+--- ENTRY 1954 (UseMessage1) ---
+はクェイクⅡを唱えた！
+--- ENTRY 1955 (Name) ---
+クェイクⅢ
+--- ENTRY 1956 (UseMessage1) ---
+はクェイクⅢを唱えた！
+--- ENTRY 1957 (Name) ---
+ウィンドⅠ
+--- ENTRY 1958 (Description) ---
+敵単体に風属性のダメージを与える。
+--- ENTRY 1959 (UseMessage1) ---
+はウィンドⅠを唱えた！
+--- ENTRY 1960 (Name) ---
+ウィンドⅡ
+--- ENTRY 1961 (UseMessage1) ---
+はウィンドⅡを唱えた！
+--- ENTRY 1962 (Name) ---
+ウィンドⅢ
+--- ENTRY 1963 (UseMessage1) ---
+はウィンドⅢを唱えた！
+--- ENTRY 1964 (Name) ---
+トルネードⅠ
+--- ENTRY 1965 (UseMessage1) ---
+はトルネードⅠを唱えた！
+--- ENTRY 1966 (Name) ---
+トルネードⅡ
+--- ENTRY 1967 (UseMessage1) ---
+はトルネードⅡを唱えた！
+--- ENTRY 1968 (Name) ---
+トルネードⅢ
+--- ENTRY 1969 (UseMessage1) ---
+はトルネードⅢを唱えた！
+--- ENTRY 1970 (Name) ---
+セイントⅠ
+--- ENTRY 1971 (Description) ---
+敵単体に神聖属性のダメージを与える。
+--- ENTRY 1972 (UseMessage1) ---
+はセイントⅠを唱えた！
+--- ENTRY 1973 (Name) ---
+セイントⅡ
+--- ENTRY 1974 (UseMessage1) ---
+はセイントⅡを唱えた！
+--- ENTRY 1975 (Name) ---
+セイントⅢ
+--- ENTRY 1976 (UseMessage1) ---
+はセイントⅢを唱えた！
+--- ENTRY 1977 (Name) ---
+スターライトⅠ
+--- ENTRY 1978 (Description) ---
+敵全体に神聖属性のダメージを与える。
+--- ENTRY 1979 (UseMessage1) ---
+はスターライトⅠを唱えた！
+--- ENTRY 1980 (Name) ---
+スターライトⅡ
+--- ENTRY 1981 (UseMessage1) ---
+はスターライトⅡを唱えた！
+--- ENTRY 1982 (Name) ---
+スターライトⅢ
+--- ENTRY 1983 (UseMessage1) ---
+はスターライトⅢを唱えた！
+--- ENTRY 1984 (Name) ---
+シェイドⅠ
+--- ENTRY 1985 (Description) ---
+敵単体に暗黒属性のダメージを与える。
+--- ENTRY 1986 (UseMessage1) ---
+はシェイドⅠを唱えた！
+--- ENTRY 1987 (Name) ---
+シェイドⅡ
+--- ENTRY 1988 (UseMessage1) ---
+はシェイドⅡを唱えた！
+--- ENTRY 1989 (Name) ---
+シェイドⅢ
+--- ENTRY 1990 (UseMessage1) ---
+はシェイドⅢを唱えた！
+--- ENTRY 1991 (Name) ---
+ダークネスⅠ
+--- ENTRY 1992 (Description) ---
+敵全体に暗黒属性のダメージを与える。
+--- ENTRY 1993 (UseMessage1) ---
+はダークネスⅠを唱えた！
+--- ENTRY 1994 (Name) ---
+ダークネスⅡ
+--- ENTRY 1995 (UseMessage1) ---
+はダークネスⅡを唱えた！
+--- ENTRY 1996 (Name) ---
+ダークネスⅢ
+--- ENTRY 1997 (UseMessage1) ---
+はダークネスⅢを唱えた！
+--- ENTRY 1998 (Name) ---
+バーストⅠ
+--- ENTRY 1999 (Description) ---
+敵単体に無属性のダメージを与える。
+--- ENTRY 2000 (UseMessage1) ---
+はバーストⅠを唱えた！
+--- ENTRY 2001 (Name) ---
+バーストⅡ
+--- ENTRY 2002 (UseMessage1) ---
+はバーストⅡを唱えた！
+--- ENTRY 2003 (Name) ---
+バーストⅢ
+--- ENTRY 2004 (UseMessage1) ---
+はバーストⅢを唱えた！
+--- ENTRY 2005 (Name) ---
+ニュークリアⅠ
+--- ENTRY 2006 (Description) ---
+敵全体に無属性のダメージを与える。
+--- ENTRY 2007 (UseMessage1) ---
+はニュークリアⅠを唱えた！
+--- ENTRY 2008 (Name) ---
+ニュークリアⅡ
+--- ENTRY 2009 (UseMessage1) ---
+はニュークリアⅡを唱えた！
+--- ENTRY 2010 (Name) ---
+ニュークリアⅢ
+--- ENTRY 2011 (UseMessage1) ---
+はニュークリアⅢを唱えた！
+--- ENTRY 2012 (Name) ---
+毒攻撃
+--- ENTRY 2013 (Description) ---
+敵単体にダメージを与え、毒状態にする。
+--- ENTRY 2014 (Name) ---
+草原
+--- ENTRY 2015 (Name) ---
+森
+--- ENTRY 2016 (Name) ---
+砂漠
+--- ENTRY 2017 (Name) ---
+荒地
+--- ENTRY 2018 (Name) ---
+毒沼
+--- ENTRY 2019 (Name) ---
+雪原
+--- ENTRY 2020 (Name) ---
+雪原：森
+--- ENTRY 2021 (Name) ---
+ダメージ床
+--- ENTRY 2022 (Name) ---
+海：浅瀬
+--- ENTRY 2023 (Name) ---
+海：沖合
+--- ENTRY 2024 (Name) ---
+洞窟壁
+--- ENTRY 2025 (Message) ---
+重装警備兵：
+　侵入者は許さん！！！
+--- ENTRY 2026 (Message) ---
+ヴァディス：
+　お前のような、ナイフ使いを失うのは
+　惜しいような気もするが…
+--- ENTRY 2027 (Message) ---
+ヴァディス：
+　まぁ、これも命令・・・\!
+　しかたない…\!\>死んでもらう！！！\<
+--- ENTRY 2028 (Message) ---
+ラグ：
+　（師匠に勝てるんか！？）
+--- ENTRY 2029 (Message) ---
+ラグ：
+　ダメや…攻撃が全部かわされてしまう…\!
+　さすがは、師匠…最強といわれるわけや・・・
+--- ENTRY 2030 (Message) ---
+ラグ：
+　ど、どうする…このままじゃ、絶対勝てんやろ・・・
+--- ENTRY 2031 (Message) ---
+ヴァディス：
+　まったく、張り合いがない・・・\!
+　そろそろ決めるか・・・
+--- ENTRY 2032 (Message) ---
+ラグ：
+　くっ…\!マジでヤバイで・・・
+--- ENTRY 2033 (Message) ---
+ヴァディス：
+　だが、お前に、これほどの力しかないとは・・・
+　期待はずれだな…\!失望したよ・・・。
+--- ENTRY 2034 (Message) ---
+ラグ：
+　くっ…どうすれば\.・\.・\.・
+--- ENTRY 2035 (Message) ---
+ラグ：
+　ん？\!これは\.・\.・\.・\.？
+--- ENTRY 2036 (Message) ---
+ラグ：
+　くっ…どうしようもない・・・
+--- ENTRY 2037 (Message) ---
+ラグ：
+　そうや・・・\!これを組み合わせて・・・
+--- ENTRY 2038 (Message) ---
+ラグ：
+　くらえっ！！！
+--- ENTRY 2039 (Message) ---
+ヴァディス：
+　ムダだと言ってるだろ！！！
+--- ENTRY 2040 (Message) ---
+\>ヴァディスはナイフを弾き飛ばした。\<
+--- ENTRY 2041 (Message) ---
+\>壁にナイフがささった。\<
+--- ENTRY 2042 (Message) ---
+ヴァディス：
+　さて、それで最後のあがきは終わりか？\!
+　それじゃ、死んでもらう・・・
+--- ENTRY 2043 (Message) ---
+ラグ：
+　・・・。
+--- ENTRY 2044 (Message) ---
+ラグ：
+　５\.・\.・\.・\|４\.・\.・\.・\|３\.・\.・\.・
+--- ENTRY 2045 (Message) ---
+ヴァディス：
+　ん？
+--- ENTRY 2046 (Message) ---
+\>ラグ：\<
+　\>５・・・４・・・３・・・\<\.２\.・\.・\.・\|１\.・\.・\.・
+--- ENTRY 2047 (Message) ---
+ヴァディス：
+　何をしてる！？\!とにかく、これで終わりだ！！！
+--- ENTRY 2048 (Message) ---
+ラグ：
+　ゼロ。
+--- ENTRY 2049 (Message) ---
+\>壁にささったナイフが、爆発した！！！\<
+--- ENTRY 2050 (Message) ---
+ヴァディス：
+　ぐぉっ！！！
+--- ENTRY 2051 (StartBattle) ---
+と遭遇！
+--- ENTRY 2052 (PreemptiveAttack) ---
+先制攻撃のチャンス！
+--- ENTRY 2053 (EscapeSuccess) ---
+無事に逃げ出した！
+--- ENTRY 2054 (EscapeFailure) ---
+逃げ切れなかった！
+--- ENTRY 2055 (Victory) ---
+敵を打ちのめした！！！
+--- ENTRY 2056 (Defeat) ---
+負けてしまった・・・
+--- ENTRY 2057 (GetEXP) ---
+の経験値を獲得！
+--- ENTRY 2058 (GetMoneyPart1) ---
+お金を
+--- ENTRY 2059 (GetMoneyPart2) ---
+手に入れた！
+--- ENTRY 2060 (GetItem) ---
+を手に入れた！
+--- ENTRY 2061 (NormalAttack) ---
+の攻撃！
+--- ENTRY 2062 (CriticalHit) ---
+会心の一撃！！
+--- ENTRY 2063 (EnemyCritical) ---
+痛恨の一撃！！
+--- ENTRY 2064 (DefendMessage) ---
+は身を守っている！
+--- ENTRY 2065 (EnemyObserve) ---
+は様子を見ている・・・
+--- ENTRY 2066 (EnemyBuildStrength) ---
+は力をためている・・・
+--- ENTRY 2067 (EnemyBurst) ---
+は自爆した！
+--- ENTRY 2068 (EnemyEscape) ---
+は逃げてしまった！
+--- ENTRY 2069 (EnemyTransform) ---
+は姿を変えた！
+--- ENTRY 2070 (DamageEnemy) ---
+のダメージを与えた！
+--- ENTRY 2071 (MissEnemy) ---
+にダメージを与えられない！
+--- ENTRY 2072 (DamageAlly) ---
+のダメージを受けた！
+--- ENTRY 2073 (MissAlly) ---
+はダメージを受けていない！
+--- ENTRY 2074 (SkillFailureA) ---
+には効かなかった！
+--- ENTRY 2075 (SkillFailureB) ---
+は平気だった！
+--- ENTRY 2076 (SkillFailureC) ---
+は眠らなかった！
+--- ENTRY 2077 (AvoidPhysical) ---
+は攻撃をかわした！
+--- ENTRY 2078 (UseItem) ---
+を使った！
+--- ENTRY 2079 (RecoverHPMP) ---
+回復した！
+--- ENTRY 2080 (StatUp) ---
+上がった！
+--- ENTRY 2081 (StatDown) ---
+下がった！
+--- ENTRY 2082 (StatAbsorb) ---
+奪った！
+--- ENTRY 2083 (StatSucked) ---
+奪われた！
+--- ENTRY 2084 (DefenseUp) ---
+に強くなった！
+--- ENTRY 2085 (DefenseDown) ---
+に弱くなった！
+--- ENTRY 2086 (LevelUp) ---
+になった！
+--- ENTRY 2087 (LearnSkill) ---
+を覚えた！
+--- ENTRY 2088 (ShopA:ChoiceScreen) ---
+交換受付：あら？何と交換するの？
+--- ENTRY 2089 (ShopA:ChoiceScreenAgain) ---
+交換受付：ほかにまだ交換するの？
+--- ENTRY 2090 (ShopA:Buy) ---
+交換する
+--- ENTRY 2091 (ShopC:Sell) ---
+売却する
+--- ENTRY 2092 (ShopC:Leave) ---
+やめる
+--- ENTRY 2093 (ShopA:BuyScreen) ---
+交換受付：何と交換するのかしら？
+--- ENTRY 2094 (ShopA:HowManyToBuy) ---
+交換受付：いくつ交換するの？
+--- ENTRY 2095 (ShopA:PurchaseMade) ---
+交換受付：はい。それじゃ、これが景品ね。
+--- ENTRY 2096 (ShopA:SellScreen) ---
+「何をお売りになりますか？」
+--- ENTRY 2097 (ShopA:HowManyToSell) ---
+「いくつお売りになりますか？」
+--- ENTRY 2098 (ShopA:SaleComplete) ---
+「毎度ありがとうございます」
+--- ENTRY 2099 (ShopB:ChoiceScreen) ---
+「いらっしゃい！　今日はどんな用だい？」
+--- ENTRY 2100 (ShopB:ChoiceScreenAgain) ---
+「ほかにも用があるかい？」
+--- ENTRY 2101 (ShopC:Buy) ---
+購入する
+--- ENTRY 2102 (ShopB:BuyScreen) ---
+「何を買うんだい？」
+--- ENTRY 2103 (ShopB:HowManyToBuy) ---
+「いくつ買うんだい？」
+--- ENTRY 2104 (ShopB:SaleComplete) ---
+「ありがとよっ！」
+--- ENTRY 2105 (ShopB:SellScreen) ---
+「何を売るんだい？」
+--- ENTRY 2106 (ShopB:HowManyToSell) ---
+「いくつ売るんだい？」
+--- ENTRY 2107 (ShopC:ChoiceScreen) ---
+「こんにちは。どんなご用ですか？」
+--- ENTRY 2108 (ShopC:ChoiceScreenAgain) ---
+「ほかにもご用がありますか？」
+--- ENTRY 2109 (ShopC:BuyScreen) ---
+「何を買ってくれますか？」
+--- ENTRY 2110 (ShopC:HowManyToBuy) ---
+「いくつ買ってくれますか？」
+--- ENTRY 2111 (ShopC:SaleComplete) ---
+「どうもありがとう」
+--- ENTRY 2112 (ShopC:SellScreen) ---
+「何を売ってくれますか？」
+--- ENTRY 2113 (ShopC:HowManyToSell) ---
+「いくつ売ってくれますか？」
+--- ENTRY 2114 (InnA:IntroLine1a) ---
+「宿泊料金は
+--- ENTRY 2115 (InnA:IntroLine1b) ---
+になります。
+--- ENTRY 2116 (InnA:IntroLine2) ---
+お泊まりになりますか？」
+--- ENTRY 2117 (InnB:Lodge) ---
+泊まる
+--- ENTRY 2118 (InnB:DoNotLodge) ---
+泊まらない
+--- ENTRY 2119 (InnB:IntroLine1a) ---
+「一泊
+--- ENTRY 2120 (InnB:IntroLine1b) ---
+だが
+--- ENTRY 2121 (InnB:IntroLine2) ---
+泊まっていくかい？」
+--- ENTRY 2122 (OwnedQuantity) ---
+所持数
+--- ENTRY 2123 (EquippedQuantity) ---
+装備数
+--- ENTRY 2124 (CurrencyUnit) ---
+チップ
+--- ENTRY 2125 (Fight) ---
+戦う
+--- ENTRY 2126 (Auto) ---
+オート
+--- ENTRY 2127 (Escape) ---
+逃げる
+--- ENTRY 2128 (Attack) ---
+攻撃
+--- ENTRY 2129 (Defend) ---
+防御
+--- ENTRY 2130 (Item) ---
+道具
+--- ENTRY 2131 (Skill) ---
+特殊技能
+--- ENTRY 2132 (Equip) ---
+装備
+--- ENTRY 2133 (File) ---
+記録
+--- ENTRY 2134 (EndGame) ---
+ゲーム終了
+--- ENTRY 2135 (NewGame) ---
+最初から始める。
+--- ENTRY 2136 (Continue) ---
+続きから始める。
+--- ENTRY 2137 (Quit) ---
+ゲーム終了する。
+--- ENTRY 2138 (Level) ---
+レベル
+--- ENTRY 2139 (HP) ---
+ＨＰ
+--- ENTRY 2140 (MP) ---
+ＭＰ
+--- ENTRY 2141 (NormalState) ---
+正常
+--- ENTRY 2142 (EXPShort) ---
+Ｅ
+--- ENTRY 2143 (LevelShort) ---
+Ｌ
+--- ENTRY 2144 (HPShort) ---
+Ｈ
+--- ENTRY 2145 (MPShort) ---
+Ｍ
+--- ENTRY 2146 (MPCost) ---
+消費ＭＰ
+--- ENTRY 2147 (Offense) ---
+攻撃力
+--- ENTRY 2148 (Defense) ---
+防御力
+--- ENTRY 2149 (Mind) ---
+精神力
+--- ENTRY 2150 (Agility) ---
+敏捷性
+--- ENTRY 2151 (Arms) ---
+右手
+--- ENTRY 2152 (Shield) ---
+左手
+--- ENTRY 2153 (Armor) ---
+胴体
+--- ENTRY 2154 (Helmet) ---
+頭部
+--- ENTRY 2155 (Other) ---
+装飾品
+--- ENTRY 2156 (ChooseSaveFile) ---
+今までの経過を記してください。
+--- ENTRY 2157 (ChooseLoadFile) ---
+どの記録から再開しますか？
+--- ENTRY 2158 (QuitConfirm) ---
+ゲームを終了してよろしいですか？
+--- ENTRY 2159 (QuitYes) ---
+はい
+--- ENTRY 2160 (QuitNo) ---
+いいえ
+--- ENTRY 2161 (Message) ---
+主得点　\V[10] \V[11] \V[12] \V[13] \V[14]…\V[24]残り\V[25]
+主カ種　\V[18] \V[19] \V[20] \V[21] \V[22]　\V[26]残り\V[27]
+敵得点　\V[30] \V[31] \V[32] \V[33] \V[34]…\V[44]残り\V[45]
+敵カ種　\V[38] \V[39] \V[40] \V[41] \V[42]  \V[46]残り\V[47]
+--- ENTRY 2162 (Message) ---
+ウェイン：
+　ま、まさか\.・\.・\.・\!負けた\.・\.・\.・
+--- ENTRY 2163 (Message) ---
+セグメイン：
+　地獄に落ちな、新人君…
+--- ENTRY 2164 (Message) ---
+ザング：
+　とっとと死にな！はっはっは！
+--- ENTRY 2165 (Message) ---
+エミール：
+　あなたは弱すぎた・・・残念です・・・
+--- ENTRY 2166 (Message) ---
+サフィールス：
+　奇跡の生還ももうないだろう…\!
+　さよなら・・・
+--- ENTRY 2167 (Message) ---
+セグメイン：
+　ま・・・\.まさか・・・
+--- ENTRY 2168 (Message) ---
+セグメイン：
+　そんな・・・
+--- ENTRY 2169 (Message) ---
+ザング：
+　く・・・\.くそ・・・
+--- ENTRY 2170 (Message) ---
+ザング：
+　こんな若造に・・・
+--- ENTRY 2171 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベット数）\<
+--- ENTRY 2172 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベットチップ）\<\>×Ｂ.Ｊ.（×２）＝\<
+--- ENTRY 2173 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベットチップ）×Ｂ.Ｊ.（×２）＝\<\>\V[55]\<
+--- ENTRY 2174 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベット数）\<\>×スリーセブンス（×８）＝\<
+--- ENTRY 2175 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベット数）×スリーセブンス（×８）＝\<\>\V[55]\<
+--- ENTRY 2176 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベット数）\<\>×ストレート（×６）＝\<
+--- ENTRY 2177 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベット数）×ストレート（×６）＝\<\>\V[55]\<
+--- ENTRY 2178 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベット数）\<\>×ファイブカード（×５）＝\<
+--- ENTRY 2179 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベット数）×ファイブカード（×５）＝\<\>\V[55]\<
+--- ENTRY 2180 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベット数）\<\>×ＪＡＣＫ５（×１０）＝\<
+--- ENTRY 2181 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベット数）×ＪＡＣＫ５（×１０）＝\<\>\V[55]\<
+--- ENTRY 2182 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベット数）\<\>×役なし＝\<
+--- ENTRY 2183 (Message) ---
+　　　　　　　　\>－　獲得チップ　－\<
+
+\>\V[53]（ベット数）×役なし＝\<\>\V[55]\<
+--- ENTRY 2184 (Message) ---
+
+　　　　　　\>－　敵にダメージ！！！　－\<
+--- ENTRY 2185 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベット数）\<
+--- ENTRY 2186 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベットチップ）\<\>×Ｂ.Ｊ.（×２）＝\<
+--- ENTRY 2187 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベットチップ）×Ｂ.Ｊ.（×２）＝\<\>\V[55]\<
+--- ENTRY 2188 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベット数）\<\>×スリーセブンス（×８）＝\<
+--- ENTRY 2189 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベット数）×スリーセブンス（×８）＝\<\>\V[55]\<
+--- ENTRY 2190 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベット数）\<\>×ストレート（×６）＝\<
+--- ENTRY 2191 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベット数）×ストレート（×６）＝\<\>\V[55]\<
+--- ENTRY 2192 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベット数）\<\>×ファイブカード（×５）＝\<
+--- ENTRY 2193 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベット数）×ファイブカード（×５）＝\<\>\V[55]\<
+--- ENTRY 2194 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベット数）\<\>×ＪＡＣＫ５（×１０）＝\<
+--- ENTRY 2195 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベット数）×ＪＡＣＫ５（×１０）＝\<\>\V[55]\<
+--- ENTRY 2196 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベット数）\<\>×役なし＝\<
+--- ENTRY 2197 (Message) ---
+　　　　　　　\>－　チップダメージ　－\<
+
+\>\V[53]（ベット数）×役なし＝\<\>\V[55]\<
+--- ENTRY 2198 (Message) ---
+
+　　　　　\>－　チップダメージ！！！　－\<
+--- ENTRY 2199 (Message) ---
+フラッシュ
+--- ENTRY 2200 (Message) ---
+ロイヤルストレートフラッシュ
+--- ENTRY 2201 (Message) ---
+ストレートフラッシュ
+--- ENTRY 2202 (Message) ---
+ストレート
+--- ENTRY 2203 (Message) ---
+４カード
+--- ENTRY 2204 (Message) ---
+スリーカード
+--- ENTRY 2205 (Message) ---
+フルハウス
+--- ENTRY 2206 (Message) ---
+ワンペア
+--- ENTRY 2207 (Message) ---
+ツーペア
+--- ENTRY 2208 (Message) ---
+\V[247]　\V[248]　\V[249]　\V[250]　\V[251]　\V[252]
+\V[253]　\V[254]　\V[255]　\V[256]　\V[257]　\V[258]
+\V[259]
+\V[281]  \V[282]  \V[283]  \V[284]
+--- ENTRY 2209 (Message) ---
+\V[285]  \V[286]  \V[287]  \V[288]  \V[289]
+--- ENTRY 2210 (Message) ---
+\V[267]　\V[268]　\V[269]　\V[270]　\V[271]　\V[272]
+\V[273]　\V[274]　\V[275]　\V[276]　\V[277]　\V[278]
+\V[279]
+\V[291]  \V[292]  \V[293]  \V[294]
+--- ENTRY 2211 (Message) ---
+セグメイン：
+　親を決めるぞ。
+--- ENTRY 2212 (Message) ---
+ザング：
+　親決めだ。
+--- ENTRY 2213 (Message) ---
+エミール：
+　それでは、親を決めましょう。
+--- ENTRY 2214 (Message) ---
+サフィールス：
+　それでは、親を決めよう。
+--- ENTRY 2215 (Message) ---
+セグメイン：
+　君が親だぜ。
+--- ENTRY 2216 (Message) ---
+セグメイン：
+　さて、いくつ賭けるか・・・
+--- ENTRY 2217 (Message) ---
+セグメイン：
+　私が親だな。
+--- ENTRY 2218 (Message) ---
+セグメイン：
+　さて、いくつ賭けてくれるのかな？
+--- ENTRY 2219 (Message) ---
+ザング：
+　お前が親だ。
+--- ENTRY 2220 (Message) ---
+ザング：
+　賭けるぜ。
+--- ENTRY 2221 (Message) ---
+ザング：
+　俺が親だ。
+--- ENTRY 2222 (Message) ---
+ザング：
+　いくつで勝負する？
+--- ENTRY 2223 (Message) ---
+エミール：
+　あなたが親ですね。
+--- ENTRY 2224 (Message) ---
+エミール：
+　それでは、賭けましょう。
+--- ENTRY 2225 (Message) ---
+エミール：
+　私が親ですね。
+--- ENTRY 2226 (Message) ---
+エミール：
+　いくつで勝負するんですか？
+--- ENTRY 2227 (Message) ---
+サフィールス：
+　君が親か…。
+--- ENTRY 2228 (Message) ---
+サフィールス：
+　さて、いくつ賭けるか…。
+--- ENTRY 2229 (Message) ---
+サフィールス：
+　私が親だ。
+--- ENTRY 2230 (Message) ---
+サフィールス：
+　いくつ賭けるんですか？
+--- ENTRY 2231 (Message) ---
+セグメイン：
+　それじゃ、いくぜ！！！
+--- ENTRY 2232 (Message) ---
+ウェイン：
+　絶対負けられない！！！
+--- ENTRY 2233 (Message) ---
+ザング：
+　じゃ…死ねや！！！
+--- ENTRY 2234 (Message) ---
+ウェイン：
+　俺は勝つ！！！
+--- ENTRY 2235 (Message) ---
+エミール：
+　それでは、始めましょう！
+--- ENTRY 2236 (Message) ---
+ウェイン：
+　負けることはできないんだ！！！
+--- ENTRY 2237 (Message) ---
+サフィールス：
+　それでは、始めよう！！！
+--- ENTRY 2238 (Message) ---
+ウェイン：
+　まだ死にたくはないんだ！！！
+--- ENTRY 2239 (Message) ---
+ウェイン：
+　よし！俺が親だ。
+--- ENTRY 2240 (Message) ---
+セグメイン：
+　さて…いくつ賭けるとするか…
+--- ENTRY 2241 (Message) ---
+ウェイン：
+　俺が親か・・・
+--- ENTRY 2242 (Message) ---
+セグメイン：
+　つまり、私が賭けるんだな…
+--- ENTRY 2243 (Message) ---
+セグメイン：
+　残念だが、私が親だな。
+--- ENTRY 2244 (Message) ---
+セグメント：
+　さて・・・
+　いくつ賭けてくれるか楽しみだよ…。
+--- ENTRY 2245 (Message) ---
+セグメイン：
+　私が親か…。
+--- ENTRY 2246 (Message) ---
+セグメイン：
+　はやく賭けてくれよ。
+--- ENTRY 2247 (Message) ---
+ザング：
+　さて…いくつ賭けるか…
+--- ENTRY 2248 (Message) ---
+ザング：
+　俺が賭けるのか…
+--- ENTRY 2249 (Message) ---
+ザング：
+　俺が親だ。
+--- ENTRY 2250 (Message) ---
+ザング：
+　勝負してこいよ。

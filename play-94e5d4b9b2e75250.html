@@ -1,0 +1,571 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <style>
+    :root {
+      --color-gray: hsl(0, 0%, 55%);
+      --controls-size: 10vh;
+    }
+
+    @media (orientation: landscape) {
+      :root {
+        --controls-size: 20vh;
+      }
+    }
+
+    html {
+      touch-action: none;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+      margin: 0;
+      color: white;
+      background: black;
+    }
+
+    .unselectable {
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+
+    #status {
+      font-size: 1.5rem;
+      color: var(--color-gray);
+      text-align: center;
+    }
+
+    #controls {
+      position: relative;
+      text-align: right;
+      z-index: 10;
+    }
+
+    #controls button {
+      -webkit-appearance: button;
+      display: inline-flex;
+      background: transparent;
+      border: 0;
+      color: white;
+      font-family: inherit;
+      font-size: 1em;
+      line-height: inherit;
+      cursor: pointer;
+      padding: 0.5rem;
+    }
+
+    #controls svg {
+      pointer-events: none;
+    }
+
+    #canvas {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 100%;
+      height: 100%;
+      border: 0;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+      transform: translate(-50%, -50%);
+    }
+
+    img#canvas {
+      object-fit: contain;
+    }
+
+    #dpad,
+    #apad {
+      position: fixed;
+      bottom: 1rem;
+    }
+
+    #dpad {
+      left: 1rem;
+    }
+
+    #apad {
+      right: 1rem;
+    }
+
+    #dpad svg {
+      width: calc(2 * var(--controls-size));
+      height: calc(2 * var(--controls-size));
+      fill: var(--color-gray);
+    }
+
+    #dpad svg rect {
+      opacity: 0.4;
+    }
+
+    #apad > * {
+      width: var(--controls-size);
+      height: var(--controls-size);
+      background-color: var(--color-gray);
+      border-radius: 50%;
+    }
+
+    #apad > :last-child {
+      position: relative;
+      right: var(--controls-size);
+    }
+
+    #dpad path:not(.active),
+    #apad > *:not(.active) {
+      opacity: 0.4;
+    }
+  </style>
+
+
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<meta name="theme-color" content="#000000">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<script>if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('service-worker.js');});}</script>
+
+<link rel="stylesheet" href="rm-theme.css">
+<title>believe it or not</title>
+<meta name="apple-mobile-web-app-title" content="believe it or not">
+<link rel="icon" href="games/94e5d4b9b2e75250/pwa-icon.png">
+<link rel="apple-touch-icon" href="games/94e5d4b9b2e75250/pwa-icon.png">
+<link rel="manifest" href="manifest-94e5d4b9b2e75250.webmanifest">
+<script>(function(){var t="believe it or not";try{Object.defineProperty(document,'title',{configurable:true,get:function(){return t;},set:function(){}});}catch(e){}document.title=t;if(window.MutationObserver){var el=document.querySelector('title');if(el){new MutationObserver(function(){if(document.title!==t){document.title=t;}}).observe(el,{childList:true,characterData:true,subtree:true});}}})();</script>
+</head>
+<body>
+  <div id="controls">
+    <button id="controls-fullscreen" class="unselectable">
+      <svg viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" width="25" height="25"><path d="M13.5 13.5H10m3.5 0V10m0 3.5l-4-4m.5-8h3.5m0 0V5m0-3.5l-4 4M5 1.5H1.5m0 0V5m0-3.5l4 4m-4 4.5v3.5m0 0H5m-3.5 0l4-4" stroke="currentColor"></path></svg>
+    </button>
+  </div>
+
+  <div id="status"></div>
+
+  <div id="viewport">
+    <canvas id="canvas" tabindex="-1" class="unselectable"></canvas>
+
+    <div id="dpad" class="unselectable">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+        <path id="dpad-up" data-key="ArrowUp" d="M48,5.8C48,2.5,45.4,0,42,0H29.9C26.6,0,24,2.4,24,5.8V24h24V5.8z" />
+        <path id="dpad-right" data-key="ArrowRight" d="M66.2,24H48v24h18.2c3.3,0,5.8-2.7,5.8-6V29.9C72,26.5,69.5,24,66.2,24z" />
+        <path id="dpad-down" data-key="ArrowDown" d="M24,66.3c0,3.3,2.6,5.7,5.9,5.7H42c3.3,0,6-2.4,6-5.7V48H24V66.3z" />
+        <path id="dpad-left" data-key="ArrowLeft" d="M5.7,24C2.4,24,0,26.5,0,29.9V42c0,3.3,2.3,6,5.7,6H24V24H5.7z" />
+        <rect id="dpad-center" x="24" y="24" width="24" height="24" />
+      </svg>
+    </div>
+
+    <div id="apad" class="unselectable">
+      <div id="apad-escape" data-key="Escape"></div>
+      <div id="apad-enter" data-key="Enter"></div>
+    </div>
+  </div>
+
+<script async type="text/javascript" src="index.js"></script>
+
+<script>
+const hasTouchscreen = window.matchMedia('(hover: none), (pointer: coarse)').matches;
+const preventNativeKeys = ['ArrowUp', 'ArrowDown', 'ArrowRight', 'ArrowLeft', ' ', 'F12'];
+const keys = new Map();
+const keysDown = new Map();
+const canvas = document.getElementById('canvas');
+let easyrpgPlayer;
+let lastTouchedId;
+
+// Launch the Player and configure it
+window.addEventListener('load', (event) => {
+    createEasyRpgPlayer({
+      game: "94e5d4b9b2e75250",
+      saveFs: undefined
+    }).then(function(Module) {
+      // Module is ready
+      easyrpgPlayer = Module;
+      easyrpgPlayer.initApi();
+      canvas.focus();
+
+      // Custom code here
+    });
+});
+
+// Make EasyRPG player embeddable
+canvas.addEventListener('mouseenter', () => canvas.focus());
+canvas.addEventListener('click', () => canvas.focus());
+
+// Handle clicking on the fullscreen button
+document.querySelector('#controls-fullscreen').addEventListener('click', () => {
+  const viewport = document.getElementById('viewport');
+  if (viewport.requestFullscreen) {
+    viewport.requestFullscreen();
+  }
+});
+
+/**
+ * Simulate a keyboard event on the emscripten canvas
+ *
+ * @param {string} eventType Type of the keyboard event
+ * @param {string} key Key to simulate
+ */
+function simulateKeyboardEvent(eventType, key) {
+  const event = new Event(eventType, { bubbles: true });
+  event.code = key;
+
+  canvas.dispatchEvent(event);
+}
+
+/**
+ * Simulate a keyboard input from `keydown` to `keyup`
+ *
+ * @param {string} key Key to simulate
+ */
+function simulateKeyboardInput(key) {
+  simulateKeyboardEvent('keydown', key);
+  window.setTimeout(() => {
+    simulateKeyboardEvent('keyup', key);
+  }, 100);
+}
+
+/**
+ * Bind a node by a specific key to simulate on touch
+ *
+ * @param {*} node The node to bind a key to
+ * @param {string} key Key to simulate
+ */
+function bindKey(node, key) {
+  keys.set(node.id, key);
+
+  node.addEventListener('touchstart', event => {
+    event.preventDefault();
+    simulateKeyboardEvent('keydown', key);
+    keysDown.set(event.target.id, node.id);
+    node.classList.add('active');
+  });
+
+  node.addEventListener('touchend', event => {
+    event.preventDefault();
+
+    const pressedKey = keysDown.get(event.target.id);
+    if (pressedKey && keys.has(pressedKey)) {
+      const key = keys.get(pressedKey);
+      simulateKeyboardEvent('keyup', key);
+    }
+
+    keysDown.delete(event.target.id);
+    node.classList.remove('active');
+
+    if (lastTouchedId) {
+      document.getElementById(lastTouchedId).classList.remove('active');
+    }
+  });
+
+  // Inspired by https://github.com/pulsejet/mkxp-web/blob/262a2254b684567311c9f0e135ee29f6e8c3613e/extra/js/dpad.js
+  node.addEventListener('touchmove', event => {
+    const { target, clientX, clientY } = event.changedTouches[0];
+    const origTargetId = keysDown.get(target.id);
+    const nextTargetId = document.elementFromPoint(clientX, clientY).id;
+    if (origTargetId === nextTargetId) return;
+
+    if (origTargetId) {
+      const key = keys.get(origTargetId);
+      simulateKeyboardEvent('keyup', key);
+      keysDown.delete(target.id);
+      document.getElementById(origTargetId).classList.remove('active');
+    }
+
+    if (keys.has(nextTargetId)) {
+      const key = keys.get(nextTargetId);
+      simulateKeyboardEvent('keydown', key);
+      keysDown.set(target.id, nextTargetId);
+      lastTouchedId = nextTargetId;
+      document.getElementById(nextTargetId).classList.add('active');
+    }
+  })
+}
+
+/** @type {{[key: number]: Gamepad}} */
+let gamepads = {};
+const haveEvents = 'ongamepadconnected' in window;
+
+function addGamepad(gamepad) {
+  if (gamepad == undefined) {
+    return;
+  }
+  gamepads[gamepad.index] = gamepad;
+  updateTouchControlsVisibility();
+}
+
+function removeGamepad(gamepad) {
+  if (gamepad == undefined) {
+    return;
+  }
+  delete gamepads[gamepad.index];
+  updateTouchControlsVisibility();
+}
+
+/** @returns {Gamepad[]} */
+function getGamepads() {
+  var pads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);
+  return pads;
+}
+
+function scanGamePads() {
+  var pads = getGamepads();
+  for (var i = 0; i < pads.length; i++) {
+    if (pads[i]) {
+      if (pads[i].index in gamepads) {
+        gamepads[pads[i].index] = pads[i];
+      } else {
+        addGamepad(pads[i]);
+      }
+    }
+  }
+}
+
+if (!haveEvents) {
+  setInterval(scanGamePads, 500);
+}
+
+window.addEventListener('gamepadconnected', function(e) {
+  addGamepad(e.gamepad);
+});
+
+window.addEventListener('gamepaddisconnected', function(e) {
+  removeGamepad(e.gamepad);
+})
+
+function updateTouchControlsVisibility() {
+  if (hasTouchscreen && Object.keys(gamepads).length === 0) {
+    for (const elem of document.querySelectorAll('#dpad, #apad')) {
+      elem.style.display = '';
+    }
+  } else {
+    // If we don't have a touch screen, OR any gamepads are connected...
+    for (const elem of document.querySelectorAll('#dpad, #apad')) {
+      // Hide the touch controls
+      elem.style.display = 'none';
+    }
+  }
+}
+
+// Bind all elements providing a `data-key` attribute with the
+// given key on touch-based devices
+if (hasTouchscreen) {
+  for (const button of document.querySelectorAll('[data-key]')) {
+    bindKey(button, button.dataset.key);
+  }
+} else {
+  // Prevent scrolling when pressing specific keys
+  window.addEventListener('keydown', event => {
+    if (preventNativeKeys.includes(event.key)) {
+      event.preventDefault();
+    }
+  });
+
+  canvas.addEventListener('contextmenu', event => {
+    event.preventDefault();
+    // simulateKeyboardInput('Escape', 27);
+  });
+
+  // canvas.addEventListener('click', () => {
+  //   simulateKeyboardInput('Enter', 13);
+  // });
+}
+
+updateTouchControlsVisibility();
+</script>
+
+
+<style>#dl{position:fixed;left:0;right:0;bottom:0;background:linear-gradient(180deg,var(--win-top,#2f74d8),var(--win-bot,#0a2f86));box-shadow:inset 0 1px 0 rgba(255,255,255,.25);padding:8px 14px calc(8px + env(safe-area-inset-bottom));font-size:13px;color:#eaf0ff;z-index:9999}#dltrack{height:5px;background:rgba(4,18,60,.6);border-radius:3px;overflow:hidden}#dlbar{height:100%;width:0;background:var(--gold,#f5c542);transition:width .2s}#dltext{display:block;margin-top:5px}</style>
+<div id="dl" hidden><div id="dltrack"><div id="dlbar"></div></div><span id="dltext"></span></div>
+<script>(function(){if(!("caches" in window))return;var SLUG="94e5d4b9b2e75250";fetch("precache-"+SLUG+".json").then(function(r){return r.json();}).then(function(data){var files=data.files||[],version=data.version||"";var box=document.getElementById("dl"),bar=document.getElementById("dlbar"),txt=document.getElementById("dltext");caches.open("easyrpg-games").then(function(cache){var total=files.length,done=0,idx=0;function show(){box.hidden=false;var pct=total?Math.round(done/total*100):100;bar.style.width=pct+"%";if(done>=total){txt.textContent="✓ 此遊戲已可離線";setTimeout(function(){box.hidden=true;},3000);}else{txt.textContent="下載此遊戲以供離線… "+pct+"% ("+done+"/"+total+")";}}function worker(){return (async function(){while(idx<total){var f=files[idx++];try{if(!(await cache.match(f)))await cache.add(f);}catch(e){}done++;show();}})();}function proceed(){show();var n=Math.min(6,total)||1,ws=[];for(var i=0;i<n;i++)ws.push(worker());Promise.all(ws);}var vkey="ep-gv-"+SLUG,oldV=null;try{oldV=localStorage.getItem(vkey);}catch(e){}if(oldV!==version){var pfx=new URL("games/"+SLUG+"/",location.href).href;cache.keys().then(function(keys){return Promise.all(keys.filter(function(k){return k.url.indexOf(pfx)===0;}).map(function(k){return cache.delete(k);}));}).then(function(){try{localStorage.setItem(vkey,version);}catch(e){}proceed();});}else{proceed();}});}).catch(function(){});})();</script>
+
+<style>#saveui{position:fixed;left:8px;top:calc(8px + env(safe-area-inset-top));
+z-index:10000;display:flex;gap:6px}
+#saveui button{padding:5px 10px;border-radius:8px;border:1px solid var(--chip-line,#2c3350);
+background:var(--chip,#171c2e);color:#c3c9ea;font-size:12px;cursor:pointer}
+#saveui button:hover{border-color:var(--gold,#f5c542);color:#fff}
+#saveui button:active{background:var(--gold,#f5c542);color:#1a1400}
+#savepanel{position:fixed;inset:0;z-index:11000}#savepanel[hidden]{display:none}
+#savepanel .sp-bd{position:absolute;inset:0;background:rgba(6,9,28,.66)}
+#savepanel .sp-dlg{position:relative;max-width:420px;margin:8vh auto;color:#eaf0ff;
+background:var(--panel,#141828);border:1px solid var(--win-lo,#06205f);
+border-radius:14px;padding:16px;box-shadow:inset 0 0 0 1px rgba(159,180,255,.30),0 14px 44px rgba(6,9,28,.7)}
+#savepanel h3{margin:0 0 12px;font-size:16px}
+#savepanel .sp-close{position:absolute;top:10px;right:12px;background:none;border:none;color:#dbe3ff;font-size:18px;cursor:pointer}
+#savepanel .sp-close:hover{color:var(--gold,#f5c542)}
+#savepanel .sp-btn{display:block;width:100%;margin:6px 0;padding:8px 10px;border-radius:8px;
+border:1px solid var(--chip-line,#2c3350);background:var(--chip,#171c2e);color:#c3c9ea;font-size:14px;cursor:pointer}
+#savepanel .sp-btn:hover{border-color:var(--gold,#f5c542);color:#fff}
+#savepanel .sp-btn:disabled{opacity:.5;cursor:default}
+#sp-cloud{margin-top:10px;border-top:1px solid var(--line,#262c44);padding-top:10px}</style>
+<div id="saveui"><button id="save-open">存檔</button><button id="fav-btn" title="收藏">♡</button><span id="pt-label" style="align-self:center;color:#9ca3af;font:12px -apple-system,sans-serif;padding:0 4px"></span><button id="wt-open">攻略</button><button id="cm-open">留言</button><button id="share-btn">分享</button><button id="dl-zip">下載</button>
+<input id="savefile" type="file" accept=".zip" style="display:none"></div>
+<div id="savepanel" hidden><div class="sp-bd"></div><div class="sp-dlg">
+<button class="sp-close" type="button">✕</button><h3>存檔</h3>
+<button id="saveexp" class="sp-btn" type="button">導出存檔（下載 zip）</button>
+<button id="saveimp" class="sp-btn" type="button">導入存檔（上傳 zip）</button>
+<div id="sp-cloud"></div>
+</div></div>
+<script>(function(){
+var SLUG="94e5d4b9b2e75250";
+window.__epPause=window.__epPause||(function(){var keys={},n=0,ctxs=window.__epAudioCtxs=window.__epAudioCtxs||[];
+["AudioContext","webkitAudioContext"].forEach(function(nm){var C=window[nm];if(C&&!C.__epW){var W=function(o){var c=new C(o);ctxs.push(c);return c;};W.prototype=C.prototype;W.__epW=1;try{window[nm]=W;}catch(e){}}});
+function mute(on){ctxs.forEach(function(c){try{on?c.suspend():c.resume();}catch(e){}});}
+function block(e){if(!window.__epPaused)return;var t=e.target;if(t&&t.closest&&(t.closest("#wt-panel")||t.closest("#cm-panel")||t.closest("#savepanel")||t.closest("#saveui")))return;e.stopImmediatePropagation();e.preventDefault();}
+["keydown","keyup","keypress"].forEach(function(ev){window.addEventListener(ev,block,true);});
+return function(on,key){key=key||"_";if(on){if(!keys[key]){keys[key]=1;if(++n===1){window.__epPaused=true;mute(true);}}}else{if(keys[key]){delete keys[key];if(--n===0){window.__epPaused=false;mute(false);}}}};})();
+var ui=document.getElementById("saveui"),inp=document.getElementById("savefile");
+function mod(){try{return (typeof easyrpgPlayer!=="undefined"&&easyrpgPlayer&&easyrpgPlayer.FS)?easyrpgPlayer:null;}catch(e){return null;}}
+function vis(){ui.style.display=(document.fullscreenElement||document.webkitFullscreenElement)?"none":"flex";}
+document.addEventListener("fullscreenchange",vis);
+document.addEventListener("webkitfullscreenchange",vis);vis();
+function isLsd(n){return /^Save\d+\.lsd$/i.test(n);}
+function guessDir(){var m=mod();var g=((m&&m.game)||SLUG||"").toLowerCase();return "/easyrpg/"+g+"/Save";}
+function isDir(FS,p){try{return FS.isDir(FS.stat(p).mode);}catch(e){return false;}}
+function hasLsd(FS,p){try{return FS.readdir(p).some(isLsd);}catch(e){return false;}}
+function walkDir(FS){var skip={"/dev":1,"/proc":1,"/tmp":1,"/home":1},q=["/"],seen={};
+while(q.length){var d=q.shift();if(seen[d])continue;seen[d]=1;var ents;try{ents=FS.readdir(d);}catch(e){continue;}
+var hit=false;for(var i=0;i<ents.length;i++){var n=ents[i];if(n==="."||n==="..")continue;
+if(isLsd(n)){hit=true;continue;}var p=(d==="/"?"":d)+"/"+n;if(!skip[p]&&isDir(FS,p))q.push(p);}
+if(hit)return d;}return null;}
+function saveDir(FS,forImport){var g=guessDir();
+if(hasLsd(FS,g))return g;var w=walkDir(FS);if(w)return w;
+return forImport&&isDir(FS,g)?g:null;}
+function mkdirp(FS,p){var parts=p.split("/").filter(Boolean),cur="";
+for(var i=0;i<parts.length;i++){cur+="/"+parts[i];try{FS.mkdir(cur);}catch(e){}}}
+function crc32T(){var t=[];for(var n=0;n<256;n++){var c=n;for(var k=0;k<8;k++)c=(c&1)?(0xEDB88320^(c>>>1)):(c>>>1);t[n]=c>>>0;}return t;}
+var crcT=crc32T();
+function crc32(u){var c=0xFFFFFFFF;for(var i=0;i<u.length;i++)c=crcT[(c^u[i])&0xFF]^(c>>>8);return (c^0xFFFFFFFF)>>>0;}
+function te(s){return new TextEncoder().encode(s);}
+function u32(v){return [v&255,(v>>>8)&255,(v>>>16)&255,(v>>>24)&255];}
+function u16(v){return [v&255,(v>>>8)&255];}
+function readSaves(){var FS=mod().FS,dir=saveDir(FS,false),out=[];if(!dir)return out;
+FS.readdir(dir).forEach(function(n){if(n==="."||n==="..")return;try{if(isDir(FS,dir+"/"+n))return;
+var d=FS.readFile(dir+"/"+n);if(d&&d.length)out.push({name:n,data:d});}catch(e){}});return out;}
+function makeZip(files){var parts=[],central=[],offset=0;
+files.forEach(function(f){var nameB=te(f.name),crc=crc32(f.data),sz=f.data.length;
+var lh=[].concat(u32(0x04034b50),u16(20),u16(0),u16(0),u16(0),u16(0),u32(crc),u32(sz),u32(sz),u16(nameB.length),u16(0));
+parts.push(new Uint8Array(lh));parts.push(nameB);parts.push(f.data);
+var ch=[].concat(u32(0x02014b50),u16(20),u16(20),u16(0),u16(0),u16(0),u16(0),u32(crc),u32(sz),u32(sz),u16(nameB.length),u16(0),u16(0),u16(0),u16(0),u32(0),u32(offset));
+central.push(new Uint8Array(ch));central.push(nameB);
+offset+=lh.length+nameB.length+sz;});
+var cs=0;central.forEach(function(p){cs+=p.length;});
+var eocd=new Uint8Array([].concat(u32(0x06054b50),u16(0),u16(0),u16(files.length),u16(files.length),u32(cs),u32(offset),u16(0)));
+var all=parts.concat(central);all.push(eocd);var total=0;all.forEach(function(p){total+=p.length;});
+var buf=new Uint8Array(total),o=0;all.forEach(function(p){buf.set(p,o);o+=p.length;});return buf;}
+function readZip(u){var dv=new DataView(u.buffer,u.byteOffset,u.byteLength),i=0,files=[];
+while(i+4<=u.length&&dv.getUint32(i,true)===0x04034b50){
+var nlen=dv.getUint16(i+26,true),elen=dv.getUint16(i+28,true),csz=dv.getUint32(i+18,true);
+var name=new TextDecoder().decode(u.slice(i+30,i+30+nlen)),ds=i+30+nlen+elen;
+files.push({name:name,data:u.slice(ds,ds+csz)});i=ds+csz;}return files;}
+window.__epSaves={read:function(){return mod()?readSaves():[];},
+write:function(files){return new Promise(function(res,rej){var m=mod();if(!m){rej(new Error("遊戲尚未載入"));return;}
+try{var FS=m.FS,dir=saveDir(FS,true)||guessDir();mkdirp(FS,dir);
+files.forEach(function(fl){FS.writeFile(dir+"/"+fl.name,fl.data);});
+FS.syncfs(false,function(){res();});}catch(e){rej(e);}});}};
+var panel=document.getElementById("savepanel");
+document.getElementById("save-open").onclick=function(){if(!mod()){alert("遊戲尚未載入完成，請稍候");return;}panel.hidden=false;window.__epPause(true,"save");};
+function spClose(){panel.hidden=true;window.__epPause(false,"save");}
+panel.querySelector(".sp-close").onclick=spClose;panel.querySelector(".sp-bd").onclick=spClose;
+document.getElementById("share-btn").onclick=function(){
+var t=(window.__WT&&window.__WT.title)||document.title;var u=location.href;
+if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});}
+else if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){alert("已複製連結");},function(){prompt("複製這個連結：",u);});}
+else{prompt("複製這個連結：",u);}}
+document.getElementById("saveexp").onclick=function(){window.__epPause(true,"exp");try{
+var m=mod();if(!m){alert("遊戲尚未載入完成，請稍候");return;}
+var files=readSaves();if(!files.length){alert("找不到存檔（請先在遊戲裡存檔）");return;}
+var blob=new Blob([makeZip(files)],{type:"application/zip"});
+var a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=SLUG+"-saves.zip";a.click();
+setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},1000);
+}finally{window.__epPause(false,"exp");}};
+document.getElementById("saveimp").onclick=function(){if(!mod()){alert("遊戲尚未載入完成，請稍候");return;}
+window.__epPause(true,"imp");
+function done(){window.removeEventListener("focus",onFocus);window.__epPause(false,"imp");}
+function onFocus(){setTimeout(done,300);}
+window.addEventListener("focus",onFocus);inp.oncancel=done;
+inp.click();};
+inp.onchange=function(){window.__epPause(false,"imp");var f=inp.files[0];if(!f)return;var r=new FileReader();
+r.onload=function(){try{var files=readZip(new Uint8Array(r.result));if(!files.length){alert("檔案內沒有存檔");return;}
+var FS=mod().FS,dir=saveDir(FS,true)||guessDir();mkdirp(FS,dir);
+files.forEach(function(fl){FS.writeFile(dir+"/"+fl.name,fl.data);});
+FS.syncfs(false,function(){alert("已導入 "+files.length+" 個存檔，將重新載入遊戲。");location.reload();});
+}catch(e){alert("導入失敗："+e);}};r.readAsArrayBuffer(f);inp.value="";};
+document.getElementById("dl-zip").onclick=function(){var btn=this;if(btn.disabled)return;btn.disabled=true;btn.textContent="準備中…";
+var prefix="games/"+SLUG+"/";
+fetch("precache-"+SLUG+".json").then(function(r){return r.json();}).then(function(data){
+var list=data.files||[];
+var files=list.filter(function(f){return f.indexOf(prefix)===0;});
+var total=files.length,done=0,result=[],idx=0;
+if(!total){btn.textContent="下載";btn.disabled=false;alert("找不到遊戲檔案");return;}
+function finish(){btn.textContent="打包中…";setTimeout(function(){
+var blob=new Blob([makeZip(result)],{type:"application/zip"});
+var a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=document.title+".zip";a.click();
+setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},1000);
+btn.textContent="下載";btn.disabled=false;},50);}
+function worker(){if(idx>=total)return;var f=files[idx++],name=f.slice(prefix.length);
+(("caches" in window)?caches.open("easyrpg-games").then(function(c){return c.match(f);}):Promise.resolve(null))
+.then(function(cached){return cached||fetch(f);}).then(function(r){return r.arrayBuffer();})
+.then(function(ab){result.push({name:name,data:new Uint8Array(ab)});done++;
+btn.textContent="下載中 "+Math.round(done/total*100)+"%";
+if(done>=total)finish();else worker();}).catch(function(){done++;if(done>=total)finish();else worker();});}
+var n=Math.min(4,total);for(var i=0;i<n;i++)worker();
+}).catch(function(e){btn.textContent="下載";btn.disabled=false;alert("下載失敗："+e);});};
+})();</script>
+
+<link href="https://cdn.quilljs.com/1.3.7/quill.snow.css" rel="stylesheet">
+<link rel="stylesheet" href="walkthrough.css">
+<script src="https://cdn.quilljs.com/1.3.7/quill.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.8/dist/purify.min.js"></script>
+<script>window.__WT={slug:"94e5d4b9b2e75250",title:"believe it or not"};</script>
+<script type="module" src="walkthrough.js"></script>
+
+<link rel="stylesheet" href="community.css">
+<script type="module" src="community.js"></script>
+
+<link rel="stylesheet" href="favorites.css">
+<script type="module" src="favorites.js"></script>
+
+<script type="module" src="playtime.js"></script>
+
+<link rel="stylesheet" href="savepanel.css">
+<script type="module" src="savepanel.js"></script>
+
+<style>
+body.ep-pfs #viewport{position:fixed;inset:0;z-index:9990;background:#000;margin:0}
+body.ep-pfs #canvas{width:100%!important;height:100%!important;object-fit:contain}
+body.ep-pfs #saveui{display:none!important}
+body.ep-pfs #controls{position:fixed;top:env(safe-area-inset-top);right:8px;z-index:9991}
+</style>
+<script>(function(){var btn=document.getElementById("controls-fullscreen"),vp=document.getElementById("viewport");
+if(btn&&vp&&!vp.requestFullscreen){btn.addEventListener("click",function(){document.body.classList.toggle("ep-pfs");});}})();</script>
+
+<script type="module" src="popular.js"></script>
+
+<script>(function(){
+if(window.matchMedia("(display-mode: standalone)").matches||navigator.standalone)return;
+var dp=null,SLUG="94e5d4b9b2e75250",btn=document.createElement("button");btn.id="pwa-install";btn.textContent="安裝";
+document.getElementById("saveui").appendChild(btn);
+window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();dp=e;});
+function done(){if(dp){dp.prompt();dp.userChoice.then(function(){btn.remove();dp=null;});}
+else{alert(/iPad|iPhone|iPod/.test(navigator.userAgent)?"請點擊 Safari 分享按鈕 →「加入主畫面」":"請點擊瀏覽器選單（⋮）→「安裝應用程式」或「加入主畫面」");
+btn.textContent="安裝";btn.disabled=false;}}
+btn.onclick=function(){if(btn.disabled)return;
+if(!("caches" in window)){done();return;}
+btn.disabled=true;btn.textContent="準備離線資料…";
+fetch("precache-"+SLUG+".json").then(function(r){return r.json();}).then(function(data){
+var files=data.files||[];
+caches.open("easyrpg-games").then(function(cache){
+var total=files.length,ok=0,idx=0;
+function tick(){ok++;btn.textContent="離線資料 "+Math.round(ok/total*100)+"%";
+if(ok>=total){btn.textContent="安裝中…";done();} else worker();}
+function worker(){if(idx>=total)return;var f=files[idx++];
+cache.match(f).then(function(r){if(r)tick();else cache.add(f).then(tick,tick);});}
+var n=Math.min(6,total)||1;for(var i=0;i<n;i++)worker();});
+}).catch(function(){done();});};
+})();</script>
+</body>
+</html>

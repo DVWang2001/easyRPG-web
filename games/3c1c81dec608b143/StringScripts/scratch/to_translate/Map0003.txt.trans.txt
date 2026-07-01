@@ -1,0 +1,295 @@
+﻿1. [MARKER: Message] [FACE: Ｆタマ] \.なんニャ。
+いきなり立ち止まって。
+2. [MARKER: Message] [FACE: F鞍春] \.というか、そなたの方が
+ここの住人なのだから
+私よりも先に歩いて案内するのが
+普通ではないのか？
+3. [MARKER: Message] [FACE: Ｆタマ] オイラ新人で
+あんまり奥まで行ったことないから
+よくわからないニャ。
+4. [MARKER: Message] [FACE: F鞍春] \S[2]･･････新人･･･$d
+
+5. [MARKER: Message] [FACE: Ｆタマ] \.それよりお主。
+6. [MARKER: Message] [FACE: Ｆタマ] 姫さんが美人だからって
+ヘンな気を起こすニャよ。
+7. [MARKER: Message] [FACE: F鞍春] \S[2]･････････$d
+8. [MARKER: Message] [FACE: Ｆタマ] \.お主、無愛想だが
+『むっつりスケベー』という
+ことわざもあることだし
+油断は出来ないニャ。
+9. [MARKER: Message] [FACE: F鞍春] \.ことわざか、それ･･･？
+10. [MARKER: Message] [FACE: F鞍春] ･･･ん？
+11. [MARKER: Message] [FACE: F鞍春] ･･････！
+なんだ？！
+12. [MARKER: Message] [FACE: F鞍春] ･･････木の･･･根？
+13. [MARKER: Message] [FACE: F鞍春] そなたの仲間か？
+14. [MARKER: Message] [FACE: Ｆタマ] 違うニャ。
+「一つ目根」だニャ！
+15. [MARKER: Message] [FACE: Ｆタマ] オイラたちが
+ここへ住み込む前から
+ここにいる妖怪ニャ。
+16. [MARKER: Message] [FACE: Ｆタマ] じ、実物は初めて見たニャ！
+17. [MARKER: Message] [FACE: F鞍春] \S[2]一つ目･･････
+･･････人の目？
+18. [MARKER: Message] [FACE: Ｆタマ] ･･･この辺り一帯は
+昔、戦場だったニャ。
+19. [MARKER: Message] [FACE: Ｆタマ] 毎日毎日
+多くの兵士達が死んで
+多くの血を流した場所ニャ･･･
+20. [MARKER: Message] [FACE: Ｆタマ] \.その血を吸いながら育った樹木たちの
+変化した姿に違いないと
+言われているニャ。
+21. [MARKER: Message] [FACE: F鞍春] \.聞いたことがある。
+22. [MARKER: Message] [FACE: F鞍春] \.一説には
+死ぬ前に一目家族に会いたいと願った
+兵士達の変わり果てた姿とも･･･
+23. [MARKER: Message] [FACE: F鞍春] いずれにせよ
+２人とも敵だと 思われているようだ。
+24. [MARKER: Message] [FACE: F鞍春] 下がっていろ。ぽん太。
+25. [MARKER: Message] [FACE: Ｆタマ] １人じゃ無理ニャ！
+オイラも加勢するニャ！
+26. [MARKER: Message] [FACE: Ｆタマ] ･･････って、
+オイラの名前は『タマ』ニャ！！
+27. [MARKER: Message] [FACE: Ｆタマ] ふ～。
+28. [MARKER: Message] [FACE: Ｆタマ] \.しかし、お主
+
+29. [MARKER: Message] [FACE: Ｆタマ] 一見、優男みたいなクセして
+結構強いニャ。
+30. [MARKER: Message] [FACE: Ｆお爺] ･･････ほっほっほ
+31. [MARKER: Message] [FACE: Ｆお爺] みね打ちだけで
+一つ目を倒すとは
+大した腕前じゃのう。
+32. [MARKER: Message] [FACE: Ｆ鬼] ふん。
+なかなか、やるじゃねーか。
+33. [MARKER: Message] [FACE: Ｆお爺] しかもなかなかの美形
+34. [MARKER: Message] [FACE: Ｆお爺] あれで少々
+無精ヒゲを生やせば
+わしの若い頃そっくりですじゃ。
+35. [MARKER: Message] [FACE: Ｆ鬼] ･･･ジジイ
+36. [MARKER: Message] [FACE: Ｆ鬼] チョット顔がいい奴が現れるとすぐ
+自分に似ていると言うのは やめろ。
+37. [MARKER: Message] [FACE: Ｆお爺] ほっほっほ。
+38. [MARKER: Message] [FACE: Ｆ鬼] のんきに笑ってる場合じゃねーだろ。
+39. [MARKER: Message] [FACE: Ｆ鬼] あれだけの腕がありゃ
+ジジイの１人や２人
+片手でひねり潰されるぞ。
+40. [MARKER: Message] [FACE: Ｆお爺] ほっほっほ
+最近ヒマしておりましたでな
+41. [MARKER: Message] [FACE: Ｆお爺] 楽しみですじゃ。
+42. [MARKER: Message] [FACE: Ｆ鬼] \.ふん。
+
+43. [MARKER: Message] [FACE: Ｆ鬼] \.ムリして
+また、ぎっくり腰になっても
+面倒みてやんねーからな。
+44. [MARKER: Message] [FACE: Ｆお爺] ま、そうならんよう まずは
+少々お手並み拝見といきますかな。
+45. [MARKER: Message] [FACE: Ｆ鬼] \S[2]そうだな。
+まずは･･････
+46. [MARKER: Message] [FACE: Ｆ鬼] \.\S[2]奴に任せるとするか･･･
+47. [MARKER: Message] [FACE: F鞍春] ･･････。
+48. [MARKER: Message] [FACE: Ｆタマ] どしたニャ。
+49. [MARKER: Message] [FACE: F鞍春] \.･･････\.気のせいか？
+50. [MARKER: Message] [FACE: F鞍春] \.どこからか視線を感じたのだが･･･
+51. [MARKER: Message] [FACE: Ｆタマ] 視線？
+52. [MARKER: Message] [FACE: F鞍春] ･･････いや、気のせいか。
+53. [MARKER: Message] [FACE: Ｆタマ] \.誰もいないし･･･\.気のせいニャ。
+
+54. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+55. [MARKER: Message] [FACE: F鞍春] \.まだまだこの先
+いろんなのが出てきそうだな。
+56. [MARKER: Message] [FACE: Ｆタマ] \.なんニャ。
+いきなり立ち止まって。
+57. [MARKER: Message] [FACE: F鞍春] \.というか、そなたの方が
+ここの住人なのだから
+私よりも先に歩いて案内するのが
+普通ではないのか？
+58. [MARKER: Message] [FACE: Ｆタマ] \.オイラ新人で
+あんまり奥まで行ったことないから
+よくわからないニャ。
+59. [MARKER: Message] [FACE: F鞍春] \S[2]･･････新人･･･$d
+
+60. [MARKER: Message] [FACE: Ｆタマ] \.それよりお主。
+61. [MARKER: Message] [FACE: Ｆタマ] 姫さんが美人だからって
+ヘンな気を起こすニャよ。
+62. [MARKER: Message] [FACE: F鞍春] \.\S[2]･････････$d
+63. [MARKER: Message] [FACE: Ｆタマ] \.お主、無愛想だが
+『むっつりスケベー』という
+ことわざもあることだし
+油断は出来ないニャ。
+64. [MARKER: Message] [FACE: F鞍春] \.\.ことわざか、それ･･･？
+65. [MARKER: Message] [FACE: F鞍春] ･･･ん？
+66. [MARKER: Message] [FACE: F鞍春] ･･････！
+なんだ？！
+67. [MARKER: Message] [FACE: F鞍春] ･･････木の･･･根？
+68. [MARKER: Message] [FACE: F鞍春] そなたの仲間か？
+69. [MARKER: Message] [FACE: Ｆタマ] 違うニャ。
+「一つ目根」だニャ！
+70. [MARKER: Message] [FACE: Ｆタマ] オイラたちが
+ここへ住み込む前から
+ここにいる妖怪ニャ。
+71. [MARKER: Message] [FACE: Ｆタマ] じ、実物は初めて見たニャ！
+72. [MARKER: Message] [FACE: F鞍春] \S[2]一つ目･･････
+･･････人の目？
+73. [MARKER: Message] [FACE: Ｆタマ] ･･･この辺り一帯は
+昔、戦場だったニャ。
+74. [MARKER: Message] [FACE: Ｆタマ] 毎日毎日
+多くの兵士達が死んで
+多くの血を流した場所ニャ･･･
+75. [MARKER: Message] [FACE: Ｆタマ] \.その血を吸いながら育った樹木たちの
+変化した姿に違いないと
+言われているニャ。
+76. [MARKER: Message] [FACE: F鞍春] \.聞いたことがある。
+77. [MARKER: Message] [FACE: F鞍春] \.一説には
+死ぬ前に一目家族に会いたいと願った
+兵士達の変わり果てた姿とも･･･
+78. [MARKER: Message] [FACE: F鞍春] いずれにせよ
+２人とも敵だと 思われているようだ。
+79. [MARKER: Message] [FACE: F鞍春] 下がっていろ。ぽん太。
+80. [MARKER: Message] [FACE: Ｆタマ] １人じゃ無理ニャ！
+オイラも加勢するニャ！
+81. [MARKER: Message] [FACE: Ｆタマ] ･･････って、
+オイラの名前は『タマ』ニャ！！
+82. [MARKER: Message] [FACE: Ｆタマ] ふ～。
+83. [MARKER: Message] [FACE: Ｆタマ] \.しかし、お主
+
+84. [MARKER: Message] [FACE: Ｆタマ] そんな細腕で、結構強いニャ。
+85. [MARKER: Message] [FACE: Ｆお爺] ･･････ほっほっほ
+86. [MARKER: Message] [FACE: Ｆお爺] みね打ちだけで
+一つ目を倒すとは
+大した腕前じゃのう。
+87. [MARKER: Message] [FACE: Ｆ鬼] ふん。
+なかなか、やるじゃねーか。
+88. [MARKER: Message] [FACE: Ｆお爺] しかもなかなかの美形
+89. [MARKER: Message] [FACE: Ｆお爺] あれで少々
+無精ヒゲを生やせば
+わしの若い頃そっくりですじゃ。
+90. [MARKER: Message] [FACE: Ｆ鬼] ･･･ジジイ
+91. [MARKER: Message] [FACE: Ｆ鬼] チョット顔がいい奴が現れるとすぐ
+自分に似ているというのは やめろ。
+92. [MARKER: Message] [FACE: Ｆお爺] ほっほっほ。
+93. [MARKER: Message] [FACE: Ｆ鬼] のんきに笑ってる場合じゃねーだろ。
+94. [MARKER: Message] [FACE: Ｆ鬼] あれだけの腕がありゃ
+ジジイの１人や２人
+片手でひねり潰されるぞ。
+95. [MARKER: Message] [FACE: Ｆお爺] ほっほっほ
+最近ヒマしておりましたでな
+96. [MARKER: Message] [FACE: Ｆお爺] 楽しみですじゃ。
+97. [MARKER: Message] [FACE: Ｆ鬼] \.ふん。
+
+98. [MARKER: Message] [FACE: Ｆ鬼] \.ムリして
+また、ぎっくり腰になっても
+面倒みてやんねーからな。
+99. [MARKER: Message] [FACE: Ｆお爺] ま、そうならんよう まずは
+少々お手並み拝見といきますかな。
+100. [MARKER: Message] [FACE: Ｆ鬼] そうだな。
+まずは･･････
+101. [MARKER: Message] [FACE: Ｆ鬼] \.\S[2]奴に任せるとするか･･･
+102. [MARKER: Message] [FACE: F鞍春] ･･････。
+103. [MARKER: Message] [FACE: Ｆタマ] どしたニャ。
+104. [MARKER: Message] [FACE: F鞍春] \.･･････\.気のせいか？
+105. [MARKER: Message] [FACE: F鞍春] \.どこからか視線を感じたのだが･･･
+106. [MARKER: Message] [FACE: Ｆタマ] 視線？
+107. [MARKER: Message] [FACE: F鞍春] ･･････いや、気のせいか。
+108. [MARKER: Message] [FACE: Ｆタマ] \.誰もいないし･･･\.気のせいニャ。
+
+109. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+110. [MARKER: Message] [FACE: F鞍春] \.まだまだこの先
+いろんなのが出てきそうだな。
+111. [MARKER: Message] [FACE: Ｆタマ] \.なんニャ。
+いきなり立ち止まって。
+112. [MARKER: Message] [FACE: F鞍春] \.というか、そなたの方が
+ここの住人なのだから
+私よりも先に歩いて案内するのが
+普通ではないのか？
+113. [MARKER: Message] [FACE: Ｆタマ] オイラ新人で
+あんまり奥まで行ったことないから
+よくわからないニャ。
+114. [MARKER: Message] [FACE: F鞍春] \S[2]･･････新人･･･$d
+
+115. [MARKER: Message] [FACE: Ｆタマ] それよりお主。
+116. [MARKER: Message] [FACE: Ｆタマ] 姫さんが美人だからって
+ヘンな気を起こすニャよ。
+117. [MARKER: Message] [FACE: F鞍春] \S[2]･････････$d
+118. [MARKER: Message] [FACE: Ｆタマ] \.お主、無愛想だが
+『むっつりスケベー』という
+ことわざもあることだし
+油断は出来ないニャ。
+119. [MARKER: Message] [FACE: F鞍春] \.ことわざか、それ･･･？
+120. [MARKER: Message] [FACE: F鞍春] ･･･ん？
+121. [MARKER: Message] [FACE: F鞍春] ･･････！
+なんだ？！
+122. [MARKER: Message] [FACE: F鞍春] ･･････木の･･･根？
+123. [MARKER: Message] [FACE: F鞍春] そなたの仲間か？
+124. [MARKER: Message] [FACE: Ｆタマ] 違うニャ。
+「一つ目根」だニャ！
+125. [MARKER: Message] [FACE: Ｆタマ] オイラたちが
+ここへ住み込む前から
+ここにいる妖怪ニャ。
+126. [MARKER: Message] [FACE: Ｆタマ] じ、実物は初めて見たニャ！
+127. [MARKER: Message] [FACE: F鞍春] \S[2]一つ目･･････
+･･････人の目？
+128. [MARKER: Message] [FACE: Ｆタマ] ･･･この辺り一帯は
+昔、戦場だったニャ。
+129. [MARKER: Message] [FACE: Ｆタマ] 毎日毎日
+多くの兵士達が死んで
+多くの血を流した場所ニャ･･･
+130. [MARKER: Message] [FACE: Ｆタマ] \.その血を吸いながら育った樹木たちの
+変化した姿に違いないと
+言われているニャ。
+131. [MARKER: Message] [FACE: F鞍春] \.聞いたことがある。
+132. [MARKER: Message] [FACE: F鞍春] \.一説には
+死ぬ前に一目家族に会いたいと願った
+兵士達の変わり果てた姿とも･･･
+133. [MARKER: Message] [FACE: F鞍春] いずれにせよ
+２人とも敵だと 思われているようだ。
+134. [MARKER: Message] [FACE: F鞍春] 下がっていろ。ぽん太。
+135. [MARKER: Message] [FACE: Ｆタマ] １人じゃ無理ニャ！
+オイラも加勢するニャ！
+136. [MARKER: Message] [FACE: Ｆタマ] ･･････って、
+オイラの名前は『タマ』ニャ！！
+137. [MARKER: Message] [FACE: Ｆタマ] ふ～。
+138. [MARKER: Message] [FACE: Ｆタマ] \.しかし、お主
+
+139. [MARKER: Message] [FACE: Ｆタマ] そんな細腕で、結構強いニャ。
+140. [MARKER: Message] [FACE: Ｆお爺] ･･････ほっほっほ
+141. [MARKER: Message] [FACE: Ｆお爺] みね打ちだけで
+一つ目を倒すとは
+大した腕前じゃのう。
+142. [MARKER: Message] [FACE: Ｆ鬼] ふん。
+なかなか、やるじゃねーか。
+143. [MARKER: Message] [FACE: Ｆお爺] しかもなかなかの美形
+144. [MARKER: Message] [FACE: Ｆお爺] あれで少々
+無精ヒゲを生やせば
+わしの若い頃そっくりですじゃ。
+145. [MARKER: Message] [FACE: Ｆ鬼] ･･･ジジイ
+146. [MARKER: Message] [FACE: Ｆ鬼] チョット顔がいい奴が現れるとすぐ
+自分に似ているというのは やめろ。
+147. [MARKER: Message] [FACE: Ｆお爺] ほっほっほ。
+148. [MARKER: Message] [FACE: Ｆ鬼] のんきに笑ってる場合じゃねーだろ。
+149. [MARKER: Message] [FACE: Ｆ鬼] あれだけの腕がありゃ
+ジジイの１人や２人
+片手でひねり潰されるぞ。
+150. [MARKER: Message] [FACE: Ｆお爺] ほっほっほ
+最近ヒマしておりましたでな
+151. [MARKER: Message] [FACE: Ｆお爺] 楽しみですじゃ。
+152. [MARKER: Message] [FACE: Ｆ鬼] \.ふん。
+
+153. [MARKER: Message] [FACE: Ｆ鬼] \.ムリして
+また、ぎっくり腰になっても
+面倒みてやんねーからな。
+154. [MARKER: Message] [FACE: Ｆお爺] ま、そうならんよう まずは
+少々お手並み拝見といきますかな。
+155. [MARKER: Message] [FACE: Ｆ鬼] そうだな。
+まずは･･････
+156. [MARKER: Message] [FACE: Ｆ鬼] \.奴に任せるとするか･･･
+157. [MARKER: Message] [FACE: F鞍春] ･･････。
+158. [MARKER: Message] [FACE: Ｆタマ] どしたニャ。
+159. [MARKER: Message] [FACE: F鞍春] \.･･････\.気のせいか？
+160. [MARKER: Message] [FACE: F鞍春] \.どこからか視線を感じたのだが･･･
+161. [MARKER: Message] [FACE: Ｆタマ] 視線？
+162. [MARKER: Message] [FACE: F鞍春] ･･････いや、気のせいか。
+163. [MARKER: Message] [FACE: Ｆタマ] \.誰もいないし･･･\.気のせいニャ。
+
+164. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+165. [MARKER: Message] [FACE: F鞍春] \.まだまだこの先
+いろんなのが出てきそうだな。

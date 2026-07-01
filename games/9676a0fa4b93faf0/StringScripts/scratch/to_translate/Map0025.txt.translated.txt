@@ -1,0 +1,29 @@
+﻿1. [MARKER: Message] 受付「
+歡迎光臨。
+請問您要購買前往印度的船票嗎？
+2. [MARKER: Message] \$受付「
+船票為１００Ｄ。
+請問可以嗎？
+3. [MARKER: Message] 受付「
+感謝您的惠顧。
+請收好您的船票。
+4. [MARKER: Message] 
+　　　　　　　獲得了乘船票！！
+5. [MARKER: Message] 受付「
+即將出發。
+請快些前往。
+6. [MARKER: Message] 受付「
+不好意思……您的錢好像不夠……
+7. [MARKER: Message] 受付「
+歡迎再次蒞臨。
+8. [MARKER: Message] 受付「
+歡迎再次蒞臨。
+9. [MARKER: Message] 受付「
+歡迎再次蒞臨。
+10. [MARKER: Message] 受付「
+您似乎已經持有船票了。\.
+感謝您的惠顧。
+11. [MARKER: Message] 受付「
+目前英國出港受到管制，\.
+一般乘客禁止搭乘。
+非常抱歉……

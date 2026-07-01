@@ -1,0 +1,1151 @@
+﻿**********Event1**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「おまえの心は、
+　まだ変わらぬのか？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「この俺の愛を、
+　まだ受けいれては、くれぬのか……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「この魔法陣の中にいるかぎり、
+　おまえの祝福は、
+　呪いへと変わって、人間へと届く」
+##
+
+
+#Message#
+魔王
+「おまえが我が愛を
+　受けいれぬかぎりな……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「まあ、いい……」
+##
+
+
+#Message#
+魔王
+「おたがいに、永遠に近い時間を持つ
+　魔族と、神族……」
+##
+
+
+#Message#
+魔王
+「百億の昼と夜を重ねたのなら、
+　いつか、
+　光と闇が混じりあう日も、くるだろう」
+##
+
+
+#Message#
+魔王
+「俺はいつまでも、
+　待ちつづけるぞ……」
+##
+
+
+#Message#
+魔王
+「おまえの心が、
+　変わるまで……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+
+-----Page2-----
+#Message#
+魔王
+「さぁ……、
+　この俺から……、
+　彼女を……奪ってゆくがいい！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 11, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「なに言ってんだい！」
+##
+
+
+#Message#
+マリオン
+「あんたっ！
+　この女の子……じゃなくて、
+　女神様のことが好きなんだろっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「も、もちろんだ……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 11, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「好きな女の子を、
+　こんなところに繋いでおくやつが、
+　どこにいるんだいっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「そうよ！　そうよっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ユリア
+「たしかに……
+　これはちょっと……、
+　ひどすぎますわね……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「お、俺は……、こうして……、
+　彼女の心変わりを……
+　……待っているのだ」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「なに言ってんだか……」
+##
+
+
+#Message#
+キサラ
+「こんな仕打ちされて、
+　好きになってもらえるはず、
+　ないじゃないのさ……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 13, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ロッカ
+「そ、そうです……」
+##
+
+
+#Message#
+ロッカ
+「きっと……、
+　魔王さん、
+　嫌われちゃってると……思います」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 15, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+アネット
+「そうそう……。
+　もう完璧だよね……、
+　これはさっ」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「そ、そんなことはっ……ないぞっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「なにを根拠に……、
+　そんなこと……、
+　言えちゃうわけ？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「そ、それはっ……」
+##
+
+
+#Message#
+魔王
+「み、見ていろ……」
+##
+
+
+#Message#
+魔王
+「おまえに、ひとつ聞く……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「俺の質問に、
+　首を振って、答えてくれ……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「おまえは、
+　この俺を……、愛しているか？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「あ、いま首……、
+　横に振った」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「……ってことは」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 15, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+アネット
+「あはは……、
+　ノーだ、ノーだ……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「ほらみなさい。
+　やっぱり嫌われてるんじゃないの」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「やかましいぞ……。
+　だまって見ていろ。
+　このメスども……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「なんですって？
+　メ、メス……？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「いま一度、おまえに訊ねる……。
+　この俺は……」
+##
+
+
+#Message#
+魔王
+「俺のことは……、嫌いか？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ロッカ
+「えっ……？
+　あの……、
+　ということは……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「ほぅら、見ろ……」
+##
+
+
+#Message#
+魔王
+「俺はっ……、
+　嫌われているわけではっ……！」
+##
+
+
+#Message#
+魔王
+「ないのだぁっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「バカねっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「質問のしかたが、なってないっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 16, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「そうそう」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「論理的じゃないわね。設問が」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 14, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+アネット
+「わかってないんだよね、決定的に」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 13, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ロッカ
+「あの……、
+　わたしも、違うと思います」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ユリア
+「……そうですわね」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「うるさいだまれっ！　このメスども！
+　いったい！　なにがっ！　どうっ！
+　違うというのだっ!?」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「いい……？
+　こういうふうに、質問しなきゃだめよ」
+##
+
+
+#Message#
+キサラ
+「あなた……」
+##
+
+
+#Message#
+キサラ
+「このオトコのこと……」
+##
+
+
+#Message#
+キサラ
+「だいっきらい……なのよね？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 7, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「ほらみなさい。
+　嫌われてるなんて、
+　なまやさしいもんじゃ、ないんだから」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「やーい、
+　ふられんぼー！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 15, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+アネット
+「あははははっ。
+　はずかしー！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「そ、そんな……。
+　俺は……、俺のしていたことは……、
+　いったい……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「まあ……、言うなら」
+##
+
+
+#Message#
+キサラ
+「はじめから、望みもなんにも
+　ありはしなくって、ゴキブリみたいに
+　嫌われてたフラレ男が……」
+##
+
+
+#Message#
+キサラ
+「何十年も、
+　あきらめ悪く迫りつづけてた……って
+　そんなところかしらね」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「カッコわるーい」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 15, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+アネット
+「最低だけど……、
+　こりゃ最高だねっ」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「お、おまえたち……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+アネット
+「な、なによ……。
+　あんたたち、
+　まだ、やろうっていうの？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「やっちゃえ！　やっちゃえ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ユリア
+「いいんですか？　\n[1]さん。
+　ほらっ……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ロッカ
+「あっ、あのっ……。
+　\n[1]さん……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「ほら、\n[1]……。
+　止めてやるんだろ？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+はい
+いいえ
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 16, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「うん、わかった。
+　あたしもそれがいいと思う」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「そう言わないでさ……。
+　止めてやんなって」
+##
+
+
+#Message#
+マリオン
+「おんなじ男なんだからさ、
+　気持ち、わかるんじゃないの……？
+　あたし、女だからよくわかんないけど」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「ほらっ、みんなみんなっ！
+　やめやめっ！
+　おしまい、おしまいっ！」
+##
+
+
+#Message#
+マリオン
+「ほらっ、\n[1]も、
+　やめろって言ってるよー」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「そうそう。
+　三枚目さんには、
+　退場させてやんなさい」
+##
+
+
+#Message#
+キサラ
+「そんな、
+　死人に鞭打つようなマネ……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「じゃあさ……、
+　石なら、投げてもいい？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「だめ」
+##
+
+
+
+-----Page3-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「行っちゃった……ね」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ユリア
+「あの、\n[1]さん……。
+　女神様を、お助けしないと……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「あ、そうだっけ……」
+##
+
+
+#Message#
+キサラ
+「ふんふん……。
+　この魔法陣は……っと」
+##
+
+
+#Message#
+キサラ
+「呪力反転と……、
+　あと、静音の図式みたいね……」
+##
+
+
+#Message#
+キサラ
+「んじゃ、入っても平気か……」
+##
+
+
+#Message#
+キサラ
+「いいわよ、ロッカ……。
+　入っても」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ロッカ
+「えっ？　えっ？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「ほらっ……、
+　女神様、助ける。
+　はやくする！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ロッカ
+「は、はいっ……」
+##
+
+
+#Message#
+ロッカ
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ロッカ
+「あ、あのっ……。
+　鎖がついてます。鎖が足に……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「どれどれ……？」
+##
+
+
+#Message#
+マリオン
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「ねぇーっ！
+　鎖……、神鉄とかだったら、
+　装備持ってこないと、外せないよー！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「だいじょぶ、だいじょぶ。
+　ただの鉄の鎖みたい……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「ちょっとー！
+　普通の鎖だって、
+　道具がないと、外せないよー！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「……って、
+　ありゃりゃりゃ……、
+　外しちゃった、しかも素手で……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「よし、外れた」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「外れたってね……
+　あんた……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ユリア
+「さぁ……、女神様……。
+　もうだいじょうぶですよ。
+　こちらへ……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ユリア
+「さぁ、女神様……。
+　もう、だいじょう……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「あーーーもおおぉぉーーっ！
+　ちょおぉーむかついたぁぁーーーっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ユリア
+「え……？
+　えっ？　えっ？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「もおぉーサイアクぅーってカンジぃ！
+　やめてよねーもおぉーーーっ！」
+##
+
+
+#Message#
+女神
+「４７年よっ！
+　ヨンジュウナナネンッ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 12, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ロッカ
+「は、はいっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「俺のことを愛してるか、って質問っ！
+　朝晩欠かさず！
+　３８５３２回よっ！」
+##
+
+
+#Message#
+女神
+「サンマンハッセン
+　ゴヒャクサンジュウニカイっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+マリオン
+「そ、そりゃぁ大変」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「ああーっ！　もうっ！
+　いったいどうしてくれんのよぉぉっ！」
+##
+
+
+#Message#
+女神
+「あいつのおかげで、
+　営業成績っ！
+　もおっ、がた落ちじゃないのぉぉっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+キサラ
+「どうどう」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「ああーん！
+　今世紀のノルマっ！
+　達成できないじゃないのっ！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+リリー
+「あのっ……、
+　ノ、ノルマ……って？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「あーん！
+　恋の女神おろされちゃったら、
+　あいつのせいよっ！」
+##
+
+
+#Message#
+女神
+「そうなったら、呪ってやるっ！
+　呪ってやるからぁーっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 14, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+アネット
+「いや、呪うのは、ちょっと……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「あのニヒリストの
+　スケコマシの
+　トウヘンボクがぁぁっ！」
+##
+
+
+#Message#
+女神
+「勝手におしかけてきて！
+　今度は勝手にいなくなってっ！」
+##
+
+
+#Message#
+女神
+「ぜったい文句言ってやろうって、
+　思ってたのにぃーーっ！」
+##
+
+
+#Message#
+女神
+「勝手にいなくなってぇーーっ！
+　もうーーーっ！」
+##
+
+
+#Message#
+女神
+「そこのあなたっ！
+　あたしが満足するまでっ！
+　グチにつきあってもらいますからっ！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「いいわねっ!?」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+はい
+いいえ
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+　そうして、
+　女神のグチは、
+　三日三晩のあいだ、繰り広げられた……。
+##
+
+
+#Message#
+　そして三日後……。
+　\n[1]は、村に帰ってきた。
+##
+
+
+
+

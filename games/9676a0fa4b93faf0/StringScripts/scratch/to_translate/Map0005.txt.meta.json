@@ -1,0 +1,373 @@
+[
+  {
+    "idx": 1,
+    "face": "顔002, 2, Right, Flip Horizontal",
+    "start_line_idx": 4,
+    "end_line_idx": 7,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 2,
+    "face": "イゾウ, 1, Left, Normal",
+    "start_line_idx": 12,
+    "end_line_idx": 15,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 3,
+    "face": "Erase",
+    "start_line_idx": 20,
+    "end_line_idx": 25,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 4,
+    "face": "顔002, 2, Right, Flip Horizontal",
+    "start_line_idx": 32,
+    "end_line_idx": 36,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 5,
+    "face": "イゾウ, 1, Left, Normal",
+    "start_line_idx": 41,
+    "end_line_idx": 45,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 6,
+    "face": "Erase",
+    "start_line_idx": 50,
+    "end_line_idx": 53,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 7,
+    "face": "Erase",
+    "start_line_idx": 56,
+    "end_line_idx": 59,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 8,
+    "face": "Erase",
+    "start_line_idx": 62,
+    "end_line_idx": 65,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 9,
+    "face": "Erase",
+    "start_line_idx": 68,
+    "end_line_idx": 71,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 10,
+    "face": "Erase",
+    "start_line_idx": 74,
+    "end_line_idx": 79,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 11,
+    "face": "Erase",
+    "start_line_idx": 82,
+    "end_line_idx": 85,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 12,
+    "face": "Erase",
+    "start_line_idx": 88,
+    "end_line_idx": 93,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 13,
+    "face": "Erase",
+    "start_line_idx": 96,
+    "end_line_idx": 100,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 14,
+    "face": "Erase",
+    "start_line_idx": 103,
+    "end_line_idx": 106,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 15,
+    "face": "Erase",
+    "start_line_idx": 113,
+    "end_line_idx": 116,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 16,
+    "face": "Erase",
+    "start_line_idx": 125,
+    "end_line_idx": 128,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 17,
+    "face": "Erase",
+    "start_line_idx": 131,
+    "end_line_idx": 134,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 18,
+    "face": "Erase",
+    "start_line_idx": 137,
+    "end_line_idx": 140,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 19,
+    "face": "Erase",
+    "start_line_idx": 145,
+    "end_line_idx": 149,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 20,
+    "face": "Erase",
+    "start_line_idx": 154,
+    "end_line_idx": 157,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 21,
+    "face": "Erase",
+    "start_line_idx": 166,
+    "end_line_idx": 169,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 22,
+    "face": "Erase",
+    "start_line_idx": 172,
+    "end_line_idx": 175,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 23,
+    "face": "Erase",
+    "start_line_idx": 178,
+    "end_line_idx": 181,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 24,
+    "face": "Erase",
+    "start_line_idx": 186,
+    "end_line_idx": 189,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 25,
+    "face": "Erase",
+    "start_line_idx": 194,
+    "end_line_idx": 197,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 26,
+    "face": "Erase",
+    "start_line_idx": 200,
+    "end_line_idx": 204,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 27,
+    "face": "Erase",
+    "start_line_idx": 207,
+    "end_line_idx": 210,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 28,
+    "face": "Erase",
+    "start_line_idx": 213,
+    "end_line_idx": 217,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 29,
+    "face": "Erase",
+    "start_line_idx": 220,
+    "end_line_idx": 224,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 30,
+    "face": "Erase",
+    "start_line_idx": 227,
+    "end_line_idx": 231,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 31,
+    "face": "Erase",
+    "start_line_idx": 236,
+    "end_line_idx": 239,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 32,
+    "face": "Erase",
+    "start_line_idx": 246,
+    "end_line_idx": 249,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 33,
+    "face": "Erase",
+    "start_line_idx": 256,
+    "end_line_idx": 259,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 34,
+    "face": "Erase",
+    "start_line_idx": 262,
+    "end_line_idx": 265,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 35,
+    "face": "Erase",
+    "start_line_idx": 268,
+    "end_line_idx": 271,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 36,
+    "face": "Erase",
+    "start_line_idx": 274,
+    "end_line_idx": 277,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 37,
+    "face": "Erase",
+    "start_line_idx": 280,
+    "end_line_idx": 284,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 38,
+    "face": "Erase",
+    "start_line_idx": 287,
+    "end_line_idx": 291,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 39,
+    "face": "Erase",
+    "start_line_idx": 294,
+    "end_line_idx": 297,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 40,
+    "face": "Erase",
+    "start_line_idx": 300,
+    "end_line_idx": 303,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 41,
+    "face": "Erase",
+    "start_line_idx": 306,
+    "end_line_idx": 310,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 42,
+    "face": "Erase",
+    "start_line_idx": 317,
+    "end_line_idx": 320,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 43,
+    "face": "Erase",
+    "start_line_idx": 327,
+    "end_line_idx": 330,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 44,
+    "face": "Erase",
+    "start_line_idx": 337,
+    "end_line_idx": 340,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 45,
+    "face": "Erase",
+    "start_line_idx": 347,
+    "end_line_idx": 350,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 46,
+    "face": "Erase",
+    "start_line_idx": 357,
+    "end_line_idx": 360,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 47,
+    "face": "Erase",
+    "start_line_idx": 367,
+    "end_line_idx": 370,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 48,
+    "face": "Erase",
+    "start_line_idx": 377,
+    "end_line_idx": 380,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 49,
+    "face": "Erase",
+    "start_line_idx": 387,
+    "end_line_idx": 390,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 50,
+    "face": "Erase",
+    "start_line_idx": 397,
+    "end_line_idx": 400,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 51,
+    "face": "Erase",
+    "start_line_idx": 407,
+    "end_line_idx": 410,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 52,
+    "face": "Erase",
+    "start_line_idx": 417,
+    "end_line_idx": 420,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 53,
+    "face": "Erase",
+    "start_line_idx": 427,
+    "end_line_idx": 430,
+    "num_content_lines": 2
+  }
+]

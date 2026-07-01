@@ -1,0 +1,450 @@
+[
+  {
+    "idx": 1,
+    "face": null,
+    "start_line_idx": 2,
+    "end_line_idx": 5,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 2,
+    "face": null,
+    "start_line_idx": 8,
+    "end_line_idx": 11,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 3,
+    "face": null,
+    "start_line_idx": 14,
+    "end_line_idx": 19,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 4,
+    "face": null,
+    "start_line_idx": 22,
+    "end_line_idx": 27,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 5,
+    "face": null,
+    "start_line_idx": 30,
+    "end_line_idx": 34,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 6,
+    "face": null,
+    "start_line_idx": 37,
+    "end_line_idx": 42,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 7,
+    "face": null,
+    "start_line_idx": 45,
+    "end_line_idx": 49,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 8,
+    "face": null,
+    "start_line_idx": 52,
+    "end_line_idx": 55,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 9,
+    "face": null,
+    "start_line_idx": 58,
+    "end_line_idx": 62,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 10,
+    "face": null,
+    "start_line_idx": 65,
+    "end_line_idx": 68,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 11,
+    "face": null,
+    "start_line_idx": 71,
+    "end_line_idx": 74,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 12,
+    "face": null,
+    "start_line_idx": 79,
+    "end_line_idx": 82,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 13,
+    "face": null,
+    "start_line_idx": 87,
+    "end_line_idx": 91,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 14,
+    "face": null,
+    "start_line_idx": 94,
+    "end_line_idx": 97,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 15,
+    "face": null,
+    "start_line_idx": 100,
+    "end_line_idx": 103,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 16,
+    "face": null,
+    "start_line_idx": 106,
+    "end_line_idx": 110,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 17,
+    "face": null,
+    "start_line_idx": 115,
+    "end_line_idx": 118,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 18,
+    "face": null,
+    "start_line_idx": 121,
+    "end_line_idx": 124,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 19,
+    "face": null,
+    "start_line_idx": 127,
+    "end_line_idx": 132,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 20,
+    "face": null,
+    "start_line_idx": 135,
+    "end_line_idx": 139,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 21,
+    "face": null,
+    "start_line_idx": 144,
+    "end_line_idx": 147,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 22,
+    "face": null,
+    "start_line_idx": 156,
+    "end_line_idx": 159,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 23,
+    "face": null,
+    "start_line_idx": 162,
+    "end_line_idx": 165,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 24,
+    "face": null,
+    "start_line_idx": 168,
+    "end_line_idx": 171,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 25,
+    "face": null,
+    "start_line_idx": 174,
+    "end_line_idx": 177,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 26,
+    "face": null,
+    "start_line_idx": 180,
+    "end_line_idx": 184,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 27,
+    "face": null,
+    "start_line_idx": 187,
+    "end_line_idx": 190,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 28,
+    "face": null,
+    "start_line_idx": 193,
+    "end_line_idx": 196,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 29,
+    "face": null,
+    "start_line_idx": 199,
+    "end_line_idx": 202,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 30,
+    "face": null,
+    "start_line_idx": 205,
+    "end_line_idx": 209,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 31,
+    "face": null,
+    "start_line_idx": 212,
+    "end_line_idx": 215,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 32,
+    "face": null,
+    "start_line_idx": 218,
+    "end_line_idx": 221,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 33,
+    "face": null,
+    "start_line_idx": 228,
+    "end_line_idx": 231,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 34,
+    "face": null,
+    "start_line_idx": 236,
+    "end_line_idx": 239,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 35,
+    "face": null,
+    "start_line_idx": 242,
+    "end_line_idx": 246,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 36,
+    "face": null,
+    "start_line_idx": 249,
+    "end_line_idx": 252,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 37,
+    "face": null,
+    "start_line_idx": 255,
+    "end_line_idx": 259,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 38,
+    "face": null,
+    "start_line_idx": 262,
+    "end_line_idx": 267,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 39,
+    "face": null,
+    "start_line_idx": 270,
+    "end_line_idx": 273,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 40,
+    "face": null,
+    "start_line_idx": 276,
+    "end_line_idx": 279,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 41,
+    "face": null,
+    "start_line_idx": 282,
+    "end_line_idx": 286,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 42,
+    "face": "イゾウ, 1, Left, Normal",
+    "start_line_idx": 291,
+    "end_line_idx": 293,
+    "num_content_lines": 1
+  },
+  {
+    "idx": 43,
+    "face": "イゾウ, 1, Left, Normal",
+    "start_line_idx": 302,
+    "end_line_idx": 305,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 44,
+    "face": "Erase",
+    "start_line_idx": 310,
+    "end_line_idx": 313,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 45,
+    "face": "Erase",
+    "start_line_idx": 316,
+    "end_line_idx": 319,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 46,
+    "face": "Erase",
+    "start_line_idx": 322,
+    "end_line_idx": 325,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 47,
+    "face": "Erase",
+    "start_line_idx": 328,
+    "end_line_idx": 333,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 48,
+    "face": "Erase",
+    "start_line_idx": 336,
+    "end_line_idx": 339,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 49,
+    "face": "Erase",
+    "start_line_idx": 342,
+    "end_line_idx": 345,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 50,
+    "face": "Erase",
+    "start_line_idx": 350,
+    "end_line_idx": 355,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 51,
+    "face": "Erase",
+    "start_line_idx": 360,
+    "end_line_idx": 363,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 52,
+    "face": "イゾウ, 1, Left, Normal",
+    "start_line_idx": 368,
+    "end_line_idx": 370,
+    "num_content_lines": 1
+  },
+  {
+    "idx": 53,
+    "face": "イゾウ, 1, Left, Normal",
+    "start_line_idx": 379,
+    "end_line_idx": 383,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 54,
+    "face": "Erase",
+    "start_line_idx": 388,
+    "end_line_idx": 391,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 55,
+    "face": "Erase",
+    "start_line_idx": 394,
+    "end_line_idx": 397,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 56,
+    "face": "Erase",
+    "start_line_idx": 400,
+    "end_line_idx": 403,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 57,
+    "face": "Erase",
+    "start_line_idx": 406,
+    "end_line_idx": 411,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 58,
+    "face": "Erase",
+    "start_line_idx": 414,
+    "end_line_idx": 417,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 59,
+    "face": "Erase",
+    "start_line_idx": 420,
+    "end_line_idx": 423,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 60,
+    "face": "Erase",
+    "start_line_idx": 428,
+    "end_line_idx": 433,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 61,
+    "face": "Erase",
+    "start_line_idx": 440,
+    "end_line_idx": 444,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 62,
+    "face": "Erase",
+    "start_line_idx": 451,
+    "end_line_idx": 456,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 63,
+    "face": "Erase",
+    "start_line_idx": 459,
+    "end_line_idx": 462,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 64,
+    "face": "Erase",
+    "start_line_idx": 465,
+    "end_line_idx": 469,
+    "num_content_lines": 3
+  }
+]

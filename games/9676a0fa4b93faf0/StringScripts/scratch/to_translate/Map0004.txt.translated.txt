@@ -1,0 +1,18 @@
+﻿1. [MARKER: Message] 
+　　　　　　　　　　　您……
+2. [MARKER: Message] 
+　　　　　您曾有過這樣的感覺嗎？
+3. [MARKER: Message] 
+　　　　　Ｓｏｕｌ　Ｏｆ　Ｄａｎｄｉｚｕｍ
+4. [MARKER: Message] 
+　　　　　　新曆２０３年　８月１５日
+5. [MARKER: Message] 
+　　　　　這個故事，從監獄都市凡爾賽的
+　　　　　一間「萬事屋」的早晨開始……
+6. [MARKER: Message] ＊「
+喂——起床啦——！！
+7. [MARKER: Message] ＊「
+唔……嗯……
+好睏……
+8. [MARKER: Message] \N[1]「
+呼啊啊啊，睡眠不足……

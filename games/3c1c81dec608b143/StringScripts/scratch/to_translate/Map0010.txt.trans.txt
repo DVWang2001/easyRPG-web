@@ -1,0 +1,33 @@
+﻿1. [MARKER: Message] [FACE: Ｆタマ] \.アレ？
+2. [MARKER: Message] [FACE: Ｆタマ] 姫さん、おらんニャ～。
+3. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+4. [MARKER: Message] [FACE: Ｆタマ] いつもだったらこの辺で
+\.かったるそうに、こう
+脇息にもたれかかって
+5. [MARKER: Message] [FACE: Ｆタマ] こんな風に
+\.お尻をぽりぽり掻いてるんだけどニャ。
+6. [MARKER: Message] [FACE: F鞍春] \.おらぬか･･････。
+7. [MARKER: Message] [FACE: F鞍春] \.では仕方ない。
+帰るとするか。
+8. [MARKER: Message] [FACE: Ｆタマ] あ、コラ、待つニャ！
+9. [MARKER: Message] [FACE: Ｆタマ] ここまで来て帰るとは
+なんニャ！
+10. [MARKER: Message] [FACE: F鞍春] \.･････････。
+11. [MARKER: Message] [FACE: Ｆタマ] 姫さんなら、
+きっと上におるニャ。
+12. [MARKER: Message] [FACE: F鞍春] \.\S[2]････････････。
+13. [MARKER: Message] [FACE: Ｆタマ] 　\.？
+14. [MARKER: Message] [FACE: Ｆタマ] \.なんか迷うとるんかいニャ？
+15. [MARKER: Message] [FACE: F鞍春] \S[2]･････････
+16. [MARKER: Message] [FACE: F鞍春] \.いや･･･。
+17. [MARKER: Message] [FACE: Ｆタマ] \.なら、行くニャ。
+18. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\C[17]\S[2]はたして私がここへ来たのは
+19. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\S[2]\C[17]あの男のためなのか
+\.それとも自分のためなのか･･･
+20. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\S[2]\C[17]本当はここへは
+やって来たくなかったのかもしれない
+21. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\S[2]\C[17]本当はあの人に･･･
+22. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\S[2]\C[17]会いたくはなかったのかもしれない･･････
+23. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[3]ではなぜ･･････
+24. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[4]\C[17]あの人に･･････
+25. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]\C[17]告げなくてはならないことがあるから･･････？

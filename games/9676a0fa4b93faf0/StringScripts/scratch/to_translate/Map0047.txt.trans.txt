@@ -1,0 +1,211 @@
+﻿1. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+2. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+3. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+4. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+5. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+6. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+7. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+8. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+9. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+10. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+11. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+12. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+13. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+14. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+15. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+16. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+17. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+18. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+19. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+20. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+21. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+22. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+23. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+24. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+25. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+26. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+27. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+28. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+29. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+30. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+31. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+32. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+33. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+34. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+35. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+36. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+37. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+38. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+39. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+40. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+41. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+42. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+43. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+44. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+45. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+46. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+47. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+48. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+49. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+50. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+51. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+52. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+53. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+54. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+55. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+56. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+57. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+58. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+59. [MARKER: Message] オンドレ「
+イゾウ！　カギがもう無いぞ！
+60. [MARKER: Message] イゾウ「
+ってコトは・・もうフロア内の扉が開けられない
+ってコトか・・。
+61. [MARKER: Message] オスカー「
+諦めるしかないな・・・。
+62. [MARKER: Message] 
+　　　カギを使ったら、戸棚にしまいましょう
+
+　　　　　　　　　　　　　　　　　中国兵団委員会
+63. [MARKER: Message] イゾウ「
+・・・・カギを見つけたぞ。
+64. [MARKER: Message] オスカー「
+合鍵が４つ、違うカギが１つあるみたいだな。
+ここしばらく使われていないせいか
+カギがボロボロだ・・。
+65. [MARKER: Message] イゾウ「
+つまり、使うと壊れるってコトですか・・。
+66. [MARKER: Message] 
+　 使い捨てのカギ４つ、入り口のカギ１つゲット！
+67. [MARKER: Message] イゾウ「
+もうカギは取ったな。
+68. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+69. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+70. [MARKER: Message] 警備兵「
+何者だ！　貴様ら！！？
+71. [MARKER: Message] 警備兵「
+ぐふっ・・・・。
+72. [MARKER: Message] イゾウ「
+カギもあれば警備兵もいる・・。
+何なんだこのフロアは・・。
+73. [MARKER: Message] オスカー「
+それだけ重要なモノが眠っているというのか・・？
+74. [MARKER: Message] イゾウ「
+このフロアに漂う気配からすると
+警備兵は今のだけじゃなさそうだしな・・。
+75. [MARKER: Message] オスカー「
+それに合鍵が４つ・・。
+これをうまく使えば、警備兵との
+争いも避けられそうだ。
+76. [MARKER: Message] イゾウ「
+考えるの面倒だから、警備兵倒して
+強行突破といこうか？
+カギも無駄にならないし。
+77. [MARKER: Message] オスカー「
+\S[3]・・・・・・。
+\S[1]いい・・お前にまかせる・・。
+78. [MARKER: Message] 
+　　　　合鍵４つをうまく使って、小部屋まで
+　　　　　　　たどり着いてください。
+79. [MARKER: Message] 
+　　　　　　　小部屋にたどり着く前に
+　　４つの合鍵が無くなると、やり直しになります。
+80. [MARKER: Message] オスカー「
+兵士達の気配が感じられない・・・。
+81. [MARKER: Message] イゾウ「
+\S[3]・・・・\S[2]まさか・・・。
+\S[1]全員誰かに殺られた・・！？
+82. [MARKER: Message] オスカー「
+怖いコト言うな・・。
+おそらく私達の行動を知って
+ここの陛下の下へ集結したのであろう。
+83. [MARKER: Message] イゾウ「
+ってコトは・・後であれだけの兵を
+相手取らなければならないのか・・。
+84. [MARKER: Message] オスカー「
+そういうことだ。
+85. [MARKER: Message] イゾウ「
+あ・・開かない・・！
+86. [MARKER: Message] オスカー「
+カギが必要・・みたいだな・・。
+87. [MARKER: Message] イゾウ「
+あの戸棚・・怪しいな・・。
+88. [MARKER: Message] イゾウ「
+これは・・・？
+89. [MARKER: Message] オスカー「
+この階の全体図・・・？
+90. [MARKER: Message] オスカー「
+えっと・・・。
+91. [MARKER: Message] 　　　侵入者に備え、上記どおりに兵を配置せよ。
+　　　　　\C[5]赤\C[0]は兵、\C[4]黄\C[0]は扉、
+　　　　　そして\C[9]緑\C[0]は死守すべし場所である。
+92. [MARKER: Message] オスカー「
+と、いうことらしい。
+ようは、このフロアの中心に何かあるということだな。
+93. [MARKER: Message] 　　　侵入者に備え、上記どおりに兵を配置せよ。
+　　　　　\C[5]赤\C[0]は兵、\C[4]黄\C[0]は扉、
+　　　　　そして\C[9]緑\C[0]は死守すべし場所である。
+94. [MARKER: Message] オンドレ「
+だ・・大迷宮だな・・・(ゴクッ・・)
+95. [MARKER: Message] 
+　　　　　内側からカギがかかっている！

@@ -1,0 +1,12 @@
+﻿1. [MARKER: Message] 国民「
+せまい。
+2. [MARKER: Message] ディスカウントショップ「
+らっしゃい！
+3. [MARKER: Message] ディスカウントショップ「
+安くても、性能は同じだからね！
+4. [MARKER: Message] 男「
+任務完了、機能を一時的に停止します・・・。
+5. [MARKER: Message] 
+　　機能停止しているため、ピクリとも動かない。
+6. [MARKER: Message] オンドレ「
+薬屋さんです。

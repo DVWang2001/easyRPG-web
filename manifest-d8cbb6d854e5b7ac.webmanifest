@@ -1,0 +1,30 @@
+{
+  "name": "花嫁之冠",
+  "short_name": "花嫁之冠",
+  "id": "play-d8cbb6d854e5b7ac.html",
+  "start_url": "play-d8cbb6d854e5b7ac.html",
+  "scope": "play-d8cbb6d854e5b7ac.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "games/d8cbb6d854e5b7ac/pwa-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "games/d8cbb6d854e5b7ac/pwa-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "games/d8cbb6d854e5b7ac/pwa-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

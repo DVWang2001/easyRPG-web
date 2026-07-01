@@ -1,0 +1,64 @@
+/* 留言＋評分面板：RM 藍訊息窗框＋金游標（token 附 inline fallback 以防單獨載入） */
+#cm-panel { position: fixed; inset: 0; z-index: 11000; }
+#cm-panel[hidden] { display: none; }
+#cm-panel .cm-backdrop { position: absolute; inset: 0; background: rgba(6,9,28,.66); }
+#cm-panel .cm-dialog {
+  position: relative; max-width: 720px; margin: 5vh auto; max-height: 90vh;
+  display: flex; flex-direction: column; color: #eaf0ff;
+  background: var(--panel,#141828);
+  border: 1px solid var(--win-lo,#0a1140); border-radius: 14px; overflow: hidden;
+  box-shadow: inset 0 0 0 1px rgba(159,180,255,.30), 0 14px 44px rgba(6,9,28,.7);
+}
+/* 標題列＝ RM 視窗標題列（藍漸層） */
+#cm-panel .cm-head {
+  display: flex; align-items: center; gap: 10px; padding: 12px 16px;
+  background: linear-gradient(180deg, var(--win-top,#3f5fcc), var(--win-bot,#16225e));
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.18);
+  border-bottom: 1px solid var(--win-lo,#0a1140);
+}
+#cm-panel .cm-head .cm-gametitle { font-size: 16px; font-weight: 700; flex: 0 1 auto; }
+#cm-panel .cm-head .cm-auth { margin-left: auto; font-size: 12px; color: #cdd8ff; }
+#cm-panel .cm-head .cm-close { background: none; border: none; color: #dbe3ff; font-size: 18px; cursor: pointer; }
+#cm-panel .cm-head .cm-close:hover { color: var(--gold,#f5c542); }
+#cm-panel button { cursor: pointer; }
+#cm-panel .cm-auth button, #cm-panel .cm-submit, #cm-panel .cm-del {
+  border: 1px solid var(--chip-line,#2c3350); background: var(--chip,#171c2e); color: #c3c9ea;
+  border-radius: 8px; padding: 4px 10px; font-size: 13px;
+}
+#cm-panel .cm-auth button:hover { border-color: var(--gold,#f5c542); color: #fff; }
+/* 主要動作鈕＝金色 */
+#cm-panel .cm-submit { background: var(--gold,#f5c542); color: #1a1400; border-color: var(--gold,#f5c542); font-weight: 700; }
+#cm-panel .cm-rating { display: flex; align-items: center; gap: 12px; padding: 10px 16px;
+  border-bottom: 1px solid var(--line,#262c44); }
+#cm-panel .cm-avg { color: var(--gold,#f5c542); font-size: 14px; }
+#cm-panel .cm-stars { display: inline-flex; gap: 2px; }
+#cm-panel .cm-star { background: none; border: none; font-size: 20px; color: #3c4673; cursor: pointer; padding: 0 2px; }
+#cm-panel .cm-star.on { color: var(--gold,#f5c542); }
+#cm-panel .cm-star:disabled { cursor: default; }
+#cm-panel .cm-list { overflow: auto; padding: 12px 16px; flex: 1 1 auto; }
+#cm-panel .cm-empty { color: var(--muted,#8b93bf); }
+/* 留言項目：金色 ▶ 選取游標 hover/focus 滑入 */
+#cm-panel .cm-item { position: relative; border: 1px solid var(--line,#262c44); border-radius: 10px;
+  margin-bottom: 10px; padding: 8px 12px 8px 14px; background: var(--chip,#171c2e);
+  transition: border-color .15s ease; }
+#cm-panel .cm-item::before { content: ""; position: absolute; left: 2px; top: 13px;
+  width: 0; height: 0; border-style: solid; border-width: 5px 0 5px 8px;
+  border-color: transparent transparent transparent var(--gold,#f5c542);
+  opacity: 0; transform: translateX(-6px);
+  transition: opacity .15s ease, transform .15s ease; }
+#cm-panel .cm-item:hover { border-color: var(--gold,#f5c542); }
+#cm-panel .cm-item:hover::before, #cm-panel .cm-item:focus-within::before { opacity: 1; transform: translateX(0); }
+#cm-panel .cm-meta { color: var(--muted,#8b93bf); font-size: 12px; }
+#cm-panel .cm-text-body { margin-top: 6px; line-height: 1.6; white-space: pre-wrap; word-break: break-word; }
+#cm-panel .cm-del { margin-top: 8px; border-color: #7f1d1d; color: #fca5a5; background: rgba(127,29,29,.18); }
+#cm-panel .cm-compose { border-top: 1px solid var(--line,#262c44); padding: 12px 16px; display: flex; gap: 8px; }
+#cm-panel .cm-text {
+  flex: 1 1 auto; box-sizing: border-box; min-height: 48px; padding: 8px 10px;
+  border-radius: 8px; border: 1px solid var(--chip-line,#2c3350); background: var(--bg,#0c0e18);
+  color: var(--ink,#eef1ff); font-size: 14px; resize: vertical;
+}
+#cm-panel .cm-text:focus { outline: none; border-color: var(--gold,#f5c542);
+  box-shadow: 0 0 0 3px rgba(245,197,66,.18); }
+@media (prefers-reduced-motion: reduce) {
+  #cm-panel .cm-item, #cm-panel .cm-item::before { transition: none; }
+}

@@ -1,0 +1,45 @@
+﻿1. [MARKER: Message] 大叔「
+歡迎，這班船是開往「澳洲」的。
+要搭乘嗎？
+2. [MARKER: Message] 大叔「
+那麼船票一共是 150 D。
+3. [MARKER: Message] 大叔 多謝惠顧～。
+4. [MARKER: Message] 
+　　　　　　　獲得了乘船票！！！
+5. [MARKER: Message] 大叔「
+喂喂，你的錢不夠喔。
+夠了再來吧。
+6. [MARKER: Message] 大叔「
+是、是嗎……。
+7. [MARKER: Message] 大叔「
+看來你已經買過票了呢。
+沒有必要再買了喔。
+8. [MARKER: Message] 船長「
+那麼，出發啦啊啊啊————！！！
+9. [MARKER: Message] 女子「
+請出示您的船票。
+10. [MARKER: Message] 女子「
+請出示您的船票。
+11. [MARKER: Message] 女子「
+好的，沒有問題。
+祝您旅途愉快。
+12. [MARKER: Message] 女子「
+祝您旅途愉快。
+13. [MARKER: Message] 人「
+瑪麗·安托瓦內特死後，世界就變了……。
+14. [MARKER: Message] 人「
+法國實際上已經崩潰，中國的末代皇帝
+也被人暗殺了……。
+15. [MARKER: Message] 人「
+新日本的「流漸」也下落不明……。
+16. [MARKER: Message] 人「
+也就是說……世界六大國之中有三個
+在短短五天之內就滅亡了……。
+17. [MARKER: Message] 人「
+而且，傳聞拿破崙率領的那幫人
+建立了一個新的國家呢。
+18. [MARKER: Message] 人「
+我記得……\|是叫作拿破崙帝國來著……。
+19. [MARKER: Message] 人「
+世界六大國的均勢被打破，再加上拿破帝國成立……
+這個世界到底會變成什麼樣子啊……。

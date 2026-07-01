@@ -1,0 +1,34 @@
+﻿1. [MARKER: Message] 老闆「
+在這裡，好好享受美酒與舞蹈吧。
+2. [MARKER: Message] 舞者「
+眼……眼睛好花啊啊啊～～～……。
+3. [MARKER: Message] 以藏「
+這已經不是跳舞了吧……。
+4. [MARKER: Message] 奧斯卡「
+難道是被詛咒了嗎……？
+5. [MARKER: Message] DANDY「
+這種東西，才不配稱作跳舞……。
+6. [MARKER: Message] 奧斯卡「
+真的只是在旋轉而已嘛……。
+7. [MARKER: Message] 男子「
+從這個角度根本看不到舞者……。
+8. [MARKER: Message] 男子「
+太棒了～！再跳得賣力點～！
+9. [MARKER: Message] 女子「
+唔～……。
+那種舞蹈到底有什麼好的啊？
+10. [MARKER: Message] 醉漢「
+嗚～……\. 嗝！
+11. [MARKER: Message] 大叔「
+哎呀～真是大飽眼福啊～。
+12. [MARKER: Message] 男子「
+這個國家真是熱啊～。
+13. [MARKER: Message] 女子「
+討厭！
+居然擅自闖進人家的房間，太差勁了！
+14. [MARKER: Message] 男子「
+您……您有什麼事嗎！
+各位！
+請出去！
+15. [MARKER: Message] 男子「
+這房間還挺不錯的嘛～。

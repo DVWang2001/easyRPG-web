@@ -1,0 +1,85 @@
+﻿1. [MARKER: Message] 士兵「
+此處為蘇維埃社會主義共和國聯邦。
+禁止他國人士入境。
+請離開。
+2. [MARKER: Message] 士兵「
+何人！？
+3. [MARKER: Message] 以藏「
+那個……我迷路了……
+可以讓我休息一下嗎……
+4. [MARKER: Message] 士兵「
+你們不是這個國家的人吧。
+遺憾，無法讓你們入境。
+5. [MARKER: Message] 以藏「
+可惡……
+6. [MARKER: Message] 喬喬莉娜「
+喂……
+7. [MARKER: Message] 士兵「
+請離開……
+8. [MARKER: Message] 士兵「
+此處為蘇維埃社會主義共和國聯邦。
+禁止他國人士入境。
+請離開。
+9. [MARKER: Message] 以藏「
+這個看起來可以拆下來。
+10. [MARKER: Message] 奧斯卡「
+你還真是孩子氣……
+11. [MARKER: Message] 以藏「
+哼……那算了。\.
+我不拆了……
+12. [MARKER: Message] 以藏「
+這個，好像可以拆下來耶。
+13. [MARKER: Message] 
+　　　　　　　　　要試著拆下來嗎？
+14. [MARKER: Message] 以藏「
+哼——！！！
+15. [MARKER: Message] 以藏「
+發現梯子！！
+16. [MARKER: Message] 喬喬莉娜「
+還不錯嘛$g
+17. [MARKER: Message] 以藏「
+……說得好像老大一樣……
+18. [MARKER: Message] 以藏「
+這是什麼……？
+19. [MARKER: Message] 喬喬莉娜「
+說到這裡，這個國家有號稱媲美英國核彈的
+超級無敵巨大戰艦……$g
+20. [MARKER: Message] 喬喬莉娜「
+這樣就回去太不甘心了，
+就把它搶過來吧！$g
+21. [MARKER: Message] 以藏「
+確實……無論如何要從這裡回去，
+只有修理這裡的大人物，或者搶走那艘戰艦
+別無他法……
+22. [MARKER: Message] 喬喬莉娜「
+所以嘛，用我的魔法
+把這個國家……
+23. [MARKER: Message] 以藏「
+你打算搞到那個程度！？
+24. [MARKER: Message] 以藏「
+但是……不解決那些士兵，
+搶戰艦根本是天方夜譚……
+到底要怎麼辦……
+25. [MARKER: Message] 喬喬莉娜「
+所以才說，不要拐彎抹角，
+讓我的魔法來處理不就好了～$g
+26. [MARKER: Message] 以藏「
+……找找看有沒有其他入侵路線……
+27. [MARKER: Message] 喬喬莉娜「
+你到底有沒有在聽我說話！！$g$g
+28. [MARKER: Message] 以藏「
+……原來這裡還通著……
+29. [MARKER: Message] 喬喬莉娜「
+既然逃出來了，就再挑戰一次！！$g$g
+30. [MARKER: Message] 以藏「
+就算再來一次，正面突破也不可能。
+只能走其他路線了……
+31. [MARKER: Message] 喬喬莉娜「
+先回到城市裡吧$g
+在這種國家入口根本沒辦法$g
+32. [MARKER: Message] 以藏「
+確實……在城市裡說不定有什麼通道……
+33. [MARKER: Message] 喬喬莉娜「
+哪有這種好事$g
+34. [MARKER: Message] 以藏「
+你真的很討厭……

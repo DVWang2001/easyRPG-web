@@ -1,0 +1,160 @@
+﻿1. [MARKER: Message] 早く行け。
+夜が明けるぞ。
+2. [MARKER: Message] [FACE: Ｆ狐姫] 息子のことを忘れたことは
+一度もなかったが
+3. [MARKER: Message] [FACE: Ｆ狐姫] わからぬはずよ･･････
+4. [MARKER: Message] [FACE: Ｆ狐姫] \S[2]あんなに大きくなっていたのだから
+･････････
+5. [MARKER: Message] [FACE: F鞍春] 待て
+違うのだ。
+6. [MARKER: Message] [FACE: F鞍春] \S[2]春信は･･････\S[1]父は
+そんなことになっているとは
+知らなかったのだ。
+7. [MARKER: Message] [FACE: Ｆ狐姫] \.知らなかったはずはない。
+8. [MARKER: Message] [FACE: Ｆ狐姫] あの時･･･
+私が狐であることに
+気づいた者がいたとしたなら
+9. [MARKER: Message] [FACE: Ｆ狐姫] それは
+\S[2]あの男しかいなかったのだ。
+10. [MARKER: Message] [FACE: F鞍春] 違う！
+11. [MARKER: Message] [FACE: F鞍春] そなたが狐であることを
+周囲に漏らしてしまったのは
+12. [MARKER: Message] [FACE: F鞍春] \S[2]･････････私なのだ･･････。
+13. [MARKER: Message] [FACE: Ｆ狐姫] \.･･････？！
+14. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　\S[2]\C[17]そう･･････　　　
+　　　　　･････････私なのだ･･････
+15. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]\.あの日私は･･････
+16. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]どうしても眠れず、
+こっそり寝床を離れて
+そなたの部屋へ向かった
+17. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]だが･･･
+18. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]満月の月明かりに照らされ
+そなたの部屋にいたのは
+19. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]\C[17]一匹の狐だった･･････
+20. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]５つになったばかりだった
+あの時の私に
+21. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]その狐が
+そなたであろうなどということは
+想像もできなかったのだ･･････
+22. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]･･･だから
+23. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]狐がいると･･･
+
+24. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]\C[17]母の部屋に狐がいると
+\.祖父に伝えてしまった･･･
+25. [MARKER: Message] [FACE: F鞍春] 祖父らが
+そなたを追い払ったと聞いたときの
+父の顔は今でも忘れられぬ。
+26. [MARKER: Message] [FACE: F鞍春] その後も
+そなたを探し続けていたが
+結局見つからずじまいだった。
+27. [MARKER: Message] [FACE: F鞍春] だから･････････
+恨むべき相手は父ではなく･･･
+28. [MARKER: Message] [FACE: F鞍春] \S[2]この私なのだ･･････
+29. [MARKER: Message] [FACE: Ｆ狐姫] \S[2]････････････。
+30. [MARKER: Message] [FACE: Ｆタマ] \S[2]･･････
+お、親子だったのニャ･･･
+31. [MARKER: Message] [FACE: Ｆタマ] 通りで２人揃って
+人の名前覚えが悪いと･･･
+32. [MARKER: Message] [FACE: F鞍春] ２０年近く経った今やっと、
+狐などの妖怪が
+この辺りの洞窟に住み着いているという
+情報を得て
+33. [MARKER: Message] [FACE: F鞍春] うまい具合に･･･と言っては
+申し訳ないが･･･
+34. [MARKER: Message] [FACE: F鞍春] 今の私の仕え先である
+羽村の一の姫が行方不明になるという
+騒ぎがあって
+35. [MARKER: Message] [FACE: F鞍春] \.その姫君探索にかこつけて
+城を抜けてきたのだ。
+36. [MARKER: Message] [FACE: Ｆタマ] \S[2]････････････。
+37. [MARKER: Message] [FACE: F鞍春] \.しかし 親子というのはすごいものだな。
+38. [MARKER: Message] [FACE: F鞍春] ５歳の頃の記憶など
+定かでないのに
+39. [MARKER: Message] [FACE: F鞍春] \.そなたの姿を見たとき
+･･･一瞬で母だとわかった。
+40. [MARKER: Message] [FACE: Ｆ狐姫] \S[2]･･･････････････。
+41. [MARKER: Message] [FACE: F鞍春] \S[2]････････････。
+42. [MARKER: Message] [FACE: F鞍春] 昔と変わらぬ姿のようだが
+\.少し若作り過ぎぬか？
+43. [MARKER: Message] [FACE: Ｆタマ] ･････････$d
+44. [MARKER: Message] [FACE: Ｆ狐姫] \S[4]････････････
+45. [MARKER: Message] [FACE: Ｆ狐姫] \.\S[4]･････････ふ
+46. [MARKER: Message] [FACE: Ｆ狐姫] \.\.母に向かって
+若作りが過ぎるとは
+･･････全く親の育て方が伺えるな。
+47. [MARKER: Message] [FACE: F鞍春] \.全く
+48. [MARKER: Message] [FACE: F鞍春] その親は
+大雑把で不器用で女と酒が好きで
+どうしようもない男で 私も苦労したが
+49. [MARKER: Message] [FACE: F鞍春] \.そなたが再び
+自分の目の前に現れることを
+\.真に願っている･･･
+50. [MARKER: Message] [FACE: Ｆ狐姫] \S[8]･････････。
+51. [MARKER: Message] [FACE: F鞍春] \.あまり時間がないのだ。
+会いに行ってやってくれ。
+52. [MARKER: Message] [FACE: Ｆ狐姫] \S[2]･････････。
+53. [MARKER: Message] [FACE: F鞍春] \.\.母上。
+54. [MARKER: Message] [FACE: Ｆ狐姫] \S[8]･････････。
+55. [MARKER: Message] [FACE: Ｆタマ] \.\.姫さん。
+56. [MARKER: Message] [FACE: Ｆ狐姫] \S[8]･････････。
+57. [MARKER: Message] [FACE: Ｆ狐姫] \S[2]････････････
+羽村の城へ行けば･･････
+\.会えるのだな？
+58. [MARKER: Message] [FACE: Ｆタマ] \.姫さん！
+59. [MARKER: Message] [FACE: Ｆ狐姫] 日のあるときには出歩けぬ。
+今宵参ろう･･･
+60. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+61. [MARKER: Message] [FACE: F鞍春] ･････････わかった。
+62. [MARKER: Message] [FACE: F鞍春] \.ならば、
+\.そなたが来るまでの間は
+首を絞めてでも 父を生かしておくと
+約束する。
+63. [MARKER: Message] [FACE: Ｆタマ] \.首絞めたら
+死んでしまうニャ･･･$d
+64. [MARKER: Message] [FACE: Ｆ狐姫] その前に
+この姿でいるのは疲れるのでな
+\.一度本来の姿に戻らねばならぬ。
+65. [MARKER: Message] [FACE: Ｆ狐姫] だが
+せめてそなたの前では
+人の姿であり続けたい。
+66. [MARKER: Message] [FACE: Ｆ狐姫] 今はこれで･･･
+立ち去ってもらえるか？
+67. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+68. [MARKER: Message] [FACE: F鞍春] ･････････わかった。
+69. [MARKER: Message] [FACE: Ｆ狐姫] \.･･･それから
+70. [MARKER: Message] [FACE: Ｆ狐姫] タマを頼む。
+71. [MARKER: Message] [FACE: Ｆタマ] 姫さん？
+72. [MARKER: Message] [FACE: Ｆ狐姫] 私はおそらく
+ここへはもう戻らぬ。
+73. [MARKER: Message] [FACE: Ｆ狐姫] 下の者たちは
+既に人の姿に戻った気配が感じられる。
+74. [MARKER: Message] [FACE: Ｆ狐姫] 人ならぬ姿で
+村に転がっていたときは つい
+捨てておけずに 拾ってきてしまったが
+75. [MARKER: Message] [FACE: Ｆ狐姫] もう
+放っておいても大丈夫だろう。
+76. [MARKER: Message] [FACE: Ｆ狐姫] しかし、こ奴は
+77. [MARKER: Message] [FACE: Ｆ狐姫] タマはまだ
+変化したままだ。
+78. [MARKER: Message] [FACE: Ｆ狐姫] もし、村の者たちに見つかって
+妖怪だのなんだのと言われ
+袋叩きにでもあったら
+79. [MARKER: Message] [FACE: Ｆ狐姫] この小さな身体では
+ひとたまりもない。
+80. [MARKER: Message] [FACE: Ｆ狐姫] どこか安全なところまで
+一緒に連れていってやってくれ。
+81. [MARKER: Message] [FACE: F鞍春] \S[2]････････････
+82. [MARKER: Message] [FACE: F鞍春] \.もとよりそのつもりだ。
+83. [MARKER: Message] [FACE: Ｆタマ] えっ。
+84. [MARKER: Message] [FACE: Ｆ狐姫] \.そうか。
+85. [MARKER: Message] [FACE: Ｆ狐姫] ･･････ならば
+もう迷うことはない。
+86. [MARKER: Message] [FACE: Ｆ狐姫] 夜明け前は冷える。
+風邪ひくなよ。
+87. [MARKER: Message] [FACE: F鞍春] ･･････母上も。
+88. [MARKER: Message] [FACE: Ｆ狐姫] ではな。
+89. [MARKER: Message] [FACE: F鞍春] ･････････。
+90. [MARKER: Message] [FACE: F鞍春] ･･････行くぞ。タマ。
+91. [MARKER: Message] [FACE: Ｆタマ] \S[2]･････････ニャ。
+92. [MARKER: Message] [FACE: Ｆタマ] \S[2]････････姫さん
+世話になったニャ。

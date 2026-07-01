@@ -1,0 +1,30 @@
+{
+  "name": "沉默小鎮二",
+  "short_name": "沉默小鎮二",
+  "id": "play-f9c5c7d90305f4b8.html",
+  "start_url": "play-f9c5c7d90305f4b8.html",
+  "scope": "play-f9c5c7d90305f4b8.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "games/f9c5c7d90305f4b8/pwa-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "games/f9c5c7d90305f4b8/pwa-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "games/f9c5c7d90305f4b8/pwa-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

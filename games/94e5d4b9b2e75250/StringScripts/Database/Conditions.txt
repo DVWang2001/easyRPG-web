@@ -1,0 +1,98 @@
+﻿*****Entry1*****
+#Name# [8]
+氣絕
+
+#InflictedOnAlly# [30]
+倒下了！
+
+#InflictedOnEnemy# [30]
+倒下了！
+
+#Recovered# [30]
+從氣絕狀態中復原了！
+
+
+
+*****Entry2*****
+#Name# [8]
+移動
+
+#InflictedOnAlly# [30]
+正在移動
+
+#InflictedOnEnemy# [30]
+------------------------------
+
+#AlreadyInflicted# [30]
+正在移動
+
+#Continuing# [30]
+正在移動
+
+#Recovered# [30]
+移動完成了
+
+
+
+*****Entry3*****
+#Name# [8]
+先制攻擊
+
+#InflictedOnAlly# [30]
+失去平衡了……
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+失去平衡了……
+
+#Continuing# [30]
+失去平衡了……
+
+#Recovered# [30]
+失去平衡了……
+
+
+
+*****Entry4*****
+#Name# [8]
+休息
+
+#InflictedOnAlly# [30]
+「剛剛那是怎樣啦！？
+
+#InflictedOnEnemy# [30]
+「剛剛那是怎樣啦！？
+
+#AlreadyInflicted# [30]
+因為劇烈震動而無法行動
+
+#Continuing# [30]
+因為劇烈震動而無法行動
+
+#Recovered# [30]
+「剛剛那是怎樣啦！？
+
+
+
+*****Entry5*****
+#Name# [8]
+偷竊
+
+#InflictedOnAlly# [30]
+奪走了火箭筒
+
+#InflictedOnEnemy# [30]
+------------------------------
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+奪走了火箭筒
+
+

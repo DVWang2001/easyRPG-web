@@ -1,0 +1,62 @@
+﻿1. [MARKER: Message] オスカー「
+気絶している・・・。
+アレンがやったのか・・？
+2. [MARKER: Message] オスカー「
+ここまでやるとは・・・大胆な・・・。
+3. [MARKER: Message] オスカー「
+さすがに正門へ向かうのはマズすぎるだろう・・。
+やめておこう・・。
+4. [MARKER: Message] オスカー「
+さすがに正門へ向かうのはマズすぎるだろう・・。
+やめておこう・・。
+5. [MARKER: Message] オスカー「
+さすがに正門へ向かうのはマズすぎるだろう・・。
+やめておこう・・。
+6. [MARKER: Message] 神殿騎士マサル「
+DANDY様！！
+7. [MARKER: Message] DANDY「
+おお、どうしたマサルよ！！？
+こんな所まで来て！！？
+8. [MARKER: Message] 神殿騎士マサル「
+ダンディ神殿が何者かに破壊されました！！
+9. [MARKER: Message] DANDY「
+・・なにぃぃぃーー！！！？
+10. [MARKER: Message] 神殿騎士マサル「
+私にも、何がなんだか分かりません・・。
+11. [MARKER: Message] 神殿騎士マサル「
+・・とにかく！！
+一度お戻りください！！
+12. [MARKER: Message] DANDY「
+\S[3]・・・・・\S[2]だめだ・・。
+13. [MARKER: Message] 神殿騎士マサル「
+何故です！！？
+14. [MARKER: Message] DANDY「
+私には、今やらねばならぬことがある・・。
+15. [MARKER: Message] 神殿騎士マサル「
+\S[2]・・・・・・・・・・・・。
+16. [MARKER: Message] 神殿騎士マサル「
+・・分かりました・・。
+あなたがそういうならば
+それは大切なことなんでしょう。
+17. [MARKER: Message] 神殿騎士マサル「
+でも、それが終わりましたら、お戻りくださいよ。
+18. [MARKER: Message] DANDY「
+わかっている・・。
+・・マサルよ、ここまで来たついでだ。
+お前も協力しろ。
+19. [MARKER: Message] 神殿騎士マサル「
+・・分かりました。
+一刻も早く戻るために、協力いたします。
+20. [MARKER: Message] 
+　　　　　神殿騎士マサルが仲間になった！
+21. [MARKER: Message] オスカー「
+・・ところでさ・・何でDANDYの居場所が
+分かったんだ？
+22. [MARKER: Message] 神殿騎士マサル「
+そりゃ、もうDANDY様の電波を・・。
+23. [MARKER: Message] チョチョリーナ「
+あ～ん$g　DANDY様は渡しませんわ！！$g$g
+24. [MARKER: Message] オスカー「
+モテモテだな。
+25. [MARKER: Message] DANDY「
+ダンディですから。

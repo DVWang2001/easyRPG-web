@@ -1,0 +1,68 @@
+﻿1. [MARKER: Message] 牛先生「
+我正在照顧這些草木，
+與大自然融為一體的感覺真的很棒呢。
+2. [MARKER: Message] 小鳥小姐「
+這裡是期望與自然共存的生物們的村子，
+雖說其實也沒有任何像樣的村莊建築啦。
+3. [MARKER: Message] 豬先生「
+我們豬可是有預知能力的喔！
+馬上就要發生非常糟糕的大事了！
+好害怕啊！
+4. [MARKER: Message] 哥倫布「
+自然原始的森林真是太棒了，
+只要這樣待在森林裡，心靈就能得到平靜呢。
+5. [MARKER: Message] 蜥蜴「
+好閒喔～～。
+6. [MARKER: Message] 喬喬莉娜「
+哎呀，這種地方居然有一隻龍！！！$g$g$g
+7. [MARKER: Message] 龍「
+幹……幹嘛……？
+8. [MARKER: Message] 喬喬莉娜「
+龍的角可是最上等的特效藥呢！！\.
+好啦，乖乖交出來吧！！$g$g
+9. [MARKER: Message] 龍「
+噫！！我的角只有這麼一根啊！！
+求求你，千萬不要拔走它啊～～！！！
+10. [MARKER: Message] 喬喬莉娜「
+……是這樣嗎……。\.
+既然如此，那也是沒辦法的事呢……$g
+11. [MARKER: Message] 喬喬莉娜「
+畢竟沒有角的龍，根本就不配叫龍了嘛$g\. Levant
+好啦，那我就原諒你吧$g
+12. [MARKER: Message] 喬喬莉娜「
+……不過……你必須成為我的\C[5]下僕\C[0]喔$g$g
+13. [MARKER: Message] 龍「
+那種事情我也絕對不要————！！
+14. [MARKER: Message] 喬喬莉娜「
+你說什麼！！$g$g
+15. [MARKER: Message] 龍「
+噫————！！
+16. [MARKER: Message] 喬喬莉娜「
+好啦，如果不想落得更悲慘的下場，
+就乖乖成為我的同伴吧！！
+17. [MARKER: Message] 龍「
+\s[2]是……是是是是！！！
+18. [MARKER: Message] 蜥蜴「
+感覺很有趣的樣子，\.我也一起去吧！！
+19. [MARKER: Message] 
+　　　　　喬喬莉娜學會了召喚森林夥伴！！
+20. [MARKER: Message] 喬喬莉娜「
+好啦，我們走吧$g$g
+21. [MARKER: Message] 以藏「
+DANDY，\.你以後絕對會被這女人吃得死死的喔……。
+22. [MARKER: Message] DANDY「
+……。
+23. [MARKER: Message] 喬喬莉娜「
+你剛才說了什麼嗎？$g
+24. [MARKER: Message] 以藏「
+完全沒有。
+25. [MARKER: Message] 牛老弟「
+這茶真的很好喝喔。
+各位要不要也來一杯？
+26. [MARKER: Message] 小鳥小姐「
+我最討厭人類了！
+27. [MARKER: Message] 河馬先生「
+我是賣道具的河馬。
+不買點什麼嗎河馬。
+28. [MARKER: Message] 
+　　　　　　　　　獲得了紅水晶！！

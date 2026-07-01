@@ -1,0 +1,23 @@
+[
+  {
+    "idx": 1,
+    "face": null,
+    "start_line_idx": 2,
+    "end_line_idx": 5,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 2,
+    "face": null,
+    "start_line_idx": 12,
+    "end_line_idx": 15,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 3,
+    "face": null,
+    "start_line_idx": 22,
+    "end_line_idx": 25,
+    "num_content_lines": 2
+  }
+]

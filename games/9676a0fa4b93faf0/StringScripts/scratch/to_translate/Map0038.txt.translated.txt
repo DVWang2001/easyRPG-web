@@ -1,0 +1,32 @@
+﻿1. [MARKER: Message] 
+　　　　　　　　士兵已昏迷。
+2. [MARKER: Message] 
+　　　　　　　　士兵已昏迷。
+3. [MARKER: Message] 老爺爺「
+我能活著出去嗎……
+刑期一百二十年……
+4. [MARKER: Message] 男子「
+哦——！！
+摸一下女戰士的皮膚有什麼不對嗎——！！
+5. [MARKER: Message] 奧斯卡「
+這是非常嚴重的性騷擾。
+6. [MARKER: Message] 士兵「
+你們是什麼人……！
+7. [MARKER: Message] 士兵「
+可惡……
+8. [MARKER: Message] 奧斯卡「
+看！
+9. [MARKER: Message] 奧斯卡「
+看！
+10. [MARKER: Message] 男子「
+我到底做了什麼——！？
+11. [MARKER: Message] 老奶奶「
+呵呵呵……
+我看見你們的死相了……
+呵呵呵……
+12. [MARKER: Message] 大叔「
+可惡……沒想到持續了５年的
+內褲小偷就這樣被發現了……
+13. [MARKER: Message] 男子「
+你們是什麼人！？
+是來把我處決的嗎……！？

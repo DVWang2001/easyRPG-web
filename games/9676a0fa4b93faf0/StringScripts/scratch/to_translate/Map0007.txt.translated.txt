@@ -1,0 +1,158 @@
+﻿1. [MARKER: Message] 　　　　　　　　　徵募工讀生
+　　　　　　充滿幹勁者，即刻報名。
+　　　　　　　１８歲以上者，歡迎！
+　　　　　　　　　　　　　　　　　　　　艾爾米酒吧
+2. [MARKER: Message] 詳細部分被塗鴉蓋掉了，無法閱讀。
+大概是這個城鎮的孩子們幹的。
+3. [MARKER: Message] 商人「
+本店販賣各種道具。
+4. [MARKER: Message] 商人「
+謝謝惠顧，歡迎再來。
+5. [MARKER: Message] 
+　　　　　　　　　艾爾米船舶中心
+6. [MARKER: Message] 戰士「
+好想吃東西——！！！
+7. [MARKER: Message] 以藏「
+……我也好想吃——！！
+8. [MARKER: Message] 奧斯卡「
+…………………………
+9. [MARKER: Message] 戰士「
+好想吃東西——！！！
+10. [MARKER: Message] 奧斯卡「
+不，我現在還不想吃。
+11. [MARKER: Message] 戰士「
+你真是太掃興了……
+12. [MARKER: Message] 戰士「
+好想吃東西——！！！
+13. [MARKER: Message] 喬喬莉娜「
+不用那麼強調，想吃就直接吃啊$g
+14. [MARKER: Message] 戰士「
+是……是的……
+15. [MARKER: Message] 以藏「
+…………………………………………
+16. [MARKER: Message] 安德烈「
+我又不是商人……
+17. [MARKER: Message] ＊「
+媽媽，我想要這個～
+18. [MARKER: Message] ＊「
+好好好，等一下買給你喔。
+19. [MARKER: Message] 大叔「
+那邊常常出沒的海鷗，
+是這個地區才有的「莫西干海鷗」。
+20. [MARKER: Message] 大叔「
+請別誤以為是雞在飛。
+21. [MARKER: Message] 少女「
+歡迎來到艾爾米！
+22. [MARKER: Message] 奧斯卡「
+我想搭船……
+23. [MARKER: Message] 少女「
+的話，從這裡往右走，
+到底再左轉……
+24. [MARKER: Message] 少女「
+前方就是船舶中心，
+請從那裡搭乘。
+25. [MARKER: Message] 奧斯卡「
+……謝謝。
+26. [MARKER: Message] 少女「
+兩位一起旅行嗎？
+27. [MARKER: Message] 少女「
+歡迎來到艾爾米！
+28. [MARKER: Message] 雷比特「
+糟了！被發現了！！
+我在告示上塗鴉的事，是秘密喔！
+29. [MARKER: Message] 雷比特「
+咦，還有事嗎？
+30. [MARKER: Message] 男孩「
+今天雷比特那傢伙不見了……
+是躲在哪裡了嗎？
+31. [MARKER: Message] 女孩「
+聽說雷比特在酒吧的告示上塗鴉了！
+32. [MARKER: Message] 船員「
+哎，你妨礙我工作了！！
+……快點把貨物裝上去！！
+33. [MARKER: Message] 
+　　　　　以藏一行人出發前往英國……\|\|\^
+34. [MARKER: Message] 奧斯卡「
+以藏，我們有自己的船，
+不必搭這艘吧。
+35. [MARKER: Message] 以藏「
+啊……\.也對……
+36. [MARKER: Message] 以藏「
+與其來這種地方，不如去凡爾賽。凡爾賽。
+37. [MARKER: Message] 奧斯卡「
+去巴士底吧……
+38. [MARKER: Message] 男子「
+請出示船票。
+39. [MARKER: Message] 以藏「
+啊，還沒買……
+40. [MARKER: Message] 奧斯卡「
+回到船舶中心買吧。
+41. [MARKER: Message] 男子「
+請出示船票。
+42. [MARKER: Message] 以藏「
+這個可以嗎？
+43. [MARKER: Message] 男子「
+確認無誤。
+請通過。
+44. [MARKER: Message] 男子「
+祝您旅途愉快。
+45. [MARKER: Message] 男子「
+祝您旅途愉快。
+46. [MARKER: Message] 男子「
+目前沒有前往英國的船班。
+47. [MARKER: Message] 男子「
+目前因戰爭關係，
+無法前往英國入港。
+請改走其他路線。
+48. [MARKER: Message] 男子「
+請出示船票。
+49. [MARKER: Message] 以藏「
+啊，還沒買……
+50. [MARKER: Message] 奧斯卡「
+回到船舶中心買吧。
+51. [MARKER: Message] 男子「
+請出示船票。
+52. [MARKER: Message] 以藏「
+這個可以嗎？
+53. [MARKER: Message] 男子「
+確認無誤。
+請通過。
+54. [MARKER: Message] 男子「
+祝您旅途愉快。
+55. [MARKER: Message] 船員「
+啊，這艘船目前
+沒有出發計畫喔。
+去隔壁那艘吧。
+56. [MARKER: Message] 商人「
+歡迎光臨。
+本店販賣英國進口商品。
+57. [MARKER: Message] 商人「
+謝謝，歡迎再來！
+58. [MARKER: Message] 劍客「
+這個陣容，不愧是英國貨。
+我也想去英國了。
+59. [MARKER: Message] 以藏「
+哦，裡面有東西耶。
+60. [MARKER: Message] [FACE: Erase] 
+　　　　　　　　　　獲得了蘋果！！
+61. [MARKER: Message] [FACE: Erase] 奧斯卡「
+…………
+好寒酸啊……
+62. [MARKER: Message] [FACE: Erase] 奧斯卡「
+裡面有東西……
+63. [MARKER: Message] [FACE: Erase] 
+　　　　　　　　　　獲得了蘋果！！
+64. [MARKER: Message] [FACE: Erase] 以藏「
+哦，裡面有東西耶。
+65. [MARKER: Message] [FACE: Erase] 
+　　　　　　　　　　獲得了蘋果！！
+66. [MARKER: Message] [FACE: Erase] 喬喬莉娜「
+真寒酸呢……$g
+67. [MARKER: Message] [FACE: Erase] 男子「
+祝您旅途愉快。
+68. [MARKER: Message] [FACE: Erase] 男子「
+目前沒有前往英國的船班。
+69. [MARKER: Message] [FACE: Erase] 男子「
+目前因戰爭關係，
+無法前往英國入港。
+請改走其他路線。

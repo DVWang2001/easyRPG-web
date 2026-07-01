@@ -1,0 +1,18 @@
+﻿1. [MARKER: Message] 踊り子「
+さぁ、次はどんな国で踊れるのかしら・・？
+2. [MARKER: Message] 
+　　　　　　　　　胸板ゲット！！！
+3. [MARKER: Message] イゾウ「
+使い方がわからん・・・。
+しまっておこう・・。
+4. [MARKER: Message] オスカー「
+一体何でこんなところに・・。
+5. [MARKER: Message] 
+　　　　　　　　　胸板ゲット！！！
+6. [MARKER: Message] ダンディ「
+こ・・これは！！
+私にぴったりの装備品！！
+7. [MARKER: Message] 
+　　　　　　ダンディは胸板を装備した！！
+8. [MARKER: Message] 踊り子「
+ここのステージ、\.\C[14]カレー\C[0]臭～い。

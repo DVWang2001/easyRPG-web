@@ -1,0 +1,126 @@
+﻿**********Event1**********
+-----Page2-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+（……裡面傳來了說話的聲音）
+##
+
+
+#Message#
+（現在最好還是先別進去）
+##
+
+
+
+
+**********Event3**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+哦，看來來了呢。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+身體狀況如何？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+嘛，大概……就是這麼回事吧。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+一大早感情就這麼好，真是令人羨慕。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+都說了不是那樣的啦！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+開玩笑的，開玩笑。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+真是的……別開這種玩笑了啦。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+那麼沃爾就拜託你去防守後院。
+##
+
+
+#Message#
+正面就交給我防守。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+那麼就拜託啦。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+餵餵，你該不會反常地在害怕吧。
+##
+
+
+#Message#
+拜託啦。
+##
+
+
+
+
+**********Event10**********
+-----Page2-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+（總之，出發前應該先跟那兩個人說一聲）
+##
+
+
+
+-----Page3-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+（看那兩人的樣子也沒辦法了）
+##
+
+
+#Message#
+（反正就這樣直接走，他們也一定會知道，
+那就出發吧）
+##
+
+
+
+

@@ -1,0 +1,56 @@
+﻿1. [MARKER: Message] 老闆「
+喔？要喝點什麼嗎？
+2. [MARKER: Message] 以藏「
+哦哦哦哦哦哦！！！
+熱血沸騰——！！
+3. [MARKER: Message] 奧斯卡「
+嗯，還不錯嘛……
+4. [MARKER: Message] 以藏「
+果然還是烏龍茶啊。
+5. [MARKER: Message] 以藏「
+……果然不是在酒吧喝的東西……
+6. [MARKER: Message] 奧斯卡「
+其他客人都用奇怪的眼神看你……
+7. [MARKER: Message] 老闆「
+在工讀徵人告示上塗鴉？
+8. [MARKER: Message] 老闆「
+反正肯定是雷比特那傢伙……
+回來一定好好問問他。
+9. [MARKER: Message] 以藏「
+原來是你兒子……
+10. [MARKER: Message] 老闆「
+要喝點什麼嗎？
+11. [MARKER: Message] 奧斯卡「
+現在沒空喝，就不打擾了……
+12. [MARKER: Message] 鋼琴師「
+要彈首曲子嗎？
+13. [MARKER: Message] 鋼琴師「
+……那……好的……
+14. [MARKER: Message] 鋼琴師「
+……這樣啊。
+15. [MARKER: Message] 鋼琴師「
+咦？你聽說我不是這裡的專屬鋼琴師？
+16. [MARKER: Message] 鋼琴師「
+是的，我確實是一邊修行鋼琴技藝，
+一邊環遊世界旅行。
+17. [MARKER: Message] 鋼琴師「
+這裡我也快要離開了。
+或許我們還會再見面呢。
+18. [MARKER: Message] 鋼琴師「
+要彈首曲子嗎？
+19. [MARKER: Message] 鋼琴師「
+……那……好的……
+20. [MARKER: Message] 鋼琴師「
+……這樣啊。
+21. [MARKER: Message] 大叔「
+現在來了個不錯的鋼琴師喔。
+22. [MARKER: Message] 大叔「
+嗯？說他不是這裡的專屬？
+23. [MARKER: Message] 大叔「
+看來像是個流浪鋼琴師喔。
+去問問本人吧？
+24. [MARKER: Message] 大叔「
+喝得不夠……
+25. [MARKER: Message] 大叔「
+以前這裡也很有活力的……
+現在年輕人都跑去都市了……

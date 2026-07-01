@@ -1,0 +1,385 @@
+﻿*** Battle Messages 1 ***
+#StartBattle# [30]
+
+
+#PreemptiveAttack# [50]
+
+
+#EscapeSuccess# [50]
+
+
+#EscapeFailure# [50]
+
+
+#Victory# [50]
+
+
+#Defeat# [50]
+
+
+#GetEXP# [38]
+
+
+#GetMoneyPart1# [10]
+
+
+#GetMoneyPart2# [24]
+
+
+#GetItem# [30]
+
+
+
+*** Battle Messages 2 ***
+#NormalAttack# [30]
+
+
+#CriticalHit# [50]
+
+
+#EnemyCritical# [50]
+
+
+#DefendMessage# [30]
+
+
+#EnemyObserve# [30]
+
+
+#EnemyBuildStrength# [30]
+
+
+#EnemyBurst# [30]
+
+
+#EnemyEscape# [30]
+
+
+#EnemyTransform# [30]
+
+
+
+*** Battle Messages 3 ***
+#DamageEnemy# [24]
+
+
+#MissEnemy# [32]
+
+
+#DamageAlly# [24]
+
+
+#MissAlly# [32]
+
+
+#SkillFailureA# [32]
+
+
+#SkillFailureB# [32]
+
+
+#SkillFailureC# [32]
+
+
+#AvoidPhysical# [32]
+
+
+#UseItem# [14]
+
+
+
+*** Battle Messages 4 ***
+#RecoverHPMP# [12]
+
+
+#StatUp# [12]
+
+
+#StatDown# [12]
+
+
+#StatAbsorb# [12]
+
+
+#StatSucked# [12]
+
+
+#DefenseUp# [20]
+
+
+#DefenseDown# [20]
+
+
+#LevelUp# [16]
+
+
+#LearnSkill# [26]
+
+
+
+*** Shop Messages A ***
+#ShopA:ChoiceScreen# [50]
+
+
+#ShopA:ChoiceScreenAgain# [50]
+
+
+#ShopA:Buy# [12]
+
+
+#ShopA:Sell# [12]
+
+
+#ShopA:Leave# [12]
+
+
+#ShopA:BuyScreen# [50]
+
+
+#ShopA:HowManyToBuy# [50]
+
+
+#ShopA:PurchaseMade# [50]
+
+
+#ShopA:SellScreen# [50]
+
+
+#ShopA:HowManyToSell# [50]
+
+
+#ShopA:SaleComplete# [50]
+
+
+
+*** Shop Messages B ***
+#ShopB:ChoiceScreen# [50]
+
+
+#ShopB:ChoiceScreenAgain# [50]
+
+
+#ShopB:Buy# [12]
+
+
+#ShopB:Sell# [12]
+
+
+#ShopB:Leave# [12]
+
+
+#ShopB:BuyScreen# [50]
+
+
+#ShopB:HowManyToBuy# [50]
+
+
+#ShopB:PurchaseMade# [50]
+
+
+#ShopB:SellScreen# [50]
+
+
+#ShopB:HowManyToSell# [50]
+
+
+#ShopB:SaleComplete# [50]
+
+
+
+*** Shop Messages C ***
+#ShopC:ChoiceScreen# [50]
+
+
+#ShopC:ChoiceScreenAgain# [50]
+
+
+#ShopC:Buy# [12]
+
+
+#ShopC:Sell# [12]
+
+
+#ShopC:Leave# [12]
+
+
+#ShopC:BuyScreen# [50]
+
+
+#ShopC:HowManyToBuy# [50]
+
+
+#ShopC:PurchaseMade# [50]
+
+
+#ShopC:SellScreen# [50]
+
+
+#ShopC:HowManyToSell# [50]
+
+
+#ShopC:SaleComplete# [50]
+
+
+
+*** Inn Messages A ***
+#InnA:IntroLine1a# [16]
+
+
+#InnA:IntroLine1b# [20]
+
+
+#InnA:IntroLine2# [50]
+
+
+#InnA:Lodge# [12]
+
+
+#InnA:DoNotLodge# [12]
+
+
+
+*** Inn Messages B ***
+#InnB:IntroLine1a# [16]
+
+
+#InnB:IntroLine1b# [20]
+
+
+#InnB:IntroLine2# [50]
+
+
+#InnB:Lodge# [12]
+
+
+#InnB:DoNotLodge# [12]
+
+
+
+*** Shop Parameters ***
+#OwnedQuantity# [16]
+
+
+#EquippedQuantity# [16]
+
+
+#CurrencyUnit# [6]
+
+
+
+*** Commands ***
+#Fight# [10]
+
+
+#Auto# [10]
+
+
+#Escape# [10]
+
+
+#Attack# [10]
+
+
+#Defend# [10]
+
+
+#Item# [10]
+
+
+#Skill# [10]
+
+
+#Equip# [12]
+
+
+#Save# [12]
+
+
+#EndGame# [12]
+
+
+#NewGame# [16]
+debut
+
+#Continue# [16]
+suite
+
+#Quit# [16]
+ fin
+
+
+*** Stats & Equipment ***
+#Level# [10]
+
+
+#HP# [10]
+
+
+#MP# [10]
+
+
+#NormalState# [10]
+
+
+#EXPShort# [2]
+
+
+#LevelShort# [2]
+
+
+#HPShort# [2]
+
+
+#MPShort# [2]
+
+
+#MPCost# [10]
+
+
+#Offense# [10]
+
+
+#Defense# [10]
+
+
+#Mind# [10]
+
+
+#Agility# [10]
+
+
+#Arms# [10]
+
+
+#Shield# [10]
+
+
+#Armor# [10]
+
+
+#Helmet# [10]
+
+
+#Other# [10]
+
+
+
+*** Save/Load/End ***
+#ChooseSaveFile# [50]
+どのファイルにセーブしますか？
+
+#ChooseLoadFile# [50]
+どのファイルをロードしますか？
+
+#File# [10]
+ファイル
+
+#QuitConfirm# [50]
+終了してよろしいですか？
+
+#QuitYes# [10]
+はい
+
+#QuitNo# [10]
+いいえ
+

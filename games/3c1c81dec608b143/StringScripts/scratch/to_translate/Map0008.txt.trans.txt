@@ -1,0 +1,21 @@
+﻿1. [MARKER: Message] [FACE: F鞍春] \.なんだ？
+2. [MARKER: Message] [FACE: Ｆタマ] \.池ニャ。
+3. [MARKER: Message] [FACE: Ｆタマ] お魚釣れるかもしれないニャ。
+4. [MARKER: Message] [FACE: F鞍春] \S[2]･･････。
+5. [MARKER: Message] [FACE: Ｆタマ] おっ魚、おっ魚♪
+6. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+7. [MARKER: Message] [FACE: F鞍春] \.１人で釣ってくれ。
+じゃぁな。
+8. [MARKER: Message] [FACE: Ｆタマ] はニャ？！
+9. [MARKER: Message] [FACE: F鞍春] \.？！
+10. [MARKER: Message] [FACE: F鞍春] \.落ちたのか？！
+11. [MARKER: Message] [FACE: Ｆタマ] ゴボゴボ　ごぶべでびゃ～っ
+12. [MARKER: Message] [FACE: Ｆタマ] \S[2]･････････。
+13. [MARKER: Message] [FACE: Ｆタマ] \.ビショビショになっちゃったニャ。
+14. [MARKER: Message] [FACE: F鞍春] ･･････
+誰のせいだ$n
+15. [MARKER: Message] [FACE: Ｆタマ] 反省してるニャ$d
+16. [MARKER: Message] [FACE: F鞍春] \S[2]･････････ふぅ。
+17. [MARKER: Message] [FACE: F鞍春] 今度なにかあっても
+置いて行くぞ。
+18. [MARKER: Message] [FACE: Ｆタマ] \.わ、\.わかったニャ。

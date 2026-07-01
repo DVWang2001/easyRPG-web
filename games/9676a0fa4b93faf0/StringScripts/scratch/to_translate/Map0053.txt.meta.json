@@ -1,0 +1,121 @@
+[
+  {
+    "idx": 1,
+    "face": null,
+    "start_line_idx": 2,
+    "end_line_idx": 5,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 2,
+    "face": null,
+    "start_line_idx": 14,
+    "end_line_idx": 18,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 3,
+    "face": null,
+    "start_line_idx": 21,
+    "end_line_idx": 24,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 4,
+    "face": null,
+    "start_line_idx": 27,
+    "end_line_idx": 32,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 5,
+    "face": null,
+    "start_line_idx": 39,
+    "end_line_idx": 43,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 6,
+    "face": null,
+    "start_line_idx": 46,
+    "end_line_idx": 49,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 7,
+    "face": null,
+    "start_line_idx": 56,
+    "end_line_idx": 59,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 8,
+    "face": null,
+    "start_line_idx": 62,
+    "end_line_idx": 66,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 9,
+    "face": null,
+    "start_line_idx": 69,
+    "end_line_idx": 73,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 10,
+    "face": null,
+    "start_line_idx": 80,
+    "end_line_idx": 83,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 11,
+    "face": null,
+    "start_line_idx": 90,
+    "end_line_idx": 93,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 12,
+    "face": null,
+    "start_line_idx": 100,
+    "end_line_idx": 103,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 13,
+    "face": null,
+    "start_line_idx": 110,
+    "end_line_idx": 113,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 14,
+    "face": null,
+    "start_line_idx": 116,
+    "end_line_idx": 119,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 15,
+    "face": null,
+    "start_line_idx": 126,
+    "end_line_idx": 128,
+    "num_content_lines": 1
+  },
+  {
+    "idx": 16,
+    "face": null,
+    "start_line_idx": 135,
+    "end_line_idx": 140,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 17,
+    "face": null,
+    "start_line_idx": 147,
+    "end_line_idx": 150,
+    "num_content_lines": 2
+  }
+]

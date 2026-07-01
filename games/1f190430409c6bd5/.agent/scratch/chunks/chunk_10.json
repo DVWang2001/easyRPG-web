@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "Database\\Animations.txt",
+    "key": "大地魔法・単Ａ",
+    "text": "大地魔法・単Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "大地魔法・単Ｂ",
+    "text": "大地魔法・単Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "大地魔法・単Ｃ",
+    "text": "大地魔法・単Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "大地魔法・全Ａ",
+    "text": "大地魔法・全Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "大地魔法・全Ｂ",
+    "text": "大地魔法・全Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "大地魔法・全Ｃ",
+    "text": "大地魔法・全Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "風魔法・単Ａ",
+    "text": "風魔法・単Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "風魔法・単Ｂ",
+    "text": "風魔法・単Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "風魔法・単Ｃ",
+    "text": "風魔法・単Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "風魔法・全Ａ",
+    "text": "風魔法・全Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "風魔法・全Ｂ",
+    "text": "風魔法・全Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "風魔法・全Ｃ",
+    "text": "風魔法・全Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "神聖魔法・単Ａ",
+    "text": "神聖魔法・単Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "神聖魔法・単Ｂ",
+    "text": "神聖魔法・単Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "神聖魔法・単Ｃ",
+    "text": "神聖魔法・単Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "神聖魔法・全Ａ",
+    "text": "神聖魔法・全Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "神聖魔法・全Ｂ",
+    "text": "神聖魔法・全Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "神聖魔法・全Ｃ",
+    "text": "神聖魔法・全Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "暗黒魔法・単Ａ",
+    "text": "暗黒魔法・単Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "暗黒魔法・単Ｂ",
+    "text": "暗黒魔法・単Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "暗黒魔法・単Ｃ",
+    "text": "暗黒魔法・単Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "暗黒魔法・全Ａ",
+    "text": "暗黒魔法・全Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "暗黒魔法・全Ｂ",
+    "text": "暗黒魔法・全Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "暗黒魔法・全Ｃ",
+    "text": "暗黒魔法・全Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "無属性魔法・単Ａ",
+    "text": "無属性魔法・単Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "無属性魔法・単Ｂ",
+    "text": "無属性魔法・単Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "無属性魔法・単Ｃ",
+    "text": "無属性魔法・単Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "無属性魔法・全Ａ",
+    "text": "無属性魔法・全Ａ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "無属性魔法・全Ｂ",
+    "text": "無属性魔法・全Ｂ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "無属性魔法・全Ｃ",
+    "text": "無属性魔法・全Ｃ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "マリス・宝箱出現",
+    "text": "マリス・宝箱出現",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "痺れ麻痺ガード",
+    "text": "痺れ麻痺ガード",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "ヘイムレイク殴る",
+    "text": "ヘイムレイク殴る",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "ラグナイフ投げ",
+    "text": "ラグナイフ投げ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "キャラフラッシュ",
+    "text": "キャラフラッシュ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "プッチ・メッセ送信",
+    "text": "プッチ・メッセ送信",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "Ｄ・ハッシュ出現",
+    "text": "Ｄ・ハッシュ出現",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "闇",
+    "text": "闇",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "Ｄ・ハッシュ上",
+    "text": "Ｄ・ハッシュ上",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "Ｄ・ハッシュ右",
+    "text": "Ｄ・ハッシュ右",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "Ｄ・ハッシュ下",
+    "text": "Ｄ・ハッシュ下",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "Ｄ・ハッシュ左",
+    "text": "Ｄ・ハッシュ左",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "Ｄ・ハッシュ右上",
+    "text": "Ｄ・ハッシュ右上",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "Ｄ・ハッシュ右下",
+    "text": "Ｄ・ハッシュ右下",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "Ｄ・ハッシュ左上",
+    "text": "Ｄ・ハッシュ左上",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Animations.txt",
+    "key": "Ｄ・ハッシュ左下",
+    "text": "Ｄ・ハッシュ左下",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "剣",
+    "text": "剣",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "槍",
+    "text": "槍",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "打撃",
+    "text": "打撃",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "弓",
+    "text": "弓",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "炎",
+    "text": "炎",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "冷気",
+    "text": "冷気",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "雷",
+    "text": "雷",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "水",
+    "text": "水",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "大地",
+    "text": "大地",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "風",
+    "text": "風",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "神聖",
+    "text": "神聖",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "暗黒",
+    "text": "暗黒",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "攻撃力",
+    "text": "攻撃力",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "防御力",
+    "text": "防御力",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "精神力",
+    "text": "精神力",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "敏捷性",
+    "text": "敏捷性",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Attributes.txt",
+    "key": "吸収",
+    "text": "吸収",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\ChipSet.txt",
+    "key": "map03",
+    "text": "map03",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\ChipSet.txt",
+    "key": "map04",
+    "text": "map04",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\ChipSet.txt",
+    "key": "外観セット",
+    "text": "外観セット",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "戦闘不能",
+    "text": "戦闘不能",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は倒れた！",
+    "text": "は倒れた！",
+    "marker": "InflictedOnAlly",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "を倒した！",
+    "text": "を倒した！",
+    "marker": "InflictedOnEnemy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は立ち上がった！",
+    "text": "は立ち上がった！",
+    "marker": "Recovered",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "毒",
+    "text": "毒",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は毒に冒された！",
+    "text": "は毒に冒された！",
+    "marker": "InflictedOnEnemy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "はすでに毒に冒されている！",
+    "text": "はすでに毒に冒されている！",
+    "marker": "AlreadyInflicted",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "の毒が消えた！",
+    "text": "の毒が消えた！",
+    "marker": "Recovered",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "暗闇",
+    "text": "暗闇",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は暗闇に閉ざされた！",
+    "text": "は暗闇に閉ざされた！",
+    "marker": "InflictedOnAlly",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "を暗闇に閉ざした！",
+    "text": "を暗闇に閉ざした！",
+    "marker": "InflictedOnEnemy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "はすでに暗闇に閉ざされている！",
+    "text": "はすでに暗闇に閉ざされている！",
+    "marker": "AlreadyInflicted",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "の暗闇が消えた！",
+    "text": "の暗闇が消えた！",
+    "marker": "Recovered",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "沈黙",
+    "text": "沈黙",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は沈黙した！",
+    "text": "は沈黙した！",
+    "marker": "InflictedOnAlly",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "を沈黙させた！",
+    "text": "を沈黙させた！",
+    "marker": "InflictedOnEnemy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "はすでに沈黙している！",
+    "text": "はすでに沈黙している！",
+    "marker": "AlreadyInflicted",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "の沈黙が解けた！",
+    "text": "の沈黙が解けた！",
+    "marker": "Recovered",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "暴走",
+    "text": "暴走",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は暴走した！",
+    "text": "は暴走した！",
+    "marker": "InflictedOnAlly",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "を暴走させた！",
+    "text": "を暴走させた！",
+    "marker": "InflictedOnEnemy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "はすでに暴走している！",
+    "text": "はすでに暴走している！",
+    "marker": "AlreadyInflicted",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は我に返った！",
+    "text": "は我に返った！",
+    "marker": "Recovered",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "混乱",
+    "text": "混乱",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は混乱した！",
+    "text": "は混乱した！",
+    "marker": "InflictedOnAlly",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "を混乱させた！",
+    "text": "を混乱させた！",
+    "marker": "InflictedOnEnemy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "はすでに混乱している！",
+    "text": "はすでに混乱している！",
+    "marker": "AlreadyInflicted",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "睡眠",
+    "text": "睡眠",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は眠ってしまった！",
+    "text": "は眠ってしまった！",
+    "marker": "InflictedOnAlly",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "を眠らせた！",
+    "text": "を眠らせた！",
+    "marker": "InflictedOnEnemy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "はすでに眠っている！",
+    "text": "はすでに眠っている！",
+    "marker": "AlreadyInflicted",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は眠っている・・・",
+    "text": "は眠っている・・・",
+    "marker": "Continuing",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は目を覚ました！",
+    "text": "は目を覚ました！",
+    "marker": "Recovered",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "麻痺",
+    "text": "麻痺",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は麻痺して動けなくなった！",
+    "text": "は麻痺して動けなくなった！",
+    "marker": "InflictedOnAlly",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "を麻痺させた！",
+    "text": "を麻痺させた！",
+    "marker": "InflictedOnEnemy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "はすでに麻痺している！",
+    "text": "はすでに麻痺している！",
+    "marker": "AlreadyInflicted",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は麻痺していて動けない！",
+    "text": "は麻痺していて動けない！",
+    "marker": "Continuing",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "の麻痺が解けた！",
+    "text": "の麻痺が解けた！",
+    "marker": "Recovered",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "よろめき",
+    "text": "よろめき",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "はバランスを崩した！",
+    "text": "はバランスを崩した！",
+    "marker": "InflictedOnEnemy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "はよろめいている・・・",
+    "text": "はよろめいている・・・",
+    "marker": "Recovered",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "驚き",
+    "text": "驚き",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は立ちすくんだ！",
+    "text": "は立ちすくんだ！",
+    "marker": "InflictedOnEnemy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Conditions.txt",
+    "key": "は立ちすくんでいる・・・",
+    "text": "は立ちすくんでいる・・・",
+    "marker": "Recovered",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Hero.txt",
+    "key": "ウェイン",
+    "text": "ウェイン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Hero.txt",
+    "key": "青年",
+    "text": "青年",
+    "marker": "Title",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Hero.txt",
+    "key": "ラグ",
+    "text": "ラグ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Hero.txt",
+    "key": "軽業師",
+    "text": "軽業師",
+    "marker": "Title",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Hero.txt",
+    "key": "とーめい",
+    "text": "とーめい",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Hero.txt",
+    "key": "ドゥーガ",
+    "text": "ドゥーガ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Hero.txt",
+    "key": "きこり",
+    "text": "きこり",
+    "marker": "Title",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Hero.txt",
+    "key": "ミチタ",
+    "text": "ミチタ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Hero.txt",
+    "key": "王警七番隊長",
+    "text": "王警七番隊長",
+    "marker": "Title",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Hero.txt",
+    "key": "トライフィア",
+    "text": "トライフィア",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Hero.txt",
+    "key": "王警七番隊員",
+    "text": "王警七番隊員",
+    "marker": "Title",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "フックつきロープ",
+    "text": "フックつきロープ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "フックのついたロープ。作業用。",
+    "text": "フックのついたロープ。作業用。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "ツルハシ",
+    "text": "ツルハシ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "古びて重いツルハシ。薄い壁くらいなら崩せそうだ。",
+    "text": "古びて重いツルハシ。薄い壁くらいなら崩せそうだ。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "金貨",
+    "text": "金貨",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "洞窟に長い間あったはずなのに、なぜかきれいな金貨。",
+    "text": "洞窟に長い間あったはずなのに、なぜかきれいな金貨。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "１００￡",
+    "text": "１００￡",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "拾った１００￡。これで宿屋に泊まれます。",
+    "text": "拾った１００￡。これで宿屋に泊まれます。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "プッチ・メッセ",
+    "text": "プッチ・メッセ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "いつでもどこでもだれにでも、メッセージが送れます。",
+    "text": "いつでもどこでもだれにでも、メッセージが送れます。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "いかさまコイン",
+    "text": "いかさまコイン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "投げると絶対に表がでるコイン。もちろんいかさま。",
+    "text": "投げると絶対に表がでるコイン。もちろんいかさま。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "薬草",
+    "text": "薬草",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "薬草。ＨＰを５０ポイント回復する。",
+    "text": "薬草。ＨＰを５０ポイント回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "投げナイフ",
+    "text": "投げナイフ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "投げナイフのセット。なくなる事はないらしいので安心",
+    "text": "投げナイフのセット。なくなる事はないらしいので安心",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "爆薬",
+    "text": "爆薬",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "手に持って投げるタイプの爆薬。取り扱い注意。",
+    "text": "手に持って投げるタイプの爆薬。取り扱い注意。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "Ｓ.Ｗ",
+    "text": "Ｓ.Ｗ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "高圧電流の鎧を３秒間だけ発生することができる装置。",
+    "text": "高圧電流の鎧を３秒間だけ発生することができる装置。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "手に持って投げるタイプの爆薬。これを使えば…",
+    "text": "手に持って投げるタイプの爆薬。これを使えば…",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "扉の鍵",
+    "text": "扉の鍵",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "隠し部屋の鍵。これがなければ開けられない。",
+    "text": "隠し部屋の鍵。これがなければ開けられない。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "バール",
+    "text": "バール",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "丈夫なバール。これでこじ開けたりできるかも。",
+    "text": "丈夫なバール。これでこじ開けたりできるかも。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "まがったバール",
+    "text": "まがったバール",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "扉をこじ開けたので曲がってしまったバール。",
+    "text": "扉をこじ開けたので曲がってしまったバール。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "---------",
+    "text": "---------",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  }
+]

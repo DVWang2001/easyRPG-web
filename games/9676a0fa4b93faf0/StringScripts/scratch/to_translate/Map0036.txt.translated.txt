@@ -1,0 +1,171 @@
+﻿1. [MARKER: Message] 瑪麗·安托瓦內特「
+呵呵……來了嗎……
+愚蠢的傢伙們……
+2. [MARKER: Message] 瑪麗·安托瓦內特「
+拿破崙已跟我說了。
+但可惜了！！
+研究已經完成！！！
+3. [MARKER: Message] 奧斯卡「
+什麼？
+4. [MARKER: Message] 瑪麗·安托瓦內特「
+裝傻也沒用……
+你們就站在那裡，
+欣賞研究成果吧！！
+5. [MARKER: Message] DANDY「
+唔！！！
+身體……動不了……！！
+6. [MARKER: Message] 研究者「
+……！！！
+7. [MARKER: Message] 阿德蘭斯博士「
+完成了……！
+8. [MARKER: Message] 瑪麗·安托瓦內特「
+是嗎！！！
+\. 那……結果如何？
+9. [MARKER: Message] 阿德蘭斯博士「
+已解析了流漸的細胞及DNA。
+10. [MARKER: Message] 阿德蘭斯博士「
+驚人的數值……
+這樣的話，長生不死也不是夢！！
+11. [MARKER: Message] 阿德蘭斯博士「
+每個細胞的能量轉換效率
+９９８７２３％……
+也就是說，吃一根竹輪可以活１５０年。
+12. [MARKER: Message] 阿德蘭斯博士「
+為此所需的DNA變換病毒
+已製作完成。
+13. [MARKER: Message] 瑪麗·安托瓦內特「
+呵呵呵呵呵……成功了！！！
+我終於美麗永恆，
+長生不老！！！！
+14. [MARKER: Message] 瑪麗·安托瓦內特「
+……等等……那不是喬喬莉娜嗎。
+15. [MARKER: Message] 喬喬莉娜「
+哎呀，\. 媽媽$g
+16. [MARKER: Message] 所有其他人「
+什什什什什什什什什什什什什什什什什什什什什什什
+什什什什什什什什什什什什什什什什什什什什什什什
+什什什麼——！！！！！？
+17. [MARKER: Message] 喬喬莉娜「
+你還頑強地活著呢$g
+18. [MARKER: Message] 瑪麗·安托瓦內特「
+我明明把妳扔進了火山，
+為什麼沒死！？
+19. [MARKER: Message] 喬喬莉娜「
+在把媽媽你轟成碎片之前，我不能死$g
+20. [MARKER: Message] 瑪麗·安托瓦內特「
+呵呵……
+果然還是那個死死活活的孩子呢～
+這次要把脖子砍得乾乾淨淨！
+21. [MARKER: Message] 喬喬莉娜「
+嘿嘿$g
+媽媽你也讓我把你燒成灰燼$g
+22. [MARKER: Message] 阿德蘭斯博士「
+啊，\.那個……
+23. [MARKER: Message] ？？？「
+那個病毒……搶走了！！！！！！
+24. [MARKER: Message] 阿德蘭斯博士「
+什——麼！！！？
+25. [MARKER: Message] 艾倫「
+那麼，貝爾、薩斯克，後面就靠你們了！！
+26. [MARKER: Message] 薩斯克「
+交給我……
+27. [MARKER: Message] 瑪麗·安托瓦內特「
+你……幹什麼！！？
+28. [MARKER: Message] 貝爾「
+你們快逃！！！
+29. [MARKER: Message] 拿破崙「
+……已經來不及了……
+30. [MARKER: Message] 貝爾「
+你是誰！？在哪裡！！！？
+31. [MARKER: Message] 拿破崙「
+沒必要回答……
+因為你們在這裡就要死了……
+32. [MARKER: Message] 拿破崙「
+就像羅賽塔一樣……
+33. [MARKER: Message] 貝爾「
+\>……！！！\<
+你……羅賽塔……！！？
+……可惡……絕不原諒！！
+34. [MARKER: Message] 拿破崙「
+不原諒又能怎樣！！
+35. [MARKER: Message] 貝爾「
+嗚——！！！？
+36. [MARKER: Message] 薩斯克「
+貝爾！！！！？
+37. [MARKER: Message] 拿破崙「
+……後續就交給你們了……
+38. [MARKER: Message] JOKER「
+可惡！！我也動不了！！！
+39. [MARKER: Message] 奧斯卡「
+…………………………
+40. [MARKER: Message] 阿勝「
+…………………………
+41. [MARKER: Message] 瑪麗＝安托瓦內特「
+…………………………
+42. [MARKER: Message] 薩斯克「
+…………………………
+43. [MARKER: Message] 薩斯克「
+……嗚……
+44. [MARKER: Message] 薩斯克「
+……嗚嗚嗚嗚嗚嗚……
+45. [MARKER: Message] 薩斯克「
+……嗚哦哦哦哦哦哦哦——
+46. [MARKER: Message] 薩斯克「
+……嗚哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦——
+——————————————————————
+哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦！！
+47. [MARKER: Message] 薩斯克「
+哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦
+哦哦哦哦哦哦哦哦哦哦！！！
+\C[5]吼——！！！　斬鐵劍——！！！！！！！！
+48. [MARKER: Message] JOKER「
+什麼！！？術被破了！！！
+不可能！！！！
+49. [MARKER: Message] 流漸「
+……出……出來了……
+50. [MARKER: Message] JOKER「
+遵命……
+51. [MARKER: Message] 流漸「
+哦哦哦哦哦——！！
+放我出去——！！！！
+52. [MARKER: Message] JOKER「
+\>……！！？\<
+不可能！！流漸覺醒了……！！？
+\>時空封印！！？\<
+53. [MARKER: Message] 流漸「
+哦哦哦哦哦哦哦哦哦哦哦——！！！！！
+54. [MARKER: Message] JOKER「
+這傢伙！！
+三次元要崩壞了！！！！！
+……不得已了！！
+55. [MARKER: Message] JOKER「
+時間的霸主，地獄第八層的皇子！
+斬斷束縛大地與天空星辰的鎖鏈……
+按我的意志，令萬物冰封沉眠！
+56. [MARKER: Message] 喬喬莉娜「
+哇！！？
+那個術——！！！？$g
+57. [MARKER: Message] 喬喬莉娜「
+快逃！！！$g
+蟲洞！！！$g$g
+58. [MARKER: Message] 奧斯卡「
+……這樣不太對吧……
+59. [MARKER: Message] 神殿騎士阿勝「
+……同感……
+60. [MARKER: Message] 薩斯克「
+太殘忍了……
+61. [MARKER: Message] JOKER「
+哈哈哈！！ \>流漸！！\<
+你就老老實實待在那裡！！
+\|冰·縛·結·界！！！！！！
+62. [MARKER: Message] 瑪麗·安托瓦內特「
+你連我也要冰凍！！？
+63. [MARKER: Message] JOKER「
+呵呵呵……
+沉睡吧……！！ 永遠地……
+64. [MARKER: Message] 喬喬莉娜「
+唷，得救了$g
+65. [MARKER: Message] 喬喬莉娜「
+咦？$g　DANDY大人——？$g$g
+66. [MARKER: Message] 喬喬莉娜「
+要去找他！！$g$g

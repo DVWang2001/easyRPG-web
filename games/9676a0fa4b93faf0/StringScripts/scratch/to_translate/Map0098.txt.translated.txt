@@ -1,0 +1,26 @@
+﻿1. [MARKER: Message] 女子「
+哎呀，你好啊。
+2. [MARKER: Message] 以藏「
+有……有什麼事嗎？
+3. [MARKER: Message] 女子「
+真少見呢……眼睛是紅色的孩子……。\.
+吶，現在已經是傍晚了，你要不要在我們家留宿一晚？
+4. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] 以藏「
+5. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] 以藏「
+說得也是呢。\.
+反正也沒地方住，
+那就恭敬不如從命囉？
+6. [MARKER: Message] [FACE: Erase] 女子「
+是嗎？\. 願意留下來住嗎？\.
+那我現在去準備，你先好好放鬆一下吧。
+7. [MARKER: Message] [FACE: Erase] 
+    就這樣，以藏一夥人在這裡留宿了一晚。
+8. [MARKER: Message] [FACE: Erase] 以藏「
+為什麼突然……。
+9. [MARKER: Message] [FACE: Erase] 女子「
+說得也是呢。\. 突然被不認識的人邀請
+留宿，確實會想要推辭的吧。\.
+如果以後有興趣的話，隨時再來喔。
+10. [MARKER: Message] [FACE: Erase] 女子「
+難道你是……。\|
+不，\.沒什麼，當我沒說吧……。

@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "Database\\Items.txt",
+    "key": "ダイヤの指輪",
+    "text": "ダイヤの指輪",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "１カラットのダイヤの指輪。",
+    "text": "１カラットのダイヤの指輪。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "エナメルピアス",
+    "text": "エナメルピアス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "エナメル素材のピアス。女性専用。",
+    "text": "エナメル素材のピアス。女性専用。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "イェーズローブ",
+    "text": "イェーズローブ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "厚めのローブ。厚めなので暖かい。",
+    "text": "厚めのローブ。厚めなので暖かい。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "ゴッズハンマー",
+    "text": "ゴッズハンマー",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "大きなハンマー。腕力がないと扱えません。",
+    "text": "大きなハンマー。腕力がないと扱えません。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "スプリットダガー",
+    "text": "スプリットダガー",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "軽めだが、切れ味のするどいダガー",
+    "text": "軽めだが、切れ味のするどいダガー",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "クレイルマント",
+    "text": "クレイルマント",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "ウェインのいつも着てる。お気に入りマント。",
+    "text": "ウェインのいつも着てる。お気に入りマント。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "スヴェンジャケット",
+    "text": "スヴェンジャケット",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "スヴェン社製のジャケット。",
+    "text": "スヴェン社製のジャケット。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "王国警察鎧",
+    "text": "王国警察鎧",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "王国警察の鎧。言ってしまえば制服である。",
+    "text": "王国警察の鎧。言ってしまえば制服である。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "バンダナ",
+    "text": "バンダナ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "いろいろな用途につかえるバンダナ。結構便利。",
+    "text": "いろいろな用途につかえるバンダナ。結構便利。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "山師の服",
+    "text": "山師の服",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "山師やきこりが愛用している服。結構丈夫にできている",
+    "text": "山師やきこりが愛用している服。結構丈夫にできている",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "サーベル",
+    "text": "サーベル",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Items.txt",
+    "key": "王国警察のサーベル。意外に軽く切れ味もなかなか。",
+    "text": "王国警察のサーベル。意外に軽く切れ味もなかなか。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "重装警備兵",
+    "text": "重装警備兵",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ヴァディス",
+    "text": "ヴァディス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ささったナイフ",
+    "text": "ささったナイフ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "大蛇",
+    "text": "大蛇",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "大サソリ",
+    "text": "大サソリ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ゴースト",
+    "text": "ゴースト",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "コボルト",
+    "text": "コボルト",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "怪魚",
+    "text": "怪魚",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "鬼火",
+    "text": "鬼火",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "使い魔",
+    "text": "使い魔",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "スケルトン",
+    "text": "スケルトン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ゴブリン",
+    "text": "ゴブリン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ゾンビ",
+    "text": "ゾンビ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "オーク",
+    "text": "オーク",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "マミー",
+    "text": "マミー",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ワーウルフ",
+    "text": "ワーウルフ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ミミック",
+    "text": "ミミック",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "リッチ",
+    "text": "リッチ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "リザードマン",
+    "text": "リザードマン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "マーマン",
+    "text": "マーマン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ヴァンパイア",
+    "text": "ヴァンパイア",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ケルベロス",
+    "text": "ケルベロス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "メデューサ",
+    "text": "メデューサ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "トレント",
+    "text": "トレント",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "コカトリス",
+    "text": "コカトリス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "死神",
+    "text": "死神",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "キマイラ",
+    "text": "キマイラ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ダークエルフ",
+    "text": "ダークエルフ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ガーゴイル",
+    "text": "ガーゴイル",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "グリフォン",
+    "text": "グリフォン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ミノタウロス",
+    "text": "ミノタウロス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ハーピー",
+    "text": "ハーピー",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "トルーパー",
+    "text": "トルーパー",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ドラゴン",
+    "text": "ドラゴン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ワイバーン",
+    "text": "ワイバーン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ゴーレム",
+    "text": "ゴーレム",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ブラックナイト",
+    "text": "ブラックナイト",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "龍",
+    "text": "龍",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "デーモン",
+    "text": "デーモン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "クラーケン",
+    "text": "クラーケン",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ヒュドラ",
+    "text": "ヒュドラ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "ドラゴンナイト",
+    "text": "ドラゴンナイト",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "魔王",
+    "text": "魔王",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Monsters.txt",
+    "key": "魔神",
+    "text": "魔神",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ヴァディスナイフ",
+    "text": "ヴァディスナイフ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はラグめがけてナイフを投げる！",
+    "text": "はラグめがけてナイフを投げる！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "暗闇攻撃",
+    "text": "暗闇攻撃",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体にダメージを与え、暗闇状態にする。",
+    "text": "敵単体にダメージを与え、暗闇状態にする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "の攻撃！",
+    "text": "の攻撃！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "睡眠攻撃",
+    "text": "睡眠攻撃",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体にダメージを与え、睡眠状態にする。",
+    "text": "敵単体にダメージを与え、睡眠状態にする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "麻痺攻撃",
+    "text": "麻痺攻撃",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体にダメージを与え、麻痺状態にする。",
+    "text": "敵単体にダメージを与え、麻痺状態にする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "火炎のブレス",
+    "text": "火炎のブレス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体に炎属性のダメージを与える。",
+    "text": "敵全体に炎属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は火炎のブレスを吐いた！",
+    "text": "は火炎のブレスを吐いた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "吹雪のブレス",
+    "text": "吹雪のブレス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体に冷気属性のダメージを与える。",
+    "text": "敵全体に冷気属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は吹雪のブレスを吐いた！",
+    "text": "は吹雪のブレスを吐いた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "電撃",
+    "text": "電撃",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体に雷属性のダメージを与える。",
+    "text": "敵全体に雷属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は電撃を放った！",
+    "text": "は電撃を放った！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "津波",
+    "text": "津波",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体に水属性のダメージを与える。",
+    "text": "敵全体に水属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は津波を放った！",
+    "text": "は津波を放った！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "石つぶて",
+    "text": "石つぶて",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体に大地属性のダメージを与える。",
+    "text": "敵全体に大地属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は石つぶてを放った！",
+    "text": "は石つぶてを放った！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "鎌いたち",
+    "text": "鎌いたち",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体に風属性のダメージを与える。",
+    "text": "敵全体に風属性のダメージを与える。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は鎌いたちを放った！",
+    "text": "は鎌いたちを放った！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "毒のブレス",
+    "text": "毒のブレス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体を毒状態にする。",
+    "text": "敵全体を毒状態にする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は毒のブレスを吐いた！",
+    "text": "は毒のブレスを吐いた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "眠りのブレス",
+    "text": "眠りのブレス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体を睡眠状態にする。",
+    "text": "敵全体を睡眠状態にする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は眠りのブレスを吐いた！",
+    "text": "は眠りのブレスを吐いた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "花粉（毒）",
+    "text": "花粉（毒）",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は花粉をまき散らした！",
+    "text": "は花粉をまき散らした！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "花粉（暗闇）",
+    "text": "花粉（暗闇）",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体を暗闇状態にする。",
+    "text": "敵全体を暗闇状態にする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "花粉（暴走）",
+    "text": "花粉（暴走）",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体を暴走状態にする。",
+    "text": "敵全体を暴走状態にする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "花粉（混乱）",
+    "text": "花粉（混乱）",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体を混乱状態にする。",
+    "text": "敵全体を混乱状態にする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "花粉（麻痺）",
+    "text": "花粉（麻痺）",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体を麻痺状態にする。",
+    "text": "敵全体を麻痺状態にする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "超音波（暴走）",
+    "text": "超音波（暴走）",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は超音波を放った！",
+    "text": "は超音波を放った！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "超音波（混乱）",
+    "text": "超音波（混乱）",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "超音波（睡眠）",
+    "text": "超音波（睡眠）",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "妖しい霧（沈黙）",
+    "text": "妖しい霧（沈黙）",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体を沈黙状態にする。",
+    "text": "敵全体を沈黙状態にする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は妖しい霧を放った！",
+    "text": "は妖しい霧を放った！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "妖しい霧（睡眠）",
+    "text": "妖しい霧（睡眠）",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "沈黙の歌",
+    "text": "沈黙の歌",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "沈黙の歌を歌った！",
+    "text": "沈黙の歌を歌った！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "子守り歌",
+    "text": "子守り歌",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は子守り歌を歌った！",
+    "text": "は子守り歌を歌った！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "誘惑の歌",
+    "text": "誘惑の歌",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は誘惑の歌を歌った！",
+    "text": "は誘惑の歌を歌った！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "砂けむり",
+    "text": "砂けむり",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は砂けむりを巻き起こした！",
+    "text": "は砂けむりを巻き起こした！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "まぶしい光",
+    "text": "まぶしい光",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はまぶしい光を放った！",
+    "text": "はまぶしい光を放った！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "巻き付き",
+    "text": "巻き付き",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は巻き付きで攻撃！",
+    "text": "は巻き付きで攻撃！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "麻痺にらみ",
+    "text": "麻痺にらみ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体を麻痺状態にする。",
+    "text": "敵単体を麻痺状態にする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は鋭い目でにらみつけた！",
+    "text": "は鋭い目でにらみつけた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "吸血",
+    "text": "吸血",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体のＨＰを吸収する。",
+    "text": "敵単体のＨＰを吸収する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "の吸血攻撃！",
+    "text": "の吸血攻撃！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "不気味なダンス",
+    "text": "不気味なダンス",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体のＭＰを吸収する。",
+    "text": "敵単体のＭＰを吸収する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は不気味なダンスを踊った！",
+    "text": "は不気味なダンスを踊った！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "体当たり",
+    "text": "体当たり",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体にダメージを与え、バランスを崩させる。",
+    "text": "敵単体にダメージを与え、バランスを崩させる。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は体当たりした！",
+    "text": "は体当たりした！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "足払い",
+    "text": "足払い",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵単体のバランスを崩させる。",
+    "text": "敵単体のバランスを崩させる。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "は足払いを仕掛けた！",
+    "text": "は足払いを仕掛けた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "おたけび",
+    "text": "おたけび",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "敵全体を驚かせ、行動できなくする。",
+    "text": "敵全体を驚かせ、行動できなくする。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "はおたけびをあげた！",
+    "text": "はおたけびをあげた！",
+    "marker": "UseMessage1",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "--------------------",
+    "text": "--------------------",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "ヒールⅠ",
+    "text": "ヒールⅠ",
+    "marker": "Name",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Skills.txt",
+    "key": "味方単体のＨＰを 30 ポイント程度回復する。",
+    "text": "味方単体のＨＰを 30 ポイント程度回復する。",
+    "marker": "Description",
+    "speaker": "SYSTEM"
+  }
+]

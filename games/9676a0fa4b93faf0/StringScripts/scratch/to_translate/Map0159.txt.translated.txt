@@ -1,0 +1,100 @@
+﻿1. [MARKER: Message] 
+　　　被某種神祕的奇妙力量保護著……。
+2. [MARKER: Message] 以藏「
+一上來就是緊閉的門嗎……。
+這要怎麼打開啊……？
+3. [MARKER: Message] DANDY「
+這裡如果不用我的絕招的話，是打不開的設計。
+4. [MARKER: Message] DANDY「
+……打個比方……。
+5. [MARKER: Message] DANDY「
+就是這樣一回事。
+6. [MARKER: Message] 以藏「
+哼……那麼，這裡就只能
+交給 DANDY 來想辦法了呢。
+7. [MARKER: Message] 喬喬莉娜「
+看來你這傢伙已經沒用了呢$g
+8. [MARKER: Message] 以藏「
+\C[5]……宰了你喔……。
+9. [MARKER: Message] 
+　　　被某種神祕的奇妙力量保護著……。
+10. [MARKER: Message] DANDY「
+唔喔！打不開！！
+11. [MARKER: Message] 以藏「
+既然只有你才能打開，那接下來要怎麼辦啊……。
+12. [MARKER: Message] DANDY「
+看來我，修行還遠遠不夠啊……。
+13. [MARKER: Message] 以藏「
+也就是說，只用『丹迪神拳』是不夠格打開這扇門的囉。
+先去稍微修行一下再來吧……。
+14. [MARKER: Message] DANDY「
+唔喔！打不開！！
+15. [MARKER: Message] 以藏「
+既然只有你才能打開，那接下來要怎麼辦啊……。
+16. [MARKER: Message] DANDY「
+看來我，修行還遠遠不夠啊……。
+17. [MARKER: Message] 以藏「
+也就是說，只用『丹迪神拳』和『丹迪神踢』是不夠格打開的囉。
+先去稍微修行一下再來吧……。
+18. [MARKER: Message] DANDY「
+唔喔！打不開！！
+19. [MARKER: Message] 以藏「
+既然只有你才能打開，那接下來要怎麼辦啊……。
+20. [MARKER: Message] DANDY「
+看來我，修行還遠遠不夠啊……。
+21. [MARKER: Message] 以藏「
+也就是說，只用『丹迪神拳』、『丹迪神踢』和『丹迪勾拳』是不夠格打開的囉。
+先去稍微修行一下再來吧……。
+22. [MARKER: Message] DANDY「
+唔喔！打不開！！
+23. [MARKER: Message] 以藏「
+既然只有你才能打開，那接下來要怎麼辦啊……。
+24. [MARKER: Message] DANDY「
+看來我，修行還遠遠不夠啊……。
+25. [MARKER: Message] 以藏「
+也就是說，只用『丹迪神拳』是不夠格打開這扇門的囉。
+先去稍微修行一下再來吧……。
+26. [MARKER: Message] DANDY「
+唔喔！打不開！！
+27. [MARKER: Message] 以藏「
+既然只有你才能打開，那接下來要怎麼辦啊……。
+28. [MARKER: Message] DANDY「
+看來我，修行還遠遠不夠啊……。
+29. [MARKER: Message] 以藏「
+也就是說，只用『丹迪神拳』和『丹迪神踢』是不夠格打開的囉。
+先去稍微修行一下再來吧……。
+30. [MARKER: Message] DANDY「
+唔喔！打不開！！
+31. [MARKER: Message] 以藏「
+既然只有你才能打開，那接下來要怎麼辦啊……。
+32. [MARKER: Message] DANDY「
+看來我，修行還遠遠不夠啊……。
+33. [MARKER: Message] 以藏「
+也就是說，只用『丹迪神拳』、『丹迪神踢』和『丹迪勾拳』是不夠格打開的囉。
+先去稍微修行一下再來吧……。
+34. [MARKER: Message] DANDY「
+看來全部都順利打開了呢……。\.呼……。
+35. [MARKER: Message] 以藏「
+我從很久以前就一直很想問了，
+DANDY，你絕招裡出現的那個男人到底是誰啊……？
+36. [MARKER: Message] DANDY「
+那就是我。……或者說，是我年輕時的姿態吧。
+因為那些必殺技，是將我的精神具現化之後釋放的招式呢。
+37. [MARKER: Message] 以藏「
+哼……真是挺方便的招式呢……。
+38. [MARKER: Message] 以藏「
+一上來就是緊閉的門嗎……。
+這要怎麼打開啊……？
+39. [MARKER: Message] DANDY「
+這裡如果不用我的絕招的話，是打不開的設計。
+40. [MARKER: Message] DANDY「
+……打個比方……。
+41. [MARKER: Message] DANDY「
+就是這樣一回事。
+42. [MARKER: Message] 以藏「
+哼……那麼，這裡就只能
+交給 DANDY 來想辦法了呢。
+43. [MARKER: Message] 喬喬莉娜「
+看來你這傢伙已經沒用了呢$g
+44. [MARKER: Message] 以藏「
+\C[5]……宰了你喔……。

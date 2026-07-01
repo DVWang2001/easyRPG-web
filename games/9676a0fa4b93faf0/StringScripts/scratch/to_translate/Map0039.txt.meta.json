@@ -1,0 +1,44 @@
+[
+  {
+    "idx": 1,
+    "face": null,
+    "start_line_idx": 2,
+    "end_line_idx": 5,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 2,
+    "face": null,
+    "start_line_idx": 12,
+    "end_line_idx": 15,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 3,
+    "face": null,
+    "start_line_idx": 18,
+    "end_line_idx": 21,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 4,
+    "face": null,
+    "start_line_idx": 28,
+    "end_line_idx": 31,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 5,
+    "face": null,
+    "start_line_idx": 36,
+    "end_line_idx": 39,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 6,
+    "face": null,
+    "start_line_idx": 46,
+    "end_line_idx": 49,
+    "num_content_lines": 2
+  }
+]

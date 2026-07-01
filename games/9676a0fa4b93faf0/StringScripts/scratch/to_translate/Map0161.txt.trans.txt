@@ -1,0 +1,90 @@
+﻿1. [MARKER: Message] 
+　　　　　　扉にはカギがかかっている！
+2. [MARKER: Message] イゾウ「
+こ・・これがメビウスブレイド・・・。
+3. [MARKER: Message] DANDY「
+私が以前見た時と同じく
+精巧なる輝きを放っているな・・。\.
+しかし、まさかこの剣の封印を解く事になるとは・・。
+4. [MARKER: Message] イゾウ「
+とりあえず、これを持っていけば
+あの『でぃーえすふぃーるど』とやらが
+解除できるワケだな。
+5. [MARKER: Message] オスカー「
+そういうコトになるな。
+早速頂いて、帰ろう！
+6. [MARKER: Message] 
+　　　　　　メビウスブレイドゲット！！
+7. [MARKER: Message] 管理人「
+\S[2]・・えっ？
+8. [MARKER: Message] 管理人「
+あ・・あの！！　ここを守る必要が無くなったら
+私を帰らせてくれるという話は・・・。
+9. [MARKER: Message] 管理人「
+\S[2]・・・そ、\.そんなぁ・・・。
+10. [MARKER: Message] 
+　　　メビウスブレイドを手に入れたイゾウ達は
+　　　　 すぐさまネオ＝ジャパンへ帰還した。
+11. [MARKER: Message] 管理人「
+\S[2]ＺＺＺＺＺｚｚｚｚｚ・・・。
+12. [MARKER: Message] DANDY「
+おぃ・・起きろ・・。
+13. [MARKER: Message] 管理人「
+\C[5]\>うはぁぁぁぁぁぁ！！！\<
+14. [MARKER: Message] 管理人「
+だ・・・DANDY様！！！！？
+15. [MARKER: Message] DANDY「
+お前、今寝てただろ・・。
+16. [MARKER: Message] 管理人「
+め・・めめめ・・めっそうもございません！！
+私はDANDY様に命じられた通り
+メビウスブレイドを守っておりました！
+17. [MARKER: Message] 管理人「
+その証拠に、ここにカギが！！
+18. [MARKER: Message] 管理人「
+\S[2]・・・・・・。
+19. [MARKER: Message] 管理人「
+\>あれっ！！！？\<
+ここにあったはず・・！！？
+20. [MARKER: Message] 管理人「
+\>あれ？\<\.\^
+21. [MARKER: Message] 管理人「
+\>あれ？\<\.\^
+22. [MARKER: Message] 管理人「
+\>あれ？\<\.\^
+23. [MARKER: Message] 管理人「
+\>あれ？\<\.\^
+24. [MARKER: Message] 管理人「
+\>あれ？\<\.\^
+25. [MARKER: Message] 管理人「
+\S[2]・・・・・・。
+26. [MARKER: Message] 管理人「
+あっ！！
+27. [MARKER: Message] 管理人「
+おぉ、ここに！！
+28. [MARKER: Message] 管理人「
+ありました！　DANDY様！！
+29. [MARKER: Message] DANDY「
+お前、今完全に忘れていただろ・・。
+30. [MARKER: Message] 管理人「
+い・・いえっ！！！
+31. [MARKER: Message] イゾウ「
+まー、そんなコトはどうでもいいじゃねぇか。
+早くカギをもらえよ。
+32. [MARKER: Message] DANDY「
+・・そうだな。
+もういい、カギをくれ。
+33. [MARKER: Message] 管理人「
+は・・はいぃぃーー！！
+34. [MARKER: Message] 
+　　　　　　　格納部屋のカギゲット！！
+35. [MARKER: Message] DANDY「
+さぁ、扉を開けようではないか。
+36. [MARKER: Message] 管理人「
+え・・？　まだ何か私に御用が・・？
+37. [MARKER: Message] 管理人「
+ここから出して下さいよ～、DANDY様～。
+38. [MARKER: Message] DANDY「
+キリがついたらな・・・。
+39. [MARKER: Message] 管理人「
+そんなぁ・・・。

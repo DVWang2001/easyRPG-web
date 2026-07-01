@@ -1,0 +1,56 @@
+﻿1. [MARKER: Message] DANDY「
+……這裡是……
+2. [MARKER: Message] 阿拉斯托爾「
+……多了個多餘的……
+3. [MARKER: Message] DANDY「
+你是誰！！？
+4. [MARKER: Message] 阿拉斯托爾「
+吾乃阿拉斯托爾……
+『DANDY』，\. 吾是來取你性命的。
+5. [MARKER: Message] DANDY「
+哦……
+6. [MARKER: Message] 喬喬莉娜「
+傷害DANDY大人，這個我絕不允許$g
+7. [MARKER: Message] 阿拉斯托爾「
+……咯咯咯……
+8. [MARKER: Message] 阿拉斯托爾「
+女人，妳究竟看上這傢伙哪裡了？\.
+這個男人『DANDY』，
+並不是妳所想的那種存在……
+9. [MARKER: Message] 喬喬莉娜「
+……………
+10. [MARKER: Message] 阿拉斯托爾「
+這個男人，是與這個世界不同的住民……
+他的世界滅亡之時，逃到了這個世界，
+也就是說，是個敗者……
+11. [MARKER: Message] 阿拉斯托爾「
+而且他並非人類。
+是那個世界的工程師所製造的精巧人偶……
+話說，看一眼不就知道了嗎？
+12. [MARKER: Message] DANDY「
+…………
+13. [MARKER: Message] 喬喬莉娜「
+這種事……我從一開始就知道了……
+14. [MARKER: Message] 喬喬莉娜「
+但是，我是為了瑪麗·安東尼的
+不死實驗而生的孩子……\.
+我是作為道具而誕生的存在……
+15. [MARKER: Message] 喬喬莉娜「
+DANDY大人是誰造的，我根本不在乎！\.
+只要能與懂得我相同痛苦的人
+在一起就夠了……
+16. [MARKER: Message] DANDY「
+喬喬莉娜殿……
+17. [MARKER: Message] 喬喬莉娜「
+還有你……揭露人家男友的過去，
+想藉此撩妹，真是太卑鄙了……
+18. [MARKER: Message] 喬喬莉娜「
+\C[5]就讓本小姐，喬喬莉娜·安東瓦內特
+把你化為灰燼$g$g$g
+19. [MARKER: Message] 阿拉斯托爾「
+我並沒有在撩妹……\.
+也罷……就用那份愛，\.死也要貫徹到底！！
+20. [MARKER: Message] 喬喬莉娜「
+出發，DANDY大人！！！$g$g
+21. [MARKER: Message] DANDY「
+好——！！！

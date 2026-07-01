@@ -1,0 +1,296 @@
+[
+  {
+    "idx": 1,
+    "face": "主人公2, 10, Left, Normal",
+    "start_line_idx": 4,
+    "end_line_idx": 8,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 2,
+    "face": "主人公2, 10, Left, Normal",
+    "start_line_idx": 11,
+    "end_line_idx": 15,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 3,
+    "face": "主人公2, 10, Left, Normal",
+    "start_line_idx": 18,
+    "end_line_idx": 22,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 4,
+    "face": "主人公2, 10, Left, Normal",
+    "start_line_idx": 25,
+    "end_line_idx": 28,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 5,
+    "face": "Erase",
+    "start_line_idx": 33,
+    "end_line_idx": 37,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 6,
+    "face": "Erase",
+    "start_line_idx": 40,
+    "end_line_idx": 43,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 7,
+    "face": "Erase",
+    "start_line_idx": 46,
+    "end_line_idx": 50,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 8,
+    "face": "Erase",
+    "start_line_idx": 53,
+    "end_line_idx": 57,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 9,
+    "face": "Erase",
+    "start_line_idx": 60,
+    "end_line_idx": 65,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 10,
+    "face": "Erase",
+    "start_line_idx": 68,
+    "end_line_idx": 71,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 11,
+    "face": "Erase",
+    "start_line_idx": 74,
+    "end_line_idx": 77,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 12,
+    "face": "Erase",
+    "start_line_idx": 80,
+    "end_line_idx": 84,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 13,
+    "face": "Erase",
+    "start_line_idx": 87,
+    "end_line_idx": 91,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 14,
+    "face": "Erase",
+    "start_line_idx": 94,
+    "end_line_idx": 98,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 15,
+    "face": "Erase",
+    "start_line_idx": 101,
+    "end_line_idx": 105,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 16,
+    "face": "Erase",
+    "start_line_idx": 108,
+    "end_line_idx": 113,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 17,
+    "face": "Erase",
+    "start_line_idx": 116,
+    "end_line_idx": 119,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 18,
+    "face": "Erase",
+    "start_line_idx": 122,
+    "end_line_idx": 125,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 19,
+    "face": "Erase",
+    "start_line_idx": 128,
+    "end_line_idx": 131,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 20,
+    "face": "Erase",
+    "start_line_idx": 134,
+    "end_line_idx": 138,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 21,
+    "face": "Erase",
+    "start_line_idx": 141,
+    "end_line_idx": 146,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 22,
+    "face": "Erase",
+    "start_line_idx": 149,
+    "end_line_idx": 154,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 23,
+    "face": "Erase",
+    "start_line_idx": 157,
+    "end_line_idx": 161,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 24,
+    "face": "Erase",
+    "start_line_idx": 164,
+    "end_line_idx": 169,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 25,
+    "face": "Erase",
+    "start_line_idx": 172,
+    "end_line_idx": 175,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 26,
+    "face": "Erase",
+    "start_line_idx": 178,
+    "end_line_idx": 182,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 27,
+    "face": "Erase",
+    "start_line_idx": 185,
+    "end_line_idx": 190,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 28,
+    "face": "Erase",
+    "start_line_idx": 193,
+    "end_line_idx": 197,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 29,
+    "face": "Erase",
+    "start_line_idx": 200,
+    "end_line_idx": 204,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 30,
+    "face": "Erase",
+    "start_line_idx": 207,
+    "end_line_idx": 211,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 31,
+    "face": "Erase",
+    "start_line_idx": 214,
+    "end_line_idx": 219,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 32,
+    "face": "Erase",
+    "start_line_idx": 222,
+    "end_line_idx": 226,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 33,
+    "face": "Erase",
+    "start_line_idx": 229,
+    "end_line_idx": 233,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 34,
+    "face": "Erase",
+    "start_line_idx": 236,
+    "end_line_idx": 239,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 35,
+    "face": "Erase",
+    "start_line_idx": 242,
+    "end_line_idx": 247,
+    "num_content_lines": 4
+  },
+  {
+    "idx": 36,
+    "face": "Erase",
+    "start_line_idx": 250,
+    "end_line_idx": 253,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 37,
+    "face": "Erase",
+    "start_line_idx": 256,
+    "end_line_idx": 260,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 38,
+    "face": "Erase",
+    "start_line_idx": 263,
+    "end_line_idx": 267,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 39,
+    "face": "Erase",
+    "start_line_idx": 270,
+    "end_line_idx": 274,
+    "num_content_lines": 3
+  },
+  {
+    "idx": 40,
+    "face": "Erase",
+    "start_line_idx": 277,
+    "end_line_idx": 280,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 41,
+    "face": "Erase",
+    "start_line_idx": 283,
+    "end_line_idx": 286,
+    "num_content_lines": 2
+  },
+  {
+    "idx": 42,
+    "face": "Erase",
+    "start_line_idx": 289,
+    "end_line_idx": 292,
+    "num_content_lines": 2
+  }
+]

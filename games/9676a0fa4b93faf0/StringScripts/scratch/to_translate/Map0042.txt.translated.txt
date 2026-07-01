@@ -1,0 +1,48 @@
+﻿1. [MARKER: Message] 老爺爺「
+啊，真好喝。
+水可是世界的珍寶啊。
+2. [MARKER: Message] 大叔「
+你說新日本啊……
+3. [MARKER: Message] 大叔「
+比起這裡，我覺得去北邊的印度市區
+更能收集到情報喔。
+4. [MARKER: Message] 老奶奶「
+……………………。
+5. [MARKER: Message] 老奶奶「
+最近世界的局勢很奇怪……
+希望這裡不要受到波及就好……
+6. [MARKER: Message] 以藏「
+啊啊……累死了……
+7. [MARKER: Message] 奧斯卡「
+……有沒有人知道，
+關於前往新日本的情報呢……
+8. [MARKER: Message] 以藏「
+打聽情報嗎……真麻煩啊～……
+9. [MARKER: Message] 機工士「
+喔……那，要好好珍惜使用啊！
+10. [MARKER: Message] 
+　　　　　　獲得了柯爾特巨蟒！！
+11. [MARKER: Message] 機工士「
+雖然有IC，但看來好像沒有電晶體呢。
+12. [MARKER: Message] 機工士「
+喔……那，要好好珍惜使用啊！
+13. [MARKER: Message] 
+　　　　　　獲得了柯爾特巨蟒！！
+14. [MARKER: Message] 機工士「
+雖然有電晶體，但看來好像沒有IC呢。
+15. [MARKER: Message] 機工士「
+如果你把IC和電晶體拿給我的話，
+我就幫你做一把「柯爾特巨蟒」喔。
+16. [MARKER: Message] 機工士「
+我？……我是個流浪的機工士……
+17. [MARKER: Message] 機工士「
+以後要是又拿到什麼奇怪的零件，
+就帶過來給我吧。
+18. [MARKER: Message] 機工士「
+我會根據不同的零件來幫你製作道具的。
+19. [MARKER: Message] 商人「
+聽說東邊「中國」的皇帝，
+花了大筆稅金，建造了像這艘船一樣的
+大型船隻呢。
+20. [MARKER: Message] 商人「
+那皇帝肯定只是在花錢享樂吧～……

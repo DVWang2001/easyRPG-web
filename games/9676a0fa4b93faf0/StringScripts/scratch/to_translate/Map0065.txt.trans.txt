@@ -1,0 +1,33 @@
+﻿1. [MARKER: Message] イゾウ「
+ん？
+2. [MARKER: Message] 兵士「
+ココより先へは行かせないぞ！！！
+3. [MARKER: Message] オスカー「
+やはり先回りしていたか・・。
+4. [MARKER: Message] イゾウ「
+\S[2]めんどくせぇーなぁ～・・。
+5. [MARKER: Message] 兵士「
+我が『中国兵団』の名にかけて
+侵入者を排除する！！！
+6. [MARKER: Message] 兵士「
+\S[2]中国に栄光あれっっ！！
+7. [MARKER: Message] オスカー「
+出来れば隠密に済ましたかったな。
+8. [MARKER: Message] イゾウ「
+堂々と進入しておいて、そりゃないだろ・・。
+9. [MARKER: Message] オスカー「
+\S[2]・・・・・・と・・とにかく
+先へ進もう。
+10. [MARKER: Message] イゾウ「
+ん？
+11. [MARKER: Message] 兵士「
+ココより先へは行かせないぞ！！！
+12. [MARKER: Message] オスカー「
+やはり先回りしていたか・・。
+13. [MARKER: Message] イゾウ「
+\S[2]めんどくせぇーなぁ～・・。
+14. [MARKER: Message] 兵士「
+我が『中国兵団』の名にかけて
+侵入者を排除する！！！
+15. [MARKER: Message] 兵士「
+\S[2]中国に栄光あれっっ！！

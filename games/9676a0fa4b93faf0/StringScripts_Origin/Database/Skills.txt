@@ -1,0 +1,1619 @@
+﻿*****Entry1*****
+#Name# [20]
+－－－－－特技－剣技
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+究極二刀凶星斬
+
+#Description# [50]
+『ｷｭｳｷｮｸﾆﾄｳｷｮｳｾｲｻﾞﾝ』イゾウの究極奥義。(全体攻撃)
+
+#UseMessage1# [30]
+は究極二刀凶星斬を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+襲爪演舞
+
+#Description# [50]
+『ｼｭｳｿｳｴﾝﾌﾞ』乱舞技。(全体攻撃)
+
+#UseMessage1# [30]
+は襲爪演舞を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+降魔白雷刃
+
+#Description# [50]
+『ｺｳﾏﾊｸﾗｲｼﾞﾝ』雷を纏う悪鬼の如き一撃。(単体攻撃)
+
+#UseMessage1# [30]
+は降魔白雷刃を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+櫻花葬封殺
+
+#Description# [50]
+『ｵｳｶｿｳﾌｳｻﾂ』強力さの中に美しさが光る。(単体攻撃)
+
+#UseMessage1# [30]
+は櫻花葬封殺を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+熱血兄貴大行進
+
+#Description# [50]
+『ﾈｯｹﾂｱﾆｷﾀﾞｲｺｳｼﾝ』縦横無尽に大行進。(全体攻撃)
+
+#UseMessage1# [30]
+「アニキ～～～～！！！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+破牙滅衝撃
+
+#Description# [50]
+『ﾊｶﾞﾒｯｼｮｳｹﾞｷ』ﾈｵ=ｼﾞｬﾊﾟﾝで教わる伝統技。(全体攻撃)
+
+#UseMessage1# [30]
+は破牙滅衝撃を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+－－－－－特技－体術
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+ダンディパンチ
+
+#Description# [50]
+気品漂う、紳士のパンチ。(単体攻撃)
+
+#UseMessage1# [30]
+はダンディパンチを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+ダンディキック
+
+#Description# [50]
+気品漂う、紳士のキック。(単体攻撃)
+
+#UseMessage1# [30]
+はダンディキックを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+ダンディアッパー
+
+#Description# [50]
+気品漂う、紳士のアッパー。(単体攻撃)
+
+#UseMessage1# [30]
+はダンディアッパーを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+ダンディ双掌打
+
+#Description# [50]
+気品漂う、紳士の双掌打。(単体攻撃)
+
+#UseMessage1# [30]
+はダンディ双掌打を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+ダンディ烈光流星乱舞
+
+#Description# [50]
+気品漂う、紳士の流星乱舞。(単体攻撃)
+
+#UseMessage1# [30]
+はダンディ烈光流星乱舞を放った
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+－－－－－特技－銃技
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+デス・ショット
+
+#Description# [50]
+緻密な射撃。(単体攻撃)
+
+#UseMessage1# [30]
+はデス・ショットを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+デス・ブリッド
+
+#Description# [50]
+エネルギー弾を打ち出す技。けっこう痛い。(全体攻撃)
+
+#UseMessage1# [30]
+はデス・ブリッドを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+日本伝統銃技『雅』
+
+#Description# [50]
+ネオ・ジャパン伝統の、格式高い銃技。(全体攻撃)
+
+#UseMessage1# [30]
+は日本伝統銃技『雅』を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+－－－－－特技－魔術
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+ラヴファイア
+
+#Description# [50]
+チョチョリーナの熱過ぎる愛の炎。(全体攻撃)
+
+#UseMessage1# [30]
+「燃え上がる愛の炎！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+バーニングラヴ
+
+#Description# [50]
+森でお友達になったトカゲさんの援護。(全体攻撃)
+
+#UseMessage1# [30]
+「トカゲさ～ん！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+ドラゴニックラヴ
+
+#Description# [50]
+森でお友達になったドラゴンさんの援護。(全体攻撃)
+
+#UseMessage1# [30]
+「ドラゴンさ～ん！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry27*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+－－－－－魔法－回復
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+ヒール
+
+#Description# [50]
+仲間のＨＰを１００前後回復する。
+
+#UseMessage1# [30]
+「ヒール！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+リカバリィー
+
+#Description# [50]
+仲間のＨＰを５００前後回復する。
+
+#UseMessage1# [30]
+「リカバリィー！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry33*****
+#Name# [20]
+オールヒーリング
+
+#Description# [50]
+味方全員のＨＰを２５０前後回復する。
+
+#UseMessage1# [30]
+「我ら全ての傷を癒せ・・
+
+#UseMessage2# [50]
+オールヒーリング！！！
+
+
+
+*****Entry34*****
+#Name# [20]
+ゴッドブレス
+
+#Description# [50]
+味方全員のＨＰを５００前後回復する。
+
+#UseMessage1# [30]
+「神の息吹を借りて我らを癒せ！
+
+#UseMessage2# [50]
+ゴッドブレス！！！
+
+
+
+*****Entry35*****
+#Name# [20]
+リザレクション
+
+#Description# [50]
+味方１人のＨＰを全快する。
+
+#UseMessage1# [30]
+「全ての傷を癒せ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+ジェントルヒール
+
+#Description# [50]
+ジェントルメンのみ許された回復術。1人のHP200回復。
+
+#UseMessage1# [30]
+癒せ！ダンディの如く！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry37*****
+#Name# [20]
+再生
+
+#Description# [50]
+自己再生能力を活用する。HP999回復。使用者のみ。
+
+#UseMessage1# [30]
+のキズが癒されていく・・・
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry38*****
+#Name# [20]
+リフレッシュ
+
+#Description# [50]
+味方１人の様々な状態変化を直す。蘇生、呪いは不可。
+
+#UseMessage1# [30]
+はリフレッシュを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry39*****
+#Name# [20]
+リバース
+
+#Description# [50]
+味方一人を瀕死状態から全快させる。
+
+#UseMessage1# [30]
+「リバース！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+エンゼルヒーリング
+
+#Description# [50]
+味方全員の戦闘不能を回復。
+
+#UseMessage1# [30]
+「エンゼルヒーリング！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+－－特技－剣技ｵﾝﾄﾞﾚ
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry42*****
+#Name# [20]
+究極二刀凶星斬
+
+#Description# [50]
+『ｷｭｳｷｮｸﾆﾄｳ・ｷｮｳｾｲｻﾞﾝ』オンドレの必殺技。
+
+#UseMessage1# [30]
+は究極二刀凶星斬を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry43*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry45*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry46*****
+#Name# [20]
+－－－特技－銃技ベア
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry47*****
+#Name# [20]
+ウィーク・ショット
+
+#Description# [50]
+精密な銃技。必ず当たる。敵１体に有効。
+
+#UseMessage1# [30]
+「かわせるかな・・？
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry48*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry52*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry53*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry54*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry55*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry56*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry57*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry58*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry59*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry60*****
+#Name# [20]
+－－－－－魔法－特殊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry61*****
+#Name# [20]
+メビウスホール
+
+#Description# [50]
+瞬時に記憶された場所へ移動する。
+
+#UseMessage1# [30]
+はメビウスホールを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry62*****
+#Name# [20]
+ワームホール
+
+#Description# [50]
+ダンジョンから瞬時にフィールドへ移動する。
+
+#UseMessage1# [30]
+はワームホールを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry63*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry64*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry65*****
+#Name# [20]
+－－－－－魔法－攻撃
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry66*****
+#Name# [20]
+レイヴン
+
+#Description# [50]
+星をもぶっ飛ばす大魔法。
+
+#UseMessage1# [30]
+はレイヴンを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry67*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry68*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry69*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry70*****
+#Name# [20]
+－－－－－－－敵の技
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry71*****
+#Name# [20]
+ムック愛国ソ連撃
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+「愛国ソ連撃ィィィーー！！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry72*****
+#Name# [20]
+大統領四の字固め
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は大統領四の字固めを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry73*****
+#Name# [20]
+大統領海老固め
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は大統領海老固めを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry74*****
+#Name# [20]
+大統領卍固め
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は大統領卍固めを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry75*****
+#Name# [20]
+女王瞬殺五月雨撃
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は女王瞬殺五月雨撃を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry76*****
+#Name# [20]
+女王猛虎撲殺撃
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は女王猛虎撲殺撃を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry77*****
+#Name# [20]
+ナポ撃ち
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はナポ撃ちを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry78*****
+#Name# [20]
+ナポ全体撃ち
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はナポ全体撃ちを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry79*****
+#Name# [20]
+ナポ馬キック
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+「我が馬の蹴りの威力！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry80*****
+#Name# [20]
+破壊プログラム
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+「sncaiufhwbekibcaspdie･･･････
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry81*****
+#Name# [20]
+究極破壊プログラム
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+「aazazkowkmcmneronngklkjsd･･･
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry82*****
+#Name# [20]
+死哭爆熱衝
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は死哭爆熱衝を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry83*****
+#Name# [20]
+戮仙神滅陣
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は戮仙神滅陣を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry84*****
+#Name# [20]
+無想死神拳
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は無想死神拳を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry85*****
+#Name# [20]
+紳士斬り
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は紳士斬りを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry86*****
+#Name# [20]
+淑女蹴り
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は淑女蹴りを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry87*****
+#Name# [20]
+インフェルノ
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はインフェルノを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry88*****
+#Name# [20]
+ラストジャッジメント
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はラストジャッジメントを放った
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry89*****
+#Name# [20]
+タイダルウェイブ
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はタイダルウェイブを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry90*****
+#Name# [20]
+－－－－－一般敵の技
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry91*****
+#Name# [20]
+盗賊の極意
+
+#Description# [50]
+盗賊の極意
+
+#UseMessage1# [30]
+は盗賊の極意を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry92*****
+#Name# [20]
+山賊の極意
+
+#Description# [50]
+山賊の極意
+
+#UseMessage1# [30]
+は山賊の極意を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry93*****
+#Name# [20]
+半狂乱スラッシュ
+
+#Description# [50]
+狂った攻撃
+
+#UseMessage1# [30]
+は半狂乱スラッシュを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry94*****
+#Name# [20]
+半狂乱スマッシュ
+
+#Description# [50]
+狂った攻撃
+
+#UseMessage1# [30]
+は半狂乱スマッシュを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry95*****
+#Name# [20]
+空手チョップ
+
+#Description# [50]
+空手風のチョップ
+
+#UseMessage1# [30]
+は空手チョップを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry96*****
+#Name# [20]
+空手延髄斬り
+
+#Description# [50]
+空手風の延髄斬り
+
+#UseMessage1# [30]
+は空手延髄斬りを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry97*****
+#Name# [20]
+空手空中五段蹴り
+
+#Description# [50]
+空中で５回蹴る奥義
+
+#UseMessage1# [30]
+は空手空中五段蹴りを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry98*****
+#Name# [20]
+伝説の左
+
+#Description# [50]
+左ジャブ
+
+#UseMessage1# [30]
+は伝説の左を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry99*****
+#Name# [20]
+シャイニング・アイ
+
+#Description# [50]
+目が光る
+
+#UseMessage1# [30]
+はシャイニング・アイを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry100*****
+#Name# [20]
+噛み付き
+
+#Description# [50]
+がぶっ
+
+#UseMessage1# [30]
+は噛み付きを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry101*****
+#Name# [20]
+毒撃
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は毒撃を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry102*****
+#Name# [20]
+吸血
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は血を吸ってきた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry103*****
+#Name# [20]
+呪い
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は呪いをかけてきた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry104*****
+#Name# [20]
+死神の鎌
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+「死へのいざない・・
+
+#UseMessage2# [50]
+受け入れるが良い・・・。
+
+
+
+*****Entry105*****
+#Name# [20]
+石化睨み
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は石化睨みを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry106*****
+#Name# [20]
+超音波
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は超音波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry107*****
+#Name# [20]
+巻きつき
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は巻きつきを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry108*****
+#Name# [20]
+針
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は針で刺してきた！
+
+#UseMessage2# [50]
+
+
+

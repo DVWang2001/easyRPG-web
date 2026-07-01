@@ -1,0 +1,243 @@
+#Message#
+【圭介】要和誰一起去呢……
+##
+
+
+#Message#
+　　　　請指定【2名】
+　　　　共同行動的夥伴。
+##
+
+
+#Message#
+　　　若人數在兩人以下，可以按 Esc 鍵
+　　　來取消選擇。
+##
+
+
+#Choice#
+加入神崎榮次。
+加入鈴木月繪。
+加入朝茅裕太。
+下一頁
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+就這麼辦。
+阻止。
+##
+
+
+#Message#
+　　　　　已經加入了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: u9854uff3f, 7, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+好啦，我會想辦法幫你的…
+##
+
+
+#Message#
+　　　　　現在無法加入。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+就這麼辦。
+阻止。
+##
+
+
+#Message#
+　　　　　已經加入了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: u9854uff3f, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+一起加油吧，赤橋君。
+##
+
+
+#Message#
+　　　　無法再增加了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+就這麼辦。
+阻止。
+##
+
+
+#Message#
+　　　　　已經加入了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: u9854uff3f, 8, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+我……我很害怕……但我會忍耐的……
+##
+
+
+#Message#
+　　　　無法再增加了。
+##
+
+
+#Choice#
+新島曉子加入。
+前澤智加入。
+犽島艾莉加入。
+下一頁
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+就這麼辦。
+阻止。
+##
+
+
+#Message#
+　　　　　已經加入了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: u9854uff3f, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+可別拖我的後腿啊。
+##
+
+
+#Message#
+　　　　無法再增加了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+就這麼辦。
+阻止。
+##
+
+
+#Message#
+　　　　　已經加入了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: u9854uff3f, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+圭、圭介… 我就指望你了喔。
+##
+
+
+#Message#
+　　　　無法再增加了。
+##
+
+
+#Choice#
+就這麼辦。
+阻止。
+##
+
+
+#Message#
+　　　　　已經加入了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: u9854uff3f, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+我……我會加∼油的……
+##
+
+
+#Message#
+　　　　無法再增加了。
+##
+
+
+#Message#
+　　　　　現在無法加入。
+##
+
+
+#Choice#
+加入飯田信彥。
+加入石原亞美。
+回到開頭
+結束
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+就這麼辦。
+阻止。
+##
+
+
+#Message#
+　　　　　已經加入了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: u9854uff3f, 11, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+嘖……真是礙事。
+##
+
+
+#Message#
+　　　　無法再增加了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+就這麼辦。
+阻止。
+##
+
+
+#Message#
+　　　　　已經加入了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: u9854uff3f, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+是…是我要去嗎…？
+##
+
+
+#Message#
+　　　　無法再增加了。
+##
+

@@ -1,0 +1,1079 @@
+﻿*****Entry1*****
+#Name# [20]
+中毒攻擊
+
+#Description# [50]
+對敵方單體造成傷害，並使其陷入中毒狀態。
+
+#UseMessage1# [30]
+的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+黑暗攻擊
+
+#Description# [50]
+對敵方單體造成傷害，並使其陷入黑暗狀態。
+
+#UseMessage1# [30]
+的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+睡眠攻擊
+
+#Description# [50]
+對敵方單體造成傷害，並使其陷入睡眠狀態。
+
+#UseMessage1# [30]
+的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+火焰吐息
+
+#Description# [50]
+對敵方全體造成炎屬性的傷害。
+
+#UseMessage1# [30]
+吐出了火焰吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+吹雪吐息
+
+#Description# [50]
+對敵方全體造成冷氣屬性的傷害。
+
+#UseMessage1# [30]
+吐出了冰雪吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+電擊
+
+#Description# [50]
+對敵方全體造成雷屬性的傷害。
+
+#UseMessage1# [30]
+放出了電擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+海嘯
+
+#Description# [50]
+對敵方全體造成水屬性的傷害。
+
+#UseMessage1# [30]
+發動了海嘯！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+詛咒視線
+
+#Description# [50]
+詛咒敵方單體。
+
+#UseMessage1# [30]
+投以詛咒的視線！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+鐮鼬
+
+#Description# [50]
+對敵方全體造成風屬性的傷害。
+
+#UseMessage1# [30]
+放出了風刃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+毒之吐息
+
+#Description# [50]
+使敵方全體陷入中毒狀態。
+
+#UseMessage1# [30]
+吐出了毒性吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+睡眠吐息
+
+#Description# [50]
+使敵方全體陷入睡眠狀態。
+
+#UseMessage1# [30]
+吐出了睡眠吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+花粉（毒）
+
+#Description# [50]
+使敵方全體陷入中毒狀態。
+
+#UseMessage1# [30]
+撒播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+花粉（黑暗）
+
+#Description# [50]
+使敵方全體陷入黑暗狀態。
+
+#UseMessage1# [30]
+撒播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+花粉（失控）
+
+#Description# [50]
+使敵方全體陷入暴走狀態。
+
+#UseMessage1# [30]
+撒播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+花粉（混亂）
+
+#Description# [50]
+使敵方全體陷入混亂狀態。
+
+#UseMessage1# [30]
+撒播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+超音波（暴走）
+
+#Description# [50]
+使敵方全體陷入暴走狀態。
+
+#UseMessage1# [30]
+放出了超音波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+超音波（混亂）
+
+#Description# [50]
+使敵方全體陷入混亂狀態。
+
+#UseMessage1# [30]
+放出了超音波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+超音波（睡眠）
+
+#Description# [50]
+使敵方全體陷入睡眠狀態。
+
+#UseMessage1# [30]
+放出了超音波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+詭異之霧（沉默）
+
+#Description# [50]
+使敵方全體陷入沉默狀態。
+
+#UseMessage1# [30]
+放出了妖異之霧！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+詭異之霧（睡眠）
+
+#Description# [50]
+使敵方全體陷入睡眠狀態。
+
+#UseMessage1# [30]
+放出了妖異之霧！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+沉默之歌
+
+#Description# [50]
+使敵方全體陷入沉默狀態。
+
+#UseMessage1# [30]
+唱起了沉默之歌！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+搖籃曲
+
+#Description# [50]
+使敵方全體陷入睡眠狀態。
+
+#UseMessage1# [30]
+唱起了搖籃曲！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+誘惑之歌
+
+#Description# [50]
+使敵方全體陷入混亂狀態。
+
+#UseMessage1# [30]
+唱起了誘惑之歌！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+揚沙
+
+#Description# [50]
+使敵方全體陷入黑暗狀態。
+
+#UseMessage1# [30]
+揚起了沙塵！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+耀眼強光
+
+#Description# [50]
+使敵方全體陷入黑暗狀態。
+
+#UseMessage1# [30]
+放出了耀眼的光芒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+吸血
+
+#Description# [50]
+吸收敵方單體的HP
+
+#UseMessage1# [30]
+的吸血攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry27*****
+#Name# [20]
+詭異之舞
+
+#Description# [50]
+吸收敵方單體的MP。
+
+#UseMessage1# [30]
+跳起了詭異的舞蹈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+衝撞
+
+#Description# [50]
+對敵方單體造成傷害，並使其失去平衡。
+
+#UseMessage1# [30]
+使出了衝撞！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+絆腿
+
+#Description# [50]
+使敵方單體失去平衡。
+
+#UseMessage1# [30]
+使出了掃堂腿！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+戰吼
+
+#Description# [50]
+使敵方全體受到驚嚇而無法行動。
+
+#UseMessage1# [30]
+發出了咆哮！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+治療
+
+#Description# [50]
+回復我方單體大約20點HP
+
+#UseMessage1# [30]
+施展了療傷術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+中級療傷術
+
+#Description# [50]
+恢復我方單體約50點HP
+
+#UseMessage1# [30]
+施展了中療傷術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry33*****
+#Name# [20]
+康復術
+
+#Description# [50]
+回復我方單體大約100點HP
+
+#UseMessage1# [30]
+施展了復原術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry34*****
+#Name# [20]
+解除中毒術
+
+#Description# [50]
+治療毒素
+
+#UseMessage1# [30]
+施展了治療術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry35*****
+#Name# [20]
+大治療
+
+#Description# [50]
+治療中毒、黑暗、沉默、暴走、混亂、睡眠、蹣跚、驚嚇
+
+#UseMessage1# [30]
+施展了淨化術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+解除
+
+#Description# [50]
+解除詛咒
+
+#UseMessage1# [30]
+施展了解咒術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry37*****
+#Name# [20]
+保護術
+
+#Description# [50]
+提升我方單體的防禦力
+
+#UseMessage1# [30]
+施展了護盾術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry38*****
+#Name# [20]
+速度
+
+#Description# [50]
+提升我方單體的敏捷度
+
+#UseMessage1# [30]
+施展了加速術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry39*****
+#Name# [20]
+精神
+
+#Description# [50]
+提升我方單體的精神力
+
+#UseMessage1# [30]
+施展了精神術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+強攻術
+
+#Description# [50]
+提升我方單體的攻擊力
+
+#UseMessage1# [30]
+施展了強力術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+封魔術
+
+#Description# [50]
+使敵方全體陷入沉默狀態
+
+#UseMessage1# [30]
+施展了封印術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry42*****
+#Name# [20]
+神聖術
+
+#Description# [50]
+對敵方單體造成神聖屬性傷害
+
+#UseMessage1# [30]
+施展了神聖術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry43*****
+#Name# [20]
+神聖
+
+#Description# [50]
+對敵方單體造成神聖屬性傷害
+
+#UseMessage1# [30]
+施展了聖光術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+火球術
+
+#Description# [50]
+對敵方單體造成炎屬性傷害
+
+#UseMessage1# [30]
+施展了火球術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry45*****
+#Name# [20]
+火焰術
+
+#Description# [50]
+對敵方單體造成炎屬性傷害
+
+#UseMessage1# [30]
+施展了火焰術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry46*****
+#Name# [20]
+水流術
+
+#Description# [50]
+對敵方單體造成水屬性的傷害
+
+#UseMessage1# [30]
+施展了水彈術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry47*****
+#Name# [20]
+洪水術
+
+#Description# [50]
+對敵方全體造成水屬性的傷害
+
+#UseMessage1# [30]
+施展了激流術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry48*****
+#Name# [20]
+落雷
+
+#Description# [50]
+對敵方單體造成雷屬性的傷害
+
+#UseMessage1# [30]
+施展了閃電術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+閃電術
+
+#Description# [50]
+對敵方全體造成雷屬性的傷害
+
+#UseMessage1# [30]
+施展了雷電術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+冰凍術
+
+#Description# [50]
+對敵方單體造成冷氣屬性傷害
+
+#UseMessage1# [30]
+施展了冰凍術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+結冰術
+
+#Description# [50]
+對敵方單體造成冷氣屬性傷害
+
+#UseMessage1# [30]
+施展了冰封術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry52*****
+#Name# [20]
+暴風術
+
+#Description# [50]
+對敵方單體造成風屬性傷害
+
+#UseMessage1# [30]
+施展了風刃術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry53*****
+#Name# [20]
+龍捲風
+
+#Description# [50]
+對敵方全體造成風屬性傷害
+
+#UseMessage1# [30]
+施展了龍捲術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry54*****
+#Name# [20]
+即死
+
+#Description# [50]
+一擊打倒敵方單體。
+
+#UseMessage1# [30]
+施展了致死術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry55*****
+#Name# [20]
+浩劫術
+
+#Description# [50]
+一擊打倒敵方全體
+
+#UseMessage1# [30]
+施展了煉獄術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry56*****
+#Name# [20]
+減速術
+
+#Description# [50]
+降低敵方全體的敏捷性
+
+#UseMessage1# [30]
+施展了減速術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry57*****
+#Name# [20]
+混亂術
+
+#Description# [50]
+使敵方全體陷入混亂狀態
+
+#UseMessage1# [30]
+施展了混亂術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry58*****
+#Name# [20]
+暗影術
+
+#Description# [50]
+使敵方全體陷入黑暗狀態
+
+#UseMessage1# [30]
+施展了影襲術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry59*****
+#Name# [20]
+虛弱
+
+#Description# [50]
+降低敵方全體的攻擊力
+
+#UseMessage1# [30]
+施展了虛弱術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry60*****
+#Name# [20]
+獲取
+
+#Description# [50]
+吸收敵方單體的HP
+
+#UseMessage1# [30]
+施展了奪取術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry61*****
+#Name# [20]
+竊取術
+
+#Description# [50]
+吸收敵方單體的MP
+
+#UseMessage1# [30]
+施展了石化術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry62*****
+#Name# [20]
+地震
+
+#Description# [50]
+對敵方全體造成大地屬性的傷害
+
+#UseMessage1# [30]
+施展了地震術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry63*****
+#Name# [20]
+山崩裂
+
+#Description# [50]
+對敵方全體造成大地屬性的傷害
+
+#UseMessage1# [30]
+施展了山崩術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry64*****
+#Name# [20]
+落石術
+
+#Description# [50]
+對敵方單體造成無屬性傷害
+
+#UseMessage1# [30]
+施展了落石術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry65*****
+#Name# [20]
+碎裂術
+
+#Description# [50]
+對敵方單體造成無屬性傷害
+
+#UseMessage1# [30]
+施展了岩碎術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry66*****
+#Name# [20]
+傳送術
+
+#Description# [50]
+瞬間移動到曾去過的城鎮等地方
+
+#UseMessage1# [30]
+施展了傳送術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry67*****
+#Name# [20]
+歸還
+
+#Description# [50]
+從洞窟等迷宮內部脫出至外側
+
+#UseMessage1# [30]
+施展了脫逃術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry68*****
+#Name# [20]
+暗黑
+
+#Description# [50]
+對敵方全體造成暗黑屬性的傷害
+
+#UseMessage1# [30]
+施展了黑暗術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry69*****
+#Name# [20]
+庇護所
+
+#Description# [50]
+HP、異常狀態完全回復
+
+#UseMessage1# [30]
+施展了聖域術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry70*****
+#Name# [20]
+騷靈現象
+
+#Description# [50]
+對敵方全體造成無屬性的傷害
+
+#UseMessage1# [30]
+施展了騷靈術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry71*****
+#Name# [20]
+火球術
+
+#Description# [50]
+對敵方單體造成炎屬性傷害
+
+#UseMessage1# [30]
+施展了火球術！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry72*****
+#Name# [20]
+傳送術
+
+#Description# [50]
+瞬間移動到曾去過的城鎮等地方
+
+#UseMessage1# [30]
+施展了傳送術！
+
+#UseMessage2# [50]
+
+
+

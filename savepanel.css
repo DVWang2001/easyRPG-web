@@ -1,0 +1,5 @@
+/* 存檔面板：雲端區塊（面板殼與 .sp-btn 由 _SAVE_UI 內嵌樣式提供） */
+#sp-cloud .sp-status { color:var(--muted,#8b93bf); font-size:13px; margin:6px 0; }
+#sp-cloud .sp-link { background:none; border:1px solid var(--chip-line,#2c3350); color:#c3c9ea;
+  border-radius:8px; padding:2px 8px; font-size:12px; cursor:pointer; }
+#sp-cloud .sp-link:hover { border-color:var(--gold,#f5c542); color:var(--ink,#eef1ff); }

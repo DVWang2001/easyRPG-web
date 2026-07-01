@@ -1,0 +1,193 @@
+﻿**********Event1**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ちっ･･･
+嫌なこと思い出しちまったぜ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+･･････。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+･･････。
+##
+
+
+#Message#
+･･････そこの鍵だ。　持ってけ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+･･･いいのニャ？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+るせーな
+用が済んだらさっさと行け！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+な、なんか
+オイラに対する態度と
+そやつに対する態度が違うニャ。
+##
+
+
+
+
+**********Event5**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+･･････。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.どうしたニャ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+強い･･･妖気のようなものを感じる。
+##
+
+
+#Message#
+さっきの２人とは
+少々レベルの違う妖怪がいそうだな。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+それはそうニャ。
+ここの扉を守ってるのは･･･お
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+･･････。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+お
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+お？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+･･････
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+へっくしょん$e
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+･･････。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+はニャ～、風邪ひいたかニャ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+･･･
+へっくしょん大魔王か。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+へ？
+##
+
+
+
+
+**********Event6**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+あ、そニャ。
+##
+
+
+#Message#
+コレ、お主にやるニャ。
+##
+
+
+#Message#
+\.\.機会があったら
+\.ユキノさんのお墓に供えてニャ。
+##
+
+
+#Message#
+\.\.お主のことだから
+こういうのは気がきかんだろうから･･･
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆ鬼, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]･････････
+##
+
+
+
+

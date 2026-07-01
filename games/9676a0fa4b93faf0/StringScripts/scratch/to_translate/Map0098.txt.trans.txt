@@ -1,0 +1,27 @@
+﻿1. [MARKER: Message] 女「
+あら、貴方。
+2. [MARKER: Message] イゾウ「
+な・・何だ？
+3. [MARKER: Message] 女「
+珍しいわね・・目が赤い子なんて・・。\.
+ねぇ、もう夕方だしココに泊まっていく気はない？
+4. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] イゾウ「
+5. [MARKER: Message] [FACE: イゾウ, 1, Left, Normal] イゾウ「
+そうだな。\.
+泊まるところも無いし、
+お願いしようかな？
+6. [MARKER: Message] [FACE: Erase] 女「
+そう？　\.泊まっていってくれる？\.
+じゃあ、今から準備するから
+くつろいでいってね。
+7. [MARKER: Message] [FACE: Erase] 
+    こうして、イゾウ達は一泊することになった。
+8. [MARKER: Message] [FACE: Erase] イゾウ「
+何で突然・・。
+9. [MARKER: Message] [FACE: Erase] 女「
+そうよね、\.突然見ず知らずの人の家に
+泊まるなんて、遠慮したくなるわよね。\.
+気が向いたらまた来てね。
+10. [MARKER: Message] [FACE: Erase] 女「
+貴方はもしかして・・。\|
+いえ、\.やっぱり何でもないわ・・。

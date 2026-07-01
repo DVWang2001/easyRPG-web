@@ -1,0 +1,32 @@
+﻿1. [MARKER: Message] 
+　　　　　　　　兵士は気絶している。
+2. [MARKER: Message] 
+　　　　　　　　兵士は気絶している。
+3. [MARKER: Message] じいさん「
+わしが生きたまま、ここから出られるのだろうか・・。
+懲役１２０年じゃ・・。
+4. [MARKER: Message] 男「
+おぉーー！！
+女戦士の肌を触るのが何がいけないんだぁ～！！
+5. [MARKER: Message] オスカー「
+立派なセクハラです。
+6. [MARKER: Message] 兵士「
+何だ、お前たち・・！
+7. [MARKER: Message] 兵士「
+無念・・・。
+8. [MARKER: Message] オスカー「
+えぃっ！
+9. [MARKER: Message] オスカー「
+えぃっ！
+10. [MARKER: Message] 男「
+私が何をしたというのだ・・！？
+11. [MARKER: Message] ばあさん「
+クックック・・
+そなたらに死相が見えるぞぃ・・。
+ふぇっふぇっふぇ・・・・。
+12. [MARKER: Message] オヤジ「
+くっ・・まさか５年続けた
+下着ドロがバレるとは・・・。
+13. [MARKER: Message] 男「
+何だよお前たちは！？
+俺を処刑しに来たのか・・！？

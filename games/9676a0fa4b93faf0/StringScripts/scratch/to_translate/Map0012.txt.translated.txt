@@ -1,0 +1,23 @@
+﻿1. [MARKER: Message] 老爺爺「
+這裡是英國。
+2. [MARKER: Message] 男子「
+大海……那是男人的浪漫……
+
+\.\.……你也這樣覺得吧？
+3. [MARKER: Message] 以藏「
+……是的，我這樣覺得。
+4. [MARKER: Message] DANDY「
+男人的浪漫就是追求丹迪！！
+5. [MARKER: Message] 喬喬莉娜「
+DANDY大人，好帥$g$g
+6. [MARKER: Message] 男子「
+…………
+7. [MARKER: Message] 奧斯卡「
+以藏，我們有自己的船，
+不必搭這艘吧。
+8. [MARKER: Message] 以藏「
+啊……\.也對……
+9. [MARKER: Message] 以藏「
+與其來這種地方，不如去凡爾賽。凡爾賽。
+10. [MARKER: Message] 奧斯卡「
+去巴士底吧……

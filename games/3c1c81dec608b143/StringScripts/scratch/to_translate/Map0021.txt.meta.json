@@ -1,0 +1,927 @@
+{
+    "filepath": "Map0021.txt",
+    "meta": [
+        {
+            "type": "message",
+            "start_line_idx": 3,
+            "end_line_idx": 4
+        },
+        {
+            "type": "message",
+            "start_line_idx": 15,
+            "end_line_idx": 16
+        },
+        {
+            "type": "message",
+            "start_line_idx": 21,
+            "end_line_idx": 21
+        },
+        {
+            "type": "message",
+            "start_line_idx": 26,
+            "end_line_idx": 27
+        },
+        {
+            "type": "message",
+            "start_line_idx": 38,
+            "end_line_idx": 39
+        },
+        {
+            "type": "message",
+            "start_line_idx": 44,
+            "end_line_idx": 46
+        },
+        {
+            "type": "message",
+            "start_line_idx": 53,
+            "end_line_idx": 53
+        },
+        {
+            "type": "message",
+            "start_line_idx": 58,
+            "end_line_idx": 60
+        },
+        {
+            "type": "message",
+            "start_line_idx": 65,
+            "end_line_idx": 66
+        },
+        {
+            "type": "message",
+            "start_line_idx": 73,
+            "end_line_idx": 73
+        },
+        {
+            "type": "message",
+            "start_line_idx": 78,
+            "end_line_idx": 79
+        },
+        {
+            "type": "message",
+            "start_line_idx": 84,
+            "end_line_idx": 84
+        },
+        {
+            "type": "message",
+            "start_line_idx": 91,
+            "end_line_idx": 91
+        },
+        {
+            "type": "message",
+            "start_line_idx": 98,
+            "end_line_idx": 99
+        },
+        {
+            "type": "message",
+            "start_line_idx": 104,
+            "end_line_idx": 104
+        },
+        {
+            "type": "message",
+            "start_line_idx": 109,
+            "end_line_idx": 111
+        },
+        {
+            "type": "message",
+            "start_line_idx": 116,
+            "end_line_idx": 116
+        },
+        {
+            "type": "message",
+            "start_line_idx": 121,
+            "end_line_idx": 122
+        },
+        {
+            "type": "message",
+            "start_line_idx": 127,
+            "end_line_idx": 127
+        },
+        {
+            "type": "message",
+            "start_line_idx": 132,
+            "end_line_idx": 133
+        },
+        {
+            "type": "message",
+            "start_line_idx": 138,
+            "end_line_idx": 140
+        },
+        {
+            "type": "message",
+            "start_line_idx": 145,
+            "end_line_idx": 145
+        },
+        {
+            "type": "message",
+            "start_line_idx": 150,
+            "end_line_idx": 151
+        },
+        {
+            "type": "message",
+            "start_line_idx": 156,
+            "end_line_idx": 157
+        },
+        {
+            "type": "message",
+            "start_line_idx": 164,
+            "end_line_idx": 166
+        },
+        {
+            "type": "message",
+            "start_line_idx": 171,
+            "end_line_idx": 173
+        },
+        {
+            "type": "message",
+            "start_line_idx": 178,
+            "end_line_idx": 179
+        },
+        {
+            "type": "message",
+            "start_line_idx": 184,
+            "end_line_idx": 184
+        },
+        {
+            "type": "message",
+            "start_line_idx": 191,
+            "end_line_idx": 191
+        },
+        {
+            "type": "message",
+            "start_line_idx": 198,
+            "end_line_idx": 199
+        },
+        {
+            "type": "message",
+            "start_line_idx": 204,
+            "end_line_idx": 205
+        },
+        {
+            "type": "message",
+            "start_line_idx": 212,
+            "end_line_idx": 215
+        },
+        {
+            "type": "message",
+            "start_line_idx": 220,
+            "end_line_idx": 221
+        },
+        {
+            "type": "message",
+            "start_line_idx": 226,
+            "end_line_idx": 228
+        },
+        {
+            "type": "message",
+            "start_line_idx": 233,
+            "end_line_idx": 234
+        },
+        {
+            "type": "message",
+            "start_line_idx": 241,
+            "end_line_idx": 241
+        },
+        {
+            "type": "message",
+            "start_line_idx": 248,
+            "end_line_idx": 248
+        },
+        {
+            "type": "message",
+            "start_line_idx": 253,
+            "end_line_idx": 254
+        },
+        {
+            "type": "message",
+            "start_line_idx": 259,
+            "end_line_idx": 260
+        },
+        {
+            "type": "message",
+            "start_line_idx": 267,
+            "end_line_idx": 267
+        },
+        {
+            "type": "message",
+            "start_line_idx": 274,
+            "end_line_idx": 274
+        },
+        {
+            "type": "message",
+            "start_line_idx": 279,
+            "end_line_idx": 280
+        },
+        {
+            "type": "message",
+            "start_line_idx": 287,
+            "end_line_idx": 287
+        },
+        {
+            "type": "message",
+            "start_line_idx": 294,
+            "end_line_idx": 294
+        },
+        {
+            "type": "message",
+            "start_line_idx": 299,
+            "end_line_idx": 299
+        },
+        {
+            "type": "message",
+            "start_line_idx": 304,
+            "end_line_idx": 306
+        },
+        {
+            "type": "message",
+            "start_line_idx": 313,
+            "end_line_idx": 313
+        },
+        {
+            "type": "message",
+            "start_line_idx": 318,
+            "end_line_idx": 320
+        },
+        {
+            "type": "message",
+            "start_line_idx": 325,
+            "end_line_idx": 327
+        },
+        {
+            "type": "message",
+            "start_line_idx": 334,
+            "end_line_idx": 334
+        },
+        {
+            "type": "message",
+            "start_line_idx": 341,
+            "end_line_idx": 342
+        },
+        {
+            "type": "message",
+            "start_line_idx": 349,
+            "end_line_idx": 349
+        },
+        {
+            "type": "message",
+            "start_line_idx": 356,
+            "end_line_idx": 356
+        },
+        {
+            "type": "message",
+            "start_line_idx": 363,
+            "end_line_idx": 363
+        },
+        {
+            "type": "message",
+            "start_line_idx": 370,
+            "end_line_idx": 370
+        },
+        {
+            "type": "message",
+            "start_line_idx": 377,
+            "end_line_idx": 377
+        },
+        {
+            "type": "message",
+            "start_line_idx": 382,
+            "end_line_idx": 384
+        },
+        {
+            "type": "message",
+            "start_line_idx": 391,
+            "end_line_idx": 391
+        },
+        {
+            "type": "message",
+            "start_line_idx": 398,
+            "end_line_idx": 399
+        },
+        {
+            "type": "message",
+            "start_line_idx": 406,
+            "end_line_idx": 406
+        },
+        {
+            "type": "message",
+            "start_line_idx": 411,
+            "end_line_idx": 411
+        },
+        {
+            "type": "message",
+            "start_line_idx": 416,
+            "end_line_idx": 419
+        },
+        {
+            "type": "message",
+            "start_line_idx": 426,
+            "end_line_idx": 427
+        },
+        {
+            "type": "message",
+            "start_line_idx": 434,
+            "end_line_idx": 436
+        },
+        {
+            "type": "message",
+            "start_line_idx": 441,
+            "end_line_idx": 443
+        },
+        {
+            "type": "message",
+            "start_line_idx": 448,
+            "end_line_idx": 449
+        },
+        {
+            "type": "message",
+            "start_line_idx": 456,
+            "end_line_idx": 456
+        },
+        {
+            "type": "message",
+            "start_line_idx": 461,
+            "end_line_idx": 461
+        },
+        {
+            "type": "message",
+            "start_line_idx": 468,
+            "end_line_idx": 468
+        },
+        {
+            "type": "message",
+            "start_line_idx": 473,
+            "end_line_idx": 473
+        },
+        {
+            "type": "message",
+            "start_line_idx": 480,
+            "end_line_idx": 480
+        },
+        {
+            "type": "message",
+            "start_line_idx": 487,
+            "end_line_idx": 488
+        },
+        {
+            "type": "message",
+            "start_line_idx": 493,
+            "end_line_idx": 494
+        },
+        {
+            "type": "message",
+            "start_line_idx": 499,
+            "end_line_idx": 501
+        },
+        {
+            "type": "message",
+            "start_line_idx": 506,
+            "end_line_idx": 507
+        },
+        {
+            "type": "message",
+            "start_line_idx": 512,
+            "end_line_idx": 512
+        },
+        {
+            "type": "message",
+            "start_line_idx": 517,
+            "end_line_idx": 518
+        },
+        {
+            "type": "message",
+            "start_line_idx": 523,
+            "end_line_idx": 525
+        },
+        {
+            "type": "message",
+            "start_line_idx": 530,
+            "end_line_idx": 531
+        },
+        {
+            "type": "message",
+            "start_line_idx": 536,
+            "end_line_idx": 537
+        },
+        {
+            "type": "message",
+            "start_line_idx": 544,
+            "end_line_idx": 544
+        },
+        {
+            "type": "message",
+            "start_line_idx": 549,
+            "end_line_idx": 549
+        },
+        {
+            "type": "message",
+            "start_line_idx": 556,
+            "end_line_idx": 556
+        },
+        {
+            "type": "message",
+            "start_line_idx": 563,
+            "end_line_idx": 563
+        },
+        {
+            "type": "message",
+            "start_line_idx": 568,
+            "end_line_idx": 569
+        },
+        {
+            "type": "message",
+            "start_line_idx": 574,
+            "end_line_idx": 575
+        },
+        {
+            "type": "message",
+            "start_line_idx": 582,
+            "end_line_idx": 582
+        },
+        {
+            "type": "message",
+            "start_line_idx": 589,
+            "end_line_idx": 589
+        },
+        {
+            "type": "message",
+            "start_line_idx": 596,
+            "end_line_idx": 596
+        },
+        {
+            "type": "message",
+            "start_line_idx": 603,
+            "end_line_idx": 603
+        },
+        {
+            "type": "message",
+            "start_line_idx": 610,
+            "end_line_idx": 610
+        },
+        {
+            "type": "message",
+            "start_line_idx": 615,
+            "end_line_idx": 616
+        }
+    ],
+    "items": [
+        {
+            "face": "NONE",
+            "marker": "Message",
+            "text": "早く行け。\n夜が明けるぞ。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "息子のことを忘れたことは\n一度もなかったが"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "わからぬはずよ･･････"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\S[2]あんなに大きくなっていたのだから\n･････････"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "待て\n違うのだ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]春信は･･････\\S[1]父は\nそんなことになっているとは\n知らなかったのだ。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\.知らなかったはずはない。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "あの時･･･\n私が狐であることに\n気づいた者がいたとしたなら"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "それは\n\\S[2]あの男しかいなかったのだ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "違う！"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "そなたが狐であることを\n周囲に漏らしてしまったのは"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････私なのだ･･････。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\.･･････？！"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "　　　　　\\S[2]\\C[17]そう･･････　　　\n　　　　　･････････私なのだ･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]\\.あの日私は･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]どうしても眠れず、\nこっそり寝床を離れて\nそなたの部屋へ向かった"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]だが･･･"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]満月の月明かりに照らされ\nそなたの部屋にいたのは"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]\\C[17]一匹の狐だった･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]５つになったばかりだった\nあの時の私に"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]その狐が\nそなたであろうなどということは\n想像もできなかったのだ･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]･･･だから"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]狐がいると･･･\n"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]\\C[17]母の部屋に狐がいると\n\\.祖父に伝えてしまった･･･"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "祖父らが\nそなたを追い払ったと聞いたときの\n父の顔は今でも忘れられぬ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "その後も\nそなたを探し続けていたが\n結局見つからずじまいだった。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "だから･････････\n恨むべき相手は父ではなく･･･"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]この私なのだ･･････"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\S[2]････････････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\S[2]･･････\nお、親子だったのニャ･･･"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "通りで２人揃って\n人の名前覚えが悪いと･･･"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "２０年近く経った今やっと、\n狐などの妖怪が\nこの辺りの洞窟に住み着いているという\n情報を得て"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "うまい具合に･･･と言っては\n申し訳ないが･･･"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "今の私の仕え先である\n羽村の一の姫が行方不明になるという\n騒ぎがあって"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.その姫君探索にかこつけて\n城を抜けてきたのだ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\S[2]････････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.しかし 親子というのはすごいものだな。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "５歳の頃の記憶など\n定かでないのに"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.そなたの姿を見たとき\n･･･一瞬で母だとわかった。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\S[2]･･･････････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]････････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "昔と変わらぬ姿のようだが\n\\.少し若作り過ぎぬか？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "･････････$d"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\S[4]････････････"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\.\\S[4]･････････ふ"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\.\\.母に向かって\n若作りが過ぎるとは\n･･････全く親の育て方が伺えるな。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.全く"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "その親は\n大雑把で不器用で女と酒が好きで\nどうしようもない男で 私も苦労したが"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.そなたが再び\n自分の目の前に現れることを\n\\.真に願っている･･･"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\S[8]･････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.あまり時間がないのだ。\n会いに行ってやってくれ。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.\\.母上。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\S[8]･････････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.\\.姫さん。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\S[8]･････････。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\S[2]････････････\n羽村の城へ行けば･･････\n\\.会えるのだな？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.姫さん！"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "日のあるときには出歩けぬ。\n今宵参ろう･･･"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･････････わかった。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.ならば、\n\\.そなたが来るまでの間は\n首を絞めてでも 父を生かしておくと\n約束する。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.首絞めたら\n死んでしまうニャ･･･$d"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "その前に\nこの姿でいるのは疲れるのでな\n\\.一度本来の姿に戻らねばならぬ。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "だが\nせめてそなたの前では\n人の姿であり続けたい。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "今はこれで･･･\n立ち去ってもらえるか？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･････････わかった。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\.･･･それから"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "タマを頼む。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "姫さん？"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "私はおそらく\nここへはもう戻らぬ。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "下の者たちは\n既に人の姿に戻った気配が感じられる。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "人ならぬ姿で\n村に転がっていたときは つい\n捨てておけずに 拾ってきてしまったが"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "もう\n放っておいても大丈夫だろう。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "しかし、こ奴は"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "タマはまだ\n変化したままだ。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "もし、村の者たちに見つかって\n妖怪だのなんだのと言われ\n袋叩きにでもあったら"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "この小さな身体では\nひとたまりもない。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "どこか安全なところまで\n一緒に連れていってやってくれ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]････････････"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.もとよりそのつもりだ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "えっ。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "\\.そうか。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "･･････ならば\nもう迷うことはない。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "夜明け前は冷える。\n風邪ひくなよ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･･････母上も。"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "ではな。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･･････行くぞ。タマ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\S[2]･････････ニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\S[2]････････姫さん\n世話になったニャ。"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+﻿1. [MARKER: Message] 以藏「
+嗯……。
+2. [MARKER: Message] 以藏「
+這裡還真是讓人懷念啊……。
+3. [MARKER: Message] ？？？？「
+是啊。
+4. [MARKER: Message] 以藏「
+……科蘿葉媽媽，
+不知道有沒有認出我來呢……？
+5. [MARKER: Message] 以藏「
+非常感謝您的照顧。
+6. [MARKER: Message] 女子「
+不客氣，本來就是我硬拉著你們留宿的，
+請別放在心上。
+7. [MARKER: Message] 奧斯卡「
+雖然承蒙關照，但問這種問題可能有些冒昧，
+這座大陸上，有沒有發生過什麼奇怪的異象嗎？
+8. [MARKER: Message] 女子「
+奇怪的異象……。
+9. [MARKER: Message] 女子「
+那種事情，比起問我，
+您去問我們村子的村長可能會更清楚喔。
+他就住在從這棟房子往北走的地方。
+10. [MARKER: Message] 奧斯卡「
+這樣啊，那我稍後再去拜訪他。\.
+非常感謝您。
+11. [MARKER: Message] 女子「
+路上要小心喔。
+12. [MARKER: Message] 以藏「
+老哥！
+13. [MARKER: Message] 安德烈「
+自從你離開這個村子，
+竟然也已經過去 14 年了啊……。
+14. [MARKER: Message] 以藏「
+……已經，過去那麼久了嗎……。
+15. [MARKER: Message] 安德烈「
+那時候的你，和現在可完全不一樣呢……。
+16. [MARKER: Message] 以藏「
+……。
