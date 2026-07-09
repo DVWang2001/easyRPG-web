@@ -189,33 +189,37 @@ z-index:10000;display:flex;gap:6px}
 background:var(--chip,#171c2e);color:#c3c9ea;font-size:12px;cursor:pointer}
 #saveui button:hover{border-color:var(--gold,#f5c542);color:#fff}
 #saveui button:active{background:var(--gold,#f5c542);color:#1a1400}
-#savepanel{position:fixed;inset:0;z-index:11000}#savepanel[hidden]{display:none}
-#savepanel .sp-bd{position:absolute;inset:0;background:rgba(6,9,28,.66)}
-#savepanel .sp-dlg{position:relative;max-width:420px;margin:8vh auto;color:#eaf0ff;
+#savepanel,#dlpanel{position:fixed;inset:0;z-index:11000}#savepanel[hidden],#dlpanel[hidden]{display:none}
+#savepanel .sp-bd,#dlpanel .sp-bd{position:absolute;inset:0;background:rgba(6,9,28,.66)}
+#savepanel .sp-dlg,#dlpanel .sp-dlg{position:relative;max-width:420px;margin:8vh auto;color:#eaf0ff;
 background:var(--panel,#141828);border:1px solid var(--win-lo,#06205f);
 border-radius:14px;padding:16px;box-shadow:inset 0 0 0 1px rgba(159,180,255,.30),0 14px 44px rgba(6,9,28,.7)}
-#savepanel h3{margin:0 0 12px;font-size:16px}
-#savepanel .sp-close{position:absolute;top:10px;right:12px;background:none;border:none;color:#dbe3ff;font-size:18px;cursor:pointer}
-#savepanel .sp-close:hover{color:var(--gold,#f5c542)}
-#savepanel .sp-btn{display:block;width:100%;margin:6px 0;padding:8px 10px;border-radius:8px;
+#savepanel h3,#dlpanel h3{margin:0 0 12px;font-size:16px}
+#savepanel .sp-close,#dlpanel .sp-close{position:absolute;top:10px;right:12px;background:none;border:none;color:#dbe3ff;font-size:18px;cursor:pointer}
+#savepanel .sp-close:hover,#dlpanel .sp-close:hover{color:var(--gold,#f5c542)}
+#savepanel .sp-btn,#dlpanel .sp-btn{display:block;width:100%;margin:6px 0;padding:8px 10px;border-radius:8px;
 border:1px solid var(--chip-line,#2c3350);background:var(--chip,#171c2e);color:#c3c9ea;font-size:14px;cursor:pointer}
-#savepanel .sp-btn:hover{border-color:var(--gold,#f5c542);color:#fff}
-#savepanel .sp-btn:disabled{opacity:.5;cursor:default}
+#savepanel .sp-btn:hover,#dlpanel .sp-btn:hover{border-color:var(--gold,#f5c542);color:#fff}
+#savepanel .sp-btn:disabled,#dlpanel .sp-btn:disabled{opacity:.5;cursor:default}
 #sp-cloud{margin-top:10px;border-top:1px solid var(--line,#262c44);padding-top:10px}</style>
-<div id="saveui"><button id="save-open">存檔</button><button id="fav-btn" title="收藏">♡</button><span id="pt-label" style="align-self:center;color:#9ca3af;font:12px -apple-system,sans-serif;padding:0 4px"></span><button id="wt-open">攻略</button><button id="cm-open">留言</button><button id="share-btn">分享</button>
+<div id="saveui"><button id="cloud-ind" hidden>☁</button><button id="fav-btn" title="收藏">♡</button><span id="pt-label" style="align-self:center;color:#9ca3af;font:12px -apple-system,sans-serif;padding:0 4px"></span><button id="wt-open">攻略</button><button id="cm-open">留言</button><button id="share-btn">分享</button><button id="dl-zip">下載</button>
 <input id="savefile" type="file" accept=".zip" style="display:none"></div>
 <div id="savepanel" hidden><div class="sp-bd"></div><div class="sp-dlg">
-<button class="sp-close" type="button">✕</button><h3>存檔</h3>
+<button class="sp-close" type="button">✕</button><h3>雲端同步</h3>
+<div id="sp-cloud"></div>
+</div></div>
+<div id="dlpanel" hidden><div class="sp-bd"></div><div class="sp-dlg">
+<button class="sp-close" type="button">✕</button><h3>下載</h3>
+<button id="dlgame" class="sp-btn" type="button">下載遊戲（供離線遊玩）</button>
 <button id="saveexp" class="sp-btn" type="button">導出存檔（下載 zip）</button>
 <button id="saveimp" class="sp-btn" type="button">導入存檔（上傳 zip）</button>
-<div id="sp-cloud"></div>
 </div></div>
 <script>(function(){
 var SLUG=__SLUG__;
 window.__epPause=window.__epPause||(function(){var keys={},n=0,ctxs=window.__epAudioCtxs=window.__epAudioCtxs||[];
 ["AudioContext","webkitAudioContext"].forEach(function(nm){var C=window[nm];if(C&&!C.__epW){var W=function(o){var c=new C(o);ctxs.push(c);return c;};W.prototype=C.prototype;W.__epW=1;try{window[nm]=W;}catch(e){}}});
 function mute(on){ctxs.forEach(function(c){try{on?c.suspend():c.resume();}catch(e){}});}
-function block(e){if(!window.__epPaused)return;var t=e.target;if(t&&t.closest&&(t.closest("#wt-panel")||t.closest("#cm-panel")||t.closest("#savepanel")||t.closest("#saveui")))return;e.stopImmediatePropagation();e.preventDefault();}
+function block(e){if(!window.__epPaused)return;var t=e.target;if(t&&t.closest&&(t.closest("#wt-panel")||t.closest("#cm-panel")||t.closest("#savepanel")||t.closest("#dlpanel")||t.closest("#saveui")))return;e.stopImmediatePropagation();e.preventDefault();}
 ["keydown","keyup","keypress"].forEach(function(ev){window.addEventListener(ev,block,true);});
 return function(on,key){key=key||"_";if(on){if(!keys[key]){keys[key]=1;if(++n===1){window.__epPaused=true;mute(true);}}}else{if(keys[key]){delete keys[key];if(--n===0){window.__epPaused=false;mute(false);}}}};})();
 var ui=document.getElementById("saveui"),inp=document.getElementById("savefile");
@@ -245,7 +249,7 @@ function u32(v){return [v&255,(v>>>8)&255,(v>>>16)&255,(v>>>24)&255];}
 function u16(v){return [v&255,(v>>>8)&255];}
 function readSaves(){var FS=mod().FS,dir=saveDir(FS,false),out=[];if(!dir)return out;
 FS.readdir(dir).forEach(function(n){if(n==="."||n==="..")return;try{if(isDir(FS,dir+"/"+n))return;
-var d=FS.readFile(dir+"/"+n);if(d&&d.length)out.push({name:n,data:d});}catch(e){}});return out;}
+var d=FS.readFile(dir+"/"+n);if(d&&d.length)out.push({name:n,data:d,mtime:+FS.stat(dir+"/"+n).mtime});}catch(e){}});return out;}
 function makeZip(files){var parts=[],central=[],offset=0;
 files.forEach(function(f){var nameB=te(f.name),crc=crc32(f.data),sz=f.data.length;
 var lh=[].concat(u32(0x04034b50),u16(20),u16(0),u16(0),u16(0),u16(0),u32(crc),u32(sz),u32(sz),u16(nameB.length),u16(0));
@@ -262,20 +266,42 @@ while(i+4<=u.length&&dv.getUint32(i,true)===0x04034b50){
 var nlen=dv.getUint16(i+26,true),elen=dv.getUint16(i+28,true),csz=dv.getUint32(i+18,true);
 var name=new TextDecoder().decode(u.slice(i+30,i+30+nlen)),ds=i+30+nlen+elen;
 files.push({name:name,data:u.slice(ds,ds+csz)});i=ds+csz;}return files;}
-window.__epSaves={read:function(){return mod()?readSaves():[];},
+window.__epSaves={
+ready:function(){return !!mod();},
+fs:function(){var m=mod();return m?m.FS:null;},
+fp:function(d){return crc32(d).toString(16)+":"+d.length;},
+read:function(){return mod()?readSaves():[];},
 write:function(files){return new Promise(function(res,rej){var m=mod();if(!m){rej(new Error("遊戲尚未載入"));return;}
 try{var FS=m.FS,dir=saveDir(FS,true)||guessDir();mkdirp(FS,dir);
 files.forEach(function(fl){FS.writeFile(dir+"/"+fl.name,fl.data);});
+FS.syncfs(false,function(){res();});}catch(e){rej(e);}});},
+remove:function(names){return new Promise(function(res,rej){var m=mod();if(!m){rej(new Error("遊戲尚未載入"));return;}
+try{var FS=m.FS,dir=saveDir(FS,false);
+if(dir)names.forEach(function(n){try{FS.unlink(dir+"/"+n);}catch(e){}});
 FS.syncfs(false,function(){res();});}catch(e){rej(e);}});}};
-var panel=document.getElementById("savepanel");
-document.getElementById("save-open").onclick=function(){if(!mod()){alert("遊戲尚未載入完成，請稍候");return;}panel.hidden=false;window.__epPause(true,"save");};
-function spClose(){panel.hidden=true;window.__epPause(false,"save");}
-panel.querySelector(".sp-close").onclick=spClose;panel.querySelector(".sp-bd").onclick=spClose;
+function wirePanel(id,key){var p=document.getElementById(id);
+function close(){p.hidden=true;window.__epPause(false,key);}
+p.querySelector(".sp-close").onclick=close;p.querySelector(".sp-bd").onclick=close;
+return {open:function(){p.hidden=false;window.__epPause(true,key);},close:close};}
+window.__epSavePanel=wirePanel("savepanel","save");
+var dlPanel=wirePanel("dlpanel","dl");
 document.getElementById("share-btn").onclick=function(){
 var t=(window.__WT&&window.__WT.title)||document.title;var u=location.href;
 if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});}
 else if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){alert("已複製連結");},function(){prompt("複製這個連結：",u);});}
 else{prompt("複製這個連結：",u);}}
+document.getElementById("dl-zip").onclick=function(){dlPanel.open();};
+document.getElementById("dlgame").onclick=function(){var btn=this;if(btn.disabled)return;
+if(!("caches" in window)){alert("此瀏覽器不支援離線下載");return;}
+var orig=btn.textContent;btn.disabled=true;btn.textContent="下載中…0%";
+fetch("precache-"+SLUG+".json").then(function(r){return r.json();}).then(function(files){
+return caches.open("easyrpg-games").then(function(cache){
+var total=files.length,done=0;
+function show(){var pct=total?Math.round(done/total*100):100;btn.textContent="下載中…"+pct+"%";}
+function next(idx){if(idx>=total){btn.textContent="✓ 已可離線遊玩";setTimeout(function(){btn.textContent=orig;btn.disabled=false;},2000);return;}
+var f=files[idx];cache.match(f).then(function(hit){return hit?null:cache.add(f);}).catch(function(){}).then(function(){done++;show();next(idx+1);});}
+show();next(0);});
+}).catch(function(){btn.disabled=false;btn.textContent=orig;alert("下載失敗，請稍後再試");});};
 document.getElementById("saveexp").onclick=function(){window.__epPause(true,"exp");try{
 var m=mod();if(!m){alert("遊戲尚未載入完成，請稍候");return;}
 var files=readSaves();if(!files.length){alert("找不到存檔（請先在遊戲裡存檔）");return;}
@@ -297,6 +323,22 @@ FS.syncfs(false,function(){alert("已導入 "+files.length+" 個存檔，將重�
 }catch(e){alert("導入失敗："+e);}};r.readAsArrayBuffer(f);inp.value="";};
 })();</script>
 """
+
+# 開機閘門：包住 emscripten MODULARIZE 工廠 createEasyRpgPlayer，讓引擎啟動先等
+# 雲端 manifest（savepanel.js 讀完後 __epGate.open()）。2 秒超時 fail-open——
+# 雲端有任何問題（未登入/離線/savepanel 沒載入）都不能擋玩遊戲。
+# 原理：頂層 var 賦值會觸發我們預先 defineProperty 的 setter，取用時回傳包了
+# gate promise 的 wrapper；外殼在 window load 才呼叫，屆時 index.js（async）必已就位。
+_GATE_SNIPPET = (
+    "\n<script>(function(){var open,p=new Promise(function(r){open=r;});"
+    "var t=setTimeout(open,2000);"
+    "window.__epGate={done:p,open:function(){clearTimeout(t);open();}};"
+    "var real=null;"
+    "Object.defineProperty(window,'createEasyRpgPlayer',{configurable:true,"
+    "set:function(v){real=v;},"
+    "get:function(){return real&&function(cfg){return p.then(function(){return real(cfg);});};}"
+    "});})();</script>"
+)
 
 
 # 攻略：Quill/DOMPurify（全域）＋ 該遊戲設定 ＋ 樣式/模組腳本。
@@ -415,6 +457,7 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
         canvas_fix = ("\n<style>#canvas{width:100vw !important;height:100vh !important}</style>"
                       if engine else "")
         new_head = (
+            _GATE_SNIPPET +
             canvas_fix +
             '\n<link rel="stylesheet" href="rm-theme.css">'
             "\n<title>" + title_esc + "</title>"

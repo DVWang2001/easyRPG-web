@@ -27,23 +27,33 @@ def test_write_game_pages_injects_save_ui(tmp_path):
     _write_template(dist)
     pwa.write_game_pages(dist, [{"label": "甲", "slug": "g", "cover_rel": None}])
     html = (dist / "play-g.html").read_text(encoding="utf-8")
-    # 左上角存檔面板：兩個按鈕 + 檔案輸入
     assert 'id="saveui"' in html
+    # 存檔鈕已消滅 → 換成預設隱藏的狀態指示器
+    assert 'id="save-open"' not in html
+    assert 'id="cloud-ind"' in html and 'id="cloud-ind" hidden' in html
+    # zip 導出/導入搬進「下載」面板；下載鈕改開面板
+    assert 'id="dlpanel"' in html and 'id="dlgame"' in html
     assert "導出存檔" in html and "導入存檔" in html
     assert 'id="savefile"' in html
+    # 維修面板（雲端同步）殼還在，內容由 savepanel.js 填
+    assert 'id="savepanel"' in html and 'id="sp-cloud"' in html
+    assert "__epSavePanel" in html
     # 非全螢幕才顯示（fullscreenchange 控制）
     assert "fullscreenchange" in html and "fullscreenElement" in html
-    # 存檔資料夾＝/easyrpg/<game>/Save（找不到再走訪 FS）；整包 zip；導入後 syncfs + reload
+    # 存檔資料夾＝/easyrpg/<game>/Save（找不到再走訪 FS）；zip 邏輯保留
     assert "/easyrpg/" in html and "/Save" in html
     assert "walkDir" in html and "saveDir" in html
-    assert "makeZip" in html and "syncfs" in html and "location.reload" in html
-    # 每頁帶自己的 slug 當下載檔名
+    assert "makeZip" in html and "syncfs" in html
     assert 'SLUG="g"' in html or 'SLUG = "g"' in html
-    # 收進單一「存檔」面板：存檔鈕開面板，導出/導入在面板內，雲端容器，暴露 __epSaves
-    assert 'id="save-open"' in html and 'id="savepanel"' in html and 'id="sp-cloud"' in html
+    # __epSaves 介面（含新增的 fp/ready/fs/remove 與 read 的 mtime）
     assert "window.__epSaves" in html
-    # 攻略/留言在最右（DOM 順序在存檔鈕之後）
-    assert html.index('id="wt-open"') > html.index('id="save-open"')
+    assert "fp:function" in html and "remove:function" in html
+    assert "mtime" in html
+    # 開機閘門在 <head>
+    assert "__epGate" in html
+    assert html.index("__epGate") < html.index("</head>")
+    # 攻略/留言在收藏鈕之後（原以 save-open 為錨，改用 fav-btn）
+    assert html.index('id="wt-open"') > html.index('id="fav-btn"')
     assert html.index('id="cm-open"') > html.index('id="wt-open"')
 
 
