@@ -11,7 +11,10 @@ TEMPLATE = (
     '<meta name="apple-mobile-web-app-title" content="RM作品收藏">'
     "<title>EasyRPG Player</title>"
     "</head>"
-    '<body><script async type="text/javascript" src="index.js"></script>'
+    '<body><div id="apad" class="unselectable">'
+    '<div id="apad-escape" data-key="Escape"></div>'
+    '<div id="apad-enter" data-key="Enter"></div></div>'
+    '<script async type="text/javascript" src="index.js"></script>'
     "<script>createEasyRpgPlayer({ game: undefined, saveFs: undefined });"
     "</script></body></html>"
 )
@@ -55,6 +58,20 @@ def test_write_game_pages_injects_save_ui(tmp_path):
     # 攻略/留言在收藏鈕之後（原以 save-open 為錨，改用 fav-btn）
     assert html.index('id="wt-open"') > html.index('id="fav-btn"')
     assert html.index('id="cm-open"') > html.index('id="wt-open"')
+
+
+def test_write_game_pages_injects_fastforward(tmp_path):
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    pwa.write_game_pages(dist, [{"label": "甲", "slug": "g", "cover_rel": None}])
+    html = (dist / "play-g.html").read_text(encoding="utf-8")
+    # 兩顆快轉鈕：按住送 F/G（Player 預設快轉 ×3／超快轉 ×10）
+    assert 'id="apad-ff3"' in html and 'data-key="KeyF"' in html
+    assert 'id="apad-ff10"' in html and 'data-key="KeyG"' in html
+    # 插在 apad-escape 之前（避免搶走 vendor :last-child 的 Enter 鈕定位）
+    assert html.index('id="apad-ff10"') < html.index('id="apad-escape"')
+    # 縮小＋定位 CSS 有注入
+    assert "#apad-ff3" in html and "--controls-size" in html
 
 
 def test_write_game_pages_titles_icons_and_baked_game(tmp_path):

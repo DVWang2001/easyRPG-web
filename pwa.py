@@ -341,6 +341,25 @@ _GATE_SNIPPET = (
 )
 
 
+# 觸控快轉鈕：按住 »/»» 送 KeyF/KeyG（EasyRPG Player 預設快轉 ×3／超快轉 ×10，放手恢復）。
+# 放 #apad 內＝繼承 vendor 殼的「觸控才顯示、接手把/鍵盤隱藏」與 [data-key] 按住/放開綁定，零新 JS。
+# 見 docs/superpowers/specs/2026-07-10-touch-fastforward-design.md
+_FF_HTML = (
+    '<div id="apad-ff3" class="unselectable" data-key="KeyF" title="快轉 ×3">»</div>'
+    '<div id="apad-ff10" class="unselectable" data-key="KeyG" title="快轉 ×10">»»</div>'
+)
+# 尺寸/定位蓋過 vendor 的 #apad > *（id 選擇器較強）；背景、圓形、半透明沿用 vendor 規則。
+_FF_STYLE = (
+    "\n<style>#apad-ff3,#apad-ff10{position:fixed;"
+    "width:calc(.6*var(--controls-size));height:calc(.6*var(--controls-size));"
+    "bottom:calc(1rem + 2.2*var(--controls-size));"
+    "display:flex;align-items:center;justify-content:center;"
+    "font-size:calc(.28*var(--controls-size));color:#000}"
+    "#apad-ff10{right:1rem}"
+    "#apad-ff3{right:calc(1rem + .75*var(--controls-size))}</style>"
+)
+
+
 # 攻略：Quill/DOMPurify（全域）＋ 該遊戲設定 ＋ 樣式/模組腳本。
 # __SLUG__/__TITLE__ 會被替換成 JSON 字串字面值。
 _WT_SNIPPET = """
@@ -447,6 +466,12 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
         tmpl = (template.replace('src="index.js"', 'src="' + engine + 'index.js"')
                 if engine else template)
         html = tmpl.replace("game: undefined", "game: " + json.dumps(slug))
+        # 快轉鈕插在 apad-escape 之前——插 apad-enter 之後會搶走 vendor CSS
+        # :last-child 的 Enter 鈕定位；殼裡找不到錨點就整段跳過（不丟例外）。
+        ff_anchor = '<div id="apad-escape" data-key="Escape"></div>'
+        ff_patched = html.replace(ff_anchor, _FF_HTML + ff_anchor, 1)
+        ff_style = _FF_STYLE if ff_patched != html else ""
+        html = ff_patched
         # 移除模板繼承的整庫 tag，避免 iOS 採用庫圖示
         html = re.sub(r'<link[^>]*rel="manifest"[^>]*>', "", html, count=1, flags=re.S)
         html = re.sub(r'<link[^>]*rel="apple-touch-icon"[^>]*>', "", html, count=1, flags=re.S)
@@ -459,6 +484,7 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
         new_head = (
             _GATE_SNIPPET +
             canvas_fix +
+            ff_style +
             '\n<link rel="stylesheet" href="rm-theme.css">'
             "\n<title>" + title_esc + "</title>"
             '\n<meta name="apple-mobile-web-app-title" content="' + title_esc + '">'
