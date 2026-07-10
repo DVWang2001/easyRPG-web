@@ -97,6 +97,7 @@ function applyLayout(layout) {
 
 // ---- 樣式：自訂鍵大小；圓形/半透明/按壓沿用 vendor #apad > * 規則 ----
 const style = document.createElement('style');
+// ponytail: 編輯時 dpad svg 透傳觸點給 #dpad 容器（避免 vendor 內層 path 監聽干擾拖曳）；apad 圓鈕殘留極輕微 active 閃動已被 __epPause 吞掉、放手自癒，屬已知視覺限制
 style.textContent =
   '#apad > .ep-tp-btn{width:calc(.75*var(--controls-size));height:calc(.75*var(--controls-size));'
   + 'display:flex;align-items:center;justify-content:center;'
@@ -112,7 +113,8 @@ style.textContent =
   + '#tp-chips{position:absolute;bottom:0;left:0;right:0;display:flex;gap:8px;overflow-x:auto;'
   + 'padding:10px calc(10px + env(safe-area-inset-right)) calc(10px + env(safe-area-inset-bottom)) 10px;'
   + 'background:rgba(6,9,28,.85)}'
-  + 'body.tp-editing #dpad,body.tp-editing #apad,body.tp-editing #apad>*{z-index:9001}';
+  + 'body.tp-editing #dpad,body.tp-editing #apad,body.tp-editing #apad>*{z-index:9001}'
+  + 'body.tp-editing #dpad svg{pointer-events:none}';
 document.head.append(style);
 
 // ==== 編輯模式 ====
