@@ -832,10 +832,17 @@ git commit -m "docs(plan): 無感存檔同步 E2E 驗證結果"
 
 ---
 
-## Task 1 結果
+## Task 1 結果（2026-07-10）
 
-（執行後填寫：V1 / V2 / V3 / V4 / 自訂引擎檢查 各 PASS/FAIL 與備註）
+- **V1（存檔→syncfs）PASS**：靜態證據（index.js `ASM_CONSTS` 含 C++ 端 `FS.syncfs` 呼叫）＋E2E 行為證明（存檔後 3 秒內上雲、另一裝置收到）。
+- **V2（讀檔選單重掃）PASS**：E2E 第 6 條——B 裝置不重整，讀檔選單即見 A 的新存檔。
+- **V3（工廠包裝攔截）PASS**：headless 瀏覽器驗證 `defineProperty` setter 攔截頂層 `var` 賦值、gate promise 放行後 module 正常 resolve（blocked-before-open=true / resolved-after-open=true / module-ok=true）。
+- **V4（二次 populate 冪等）PASS**：每次開機 `bootSync` 都執行二次 populate，E2E 開機正常、進度不失（第 1、5 條）。
+- **自訂引擎同名工廠**：月藍傳奇ＩＩ（player-custom 引擎）E2E 通過，閘門同樣生效。
 
-## Task 5 結果
+## Task 5 結果（2026-07-10）
 
-（執行後填寫）
+單機冒煙：①未登入顯示「☁ 同步」、無存檔鈕、遊戲正常開 ✅ ②「下載」開三鈕面板 ✅ ③登入後按鈕消失 ✅ ④存檔上雲（Firestore 寫入走長連線 WebChannel，Network 無新列為正常；由⑥行為證明）✅ ⑤重整進度還在、無 reload 迴圈 ✅
+雙裝置（兩 profile 同帳號）：⑥A 存檔 → B 不重整讀檔選單見新進度；各存不同槽兩邊合併 ✅
+
+執行備註：dist 以外科手術式刷新（`install_web_assets`＋`write_game_pages`＋`write_service_worker`，不重 staging 1.5GB）；刷新腳本須複製 build_library 的空 slug 補發（`hash_slug(label)`），首版漏掉導致 slug 留空的遊戲頁未更新、誤診為快取問題。
