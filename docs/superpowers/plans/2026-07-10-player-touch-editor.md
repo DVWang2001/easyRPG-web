@@ -645,6 +645,8 @@ Expected: 27 頁重生成；`touchpad.js`/`touchlayout.js` 進 dist。
 
 ---
 
-## E2E 結果
+## E2E 結果（2026-07-11）
 
-（執行後填寫）
+裝置模擬（Chrome device toolbar）下開月藍傳奇ＩＩ：診斷確認 `IS_TOUCH=true`、`touchpad 載入=true`、`tp-edit 存在=true`，工具列「按鍵」入口鈕出現。使用者確認通過。
+
+排障記錄：初期沒看到入口鈕，根因＝舊 service worker 餵改版前的快取遊戲頁（缺 touchpad.js script 標籤，`touchpad 載入=false` 即證），非程式碼問題；DevTools → Application → Service Workers → Unregister ＋ 重載即解決（不可用「清除網站資料」以免清掉 IndexedDB 存檔）。自動化測試：pytest 156 passed（1 pre-existing announce.css 失敗無關）＋ node touchlayout 9/9＋savemerge 12/12。
