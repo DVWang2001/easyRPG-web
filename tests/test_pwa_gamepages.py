@@ -284,6 +284,14 @@ def test_write_game_pages_injects_cloudsave(tmp_path):
     assert 'type="module" src="savepanel.js"' in html
 
 
+def test_write_game_pages_injects_touchpad(tmp_path):
+    dist = tmp_path / "dist"
+    _write_template(dist)
+    pwa.write_game_pages(dist, [{"label": "甲", "slug": "g", "cover_rel": None}])
+    html = (dist / "play-g.html").read_text(encoding="utf-8")
+    assert 'type="module" src="touchpad.js"' in html
+
+
 def test_write_game_pages_ios_fullscreen_fallback(tmp_path):
     dist = tmp_path / "dist"
     _write_template(dist)

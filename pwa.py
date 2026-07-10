@@ -360,6 +360,11 @@ _FF_STYLE = (
 )
 
 
+# 玩家端觸控按鍵編輯器：套用/編輯 localStorage 佈局（入口鈕與樣式由 touchpad.js 動態建立）。
+# 見 docs/superpowers/specs/2026-07-10-player-touch-editor-design.md
+_TP_SNIPPET = '\n<script type="module" src="touchpad.js"></script>'
+
+
 # 攻略：Quill/DOMPurify（全域）＋ 該遊戲設定 ＋ 樣式/模組腳本。
 # __SLUG__/__TITLE__ 會被替換成 JSON 字串字面值。
 _WT_SNIPPET = """
@@ -536,7 +541,7 @@ def write_game_pages(dist, entries, icon_rel=ICON_REL) -> None:
         wt_snippet = (_WT_SNIPPET
                       .replace("__SLUG__", slug_js)
                       .replace("__TITLE__", wt_title_js))
-        body_add = dl_snippet + save_snippet + wt_snippet + _CM_SNIPPET + _FAV_SNIPPET + _PT_SNIPPET + _CLOUD_SNIPPET + _FS_FALLBACK + _POP_SNIPPET
+        body_add = dl_snippet + save_snippet + wt_snippet + _CM_SNIPPET + _FAV_SNIPPET + _PT_SNIPPET + _CLOUD_SNIPPET + _TP_SNIPPET + _FS_FALLBACK + _POP_SNIPPET
         if "</body>" in html:
             html = html.replace("</body>", body_add + "</body>", 1)
         else:
