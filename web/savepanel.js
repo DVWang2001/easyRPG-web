@@ -113,6 +113,8 @@ async function sync(uid, manifest) {
 }
 
 // ---- 存檔即推：引擎存檔後會從 C++ 呼叫 FS.syncfs，包一層當「剛存檔」訊號 ----
+// 自己 sync 造成的寫入也會觸發 queuePush，但 3 秒後的那輪 sync 比對無差異、零網路成本就收斂，
+// 換來「同步進行中玩家存檔」不會漏推。
 function hookSyncfs(FS) {
   if (FS.__epHooked) return;
   FS.__epHooked = true;
@@ -121,7 +123,7 @@ function hookSyncfs(FS) {
     if (typeof populate === 'function') { cb = populate; populate = false; }
     return orig(populate, (err) => {
       if (cb) cb(err);
-      if (!populate && !err && !syncing) queuePush();
+      if (!populate && !err) queuePush();
     });
   };
 }
@@ -264,7 +266,7 @@ if (!SLUG || !ind || !isReady()) {
 } else {
   let booted = false;
   onAuthChange((u) => {
-    if (!u) { gate.open(); stopSnap(); showLogin(); return; }
+    if (!u) { gate.open(); stopSnap(); failCount = 0; showLogin(); return; }
     ind.hidden = failCount < 3; // 登入即隱藏（故障浮現狀態除外）
     if (booted) { attachSnap(u.uid); return; }
     booted = true;
