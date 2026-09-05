@@ -20,3 +20,11 @@ def test_install_web_assets_copies_js_css(tmp_path):
     # 金鑰範本不部署（站長填好的真實 firebase-config.js 才部署）
     assert not (dist / "firebase-config.example.js").exists()
     assert "firebase-config.example.js" not in copied
+
+
+def test_playtime_has_no_toplevel_firebase_import():
+    """離線時 gstatic 抓不到；頂層 import 會讓整支模組不執行，一秒都記不到。"""
+    src = (pwa.WEB_DIR / "playtime.js").read_text(encoding="utf-8")
+    for line in src.splitlines():
+        assert not line.startswith("import "), line
+        assert not line.startswith("} from"), line
