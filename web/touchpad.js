@@ -71,6 +71,7 @@ function makeCustom(btn) {
 
 // layout=null → 出廠預設；否則：清單未列的內建鍵隱藏、列了的移位、自訂鍵生成。
 function applyLayout(layout) {
+  if (!IS_TOUCH) return; // 桌機：vendor 已隱藏觸控鍵，resetEl 的 display='' 會把它們叫回來
   for (const el of customEls.values()) el.remove();
   customEls = new Map();
   for (const id of BUILTIN_IDS) {
