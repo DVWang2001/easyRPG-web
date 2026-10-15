@@ -1,0 +1,55 @@
+﻿1. [MARKER: Message] [FACE: Ｆタマ] くっ苦しいニャ～っ！
+2. [MARKER: Message] [FACE: F鞍春] 暴れるな。　そなたに当たるぞ。
+3. [MARKER: Message] [FACE: Ｆタマ] 当てたら絶交ニャ！
+4. [MARKER: Message] [FACE: Ｆタマ] バカ～っ！
+当たったニャ～っ！
+5. [MARKER: Message] [FACE: F鞍春] よけろ。
+6. [MARKER: Message] [FACE: Ｆタマ] 捕まってるから
+よけられないニャっ！
+7. [MARKER: Message] [FACE: Ｆタマ] オイラもうダメニャ～･･･
+8. [MARKER: Message] [FACE: Ｆタマ] 息ができなひニャ～
+9. [MARKER: Message] [FACE: Ｆタマ] 何でオイラを狙うニャ～っ！
+10. [MARKER: Message] [FACE: F鞍春] 故意ではない$d
+11. [MARKER: Message] [FACE: Ｆタマ] オイラもうダメニャ～･･･
+12. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]私の･･････貝を･･････
+13. [MARKER: Message] [FACE: Ｆタマ] ゴボゴボゴボ～～～･･････
+14. [MARKER: Message] [FACE: F鞍春] \S[2]････････････$d
+15. [MARKER: Message] [FACE: Ｆタマ] マコト！
+16. [MARKER: Message] [FACE: Ｆ真実] 君は一度、そっちの味方についたんだ。
+17. [MARKER: Message] [FACE: Ｆ真実] 最後までそっち側で闘うといい。
+18. [MARKER: Message] [FACE: Ｆ鬼] \.ん？
+右老杯受は呼んでねーぞ。
+19. [MARKER: Message] [FACE: Ｆ鬼] クルルル･･････
+20. [MARKER: Message] [FACE: Ｆ鬼] ･･･しょうがねーな。
+\.じゃ俺は しばらく見物するぜ。
+21. [MARKER: Message] [FACE: Ｆタマ] な、何者ニャ　コレは～っ$e
+どっから出てきたニャ～っ！
+22. [MARKER: Message] [FACE: F鞍春] さしずめ
+鬼の創り出した幻影といったところか。
+23. [MARKER: Message] [FACE: Ｆタマ] 痛いニャ～っ！
+24. [MARKER: Message] [FACE: Ｆタマ] 幻影なのに
+なんでいたいニャ～っ！
+25. [MARKER: Message] [FACE: Ｆ鬼] ちっ
+思ったより役にたたねーな。
+26. [MARKER: Message] [FACE: Ｆ鬼] \.どけ！
+27. [MARKER: Message] [FACE: Ｆタマ] 待ってニャ！
+オイラ姫さんと闘うの嫌ニャ！
+28. [MARKER: Message] [FACE: F鞍春] 私もだ。
+29. [MARKER: Message] [FACE: F鞍春] だが私は
+相手が誰であろうと
+売られたケンカは買う主義でな。
+30. [MARKER: Message] [FACE: Ｆタマ] オイラ抜けるニャ！
+31. [MARKER: Message] [FACE: Ｆタマ] やめるニャっ$e
+32. [MARKER: Message] [FACE: Ｆタマ] お主
+話をしに来たダケって
+言ってたニャ！
+33. [MARKER: Message] [FACE: Ｆ狐姫] どけ、タマ！
+串猫になるぞ！
+34. [MARKER: Message] [FACE: Ｆタマ] く、\.串猫$d　　　　　　　　　　　　　
+35. [MARKER: Message] [FACE: Ｆタマ] ･･････
+36. [MARKER: Message] [FACE: Ｆタマ] ･･････むか$n
+37. [MARKER: Message] [FACE: Ｆタマ] \.･････････････
+\.･････････････
+\.すぅーーーーーーーーっ
+38. [MARKER: Message] [FACE: Ｆタマ] やめるニャ～～～～～～～～～～～～$n
+39. [MARKER: Message] [FACE: F鞍春] うおわ！

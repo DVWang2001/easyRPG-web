@@ -1,0 +1,1418 @@
+[
+  {
+    "path": "Map0002.txt",
+    "messages": 14,
+    "choices": 0,
+    "faces": 5,
+    "total_lines": 107,
+    "jp_lines": 40
+  },
+  {
+    "path": "Map0003.txt",
+    "messages": 199,
+    "choices": 32,
+    "faces": 62,
+    "total_lines": 1718,
+    "jp_lines": 541
+  },
+  {
+    "path": "Map0004.txt",
+    "messages": 12,
+    "choices": 0,
+    "faces": 8,
+    "total_lines": 101,
+    "jp_lines": 37
+  },
+  {
+    "path": "Map0005.txt",
+    "messages": 44,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 327,
+    "jp_lines": 117
+  },
+  {
+    "path": "Map0006.txt",
+    "messages": 95,
+    "choices": 5,
+    "faces": 31,
+    "total_lines": 866,
+    "jp_lines": 313
+  },
+  {
+    "path": "Map0007.txt",
+    "messages": 166,
+    "choices": 3,
+    "faces": 40,
+    "total_lines": 1313,
+    "jp_lines": 407
+  },
+  {
+    "path": "Map0008.txt",
+    "messages": 147,
+    "choices": 1,
+    "faces": 33,
+    "total_lines": 1064,
+    "jp_lines": 339
+  },
+  {
+    "path": "Map0009.txt",
+    "messages": 1,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 10,
+    "jp_lines": 2
+  },
+  {
+    "path": "Map0010.txt",
+    "messages": 325,
+    "choices": 11,
+    "faces": 130,
+    "total_lines": 2570,
+    "jp_lines": 931
+  },
+  {
+    "path": "Map0011.txt",
+    "messages": 41,
+    "choices": 0,
+    "faces": 10,
+    "total_lines": 307,
+    "jp_lines": 116
+  },
+  {
+    "path": "Map0012.txt",
+    "messages": 8,
+    "choices": 0,
+    "faces": 5,
+    "total_lines": 78,
+    "jp_lines": 19
+  },
+  {
+    "path": "Map0013.txt",
+    "messages": 45,
+    "choices": 0,
+    "faces": 9,
+    "total_lines": 341,
+    "jp_lines": 124
+  },
+  {
+    "path": "Map0015.txt",
+    "messages": 2,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 16,
+    "jp_lines": 4
+  },
+  {
+    "path": "Map0016.txt",
+    "messages": 2,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 18,
+    "jp_lines": 4
+  },
+  {
+    "path": "Map0017.txt",
+    "messages": 1,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 10,
+    "jp_lines": 2
+  },
+  {
+    "path": "Map0018.txt",
+    "messages": 49,
+    "choices": 1,
+    "faces": 2,
+    "total_lines": 375,
+    "jp_lines": 129
+  },
+  {
+    "path": "Map0019.txt",
+    "messages": 11,
+    "choices": 0,
+    "faces": 5,
+    "total_lines": 93,
+    "jp_lines": 32
+  },
+  {
+    "path": "Map0025.txt",
+    "messages": 119,
+    "choices": 0,
+    "faces": 49,
+    "total_lines": 904,
+    "jp_lines": 348
+  },
+  {
+    "path": "Map0026.txt",
+    "messages": 42,
+    "choices": 6,
+    "faces": 6,
+    "total_lines": 369,
+    "jp_lines": 78
+  },
+  {
+    "path": "Map0027.txt",
+    "messages": 19,
+    "choices": 2,
+    "faces": 12,
+    "total_lines": 193,
+    "jp_lines": 55
+  },
+  {
+    "path": "Map0028.txt",
+    "messages": 7,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 53,
+    "jp_lines": 21
+  },
+  {
+    "path": "Map0029.txt",
+    "messages": 33,
+    "choices": 0,
+    "faces": 3,
+    "total_lines": 241,
+    "jp_lines": 97
+  },
+  {
+    "path": "Map0030.txt",
+    "messages": 97,
+    "choices": 1,
+    "faces": 23,
+    "total_lines": 830,
+    "jp_lines": 239
+  },
+  {
+    "path": "Map0031.txt",
+    "messages": 23,
+    "choices": 0,
+    "faces": 3,
+    "total_lines": 161,
+    "jp_lines": 57
+  },
+  {
+    "path": "Map0032.txt",
+    "messages": 68,
+    "choices": 1,
+    "faces": 23,
+    "total_lines": 528,
+    "jp_lines": 170
+  },
+  {
+    "path": "Map0033.txt",
+    "messages": 32,
+    "choices": 2,
+    "faces": 3,
+    "total_lines": 253,
+    "jp_lines": 93
+  },
+  {
+    "path": "Map0034.txt",
+    "messages": 158,
+    "choices": 0,
+    "faces": 64,
+    "total_lines": 1238,
+    "jp_lines": 481
+  },
+  {
+    "path": "Map0035.txt",
+    "messages": 75,
+    "choices": 0,
+    "faces": 29,
+    "total_lines": 573,
+    "jp_lines": 190
+  },
+  {
+    "path": "Map0036.txt",
+    "messages": 222,
+    "choices": 2,
+    "faces": 53,
+    "total_lines": 1672,
+    "jp_lines": 655
+  },
+  {
+    "path": "Map0037.txt",
+    "messages": 2,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 20,
+    "jp_lines": 2
+  },
+  {
+    "path": "Map0038.txt",
+    "messages": 11,
+    "choices": 0,
+    "faces": 3,
+    "total_lines": 87,
+    "jp_lines": 27
+  },
+  {
+    "path": "Map0039.txt",
+    "messages": 157,
+    "choices": 0,
+    "faces": 9,
+    "total_lines": 1097,
+    "jp_lines": 423
+  },
+  {
+    "path": "Map0040.txt",
+    "messages": 19,
+    "choices": 0,
+    "faces": 10,
+    "total_lines": 164,
+    "jp_lines": 46
+  },
+  {
+    "path": "Map0041.txt",
+    "messages": 124,
+    "choices": 0,
+    "faces": 35,
+    "total_lines": 892,
+    "jp_lines": 325
+  },
+  {
+    "path": "Map0042.txt",
+    "messages": 112,
+    "choices": 12,
+    "faces": 38,
+    "total_lines": 992,
+    "jp_lines": 296
+  },
+  {
+    "path": "Map0044.txt",
+    "messages": 11,
+    "choices": 3,
+    "faces": 0,
+    "total_lines": 100,
+    "jp_lines": 23
+  },
+  {
+    "path": "Map0046.txt",
+    "messages": 4,
+    "choices": 1,
+    "faces": 1,
+    "total_lines": 42,
+    "jp_lines": 12
+  },
+  {
+    "path": "Map0047.txt",
+    "messages": 204,
+    "choices": 11,
+    "faces": 100,
+    "total_lines": 1677,
+    "jp_lines": 526
+  },
+  {
+    "path": "Map0049.txt",
+    "messages": 39,
+    "choices": 0,
+    "faces": 17,
+    "total_lines": 320,
+    "jp_lines": 116
+  },
+  {
+    "path": "Map0051.txt",
+    "messages": 83,
+    "choices": 1,
+    "faces": 43,
+    "total_lines": 678,
+    "jp_lines": 212
+  },
+  {
+    "path": "Map0052.txt",
+    "messages": 4,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 32,
+    "jp_lines": 8
+  },
+  {
+    "path": "Map0053.txt",
+    "messages": 249,
+    "choices": 9,
+    "faces": 104,
+    "total_lines": 2020,
+    "jp_lines": 683
+  },
+  {
+    "path": "Map0054.txt",
+    "messages": 51,
+    "choices": 2,
+    "faces": 18,
+    "total_lines": 401,
+    "jp_lines": 132
+  },
+  {
+    "path": "Map0055.txt",
+    "messages": 21,
+    "choices": 1,
+    "faces": 12,
+    "total_lines": 177,
+    "jp_lines": 59
+  },
+  {
+    "path": "Map0056.txt",
+    "messages": 2,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 20,
+    "jp_lines": 2
+  },
+  {
+    "path": "Map0057.txt",
+    "messages": 24,
+    "choices": 0,
+    "faces": 12,
+    "total_lines": 188,
+    "jp_lines": 58
+  },
+  {
+    "path": "Map0058.txt",
+    "messages": 4,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 34,
+    "jp_lines": 12
+  },
+  {
+    "path": "Map0059.txt",
+    "messages": 21,
+    "choices": 0,
+    "faces": 14,
+    "total_lines": 177,
+    "jp_lines": 71
+  },
+  {
+    "path": "Map0060.txt",
+    "messages": 16,
+    "choices": 1,
+    "faces": 9,
+    "total_lines": 138,
+    "jp_lines": 49
+  },
+  {
+    "path": "Map0061.txt",
+    "messages": 11,
+    "choices": 3,
+    "faces": 0,
+    "total_lines": 100,
+    "jp_lines": 32
+  },
+  {
+    "path": "Map0062.txt",
+    "messages": 26,
+    "choices": 0,
+    "faces": 18,
+    "total_lines": 230,
+    "jp_lines": 77
+  },
+  {
+    "path": "Map0063.txt",
+    "messages": 27,
+    "choices": 1,
+    "faces": 13,
+    "total_lines": 242,
+    "jp_lines": 82
+  },
+  {
+    "path": "Map0064.txt",
+    "messages": 14,
+    "choices": 0,
+    "faces": 10,
+    "total_lines": 118,
+    "jp_lines": 43
+  },
+  {
+    "path": "Map0065.txt",
+    "messages": 6,
+    "choices": 1,
+    "faces": 2,
+    "total_lines": 58,
+    "jp_lines": 19
+  },
+  {
+    "path": "Map0066.txt",
+    "messages": 137,
+    "choices": 2,
+    "faces": 76,
+    "total_lines": 1082,
+    "jp_lines": 410
+  },
+  {
+    "path": "Map0067.txt",
+    "messages": 117,
+    "choices": 1,
+    "faces": 61,
+    "total_lines": 892,
+    "jp_lines": 336
+  },
+  {
+    "path": "Map0068.txt",
+    "messages": 65,
+    "choices": 0,
+    "faces": 42,
+    "total_lines": 514,
+    "jp_lines": 170
+  },
+  {
+    "path": "Map0069.txt",
+    "messages": 115,
+    "choices": 4,
+    "faces": 37,
+    "total_lines": 899,
+    "jp_lines": 297
+  },
+  {
+    "path": "Map0070.txt",
+    "messages": 31,
+    "choices": 0,
+    "faces": 3,
+    "total_lines": 222,
+    "jp_lines": 71
+  },
+  {
+    "path": "Map0071.txt",
+    "messages": 340,
+    "choices": 6,
+    "faces": 118,
+    "total_lines": 2616,
+    "jp_lines": 947
+  },
+  {
+    "path": "Map0072.txt",
+    "messages": 47,
+    "choices": 3,
+    "faces": 6,
+    "total_lines": 361,
+    "jp_lines": 126
+  },
+  {
+    "path": "Map0073.txt",
+    "messages": 25,
+    "choices": 5,
+    "faces": 19,
+    "total_lines": 251,
+    "jp_lines": 78
+  },
+  {
+    "path": "Map0074.txt",
+    "messages": 25,
+    "choices": 0,
+    "faces": 5,
+    "total_lines": 200,
+    "jp_lines": 62
+  },
+  {
+    "path": "Map0075.txt",
+    "messages": 10,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 75,
+    "jp_lines": 21
+  },
+  {
+    "path": "Map0076.txt",
+    "messages": 264,
+    "choices": 8,
+    "faces": 78,
+    "total_lines": 2123,
+    "jp_lines": 753
+  },
+  {
+    "path": "Map0077.txt",
+    "messages": 41,
+    "choices": 0,
+    "faces": 2,
+    "total_lines": 290,
+    "jp_lines": 112
+  },
+  {
+    "path": "Map0078.txt",
+    "messages": 82,
+    "choices": 1,
+    "faces": 27,
+    "total_lines": 608,
+    "jp_lines": 209
+  },
+  {
+    "path": "Map0079.txt",
+    "messages": 18,
+    "choices": 1,
+    "faces": 1,
+    "total_lines": 157,
+    "jp_lines": 48
+  },
+  {
+    "path": "Map0080.txt",
+    "messages": 78,
+    "choices": 0,
+    "faces": 15,
+    "total_lines": 545,
+    "jp_lines": 206
+  },
+  {
+    "path": "Map0081.txt",
+    "messages": 20,
+    "choices": 2,
+    "faces": 2,
+    "total_lines": 184,
+    "jp_lines": 52
+  },
+  {
+    "path": "Map0082.txt",
+    "messages": 18,
+    "choices": 0,
+    "faces": 12,
+    "total_lines": 147,
+    "jp_lines": 53
+  },
+  {
+    "path": "Map0083.txt",
+    "messages": 146,
+    "choices": 3,
+    "faces": 37,
+    "total_lines": 1183,
+    "jp_lines": 417
+  },
+  {
+    "path": "Map0084.txt",
+    "messages": 4,
+    "choices": 1,
+    "faces": 0,
+    "total_lines": 41,
+    "jp_lines": 8
+  },
+  {
+    "path": "Map0086.txt",
+    "messages": 4,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 28,
+    "jp_lines": 8
+  },
+  {
+    "path": "Map0087.txt",
+    "messages": 1,
+    "choices": 1,
+    "faces": 0,
+    "total_lines": 17,
+    "jp_lines": 4
+  },
+  {
+    "path": "Map0088.txt",
+    "messages": 5,
+    "choices": 0,
+    "faces": 1,
+    "total_lines": 36,
+    "jp_lines": 11
+  },
+  {
+    "path": "Map0089.txt",
+    "messages": 47,
+    "choices": 0,
+    "faces": 2,
+    "total_lines": 316,
+    "jp_lines": 119
+  },
+  {
+    "path": "Map0090.txt",
+    "messages": 18,
+    "choices": 1,
+    "faces": 17,
+    "total_lines": 205,
+    "jp_lines": 47
+  },
+  {
+    "path": "Map0091.txt",
+    "messages": 4,
+    "choices": 0,
+    "faces": 1,
+    "total_lines": 40,
+    "jp_lines": 11
+  },
+  {
+    "path": "Map0092.txt",
+    "messages": 14,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 100,
+    "jp_lines": 40
+  },
+  {
+    "path": "Map0093.txt",
+    "messages": 150,
+    "choices": 16,
+    "faces": 39,
+    "total_lines": 1248,
+    "jp_lines": 358
+  },
+  {
+    "path": "Map0094.txt",
+    "messages": 2,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 22,
+    "jp_lines": 6
+  },
+  {
+    "path": "Map0095.txt",
+    "messages": 119,
+    "choices": 3,
+    "faces": 43,
+    "total_lines": 934,
+    "jp_lines": 301
+  },
+  {
+    "path": "Map0096.txt",
+    "messages": 14,
+    "choices": 0,
+    "faces": 2,
+    "total_lines": 102,
+    "jp_lines": 32
+  },
+  {
+    "path": "Map0097.txt",
+    "messages": 2,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 19,
+    "jp_lines": 3
+  },
+  {
+    "path": "Map0098.txt",
+    "messages": 16,
+    "choices": 7,
+    "faces": 0,
+    "total_lines": 173,
+    "jp_lines": 31
+  },
+  {
+    "path": "Map0099.txt",
+    "messages": 23,
+    "choices": 1,
+    "faces": 11,
+    "total_lines": 197,
+    "jp_lines": 63
+  },
+  {
+    "path": "Map0100.txt",
+    "messages": 18,
+    "choices": 3,
+    "faces": 2,
+    "total_lines": 160,
+    "jp_lines": 40
+  },
+  {
+    "path": "Map0101.txt",
+    "messages": 21,
+    "choices": 0,
+    "faces": 7,
+    "total_lines": 170,
+    "jp_lines": 44
+  },
+  {
+    "path": "Map0102.txt",
+    "messages": 43,
+    "choices": 3,
+    "faces": 23,
+    "total_lines": 379,
+    "jp_lines": 131
+  },
+  {
+    "path": "Map0103.txt",
+    "messages": 2,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 20,
+    "jp_lines": 2
+  },
+  {
+    "path": "Map0104.txt",
+    "messages": 7,
+    "choices": 0,
+    "faces": 2,
+    "total_lines": 64,
+    "jp_lines": 20
+  },
+  {
+    "path": "Map0105.txt",
+    "messages": 28,
+    "choices": 0,
+    "faces": 12,
+    "total_lines": 211,
+    "jp_lines": 65
+  },
+  {
+    "path": "Map0106.txt",
+    "messages": 82,
+    "choices": 4,
+    "faces": 17,
+    "total_lines": 625,
+    "jp_lines": 212
+  },
+  {
+    "path": "Map0108.txt",
+    "messages": 4,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 38,
+    "jp_lines": 14
+  },
+  {
+    "path": "Map0109.txt",
+    "messages": 4,
+    "choices": 1,
+    "faces": 0,
+    "total_lines": 40,
+    "jp_lines": 10
+  },
+  {
+    "path": "Map0111.txt",
+    "messages": 11,
+    "choices": 0,
+    "faces": 1,
+    "total_lines": 82,
+    "jp_lines": 28
+  },
+  {
+    "path": "Map0112.txt",
+    "messages": 80,
+    "choices": 8,
+    "faces": 17,
+    "total_lines": 677,
+    "jp_lines": 164
+  },
+  {
+    "path": "Map0113.txt",
+    "messages": 27,
+    "choices": 1,
+    "faces": 8,
+    "total_lines": 219,
+    "jp_lines": 68
+  },
+  {
+    "path": "Map0114.txt",
+    "messages": 1,
+    "choices": 1,
+    "faces": 0,
+    "total_lines": 17,
+    "jp_lines": 4
+  },
+  {
+    "path": "Map0115.txt",
+    "messages": 134,
+    "choices": 5,
+    "faces": 76,
+    "total_lines": 1139,
+    "jp_lines": 399
+  },
+  {
+    "path": "Map0118.txt",
+    "messages": 231,
+    "choices": 0,
+    "faces": 109,
+    "total_lines": 1679,
+    "jp_lines": 587
+  },
+  {
+    "path": "Map0119.txt",
+    "messages": 59,
+    "choices": 0,
+    "faces": 21,
+    "total_lines": 424,
+    "jp_lines": 140
+  },
+  {
+    "path": "Map0121.txt",
+    "messages": 44,
+    "choices": 7,
+    "faces": 11,
+    "total_lines": 391,
+    "jp_lines": 107
+  },
+  {
+    "path": "Map0129.txt",
+    "messages": 62,
+    "choices": 6,
+    "faces": 14,
+    "total_lines": 504,
+    "jp_lines": 186
+  },
+  {
+    "path": "Map0130.txt",
+    "messages": 16,
+    "choices": 1,
+    "faces": 1,
+    "total_lines": 130,
+    "jp_lines": 54
+  },
+  {
+    "path": "Map0131.txt",
+    "messages": 7,
+    "choices": 0,
+    "faces": 2,
+    "total_lines": 54,
+    "jp_lines": 16
+  },
+  {
+    "path": "Map0132.txt",
+    "messages": 25,
+    "choices": 2,
+    "faces": 5,
+    "total_lines": 199,
+    "jp_lines": 69
+  },
+  {
+    "path": "Map0133.txt",
+    "messages": 1,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 10,
+    "jp_lines": 0
+  },
+  {
+    "path": "Map0134.txt",
+    "messages": 81,
+    "choices": 12,
+    "faces": 15,
+    "total_lines": 679,
+    "jp_lines": 210
+  },
+  {
+    "path": "Map0135.txt",
+    "messages": 16,
+    "choices": 1,
+    "faces": 7,
+    "total_lines": 132,
+    "jp_lines": 47
+  },
+  {
+    "path": "Map0136.txt",
+    "messages": 41,
+    "choices": 4,
+    "faces": 3,
+    "total_lines": 335,
+    "jp_lines": 121
+  },
+  {
+    "path": "Map0137.txt",
+    "messages": 8,
+    "choices": 0,
+    "faces": 2,
+    "total_lines": 64,
+    "jp_lines": 17
+  },
+  {
+    "path": "Map0138.txt",
+    "messages": 79,
+    "choices": 1,
+    "faces": 32,
+    "total_lines": 645,
+    "jp_lines": 226
+  },
+  {
+    "path": "Map0139.txt",
+    "messages": 30,
+    "choices": 0,
+    "faces": 29,
+    "total_lines": 301,
+    "jp_lines": 146
+  },
+  {
+    "path": "Map0140.txt",
+    "messages": 121,
+    "choices": 3,
+    "faces": 42,
+    "total_lines": 962,
+    "jp_lines": 326
+  },
+  {
+    "path": "Map0142.txt",
+    "messages": 17,
+    "choices": 5,
+    "faces": 8,
+    "total_lines": 174,
+    "jp_lines": 51
+  },
+  {
+    "path": "Map0143.txt",
+    "messages": 150,
+    "choices": 1,
+    "faces": 58,
+    "total_lines": 1184,
+    "jp_lines": 405
+  },
+  {
+    "path": "Map0144.txt",
+    "messages": 98,
+    "choices": 1,
+    "faces": 49,
+    "total_lines": 822,
+    "jp_lines": 304
+  },
+  {
+    "path": "Map0145.txt",
+    "messages": 1,
+    "choices": 0,
+    "faces": 2,
+    "total_lines": 14,
+    "jp_lines": 4
+  },
+  {
+    "path": "Map0146.txt",
+    "messages": 29,
+    "choices": 0,
+    "faces": 20,
+    "total_lines": 257,
+    "jp_lines": 72
+  },
+  {
+    "path": "Map0147.txt",
+    "messages": 79,
+    "choices": 0,
+    "faces": 22,
+    "total_lines": 591,
+    "jp_lines": 212
+  },
+  {
+    "path": "Map0148.txt",
+    "messages": 80,
+    "choices": 1,
+    "faces": 40,
+    "total_lines": 653,
+    "jp_lines": 223
+  },
+  {
+    "path": "Map0150.txt",
+    "messages": 44,
+    "choices": 0,
+    "faces": 19,
+    "total_lines": 344,
+    "jp_lines": 117
+  },
+  {
+    "path": "Map0151.txt",
+    "messages": 21,
+    "choices": 1,
+    "faces": 9,
+    "total_lines": 171,
+    "jp_lines": 56
+  },
+  {
+    "path": "Map0152.txt",
+    "messages": 1,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 10,
+    "jp_lines": 1
+  },
+  {
+    "path": "Map0153.txt",
+    "messages": 14,
+    "choices": 2,
+    "faces": 5,
+    "total_lines": 120,
+    "jp_lines": 36
+  },
+  {
+    "path": "Map0154.txt",
+    "messages": 2,
+    "choices": 1,
+    "faces": 0,
+    "total_lines": 21,
+    "jp_lines": 4
+  },
+  {
+    "path": "Map0155.txt",
+    "messages": 16,
+    "choices": 3,
+    "faces": 6,
+    "total_lines": 145,
+    "jp_lines": 36
+  },
+  {
+    "path": "Map0159.txt",
+    "messages": 26,
+    "choices": 3,
+    "faces": 14,
+    "total_lines": 235,
+    "jp_lines": 70
+  },
+  {
+    "path": "Map0161.txt",
+    "messages": 3,
+    "choices": 1,
+    "faces": 0,
+    "total_lines": 31,
+    "jp_lines": 5
+  },
+  {
+    "path": "Map0162.txt",
+    "messages": 2,
+    "choices": 1,
+    "faces": 0,
+    "total_lines": 21,
+    "jp_lines": 4
+  },
+  {
+    "path": "Map0163.txt",
+    "messages": 3,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 23,
+    "jp_lines": 7
+  },
+  {
+    "path": "Map0164.txt",
+    "messages": 24,
+    "choices": 0,
+    "faces": 9,
+    "total_lines": 175,
+    "jp_lines": 59
+  },
+  {
+    "path": "Map0165.txt",
+    "messages": 115,
+    "choices": 1,
+    "faces": 52,
+    "total_lines": 922,
+    "jp_lines": 340
+  },
+  {
+    "path": "Map0168.txt",
+    "messages": 3,
+    "choices": 1,
+    "faces": 0,
+    "total_lines": 29,
+    "jp_lines": 7
+  },
+  {
+    "path": "Map0170.txt",
+    "messages": 47,
+    "choices": 2,
+    "faces": 21,
+    "total_lines": 392,
+    "jp_lines": 148
+  },
+  {
+    "path": "Map0171.txt",
+    "messages": 13,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 104,
+    "jp_lines": 29
+  },
+  {
+    "path": "Map0174.txt",
+    "messages": 4,
+    "choices": 1,
+    "faces": 0,
+    "total_lines": 37,
+    "jp_lines": 11
+  },
+  {
+    "path": "Map0175.txt",
+    "messages": 16,
+    "choices": 7,
+    "faces": 0,
+    "total_lines": 167,
+    "jp_lines": 30
+  },
+  {
+    "path": "Map0176.txt",
+    "messages": 14,
+    "choices": 6,
+    "faces": 0,
+    "total_lines": 146,
+    "jp_lines": 26
+  },
+  {
+    "path": "Map0179.txt",
+    "messages": 20,
+    "choices": 1,
+    "faces": 10,
+    "total_lines": 165,
+    "jp_lines": 58
+  },
+  {
+    "path": "RM2K_Names.txt",
+    "messages": 0,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 1025,
+    "jp_lines": 502
+  },
+  {
+    "path": "Database\\Animations.txt",
+    "messages": 0,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 941,
+    "jp_lines": 142
+  },
+  {
+    "path": "Database\\Attributes.txt",
+    "messages": 0,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 107,
+    "jp_lines": 18
+  },
+  {
+    "path": "Database\\ChipSet.txt",
+    "messages": 0,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 161,
+    "jp_lines": 19
+  },
+  {
+    "path": "Database\\Conditions.txt",
+    "messages": 0,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 203,
+    "jp_lines": 53
+  },
+  {
+    "path": "Database\\Hero.txt",
+    "messages": 0,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 476,
+    "jp_lines": 61
+  },
+  {
+    "path": "Database\\Items.txt",
+    "messages": 0,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 2528,
+    "jp_lines": 262
+  },
+  {
+    "path": "Database\\Monsters.txt",
+    "messages": 0,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 563,
+    "jp_lines": 49
+  },
+  {
+    "path": "Database\\Skills.txt",
+    "messages": 0,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 2459,
+    "jp_lines": 302
+  },
+  {
+    "path": "Database\\Terrain.txt",
+    "messages": 0,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 119,
+    "jp_lines": 17
+  },
+  {
+    "path": "Database\\Troops.txt",
+    "messages": 87,
+    "choices": 0,
+    "faces": 83,
+    "total_lines": 888,
+    "jp_lines": 249
+  },
+  {
+    "path": "Database\\Vocab.txt",
+    "messages": 0,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 385,
+    "jp_lines": 114
+  },
+  {
+    "path": "Database\\Commons\\Common0005.txt",
+    "messages": 1,
+    "choices": 1,
+    "faces": 0,
+    "total_lines": 13,
+    "jp_lines": 4
+  },
+  {
+    "path": "Database\\Commons\\Common0026.txt",
+    "messages": 2,
+    "choices": 0,
+    "faces": 1,
+    "total_lines": 14,
+    "jp_lines": 3
+  },
+  {
+    "path": "Database\\Commons\\Common0029.txt",
+    "messages": 18,
+    "choices": 0,
+    "faces": 6,
+    "total_lines": 127,
+    "jp_lines": 47
+  },
+  {
+    "path": "Database\\Commons\\Common0031.txt",
+    "messages": 16,
+    "choices": 4,
+    "faces": 4,
+    "total_lines": 135,
+    "jp_lines": 47
+  },
+  {
+    "path": "Database\\Commons\\Common0032.txt",
+    "messages": 28,
+    "choices": 14,
+    "faces": 14,
+    "total_lines": 280,
+    "jp_lines": 84
+  },
+  {
+    "path": "Database\\Commons\\Common0037.txt",
+    "messages": 14,
+    "choices": 0,
+    "faces": 12,
+    "total_lines": 123,
+    "jp_lines": 29
+  },
+  {
+    "path": "Database\\Commons\\Common0039.txt",
+    "messages": 1,
+    "choices": 1,
+    "faces": 0,
+    "total_lines": 13,
+    "jp_lines": 5
+  },
+  {
+    "path": "Database\\Commons\\Common0043.txt",
+    "messages": 33,
+    "choices": 2,
+    "faces": 0,
+    "total_lines": 247,
+    "jp_lines": 106
+  },
+  {
+    "path": "Database\\Commons\\Common0044.txt",
+    "messages": 113,
+    "choices": 0,
+    "faces": 45,
+    "total_lines": 806,
+    "jp_lines": 264
+  },
+  {
+    "path": "Database\\Commons\\Common0046.txt",
+    "messages": 45,
+    "choices": 0,
+    "faces": 19,
+    "total_lines": 323,
+    "jp_lines": 105
+  },
+  {
+    "path": "Database\\Commons\\Common0048.txt",
+    "messages": 6,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 40,
+    "jp_lines": 15
+  },
+  {
+    "path": "Database\\Commons\\Common0049.txt",
+    "messages": 34,
+    "choices": 0,
+    "faces": 13,
+    "total_lines": 247,
+    "jp_lines": 85
+  },
+  {
+    "path": "Database\\Commons\\Common0051.txt",
+    "messages": 5,
+    "choices": 1,
+    "faces": 3,
+    "total_lines": 45,
+    "jp_lines": 18
+  },
+  {
+    "path": "Database\\Commons\\Common0060.txt",
+    "messages": 2,
+    "choices": 0,
+    "faces": 1,
+    "total_lines": 16,
+    "jp_lines": 4
+  },
+  {
+    "path": "Database\\Commons\\Common0063.txt",
+    "messages": 2,
+    "choices": 0,
+    "faces": 1,
+    "total_lines": 16,
+    "jp_lines": 4
+  },
+  {
+    "path": "Database\\Commons\\Common0066.txt",
+    "messages": 1,
+    "choices": 1,
+    "faces": 0,
+    "total_lines": 12,
+    "jp_lines": 3
+  },
+  {
+    "path": "Database\\Commons\\Common0067.txt",
+    "messages": 0,
+    "choices": 4,
+    "faces": 1,
+    "total_lines": 26,
+    "jp_lines": 8
+  },
+  {
+    "path": "Database\\Commons\\Common0069.txt",
+    "messages": 26,
+    "choices": 4,
+    "faces": 0,
+    "total_lines": 192,
+    "jp_lines": 50
+  },
+  {
+    "path": "Database\\Commons\\Common0070.txt",
+    "messages": 1,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 6,
+    "jp_lines": 2
+  },
+  {
+    "path": "Database\\Commons\\Common0072.txt",
+    "messages": 2,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 13,
+    "jp_lines": 4
+  },
+  {
+    "path": "Database\\Commons\\Common0073.txt",
+    "messages": 16,
+    "choices": 2,
+    "faces": 0,
+    "total_lines": 112,
+    "jp_lines": 24
+  },
+  {
+    "path": "Database\\Commons\\Common0074.txt",
+    "messages": 9,
+    "choices": 1,
+    "faces": 3,
+    "total_lines": 74,
+    "jp_lines": 29
+  },
+  {
+    "path": "Database\\Commons\\Common0075.txt",
+    "messages": 1,
+    "choices": 0,
+    "faces": 0,
+    "total_lines": 7,
+    "jp_lines": 2
+  }
+]

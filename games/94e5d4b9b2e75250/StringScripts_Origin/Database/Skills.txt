@@ -1,0 +1,449 @@
+﻿*****Entry1*****
+#Name# [20]
+近づく
+
+#Description# [50]
+敵に近づく
+
+#UseMessage1# [30]
+は前進体勢に入った
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+離れる
+
+#Description# [50]
+敵から離れる
+
+#UseMessage1# [30]
+は後退体勢に入った
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+ぬすむ
+
+#Description# [50]
+敵からアイテムを盗む
+
+#UseMessage1# [30]
+は敵のふところを探る・・・
+
+#UseMessage2# [50]
+「ごそごそ・・・
+
+
+
+*****Entry4*****
+#Name# [20]
+逃げる
+
+#Description# [50]
+戦闘離脱する
+
+#UseMessage1# [30]
+は戦闘離脱した
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+ハーブ
+
+#Description# [50]
+ＨＰの回復（回復量：ハーブの所持数×２）
+
+#UseMessage1# [30]
+はハーブの香りをかいだ
+
+#UseMessage2# [50]
+「くんくん・・・
+
+
+
+*****Entry6*****
+#Name# [20]
+観察
+
+#Description# [50]
+敵の武器や攻撃パターンを調べます
+
+#UseMessage1# [30]
+は敵を観察している
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+ハンドガン
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はハンドガンを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+スナイパーライフル
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はスナイパーライフルを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+ロケットランチャー
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はロケットランチャーを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+ハンドガンＴ２
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はハンドガンtype2を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+スナイパーライフルT2
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はスナイパーライフルT2を放った
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+オートマチックＨＧ
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はオートマチックＨＧを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+ショットガン
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はショットガンを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+マシンガン
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はマシンガンをぶっ放した！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+レーザーガン
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はレーザーガンを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+グレネードミサイル
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はグレネードミサイルを撃った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+にらみ
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はジュードを睨んだ！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+ナシィコガン
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はナシィコガンを鳴らした$p
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+威圧
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は激しく吠えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+見えない
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+の見えない攻撃！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+ねばねば：威圧
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はねばねばガムにイラつき
+
+#UseMessage2# [50]
+激しく吠えた！！！！！！
+
+
+
+*****Entry26*****
+#Name# [20]
+ねばねば：にらみ
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はねばねばガムにイラつき
+
+#UseMessage2# [50]
+ジュードを睨んだ！！！！！！
+
+
+
+*****Entry27*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+

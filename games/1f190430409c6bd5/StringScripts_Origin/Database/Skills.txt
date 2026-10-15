@@ -1,0 +1,1934 @@
+﻿*****Entry1*****
+#Name# [20]
+ヴァディスナイフ
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はラグめがけてナイフを投げる！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+暗闇攻撃
+
+#Description# [50]
+敵単体にダメージを与え、暗闇状態にする。
+
+#UseMessage1# [30]
+の攻撃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+睡眠攻撃
+
+#Description# [50]
+敵単体にダメージを与え、睡眠状態にする。
+
+#UseMessage1# [30]
+の攻撃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+麻痺攻撃
+
+#Description# [50]
+敵単体にダメージを与え、麻痺状態にする。
+
+#UseMessage1# [30]
+の攻撃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+火炎のブレス
+
+#Description# [50]
+敵全体に炎属性のダメージを与える。
+
+#UseMessage1# [30]
+は火炎のブレスを吐いた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+吹雪のブレス
+
+#Description# [50]
+敵全体に冷気属性のダメージを与える。
+
+#UseMessage1# [30]
+は吹雪のブレスを吐いた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+電撃
+
+#Description# [50]
+敵全体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+は電撃を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+津波
+
+#Description# [50]
+敵全体に水属性のダメージを与える。
+
+#UseMessage1# [30]
+は津波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+石つぶて
+
+#Description# [50]
+敵全体に大地属性のダメージを与える。
+
+#UseMessage1# [30]
+は石つぶてを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+鎌いたち
+
+#Description# [50]
+敵全体に風属性のダメージを与える。
+
+#UseMessage1# [30]
+は鎌いたちを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+毒のブレス
+
+#Description# [50]
+敵全体を毒状態にする。
+
+#UseMessage1# [30]
+は毒のブレスを吐いた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+眠りのブレス
+
+#Description# [50]
+敵全体を睡眠状態にする。
+
+#UseMessage1# [30]
+は眠りのブレスを吐いた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+花粉（毒）
+
+#Description# [50]
+敵全体を毒状態にする。
+
+#UseMessage1# [30]
+は花粉をまき散らした！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+花粉（暗闇）
+
+#Description# [50]
+敵全体を暗闇状態にする。
+
+#UseMessage1# [30]
+は花粉をまき散らした！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+花粉（暴走）
+
+#Description# [50]
+敵全体を暴走状態にする。
+
+#UseMessage1# [30]
+は花粉をまき散らした！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+花粉（混乱）
+
+#Description# [50]
+敵全体を混乱状態にする。
+
+#UseMessage1# [30]
+は花粉をまき散らした！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+花粉（麻痺）
+
+#Description# [50]
+敵全体を麻痺状態にする。
+
+#UseMessage1# [30]
+は花粉をまき散らした！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+超音波（暴走）
+
+#Description# [50]
+敵全体を暴走状態にする。
+
+#UseMessage1# [30]
+は超音波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+超音波（混乱）
+
+#Description# [50]
+敵全体を混乱状態にする。
+
+#UseMessage1# [30]
+は超音波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+超音波（睡眠）
+
+#Description# [50]
+敵全体を睡眠状態にする。
+
+#UseMessage1# [30]
+は超音波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+妖しい霧（沈黙）
+
+#Description# [50]
+敵全体を沈黙状態にする。
+
+#UseMessage1# [30]
+は妖しい霧を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+妖しい霧（睡眠）
+
+#Description# [50]
+敵全体を睡眠状態にする。
+
+#UseMessage1# [30]
+は妖しい霧を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+沈黙の歌
+
+#Description# [50]
+敵全体を沈黙状態にする。
+
+#UseMessage1# [30]
+沈黙の歌を歌った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+子守り歌
+
+#Description# [50]
+敵全体を睡眠状態にする。
+
+#UseMessage1# [30]
+は子守り歌を歌った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+誘惑の歌
+
+#Description# [50]
+敵全体を混乱状態にする。
+
+#UseMessage1# [30]
+は誘惑の歌を歌った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+砂けむり
+
+#Description# [50]
+敵全体を暗闇状態にする。
+
+#UseMessage1# [30]
+は砂けむりを巻き起こした！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry27*****
+#Name# [20]
+まぶしい光
+
+#Description# [50]
+敵全体を暗闇状態にする。
+
+#UseMessage1# [30]
+はまぶしい光を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+巻き付き
+
+#Description# [50]
+敵単体にダメージを与え、麻痺状態にする。
+
+#UseMessage1# [30]
+は巻き付きで攻撃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+麻痺にらみ
+
+#Description# [50]
+敵単体を麻痺状態にする。
+
+#UseMessage1# [30]
+は鋭い目でにらみつけた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+吸血
+
+#Description# [50]
+敵単体のＨＰを吸収する。
+
+#UseMessage1# [30]
+の吸血攻撃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+不気味なダンス
+
+#Description# [50]
+敵単体のＭＰを吸収する。
+
+#UseMessage1# [30]
+は不気味なダンスを踊った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+体当たり
+
+#Description# [50]
+敵単体にダメージを与え、バランスを崩させる。
+
+#UseMessage1# [30]
+は体当たりした！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry33*****
+#Name# [20]
+足払い
+
+#Description# [50]
+敵単体のバランスを崩させる。
+
+#UseMessage1# [30]
+は足払いを仕掛けた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry34*****
+#Name# [20]
+おたけび
+
+#Description# [50]
+敵全体を驚かせ、行動できなくする。
+
+#UseMessage1# [30]
+はおたけびをあげた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry35*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+ヒールⅠ
+
+#Description# [50]
+味方単体のＨＰを 30 ポイント程度回復する。
+
+#UseMessage1# [30]
+はヒールⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry37*****
+#Name# [20]
+ヒールⅡ
+
+#Description# [50]
+味方単体のＨＰを 120 ポイント程度回復する。
+
+#UseMessage1# [30]
+はヒールⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry38*****
+#Name# [20]
+ヒールⅢ
+
+#Description# [50]
+味方単体のＨＰを 480 ポイント程度回復する。
+
+#UseMessage1# [30]
+はヒールⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry39*****
+#Name# [20]
+リカバーⅠ
+
+#Description# [50]
+味方全体のＨＰを 20 ポイント程度回復する。
+
+#UseMessage1# [30]
+はリカバーⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+リカバーⅡ
+
+#Description# [50]
+味方全体のＨＰを 80 ポイント程度回復する。
+
+#UseMessage1# [30]
+はリカバーⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+リカバーⅢ
+
+#Description# [50]
+味方全体のＨＰを 320 ポイント程度回復する。
+
+#UseMessage1# [30]
+はリカバーⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry42*****
+#Name# [20]
+キュアーⅠ
+
+#Description# [50]
+毒状態を回復する。
+
+#UseMessage1# [30]
+はキュアーⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry43*****
+#Name# [20]
+キュアーⅡ
+
+#Description# [50]
+毒、暗闇、沈黙、睡眠を回復する。
+
+#UseMessage1# [30]
+はキュアーⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+キュアーⅢ
+
+#Description# [50]
+戦闘不能以外の状態異常を回復する。
+
+#UseMessage1# [30]
+はキュアーⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry45*****
+#Name# [20]
+レイズⅠ
+
+#Description# [50]
+戦闘不能から復活させ、ＨＰを10％回復する。
+
+#UseMessage1# [30]
+はレイズⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry46*****
+#Name# [20]
+レイズⅡ
+
+#Description# [50]
+戦闘不能から復活させ、ＨＰを50％回復する。
+
+#UseMessage1# [30]
+はレイズⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry47*****
+#Name# [20]
+レイズⅢ
+
+#Description# [50]
+戦闘不能から復活させ、ＨＰを100％回復する。
+
+#UseMessage1# [30]
+はレイズⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry48*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+ノックアウト
+
+#Description# [50]
+敵全体を一撃で倒す。
+
+#UseMessage1# [30]
+はノックアウトを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+ポイズン
+
+#Description# [50]
+敵全体を毒状態にする。
+
+#UseMessage1# [30]
+はポイズンを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+ブラインド
+
+#Description# [50]
+敵全体を暗闇状態にする。
+
+#UseMessage1# [30]
+はブラインドを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry52*****
+#Name# [20]
+サイレンス
+
+#Description# [50]
+敵全体を沈黙状態にする。
+
+#UseMessage1# [30]
+はサイレンスを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry53*****
+#Name# [20]
+アンガー
+
+#Description# [50]
+敵全体を暴走状態にする。
+
+#UseMessage1# [30]
+はアンガーを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry54*****
+#Name# [20]
+コンフューズ
+
+#Description# [50]
+敵全体を混乱状態にする。
+
+#UseMessage1# [30]
+はコンフューズを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry55*****
+#Name# [20]
+スリープ
+
+#Description# [50]
+敵全体を睡眠状態にする。
+
+#UseMessage1# [30]
+はスリープを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry56*****
+#Name# [20]
+パラライズ
+
+#Description# [50]
+敵全体を麻痺状態にする。
+
+#UseMessage1# [30]
+はパラライズを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry57*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry58*****
+#Name# [20]
+ウェポンブレス
+
+#Description# [50]
+味方単体の攻撃力を上げる。
+
+#UseMessage1# [30]
+はウェポンブレスを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry59*****
+#Name# [20]
+ウェポンカース
+
+#Description# [50]
+敵全体の攻撃力を下げる。
+
+#UseMessage1# [30]
+はウェポンカースを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry60*****
+#Name# [20]
+アーマーブレス
+
+#Description# [50]
+味方単体の防御力を上げる。
+
+#UseMessage1# [30]
+はアーマーブレスを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry61*****
+#Name# [20]
+アーマーカース
+
+#Description# [50]
+敵全体の防御力を下げる。
+
+#UseMessage1# [30]
+はアーマーカースを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry62*****
+#Name# [20]
+スピリットブレス
+
+#Description# [50]
+味方単体の精神力を上げる。
+
+#UseMessage1# [30]
+はスピリットブレスを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry63*****
+#Name# [20]
+スピリットカース
+
+#Description# [50]
+敵全体の精神力を下げる。
+
+#UseMessage1# [30]
+はスピリットカースを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry64*****
+#Name# [20]
+クイックムーブ
+
+#Description# [50]
+味方単体の敏捷性を上げる。
+
+#UseMessage1# [30]
+はクイックムーブを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry65*****
+#Name# [20]
+スロームーブ
+
+#Description# [50]
+敵全体の敏捷性を下げる。
+
+#UseMessage1# [30]
+はスロームーブを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry66*****
+#Name# [20]
+ヒートバリア
+
+#Description# [50]
+味方全体をバリアで包み、炎の攻撃から身を守る。
+
+#UseMessage1# [30]
+はヒートバリアを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry67*****
+#Name# [20]
+コールドバリア
+
+#Description# [50]
+味方全体をバリアで包み、冷気の攻撃から身を守る。
+
+#UseMessage1# [30]
+はコールドバリアを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry68*****
+#Name# [20]
+ライフアブソーブ
+
+#Description# [50]
+敵単体のＨＰを吸収する。
+
+#UseMessage1# [30]
+はライフアブソーブを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry69*****
+#Name# [20]
+ソウルアブソーブ
+
+#Description# [50]
+敵単体のＭＰを吸収する。
+
+#UseMessage1# [30]
+はソウルアブソーブを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry70*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry71*****
+#Name# [20]
+テレポート
+
+#Description# [50]
+行ったことがある町などに瞬間移動する。
+
+#UseMessage1# [30]
+はテレポートを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry72*****
+#Name# [20]
+エスケープ
+
+#Description# [50]
+洞窟などの中から外へ脱出する。
+
+#UseMessage1# [30]
+はエスケープを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry73*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry74*****
+#Name# [20]
+ファイアⅠ
+
+#Description# [50]
+敵単体に炎属性のダメージを与える。
+
+#UseMessage1# [30]
+はファイアⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry75*****
+#Name# [20]
+ファイアⅡ
+
+#Description# [50]
+敵単体に炎属性のダメージを与える。
+
+#UseMessage1# [30]
+はファイアⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry76*****
+#Name# [20]
+ファイアⅢ
+
+#Description# [50]
+敵単体に炎属性のダメージを与える。
+
+#UseMessage1# [30]
+はファイアⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry77*****
+#Name# [20]
+フレイムⅠ
+
+#Description# [50]
+敵全体に炎属性のダメージを与える。
+
+#UseMessage1# [30]
+はフレイムⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry78*****
+#Name# [20]
+フレイムⅡ
+
+#Description# [50]
+敵全体に炎属性のダメージを与える。
+
+#UseMessage1# [30]
+はフレイムⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry79*****
+#Name# [20]
+フレイムⅢ
+
+#Description# [50]
+敵全体に炎属性のダメージを与える。
+
+#UseMessage1# [30]
+はフレイムⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry80*****
+#Name# [20]
+アイスⅠ
+
+#Description# [50]
+敵単体に冷気属性のダメージを与える。
+
+#UseMessage1# [30]
+はアイスⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry81*****
+#Name# [20]
+アイスⅡ
+
+#Description# [50]
+敵単体に冷気属性のダメージを与える。
+
+#UseMessage1# [30]
+はアイスⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry82*****
+#Name# [20]
+アイスⅢ
+
+#Description# [50]
+敵単体に冷気属性のダメージを与える。
+
+#UseMessage1# [30]
+はアイスⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry83*****
+#Name# [20]
+ブリザードⅠ
+
+#Description# [50]
+敵全体に冷気属性のダメージを与える。
+
+#UseMessage1# [30]
+はブリザードⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry84*****
+#Name# [20]
+ブリザードⅡ
+
+#Description# [50]
+敵全体に冷気属性のダメージを与える。
+
+#UseMessage1# [30]
+はブリザードⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry85*****
+#Name# [20]
+ブリザードⅢ
+
+#Description# [50]
+敵全体に冷気属性のダメージを与える。
+
+#UseMessage1# [30]
+はブリザードⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry86*****
+#Name# [20]
+サンダーⅠ
+
+#Description# [50]
+敵単体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はサンダーⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry87*****
+#Name# [20]
+サンダーⅡ
+
+#Description# [50]
+敵単体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はサンダーⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry88*****
+#Name# [20]
+サンダーⅢ
+
+#Description# [50]
+敵単体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はサンダーⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry89*****
+#Name# [20]
+スパークⅠ
+
+#Description# [50]
+敵全体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はスパークⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry90*****
+#Name# [20]
+スパークⅡ
+
+#Description# [50]
+敵全体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はスパークⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry91*****
+#Name# [20]
+スパークⅢ
+
+#Description# [50]
+敵全体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はスパークⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry92*****
+#Name# [20]
+ウォーターⅠ
+
+#Description# [50]
+敵単体に水属性のダメージを与える。
+
+#UseMessage1# [30]
+はウォーターⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry93*****
+#Name# [20]
+ウォーターⅡ
+
+#Description# [50]
+敵単体に水属性のダメージを与える。
+
+#UseMessage1# [30]
+はウォーターⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry94*****
+#Name# [20]
+ウォーターⅢ
+
+#Description# [50]
+敵単体に水属性のダメージを与える。
+
+#UseMessage1# [30]
+はウォーターⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry95*****
+#Name# [20]
+ウェーブⅠ
+
+#Description# [50]
+敵全体に水属性のダメージを与える。
+
+#UseMessage1# [30]
+はウェーブⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry96*****
+#Name# [20]
+ウェーブⅡ
+
+#Description# [50]
+敵全体に水属性のダメージを与える。
+
+#UseMessage1# [30]
+はウェーブⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry97*****
+#Name# [20]
+ウェーブⅢ
+
+#Description# [50]
+敵全体に水属性のダメージを与える。
+
+#UseMessage1# [30]
+はウェーブⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry98*****
+#Name# [20]
+ストーンⅠ
+
+#Description# [50]
+敵単体に大地属性のダメージを与える。
+
+#UseMessage1# [30]
+はストーンⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry99*****
+#Name# [20]
+ストーンⅡ
+
+#Description# [50]
+敵単体に大地属性のダメージを与える。
+
+#UseMessage1# [30]
+はストーンⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry100*****
+#Name# [20]
+ストーンⅢ
+
+#Description# [50]
+敵単体に大地属性のダメージを与える。
+
+#UseMessage1# [30]
+はストーンⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry101*****
+#Name# [20]
+クェイクⅠ
+
+#Description# [50]
+敵全体に大地属性のダメージを与える。
+
+#UseMessage1# [30]
+はクェイクⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry102*****
+#Name# [20]
+クェイクⅡ
+
+#Description# [50]
+敵全体に大地属性のダメージを与える。
+
+#UseMessage1# [30]
+はクェイクⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry103*****
+#Name# [20]
+クェイクⅢ
+
+#Description# [50]
+敵全体に大地属性のダメージを与える。
+
+#UseMessage1# [30]
+はクェイクⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry104*****
+#Name# [20]
+ウィンドⅠ
+
+#Description# [50]
+敵単体に風属性のダメージを与える。
+
+#UseMessage1# [30]
+はウィンドⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry105*****
+#Name# [20]
+ウィンドⅡ
+
+#Description# [50]
+敵単体に風属性のダメージを与える。
+
+#UseMessage1# [30]
+はウィンドⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry106*****
+#Name# [20]
+ウィンドⅢ
+
+#Description# [50]
+敵単体に風属性のダメージを与える。
+
+#UseMessage1# [30]
+はウィンドⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry107*****
+#Name# [20]
+トルネードⅠ
+
+#Description# [50]
+敵全体に風属性のダメージを与える。
+
+#UseMessage1# [30]
+はトルネードⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry108*****
+#Name# [20]
+トルネードⅡ
+
+#Description# [50]
+敵全体に風属性のダメージを与える。
+
+#UseMessage1# [30]
+はトルネードⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry109*****
+#Name# [20]
+トルネードⅢ
+
+#Description# [50]
+敵全体に風属性のダメージを与える。
+
+#UseMessage1# [30]
+はトルネードⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry110*****
+#Name# [20]
+セイントⅠ
+
+#Description# [50]
+敵単体に神聖属性のダメージを与える。
+
+#UseMessage1# [30]
+はセイントⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry111*****
+#Name# [20]
+セイントⅡ
+
+#Description# [50]
+敵単体に神聖属性のダメージを与える。
+
+#UseMessage1# [30]
+はセイントⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry112*****
+#Name# [20]
+セイントⅢ
+
+#Description# [50]
+敵単体に神聖属性のダメージを与える。
+
+#UseMessage1# [30]
+はセイントⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry113*****
+#Name# [20]
+スターライトⅠ
+
+#Description# [50]
+敵全体に神聖属性のダメージを与える。
+
+#UseMessage1# [30]
+はスターライトⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry114*****
+#Name# [20]
+スターライトⅡ
+
+#Description# [50]
+敵全体に神聖属性のダメージを与える。
+
+#UseMessage1# [30]
+はスターライトⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry115*****
+#Name# [20]
+スターライトⅢ
+
+#Description# [50]
+敵全体に神聖属性のダメージを与える。
+
+#UseMessage1# [30]
+はスターライトⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry116*****
+#Name# [20]
+シェイドⅠ
+
+#Description# [50]
+敵単体に暗黒属性のダメージを与える。
+
+#UseMessage1# [30]
+はシェイドⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry117*****
+#Name# [20]
+シェイドⅡ
+
+#Description# [50]
+敵単体に暗黒属性のダメージを与える。
+
+#UseMessage1# [30]
+はシェイドⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry118*****
+#Name# [20]
+シェイドⅢ
+
+#Description# [50]
+敵単体に暗黒属性のダメージを与える。
+
+#UseMessage1# [30]
+はシェイドⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry119*****
+#Name# [20]
+ダークネスⅠ
+
+#Description# [50]
+敵全体に暗黒属性のダメージを与える。
+
+#UseMessage1# [30]
+はダークネスⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry120*****
+#Name# [20]
+ダークネスⅡ
+
+#Description# [50]
+敵全体に暗黒属性のダメージを与える。
+
+#UseMessage1# [30]
+はダークネスⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry121*****
+#Name# [20]
+ダークネスⅢ
+
+#Description# [50]
+敵全体に暗黒属性のダメージを与える。
+
+#UseMessage1# [30]
+はダークネスⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry122*****
+#Name# [20]
+バーストⅠ
+
+#Description# [50]
+敵単体に無属性のダメージを与える。
+
+#UseMessage1# [30]
+はバーストⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry123*****
+#Name# [20]
+バーストⅡ
+
+#Description# [50]
+敵単体に無属性のダメージを与える。
+
+#UseMessage1# [30]
+はバーストⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry124*****
+#Name# [20]
+バーストⅢ
+
+#Description# [50]
+敵単体に無属性のダメージを与える。
+
+#UseMessage1# [30]
+はバーストⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry125*****
+#Name# [20]
+ニュークリアⅠ
+
+#Description# [50]
+敵全体に無属性のダメージを与える。
+
+#UseMessage1# [30]
+はニュークリアⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry126*****
+#Name# [20]
+ニュークリアⅡ
+
+#Description# [50]
+敵全体に無属性のダメージを与える。
+
+#UseMessage1# [30]
+はニュークリアⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry127*****
+#Name# [20]
+ニュークリアⅢ
+
+#Description# [50]
+敵全体に無属性のダメージを与える。
+
+#UseMessage1# [30]
+はニュークリアⅢを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry128*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry129*****
+#Name# [20]
+毒攻撃
+
+#Description# [50]
+敵単体にダメージを与え、毒状態にする。
+
+#UseMessage1# [30]
+の攻撃！
+
+#UseMessage2# [50]
+
+
+

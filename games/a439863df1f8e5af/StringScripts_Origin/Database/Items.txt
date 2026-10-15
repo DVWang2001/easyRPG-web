@@ -1,0 +1,2528 @@
+﻿*****Entry1*****
+#Name# [20]
+■現実のアイテム■
+
+#Description# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+ジェードの服
+
+#Description# [50]
+ジェードお気に入りの服
+
+
+
+*****Entry3*****
+#Name# [20]
+ベリルの服
+
+#Description# [50]
+ベリルお気に入りの服
+
+
+
+*****Entry4*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+おちゃめな帽子
+
+#Description# [50]
+おちゃめな帽子
+
+
+
+*****Entry7*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+神霊治療の手引書
+
+#Description# [50]
+エマが書いた神霊治療の手引書
+
+
+
+*****Entry11*****
+#Name# [20]
+マスク
+
+#Description# [50]
+眠り草の効果を押さえるマスク
+
+
+
+*****Entry12*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+ローブ
+
+#Description# [50]
+パパラチヤのローブ
+
+
+
+*****Entry14*****
+#Name# [20]
+ザップの服
+
+#Description# [50]
+ザップの服
+
+
+
+*****Entry15*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry27*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry33*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry34*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry35*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry37*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry38*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry39*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry42*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry43*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry45*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry46*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry47*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry48*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+■アゲード夢アイテム
+
+#Description# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry52*****
+#Name# [20]
+薬草
+
+#Description# [50]
+ＨＰを３０ポイント回復
+
+
+
+*****Entry53*****
+#Name# [20]
+勇者のブロマイド
+
+#Description# [50]
+勇者アゲードのブロマイド。直筆サイン入り
+
+
+
+*****Entry54*****
+#Name# [20]
+ゴブリンの棍棒
+
+#Description# [50]
+ゴブリンの棍棒　命中率９０％
+
+
+
+*****Entry55*****
+#Name# [20]
+ゾンビの服
+
+#Description# [50]
+ゾンビの服。薄汚れている。
+
+
+
+*****Entry56*****
+#Name# [20]
+ワイバーンのツメ
+
+#Description# [50]
+ワイバーンのツメ。高く売れるらしい
+
+
+
+*****Entry57*****
+#Name# [20]
+コウモリの糞
+
+#Description# [50]
+コウモリの糞。魔法に使うらしい
+
+
+
+*****Entry58*****
+#Name# [20]
+鈍く光る宝石
+
+#Description# [50]
+安物の宝石
+
+
+
+*****Entry59*****
+#Name# [20]
+キラリと光る宝石
+
+#Description# [50]
+けっこう高い宝石
+
+
+
+*****Entry60*****
+#Name# [20]
+メイド服
+
+#Description# [50]
+エマの屋敷のメイド服
+
+
+
+*****Entry61*****
+#Name# [20]
+銀のナイフ
+
+#Description# [50]
+高級ナイフ
+
+
+
+*****Entry62*****
+#Name# [20]
+銀のお盆
+
+#Description# [50]
+高級なお盆
+
+
+
+*****Entry63*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry64*****
+#Name# [20]
+くず鉄
+
+#Description# [50]
+くず鉄。何かの役にたつのだろうか？
+
+
+
+*****Entry65*****
+#Name# [20]
+スピードスター
+
+#Description# [50]
+全体攻撃可能な剣
+
+
+
+*****Entry66*****
+#Name# [20]
+鋭いナイフ
+
+#Description# [50]
+普通より少し鋭いナイフ
+
+
+
+*****Entry67*****
+#Name# [20]
+戦士の剣
+
+#Description# [50]
+本格的な戦闘用の剣
+
+
+
+*****Entry68*****
+#Name# [20]
+丈夫な服
+
+#Description# [50]
+丈夫な服
+
+
+
+*****Entry69*****
+#Name# [20]
+革鎧
+
+#Description# [50]
+革製の軽い鎧
+
+
+
+*****Entry70*****
+#Name# [20]
+精神活性剤
+
+#Description# [50]
+ＭＰを３０ポイント回復
+
+
+
+*****Entry71*****
+#Name# [20]
+ハイパーポーション
+
+#Description# [50]
+戦闘不能状態から回復し、ＨＰも全回復
+
+
+
+*****Entry72*****
+#Name# [20]
+ファイヤーボム
+
+#Description# [50]
+敵全体に炎をあびせる爆弾
+
+
+
+*****Entry73*****
+#Name# [20]
+光るウロコ
+
+#Description# [50]
+魚人のウロコ
+
+
+
+*****Entry74*****
+#Name# [20]
+光るウロコ＋
+
+#Description# [50]
+魚人のウロコ。ちょっと大きい
+
+
+
+*****Entry75*****
+#Name# [20]
+光るウロコ＋＋
+
+#Description# [50]
+魚人のウロコ。かなり大きい
+
+
+
+*****Entry76*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry77*****
+#Name# [20]
+毒消し草
+
+#Description# [50]
+毒状態を治療する
+
+
+
+*****Entry78*****
+#Name# [20]
+気付け薬
+
+#Description# [50]
+戦闘不能状態から回復。ＨＰも２０ポイント回復
+
+
+
+*****Entry79*****
+#Name# [20]
+メイドのメモ
+
+#Description# [50]
+メイドの部屋に有ったメモ
+
+
+
+*****Entry80*****
+#Name# [20]
+運命の立方体
+
+#Description# [50]
+絶対に、使う前に記録を残すこと！
+
+
+
+*****Entry81*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry82*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry83*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry84*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry85*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry86*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry87*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry88*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry89*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry90*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry91*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry92*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry93*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry94*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry95*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry96*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry97*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry98*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry99*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry100*****
+#Name# [20]
+■両方のアイテム■
+
+#Description# [50]
+ベンがよく飲んでいるお酒
+
+
+
+*****Entry101*****
+#Name# [20]
+カーネリアンの指輪
+
+#Description# [50]
+カーネリアンが封印されている指輪
+
+
+
+*****Entry102*****
+#Name# [20]
+オニキスの耳飾り（右
+
+#Description# [50]
+夢の世界と現実世界とで通信できるアイテム
+
+
+
+*****Entry103*****
+#Name# [20]
+オニキスの耳飾り（左
+
+#Description# [50]
+夢の世界と現実世界とで通信できるアイテム
+
+
+
+*****Entry104*****
+#Name# [20]
+オニキスの耳飾り（右
+
+#Description# [50]
+夢の世界と現実世界とで通信できるアイテム
+
+
+
+*****Entry105*****
+#Name# [20]
+マジックカード
+
+#Description# [50]
+夢の世界へ持ち込める魔法のカード。
+
+
+
+*****Entry106*****
+#Name# [20]
+マジックカード
+
+#Description# [50]
+夢の世界へ持ち込める魔法のカード。
+
+
+
+*****Entry107*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry108*****
+#Name# [20]
+トパーズの耳飾り（右
+
+#Description# [50]
+夢の世界と現実世界とで通信できるアイテム
+
+
+
+*****Entry109*****
+#Name# [20]
+トパーズの耳飾り（左
+
+#Description# [50]
+夢の世界と現実世界とで通信できるアイテム
+
+
+
+*****Entry110*****
+#Name# [20]
+トパーズの耳飾り（右
+
+#Description# [50]
+夢の世界と現実世界とで通信できるアイテム
+
+
+
+*****Entry111*****
+#Name# [20]
+トパーズの耳飾り右2
+
+#Description# [50]
+夢の世界と現実世界とで通信できるアイテム
+
+
+
+*****Entry112*****
+#Name# [20]
+オニキスの耳飾り（左
+
+#Description# [50]
+夢の世界と現実世界とで通信できるアイテム
+
+
+
+*****Entry113*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry114*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry115*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry116*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry117*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry118*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry119*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry120*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry121*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry122*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry123*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry124*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry125*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry126*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry127*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry128*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry129*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry130*****
+#Name# [20]
+■ﾛｰｾﾞｶﾞｰﾈ夢アイテム
+
+#Description# [50]
+
+
+
+
+*****Entry131*****
+#Name# [20]
+ひかりゴケ
+
+#Description# [50]
+ＨＰを３０ポイント回復
+
+
+
+*****Entry132*****
+#Name# [20]
+ローゼの服
+
+#Description# [50]
+ローゼの服
+
+
+
+*****Entry133*****
+#Name# [20]
+宝箱
+
+#Description# [50]
+何が入っているのやら、重たい宝箱
+
+
+
+*****Entry134*****
+#Name# [20]
+金の鍵
+
+#Description# [50]
+何かの鍵。凝った装飾が、施されている。
+
+
+
+*****Entry135*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry136*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry137*****
+#Name# [20]
+ガーネットの服
+
+#Description# [50]
+ガーネットの服
+
+
+
+*****Entry138*****
+#Name# [20]
+ゴブリンの棍棒＋
+
+#Description# [50]
+ゴブリンの棍棒　命中率９０％　刺が付いている
+
+
+
+*****Entry139*****
+#Name# [20]
+オークの戦斧
+
+#Description# [50]
+オークの斧　命中率９０％
+
+
+
+*****Entry140*****
+#Name# [20]
+コウモリの耳
+
+#Description# [50]
+コウモリの耳
+
+
+
+*****Entry141*****
+#Name# [20]
+光るウロコ＋＋
+
+#Description# [50]
+魚人のウロコ。かなり大きい
+
+
+
+*****Entry142*****
+#Name# [20]
+ゾンビの服
+
+#Description# [50]
+ゾンビの服。薄汚れている。
+
+
+
+*****Entry143*****
+#Name# [20]
+素敵なドレス
+
+#Description# [50]
+おしゃれで素敵なドレス
+
+
+
+*****Entry144*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry145*****
+#Name# [20]
+薬草
+
+#Description# [50]
+ＨＰを３０ポイント回復
+
+
+
+*****Entry146*****
+#Name# [20]
+ポーション
+
+#Description# [50]
+ＨＰを８０ポイント回復
+
+
+
+*****Entry147*****
+#Name# [20]
+リフレッシャー
+
+#Description# [50]
+味方全体を全回復
+
+
+
+*****Entry148*****
+#Name# [20]
+毒消し草
+
+#Description# [50]
+毒状態を治療する
+
+
+
+*****Entry149*****
+#Name# [20]
+気付け薬
+
+#Description# [50]
+戦闘不能状態から回復。ＨＰも２０ポイント回復
+
+
+
+*****Entry150*****
+#Name# [20]
+りんご
+
+#Description# [50]
+ＨＰを１０ポイント回復
+
+
+
+*****Entry151*****
+#Name# [20]
+みかん
+
+#Description# [50]
+ＨＰを１０ポイント回復
+
+
+
+*****Entry152*****
+#Name# [20]
+メロン
+
+#Description# [50]
+ＨＰを１０ポイント回復
+
+
+
+*****Entry153*****
+#Name# [20]
+盗人の道具箱
+
+#Description# [50]
+泥棒が使う道具のセット
+
+
+
+*****Entry154*****
+#Name# [20]
+ロープ
+
+#Description# [50]
+クンツァイトのベッドの下に有ったロープ
+
+
+
+*****Entry155*****
+#Name# [20]
+精神活性剤
+
+#Description# [50]
+ＭＰを３０ポイント回復
+
+
+
+*****Entry156*****
+#Name# [20]
+りんごジュース
+
+#Description# [50]
+ＨＰを１０ポイント回復
+
+
+
+*****Entry157*****
+#Name# [20]
+グレープジュース
+
+#Description# [50]
+ＨＰを１０ポイント回復
+
+
+
+*****Entry158*****
+#Name# [20]
+バナナジュース
+
+#Description# [50]
+ＨＰを１０ポイント回復
+
+
+
+*****Entry159*****
+#Name# [20]
+盗賊のカギ
+
+#Description# [50]
+盗賊の頭から貰ったカギ。
+
+
+
+*****Entry160*****
+#Name# [20]
+悟りの間のカギ
+
+#Description# [50]
+悟りの間へ入るためのカギ。
+
+
+
+*****Entry161*****
+#Name# [20]
+鋭いナイフ
+
+#Description# [50]
+普通より少し鋭いナイフ
+
+
+
+*****Entry162*****
+#Name# [20]
+戦士の剣
+
+#Description# [50]
+本格的な戦闘用の剣
+
+
+
+*****Entry163*****
+#Name# [20]
+丈夫な服
+
+#Description# [50]
+丈夫な服
+
+
+
+*****Entry164*****
+#Name# [20]
+革鎧
+
+#Description# [50]
+革製の軽い鎧
+
+
+
+*****Entry165*****
+#Name# [20]
+メイス
+
+#Description# [50]
+鉄球
+
+
+
+*****Entry166*****
+#Name# [20]
+スピード・リング
+
+#Description# [50]
+敏捷性をアップさせる指輪
+
+
+
+*****Entry167*****
+#Name# [20]
+革のぼうし
+
+#Description# [50]
+革製のぼうし
+
+
+
+*****Entry168*****
+#Name# [20]
+バトルアックス
+
+#Description# [50]
+両手持ちの斧。
+
+
+
+*****Entry169*****
+#Name# [20]
+赤い花
+
+#Description# [50]
+白黒なのでよくわからないが、たぶん赤い花
+
+
+
+*****Entry170*****
+#Name# [20]
+白い花
+
+#Description# [50]
+白黒なのでよくわからないが、たぶん白い花
+
+
+
+*****Entry171*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry172*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry173*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry174*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry175*****
+#Name# [20]
+戦士の剣
+
+#Description# [50]
+本格的な戦闘用の剣
+
+
+
+*****Entry176*****
+#Name# [20]
+鋭いナイフ
+
+#Description# [50]
+普通より少し鋭いナイフ
+
+
+
+*****Entry177*****
+#Name# [20]
+鉄拳
+
+#Description# [50]
+鉄拳
+
+
+
+*****Entry178*****
+#Name# [20]
+メイス
+
+#Description# [50]
+鉄球
+
+
+
+*****Entry179*****
+#Name# [20]
+丈夫な服
+
+#Description# [50]
+丈夫な服
+
+
+
+*****Entry180*****
+#Name# [20]
+革鎧
+
+#Description# [50]
+革製の軽い鎧
+
+
+
+*****Entry181*****
+#Name# [20]
+ハイポーション
+
+#Description# [50]
+ＨＰを２００ポイント回復
+
+
+
+*****Entry182*****
+#Name# [20]
+ニワトリの生首
+
+#Description# [50]
+文字どおりニワトリの生首
+
+
+
+*****Entry183*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry184*****
+#Name# [20]
+聖なるマント
+
+#Description# [50]
+聖なる泉で清められたマント
+
+
+
+*****Entry185*****
+#Name# [20]
+賢者の宝冠
+
+#Description# [50]
+賢者だけにかぶることが許されているという宝冠
+
+
+
+*****Entry186*****
+#Name# [20]
+聖なる鎧
+
+#Description# [50]
+聖なる泉で清められた鎧
+
+
+
+*****Entry187*****
+#Name# [20]
+疾風の剣
+
+#Description# [50]
+２回攻撃できる剣
+
+
+
+*****Entry188*****
+#Name# [20]
+最後の剣
+
+#Description# [50]
+何が最後か分からないが、極めて強力な剣
+
+
+
+*****Entry189*****
+#Name# [20]
+精霊の雫
+
+#Description# [50]
+精霊のＭＰを３０ポイント回復
+
+
+
+*****Entry190*****
+#Name# [20]
+鉄のツメ
+
+#Description# [50]
+鉄製のツメ
+
+
+
+*****Entry191*****
+#Name# [20]
+闘犬の首輪
+
+#Description# [50]
+闘犬が付ける、トゲのついた首輪
+
+
+
+*****Entry192*****
+#Name# [20]
+黄金のツメ
+
+#Description# [50]
+黄金のツメ
+
+
+
+*****Entry193*****
+#Name# [20]
+勇者の剣
+
+#Description# [50]
+
+
+
+
+*****Entry194*****
+#Name# [20]
+ゴールデンカプセル
+
+#Description# [50]
+何やら良さげなもの
+
+
+
+*****Entry195*****
+#Name# [20]
+竜のわななき
+
+#Description# [50]
+竜のウロコで作られた最強の鎧
+
+
+
+*****Entry196*****
+#Name# [20]
+精霊強化装置
+
+#Description# [50]
+精霊の能力を大幅アップ
+
+
+
+*****Entry197*****
+#Name# [20]
+魔神剣
+
+#Description# [50]
+魔神のように攻撃できる剣
+
+
+
+*****Entry198*****
+#Name# [20]
+炎のツメ
+
+#Description# [50]
+炎のツメ
+
+
+
+*****Entry199*****
+#Name# [20]
+聖者の宝冠
+
+#Description# [50]
+聖者の宝冠
+
+
+
+*****Entry200*****
+#Name# [20]
+■カード■
+
+#Description# [50]
+
+
+
+
+*****Entry201*****
+#Name# [20]
+ファイア・ボール
+
+#Description# [50]
+敵単体に約５０ポイントの炎属性のダメージ
+
+
+
+*****Entry202*****
+#Name# [20]
+フレイム・ウォール
+
+#Description# [50]
+敵全体に３０ポイントの炎属性のダメージ
+
+
+
+*****Entry203*****
+#Name# [20]
+ポイズン
+
+#Description# [50]
+敵全体に約２０ポイントのダメージ＋毒状態
+
+
+
+*****Entry204*****
+#Name# [20]
+ヒールⅡ
+
+#Description# [50]
+味方単体のＨＰ６０ポイント回復
+
+
+
+*****Entry205*****
+#Name# [20]
+ヒール・ウィンド
+
+#Description# [50]
+味方全体のＨＰ３０ポイント回復
+
+
+
+*****Entry206*****
+#Name# [20]
+ヒールⅢ
+
+#Description# [50]
+味方単体のＨＰ１００ポイント回復
+
+
+
+*****Entry207*****
+#Name# [20]
+ホーリー・パワー
+
+#Description# [50]
+聖なる力で、戦闘力アップ
+
+
+
+*****Entry208*****
+#Name# [20]
+サンダー
+
+#Description# [50]
+敵単体に約３５ポイントの雷属性のダメージ
+
+
+
+*****Entry209*****
+#Name# [20]
+サンダー・ストーム
+
+#Description# [50]
+敵全体に約２０ポイントの雷属性のダメージ
+
+
+
+*****Entry210*****
+#Name# [20]
+ビッグ・バン
+
+#Description# [50]
+敵全体に約６０ポイントの無属性のダメージ
+
+
+
+*****Entry211*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry212*****
+#Name# [20]
+泣いてあやまる
+
+#Description# [50]
+敵の防御力を下げる
+
+
+
+*****Entry213*****
+#Name# [20]
+くちごたえ
+
+#Description# [50]
+自分の防御力を上げる
+
+
+
+*****Entry214*****
+#Name# [20]
+石のつぶて
+
+#Description# [50]
+敵全体に石をぶつける
+
+
+
+*****Entry215*****
+#Name# [20]
+メイドの気配り
+
+#Description# [50]
+気配りで、戦闘力アップ
+
+
+
+*****Entry216*****
+#Name# [20]
+気合溜め
+
+#Description# [50]
+気合を溜めて、約１０ポイント攻撃力アップ
+
+
+
+*****Entry217*****
+#Name# [20]
+気功波
+
+#Description# [50]
+気を敵単体にぶつける闘技
+
+
+
+*****Entry218*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry219*****
+#Name# [20]
+引換券
+
+#Description# [50]
+マジックカードのようだが、何に使うのか分からない
+
+
+
+*****Entry220*****
+#Name# [20]
+勇者の輝き
+
+#Description# [50]
+味方全体のＨＰ６０ポイント回復　全状態治療
+
+
+
+*****Entry221*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry222*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry223*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry224*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry225*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry226*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry227*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry228*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry229*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry230*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry231*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry232*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry233*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry234*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry235*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry236*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry237*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry238*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry239*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry240*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry241*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry242*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry243*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry244*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry245*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry246*****
+#Name# [20]
+鉄の鍵
+
+#Description# [50]
+神の山へ続く洞窟の扉を開ける鍵
+
+
+
+*****Entry247*****
+#Name# [20]
+出戻り草
+
+#Description# [50]
+メイドの所へ一瞬で戻る
+
+
+
+*****Entry248*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry249*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry250*****
+#Name# [20]
+■マイア夢アイテム■
+
+#Description# [50]
+
+
+
+
+*****Entry251*****
+#Name# [20]
+赤い実
+
+#Description# [50]
+無人島で取れる赤い実。けっこうおいしい。
+
+
+
+*****Entry252*****
+#Name# [20]
+薪
+
+#Description# [50]
+薪。火を焚く時に燃やす
+
+
+
+*****Entry253*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry254*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry255*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry256*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry257*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry258*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry259*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry260*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry261*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry262*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry263*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry264*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry265*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry266*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry267*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry268*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry269*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry270*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry271*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry272*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry273*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry274*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry275*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry276*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry277*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry278*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry279*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry280*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry281*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+

@@ -1,0 +1,92 @@
+*****Entry1*****
+#Name# [12]
+主角
+
+#Title# [12]
+NO-CLASS
+
+
+
+*****Entry2*****
+#Name# [12]
+維爾納
+
+#Title# [12]
+SWORDMAN
+
+#SkillCommand# [10]
+劍技
+
+
+
+*****Entry3*****
+#Name# [12]
+維爾納
+
+#Title# [12]
+FIGHTER
+
+#SkillCommand# [10]
+劍＆槍技
+
+
+
+*****Entry4*****
+#Name# [12]
+維爾納
+
+#Title# [12]
+ADEPT
+
+#SkillCommand# [10]
+拳技
+
+
+
+*****Entry5*****
+#Name# [12]
+拉庫拉特
+
+#Title# [12]
+ROGUE
+
+#SkillCommand# [10]
+超技
+
+
+
+*****Entry6*****
+#Name# [12]
+莉茲妮亞
+
+#Title# [12]
+MYSTIC
+
+#SkillCommand# [10]
+靈力
+
+
+
+*****Entry7*****
+#Name# [12]
+Ｊ．Ｄ．
+
+#Title# [12]
+GUNNER
+
+#SkillCommand# [10]
+重型武器
+
+
+
+*****Entry8*****
+#Name# [12]
+凱澤爾
+
+#Title# [12]
+MYST-BLADE
+
+#SkillCommand# [10]
+靈力
+
+

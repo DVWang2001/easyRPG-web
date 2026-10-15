@@ -1,0 +1,174 @@
+﻿**********Event1**********
+-----Page2-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+啊，對了喵。
+##
+
+
+#Message#
+上面有老頭子在喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.老頭子？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+是在守著下一扇門的
+我們的妖怪夥伴喵。
+##
+
+
+#Message#
+要是又得打起來的話，
+老頭子年紀大了，
+你就手下留情一點喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]……………。
+##
+
+
+#Message#
+那樣的話…
+\.他守門還有什麼意義嗎？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\S[2]……………
+##
+
+
+#Message#
+　\.\.\.$d
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+　\.\.\.$d
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\.嘛，不要想那麼多喵。
+##
+
+
+
+
+**********Event3**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.……發現飯糰了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.為什麼這裡會有這個？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+嗯～。
+大概是有人在這裡吃晚飯吧。
+應該是。
+##
+
+
+#Message#
+帶走吧。
+##
+
+
+
+
+**********Event4**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\S[2]說起來……
+##
+
+
+#Message#
+\.我可以問你一件事嗎？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.什麼事喵？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.你為什麼
+把那隻「狐狸」
+叫做「公主」呢？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.嗯～
+##
+
+
+#Message#
+\.因為她在管理這個洞窟，
+所以才這樣叫也說不定……
+##
+
+
+#Message#
+\.還有她長得
+像公主一樣漂亮……
+這個原因也說不定喵。
+##
+
+
+#Message#
+\.其他的夥伴
+也都這樣叫她喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\.\S[2]……………原來如此。
+##
+
+
+
+

@@ -1,0 +1,142 @@
+{
+    "filepath": "Database/Monsters.txt",
+    "meta": [
+        {
+            "type": "tag",
+            "line_idx": 2
+        },
+        {
+            "type": "tag",
+            "line_idx": 8
+        },
+        {
+            "type": "tag",
+            "line_idx": 14
+        },
+        {
+            "type": "tag",
+            "line_idx": 20
+        },
+        {
+            "type": "tag",
+            "line_idx": 26
+        },
+        {
+            "type": "tag",
+            "line_idx": 32
+        },
+        {
+            "type": "tag",
+            "line_idx": 38
+        },
+        {
+            "type": "tag",
+            "line_idx": 44
+        },
+        {
+            "type": "tag",
+            "line_idx": 50
+        },
+        {
+            "type": "tag",
+            "line_idx": 74
+        },
+        {
+            "type": "tag",
+            "line_idx": 80
+        },
+        {
+            "type": "tag",
+            "line_idx": 92
+        },
+        {
+            "type": "tag",
+            "line_idx": 104
+        },
+        {
+            "type": "tag",
+            "line_idx": 116
+        },
+        {
+            "type": "tag",
+            "line_idx": 134
+        }
+    ],
+    "items": [
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "一つ目根"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "亡き弓兵"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "無顔兜"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "タマ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "擬蔦蛇"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "亡き村人"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "黒髪"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "タマ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "亡き海女"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "右老杯受"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "左童破天"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "真実"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "お爺"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "鬼"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "狐姫"
+        }
+    ]
+}

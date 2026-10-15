@@ -1,0 +1,974 @@
+*****Entry1*****
+#Name# [20]
+機槍掃射：１
+
+#Description# [50]
+機槍掃射的攻擊
+
+#UseMessage1# [30]
+ 的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+機槍掃射：２
+
+#Description# [50]
+機槍掃射的攻擊
+
+#UseMessage1# [30]
+ 的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+機槍掃射：３
+
+#Description# [50]
+機槍掃射的攻擊
+
+#UseMessage1# [30]
+ 的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+機槍掃射：４
+
+#Description# [50]
+機槍掃射的攻擊
+
+#UseMessage1# [30]
+ 的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+火焰吐息
+
+#Description# [50]
+火焰的吐息
+
+#UseMessage1# [30]
+ 吐出了熊熊燃燒的火焰！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+雷電吐息
+
+#Description# [50]
+電擊的吐息／追加效果：觸電
+
+#UseMessage1# [30]
+ 向周圍釋放了電擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+酸液吐息
+
+#Description# [50]
+酸液的吐息／追加效果：腐蝕
+
+#UseMessage1# [30]
+ 吹出了酸液！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+電擊
+
+#Description# [50]
+對所有敵人造成雷電屬性傷害。
+
+#UseMessage1# [30]
+ 釋放了電擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+吐出酸液
+
+#Description# [50]
+吐出酸液
+
+#UseMessage1# [30]
+ 噴出了酸液！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+撕咬
+
+#Description# [50]
+撕咬
+
+#UseMessage1# [30]
+ 進行了撕咬攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+劇毒撕咬
+
+#Description# [50]
+撕咬
+
+#UseMessage1# [30]
+ 進行了撕咬攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+抓擊
+
+#Description# [50]
+抓擊
+
+#UseMessage1# [30]
+ 進行了抓擊攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+劇毒抓擊
+
+#Description# [50]
+抓擊
+
+#UseMessage1# [30]
+ 進行了抓擊攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+撕咬α
+
+#Description# [50]
+撕咬
+
+#UseMessage1# [30]
+ 進行了撕咬攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+劇毒撕咬α
+
+#Description# [50]
+撕咬
+
+#UseMessage1# [30]
+ 進行了撕咬攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+抓擊α
+
+#Description# [50]
+抓擊
+
+#UseMessage1# [30]
+ 進行了抓擊攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+劇毒抓擊α
+
+#Description# [50]
+抓擊
+
+#UseMessage1# [30]
+ 進行了抓擊攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+魔物撕咬
+
+#Description# [50]
+撕咬
+
+#UseMessage1# [30]
+ 進行了撕咬攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+魔物抓擊
+
+#Description# [50]
+抓擊
+
+#UseMessage1# [30]
+ 進行了抓擊攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+魔物抓擊（阿比德拉）
+
+#Description# [50]
+抓擊
+
+#UseMessage1# [30]
+ 牠高舉四條手臂！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+奇聲
+
+#Description# [50]
+發出奇聲，攻擊力提升
+
+#UseMessage1# [30]
+ 牠發出了奇聲！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+尾鞭
+
+#Description# [50]
+以尾巴進行全體攻擊
+
+#UseMessage1# [30]
+ 牠揮動尾巴掃蕩一圈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+尾鞭Ⅱ
+
+#Description# [50]
+以尾巴進行全體攻擊
+
+#UseMessage1# [30]
+ 牠揮動尾巴掃蕩一圈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+尾鞭Ⅲ
+
+#Description# [50]
+以尾巴進行全體攻擊
+
+#UseMessage1# [30]
+ 牠揮動尾巴掃蕩一圈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+吸血纏繞（首領）
+
+#Description# [50]
+吸取對手的HP
+
+#UseMessage1# [30]
+ 牠纏上觸手來襲！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+吸血纏繞
+
+#Description# [50]
+吸取對手的HP
+
+#UseMessage1# [30]
+ 牠纏上觸手來襲！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry27*****
+#Name# [20]
+吸血噬咬
+
+#Description# [50]
+吸取對手的HP
+
+#UseMessage1# [30]
+ 牠咬下尖牙！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+吸血噬咬（首領）
+
+#Description# [50]
+吸取對手的HP
+
+#UseMessage1# [30]
+ 牠咬下尖牙！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+火焰吐息 Xeno
+
+#Description# [50]
+火焰的吐息
+
+#UseMessage1# [30]
+ 吐出了熊熊燃燒的火焰！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+再生 Xeno
+
+#Description# [50]
+自身 HP 約回復 999 點。
+
+#UseMessage1# [30]
+ 正靜靜地待著……
+
+#UseMessage2# [50]
+傷口開始再生了！
+
+
+
+*****Entry31*****
+#Name# [20]
+酸液吐息 Xeno
+
+#Description# [50]
+酸液的吐息／追加效果：腐蝕
+
+#UseMessage1# [30]
+ 吹出了酸液！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+治癒
+
+#Description# [50]
+回復我方 HP / 基礎回復量 60
+
+#UseMessage1# [30]
+ 將意志力具現化了！
+
+#UseMessage2# [50]
+「靈力解放【治癒】！！」
+
+
+
+*****Entry33*****
+#Name# [20]
+再生
+
+#Description# [50]
+自身 HP 約回復 10 點。
+
+#UseMessage1# [30]
+ 正靜靜地待著……
+
+#UseMessage2# [50]
+傷口開始再生了！
+
+
+
+*****Entry34*****
+#Name# [20]
+再生
+
+#Description# [50]
+自身 HP 約回復 25 點。
+
+#UseMessage1# [30]
+ 正靜靜地待著……
+
+#UseMessage2# [50]
+傷口開始再生了！
+
+
+
+*****Entry35*****
+#Name# [20]
+再生
+
+#Description# [50]
+自身 HP 約回復 50 點。
+
+#UseMessage1# [30]
+ 正靜靜地待著……
+
+#UseMessage2# [50]
+傷口開始再生了！
+
+
+
+*****Entry36*****
+#Name# [20]
+挑釁
+
+#Description# [50]
+對敵人全體挑釁，令其憤怒
+
+#UseMessage1# [30]
+ 對手被挑釁了！
+
+#UseMessage2# [50]
+「喂喂，快來打我啊！」
+
+
+
+*****Entry37*****
+#Name# [20]
+屏障
+
+#Description# [50]
+展開屏障防禦火焰與電擊（我方全體）
+
+#UseMessage1# [30]
+ 將意志力具現化了！
+
+#UseMessage2# [50]
+「靈力開放【屏障】！！」
+
+
+
+*****Entry38*****
+#Name# [20]
+治癒法陣
+
+#Description# [50]
+回復我方全體的HP（我方全體）／基礎回復量 40
+
+#UseMessage1# [30]
+ 將意志力具現化了！
+
+#UseMessage2# [50]
+「靈力開放【治癒法陣】！！」
+
+
+
+*****Entry39*****
+#Name# [20]
+背刺
+
+#Description# [50]
+從背後發動突襲／基礎傷害 30 需要：劍
+
+#UseMessage1# [30]
+ 從背後發動突襲！
+
+#UseMessage2# [50]
+「嘿，反應太慢了吧！」
+
+
+
+*****Entry40*****
+#Name# [20]
+凝固汽油彈
+
+#Description# [50]
+凝固汽油彈（敵全體．火焰）／基礎傷害 25 需要：槍
+
+#UseMessage1# [30]
+ 已裝填凝固汽油彈！
+
+#UseMessage2# [50]
+「給我全部燒成灰燼吧，垃圾們！」
+
+
+
+*****Entry41*****
+#Name# [20]
+火焰風暴
+
+#Description# [50]
+召喚炎靈攻擊敵全體（附加火焰效果）／基礎傷害 40
+
+#UseMessage1# [30]
+ 將意志力具現化了！
+
+#UseMessage2# [50]
+「靈力解放！【火焰風暴】！！」
+
+
+
+*****Entry42*****
+#Name# [20]
+地獄烈焰
+
+#Description# [50]
+以超高熱徹底焚燒敵全體（附加火焰效果）／基礎傷害 50
+
+#UseMessage1# [30]
+ 將意志力具現化了！
+
+#UseMessage2# [50]
+「靈力解放！【地獄烈焰】！！」
+
+
+
+*****Entry43*****
+#Name# [20]
+十字火焰
+
+#Description# [50]
+將敵人縱橫斬斷／基礎傷害 50 武器需求：劍
+
+#UseMessage1# [30]
+ 的十字斬擊！
+
+#UseMessage2# [50]
+「十字火焰！！」
+
+
+
+*****Entry44*****
+#Name# [20]
+升龍拳
+
+#Description# [50]
+迅速突入敵陣一擊命中／基礎傷害 40
+
+#UseMessage1# [30]
+ 快速突入敵陣！
+
+#UseMessage2# [50]
+「升龍拳！！」
+
+
+
+*****Entry45*****
+#Name# [20]
+雙刃
+
+#Description# [50]
+以劍進行連續攻擊（敵全體）／基礎傷害 25 武器需求：劍
+
+#UseMessage1# [30]
+ 連續攻擊！
+
+#UseMessage2# [50]
+「雙刃！！」
+
+
+
+*****Entry46*****
+#Name# [20]
+狂戰士
+
+#Description# [50]
+發動戰鬥程式「狂戰士」，攻擊力提升
+
+#UseMessage1# [30]
+ 戰鬥程式展開！
+
+#UseMessage2# [50]
+＞啟動狂戰士模式……
+
+
+
+*****Entry47*****
+#Name# [20]
+垂直斬
+
+#Description# [50]
+以劍進行垂直斬擊／基礎傷害 30 需求：劍
+
+#UseMessage1# [30]
+ 將劍舉至上段備戰！
+
+#UseMessage2# [50]
+「垂直斬！！」
+
+
+
+*****Entry48*****
+#Name# [20]
+緋紅刃
+
+#Description# [50]
+一擊必殺的斬擊，斬裂一切／基礎傷害 150 需求：劍
+
+#UseMessage1# [30]
+ 的必殺斬擊！
+
+#UseMessage2# [50]
+「緋紅刃！！」
+
+
+
+*****Entry49*****
+#Name# [20]
+連射火焰
+
+#Description# [50]
+以槍進行三連射（敵全體）／基礎傷害 30 需求：槍
+
+#UseMessage1# [30]
+ 這是槍技發動！
+
+#UseMessage2# [50]
+「連射火焰！！」
+
+
+
+*****Entry50*****
+#Name# [20]
+消影射擊
+
+#Description# [50]
+次元壓縮彈（全體敵人）／基本傷害 40 所需：槍
+
+#UseMessage1# [30]
+ 這是槍技發動！
+
+#UseMessage2# [50]
+「消失吧！雜碎！」
+
+
+
+*****Entry51*****
+#Name# [20]
+必殺狙擊
+
+#Description# [50]
+精確擊中敵人要害／基本傷害 150 所需：槍
+
+#UseMessage1# [30]
+ 這是槍技發動！
+
+#UseMessage2# [50]
+「必殺狙擊！！」
+
+
+
+*****Entry52*****
+#Name# [20]
+終極破擊
+
+#Description# [50]
+超振動攻擊（零距離）／基本傷害 150
+
+#UseMessage1# [30]
+ 的必殺一擊！
+
+#UseMessage2# [50]
+「終極破擊！！」
+
+
+
+*****Entry53*****
+#Name# [20]
+能量爆發
+
+#Description# [50]
+發射能量彈（全體敵人．電擊）／基本傷害 30
+
+#UseMessage1# [30]
+ 將意志力具現化了！
+
+#UseMessage2# [50]
+「靈力開放【能量爆發】！！」
+
+
+
+*****Entry54*****
+#Name# [20]
+Joker of Death
+
+#Description# [50]
+命中要害的必殺一擊／基本傷害 66  需要：槍械
+
+#UseMessage1# [30]
+ 已經瞄準了目標！
+
+#UseMessage2# [50]
+「去死吧，蟲豸！」
+
+
+
+*****Entry55*****
+#Name# [20]
+索命之刃
+
+#Description# [50]
+一擊斬斷對手的首級
+
+#UseMessage1# [30]
+ 揮起的刃劍閃爍著黯淡的光芒！
+
+#UseMessage2# [50]
+直取對手首級的一擊！！
+
+
+
+*****Entry56*****
+#Name# [20]
+索命之刃Ⅱ
+
+#Description# [50]
+一擊斬斷對手的首級
+
+#UseMessage1# [30]
+ 揮起的刃劍閃爍著黯淡的光芒！
+
+#UseMessage2# [50]
+直取對手首級的一擊！！
+
+
+
+*****Entry57*****
+#Name# [20]
+消滅射線
+
+#Description# [50]
+消滅的光芒
+
+#UseMessage1# [30]
+ 將意志力具現化了！
+
+#UseMessage2# [50]
+「靈力釋放【消滅射線】！！」
+
+
+
+*****Entry58*****
+#Name# [20]
+雷射加農砲
+
+#Description# [50]
+以雷射加農砲發動攻擊
+
+#UseMessage1# [30]
+ 發射了高能雷射！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry59*****
+#Name# [20]
+雷射劍
+
+#Description# [50]
+以雷射劍發動的一擊
+
+#UseMessage1# [30]
+ 斬擊而去！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry60*****
+#Name# [20]
+死亡之舞
+
+#Description# [50]
+雷射劍的狂舞
+
+#UseMessage1# [30]
+ 斬擊而去！
+
+#UseMessage2# [50]
+「噫∼哈哈哈哈哈！去死吧去死吧去死！！」
+
+
+
+*****Entry61*****
+#Name# [20]
+村正妖刀
+
+#Description# [50]
+村正妖刀的斬擊
+
+#UseMessage1# [30]
+ 的迅雷一刃！
+
+#UseMessage2# [50]
+「村正妖刀！」
+
+
+
+*****Entry62*****
+#Name# [20]
+零式拔刀術
+
+#Description# [50]
+村正妖刀的必殺之刃／基礎傷害 99
+
+#UseMessage1# [30]
+ 的迅雷一刃！
+
+#UseMessage2# [50]
+「奧義．零式拔刀術！！」
+
+
+
+*****Entry63*****
+#Name# [20]
+零式拔刀術
+
+#Description# [50]
+村正妖刀的必殺之刃／基礎傷害 99
+
+#UseMessage1# [30]
+ 的迅雷一刃！
+
+#UseMessage2# [50]
+「奧義．零式拔刀術！！」
+
+
+
+*****Entry64*****
+#Name# [20]
+生還者
+
+#Description# [50]
+瞬間移動至深淵入口
+
+#UseMessage1# [30]
+施放了逃脫！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry65*****
+#Name# [20]
+能量回充
+
+#Description# [50]
+回復自身HP／基礎回復量 50
+
+#UseMessage1# [30]
+ 集中精神！
+
+#UseMessage2# [50]
+能量回充開始……
+
+

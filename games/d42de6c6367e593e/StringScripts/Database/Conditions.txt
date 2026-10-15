@@ -1,0 +1,160 @@
+*****Entry1*****
+#Name# [8]
+發狂
+
+#InflictedOnAlly# [30]
+發狂了！
+
+#InflictedOnEnemy# [30]
+被打倒了…
+
+#Recovered# [30]
+恢復了神智。
+
+
+
+*****Entry2*****
+#Name# [8]
+炎症
+
+#InflictedOnAlly# [30]
+的皮膚被燒焦潰爛了。
+
+#InflictedOnEnemy# [30]
+使其陷入炎症狀態！
+
+#AlreadyInflicted# [30]
+被燒焦的皮膚發出惡臭
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+的發炎治好了。
+
+
+
+*****Entry3*****
+#Name# [8]
+盲目
+
+#InflictedOnAlly# [30]
+眼睛受傷了！
+
+#InflictedOnEnemy# [30]
+致盲了！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+恢復了視力。
+
+
+
+*****Entry4*****
+#Name# [8]
+
+
+#InflictedOnAlly# [30]
+
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+
+
+
+
+*****Entry5*****
+#Name# [8]
+痙攣
+
+#InflictedOnAlly# [30]
+開始痙攣。
+
+#InflictedOnEnemy# [30]
+開始痙攣。
+
+#AlreadyInflicted# [30]
+處於痙攣狀態。
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+痙攣停了下來……
+
+
+
+*****Entry6*****
+#Name# [8]
+恐怖
+
+#InflictedOnAlly# [30]
+因恐懼而瞪大了雙眼。
+
+#InflictedOnEnemy# [30]
+陷入了恐怖之中
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+回復了清醒！
+
+
+
+*****Entry7*****
+#Name# [8]
+過度防衛
+
+#InflictedOnAlly# [30]
+進行了自我防衛。
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+持續防禦中。
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+回復了清醒。
+
+
+
+*****Entry8*****
+#Name# [8]
+過度殺意
+
+#InflictedOnAlly# [30]
+因殺意而失去了理智。
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+恢復了理智。
+

@@ -1,0 +1,809 @@
+﻿*****Entry1*****
+#Name# [20]
+飛踢
+
+#Description# [50]
+歇斯底里地發動連續踢擊，削弱對手的精神
+
+#UseMessage1# [30]
+『煩死了…
+
+#UseMessage2# [50]
+去死去死去死去死去死去死去死去死去死去死啊啊啊！！
+
+
+
+*****Entry2*****
+#Name# [20]
+裏拳
+
+#Description# [50]
+突然使出反手拳，使對方陷入混亂。
+
+#UseMessage1# [30]
+『切！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+抓擊
+
+#Description# [50]
+歇斯底里地發作，用盡全力抓撓。
+
+#UseMessage1# [30]
+『噫呀啊啊啊啊啊啊！！！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+電磁波
+
+#Description# [50]
+從手機發射特殊的電磁波，使目標產生痙攣。
+
+#UseMessage1# [30]
+『預──備！！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+祈禱
+
+#Description# [50]
+向神明祈禱，有機率治癒所有人的傷勢。
+
+#UseMessage1# [30]
+『神啊 請救救我們！！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+瞪眼
+
+#Description# [50]
+以充滿殺意的怒視，偶爾使敵人陷入發狂狀態。
+
+#UseMessage1# [30]
+『宰了你…
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+電擊
+
+#Description# [50]
+對敵方全體造成雷屬性傷害。
+
+#UseMessage1# [30]
+釋放了電擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+應急處置
+
+#Description# [50]
+稍微治療傷口。
+
+#UseMessage1# [30]
+『已經沒事了……
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+治療
+
+#Description# [50]
+治癒身體的異常。
+
+#UseMessage1# [30]
+不准動喔……
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+致盲
+
+#Description# [50]
+踢擊對手足部，使其目眩。
+
+#UseMessage1# [30]
+『喝啊
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+自己暗示
+
+#Description# [50]
+對自己施加暗示，藉此提升實力。
+
+#UseMessage1# [30]
+『我沒事我沒事
+
+#UseMessage2# [50]
+我不會死我不會輸我不能死我沒事的
+
+
+
+*****Entry12*****
+#Name# [20]
+自己暗示
+
+#Description# [50]
+對自己施加暗示，藉此提升實力。
+
+#UseMessage1# [30]
+『我沒事我沒事
+
+#UseMessage2# [50]
+我不會死我不會輸我不能死我沒事的
+
+
+
+*****Entry13*****
+#Name# [20]
+鈍器毆打
+
+#Description# [50]
+用突然拿出的岩石毆打對方的頭部。
+
+#UseMessage1# [30]
+『去死吧！！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+二段斬
+
+#Description# [50]
+以劍道招式為基礎開發的技能。非棒狀武器無法使用
+
+#UseMessage1# [30]
+『哈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+掃堂腿
+
+#Description# [50]
+瞄準雙腿，使其摔倒。
+
+#UseMessage1# [30]
+『哈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+亂射
+
+#Description# [50]
+心無旁騖地持續開槍射擊。　
+
+#UseMessage1# [30]
+『不想死……
+
+#UseMessage2# [50]
+我，我不想死啊啊啊啊啊啊！！！！！！
+
+
+
+*****Entry17*****
+#Name# [20]
+逃跑
+
+#Description# [50]
+僅讓自己從戰鬥中逃脫。
+
+#UseMessage1# [30]
+試圖逃跑。
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+過度防衛
+
+#Description# [50]
+徹底專注於自我防護，防守得滴水不漏。
+
+#UseMessage1# [30]
+『我已經，受夠了啊啊啊啊！！！！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+過度殺意
+
+#Description# [50]
+懷抱著異常的殺意，只一味進行攻擊。
+
+#UseMessage1# [30]
+『你這傢伙……去死吧。
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+復活
+
+#Description# [50]
+奉獻自己的生命，低機率解除複數隊友的發狂狀態。
+
+#UseMessage1# [30]
+『拜託你，快點醒來！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+氣勢
+
+#Description# [50]
+振作起精神，注入力量。
+
+#UseMessage1# [30]
+『在這種地方……
+
+#UseMessage2# [50]
+我怎麼能死在這裡啊啊啊啊啊啊！！！！！！
+
+
+
+*****Entry22*****
+#Name# [20]
+裏拳
+
+#Description# [50]
+突然使出反手拳，使對方陷入混亂。
+
+#UseMessage1# [30]
+『切！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+最後的復活
+
+#Description# [50]
+在瀕臨發狂時，有機率完全恢復所有隊友的傷勢與異常狀態。
+
+#UseMessage1# [30]
+『居然還在這種地方…
+
+#UseMessage2# [50]
+還不能結束啊！！！！
+
+
+
+*****Entry24*****
+#Name# [20]
+搖籃曲
+
+#Description# [50]
+使敵方全體陷入睡眠狀態。
+
+#UseMessage1# [30]
+唱了搖籃曲！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+人體發火【Flame】
+
+#Description# [50]
+讓身體劇烈燃燒，將一切燒盡。
+
+#UseMessage1# [30]
+『真是拿你沒辦法呢……
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+煙塵
+
+#Description# [50]
+使敵方全體陷入黑暗狀態。
+
+#UseMessage1# [30]
+掀起了沙塵暴！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry27*****
+#Name# [20]
+激勵
+
+#Description# [50]
+鼓勵同伴。
+
+#UseMessage1# [30]
+『拜託你……不要死啊！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+纏繞
+
+#Description# [50]
+對敵方單體造成傷害，並使其陷入麻痺狀態。
+
+#UseMessage1# [30]
+使用纏繞攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+------敵方技能
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+吸血
+
+#Description# [50]
+吸收單一敵人的HP。
+
+#UseMessage1# [30]
+咬碎了血肉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+纏繞
+
+#Description# [50]
+對敵方單體造成傷害，並使其陷入麻痺狀態。
+
+#UseMessage1# [30]
+使用纏繞攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+衝撞
+
+#Description# [50]
+對單一敵人造成傷害，並使其失去平衡。
+
+#UseMessage1# [30]
+使用了衝撞！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry33*****
+#Name# [20]
+掃堂腿
+
+#Description# [50]
+瞄準雙腿，使其摔倒。
+
+#UseMessage1# [30]
+『哈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry34*****
+#Name# [20]
+怪叫
+
+#Description# [50]
+使全體敵人受驚，並無法行動。
+
+#UseMessage1# [30]
+『嘎啊啊啊啊啊啊啊──
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry35*****
+#Name# [20]
+鹽酸吐息
+
+#Description# [50]
+使單一敵人陷入炎症狀態。
+
+#UseMessage1# [30]
+吐出了強酸！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+飛濺的血花
+
+#Description# [50]
+噴出鮮血遮擋視線
+
+#UseMessage1# [30]
+噴出了大量的鮮血！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry37*****
+#Name# [20]
+電擊棒
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+用電擊棒貼了上來！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry38*****
+#Name# [20]
+催淚瓦斯
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+噴灑了催淚瓦斯！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry39*****
+#Name# [20]
+急速墜落
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+掉下來了！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+抓擊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+『呀啊啊啊啊啊啊啊！！！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+壓扁
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+『啊啊──化為肉醬吧！
+
+#UseMessage2# [50]
+周圍的牆壁逼近了過來！
+
+
+
+*****Entry42*****
+#Name# [20]
+旋轉
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+巧克───力───
+
+#UseMessage2# [50]
+把糖果──餅乾──交出來啊啊啊啊！！
+
+
+
+*****Entry43*****
+#Name# [20]
+爆炸
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+飛濺的血花
+
+#Description# [50]
+噴出鮮血遮擋視線
+
+#UseMessage1# [30]
+噴出了大量的鮮血！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry45*****
+#Name# [20]
+追擊艙發射
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+確認生命反應。發射。
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry46*****
+#Name# [20]
+振翅
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry47*****
+#Name# [20]
+振翅
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+『嘎啊啊啊啊啊啊啊啊！！！』
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry48*****
+#Name# [20]
+------槍械-----------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+貝瑞塔F92
+
+#Description# [50]
+使用貝瑞塔F92。
+
+#UseMessage1# [30]
+的射擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+左輪手槍
+
+#Description# [50]
+使用左輪手槍。
+
+#UseMessage1# [30]
+的射擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+9mm手槍
+
+#Description# [50]
+使用9mm手槍。
+
+#UseMessage1# [30]
+的射擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry52*****
+#Name# [20]
+霰彈槍
+
+#Description# [50]
+使用散彈槍。
+
+#UseMessage1# [30]
+的射擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry53*****
+#Name# [20]
+火焰噴射器
+
+#Description# [50]
+使用火焰放射器。
+
+#UseMessage1# [30]
+的射擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry54*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+

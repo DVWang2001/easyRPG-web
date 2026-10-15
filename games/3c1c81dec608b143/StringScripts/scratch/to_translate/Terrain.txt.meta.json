@@ -1,0 +1,97 @@
+{
+    "filepath": "Database/Terrain.txt",
+    "meta": [
+        {
+            "type": "tag",
+            "line_idx": 2
+        },
+        {
+            "type": "tag",
+            "line_idx": 8
+        },
+        {
+            "type": "tag",
+            "line_idx": 14
+        },
+        {
+            "type": "tag",
+            "line_idx": 20
+        },
+        {
+            "type": "tag",
+            "line_idx": 26
+        },
+        {
+            "type": "tag",
+            "line_idx": 32
+        },
+        {
+            "type": "tag",
+            "line_idx": 38
+        },
+        {
+            "type": "tag",
+            "line_idx": 44
+        },
+        {
+            "type": "tag",
+            "line_idx": 50
+        },
+        {
+            "type": "tag",
+            "line_idx": 56
+        }
+    ],
+    "items": [
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "洞窟１"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "森"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "砂漠"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "荒地"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "毒沼"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "雪原"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "雪原：森"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "ダメージ床"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "海：浅瀬"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "海：沖合"
+        }
+    ]
+}

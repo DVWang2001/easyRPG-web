@@ -1,0 +1,3749 @@
+*****Entry1*****
+#Name# [20]
+毒攻擊
+
+#Description# [50]
+對敵方單體造成傷害，並使其陷入 中毒 狀態。
+
+#UseMessage1# [30]
+的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+失明攻擊
+
+#Description# [50]
+對敵方單體造成傷害，並使其陷入 黑暗 狀態。
+
+#UseMessage1# [30]
+的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+睡眠攻擊
+
+#Description# [50]
+對敵方單體造成傷害，並使其陷入 睡眠 狀態。
+
+#UseMessage1# [30]
+的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+麻痺攻擊
+
+#Description# [50]
+對敵方單體造成傷害，並使其陷入 麻痺 狀態。
+
+#UseMessage1# [30]
+的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+火焰吐息
+
+#Description# [50]
+對敵方全體造成炎屬性傷害。
+
+#UseMessage1# [30]
+吐出了 火焰吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+暴風雪吐息
+
+#Description# [50]
+對敵方全體造成冷気屬性傷害。
+
+#UseMessage1# [30]
+吐出了 暴風雪吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+電擊
+
+#Description# [50]
+對敵方全體造成雷屬性傷害。
+
+#UseMessage1# [30]
+施放了 電擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+海嘯
+
+#Description# [50]
+對敵方全體造成水屬性傷害。
+
+#UseMessage1# [30]
+施放了 海嘯！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+飛石
+
+#Description# [50]
+對敵方全體造成大地屬性傷害。
+
+#UseMessage1# [30]
+施放了 飛石！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+鐮鼬
+
+#Description# [50]
+對敵方全體造成風屬性傷害。
+
+#UseMessage1# [30]
+施放了 鐮鼬！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+毒之吐息
+
+#Description# [50]
+使敵方全體陷入 中毒 狀態。
+
+#UseMessage1# [30]
+吐出了 毒之吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+睡眠吐息
+
+#Description# [50]
+使敵方全體陷入 睡眠 狀態。
+
+#UseMessage1# [30]
+吐出了 睡眠吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+花粉（中毒）
+
+#Description# [50]
+使敵方全體陷入 中毒 狀態。
+
+#UseMessage1# [30]
+撒播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+花粉（黑暗）
+
+#Description# [50]
+使敵方全體陷入 黑暗 狀態。
+
+#UseMessage1# [30]
+撒播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+花粉（暴走）
+
+#Description# [50]
+使敵方全體陷入 暴走 狀態。
+
+#UseMessage1# [30]
+撒播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+花粉（混亂）
+
+#Description# [50]
+使敵方全體陷入 混亂 狀態。
+
+#UseMessage1# [30]
+撒播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+花粉（麻痺）
+
+#Description# [50]
+使敵方全體陷入 麻痺 狀態。
+
+#UseMessage1# [30]
+撒播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+超音波（暴走）
+
+#Description# [50]
+使敵方全體陷入 暴走 狀態。
+
+#UseMessage1# [30]
+施放了 超音波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+超音波（混亂）
+
+#Description# [50]
+使敵方全體陷入 混亂 狀態。
+
+#UseMessage1# [30]
+施放了 超音波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+超音波（睡眠）
+
+#Description# [50]
+使敵方全體陷入 睡眠 狀態。
+
+#UseMessage1# [30]
+施放了 超音波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+妖異之霧（沉默）
+
+#Description# [50]
+使敵方全體陷入 沉默 狀態。
+
+#UseMessage1# [30]
+施放了 妖しい霧！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+妖異之霧（睡眠）
+
+#Description# [50]
+使敵方全體陷入 睡眠 狀態。
+
+#UseMessage1# [30]
+施放了 妖しい霧！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+沉默之歌
+
+#Description# [50]
+使敵方全體陷入 沉默 狀態。
+
+#UseMessage1# [30]
+唱起了沉默之歌！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+搖籃曲
+
+#Description# [50]
+使敵方全體陷入 睡眠 狀態。
+
+#UseMessage1# [30]
+唱起了 搖籃曲！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+誘惑之歌
+
+#Description# [50]
+使敵方全體陷入 混亂 狀態。
+
+#UseMessage1# [30]
+唱起了 誘惑之歌！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+揚沙
+
+#Description# [50]
+使敵方全體陷入 黑暗 狀態。
+
+#UseMessage1# [30]
+掀起了揚沙！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry27*****
+#Name# [20]
+刺眼強光
+
+#Description# [50]
+使敵方全體陷入 黑暗 狀態。
+
+#UseMessage1# [30]
+施放了 刺眼強光！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+纏繞
+
+#Description# [50]
+對敵方單體造成傷害，並使其陷入 麻痺 狀態。
+
+#UseMessage1# [30]
+以纏繞進行攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+麻痺凝視
+
+#Description# [50]
+使敵方單體陷入麻痺狀態。
+
+#UseMessage1# [30]
+以銳利的眼神凝視！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+吸血
+
+#Description# [50]
+吸收敵方單體的 HP。
+
+#UseMessage1# [30]
+的吸血攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+詭異之舞
+
+#Description# [50]
+吸收敵方單體的 MP。
+
+#UseMessage1# [30]
+跳起了詭異之舞！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+衝撞
+
+#Description# [50]
+對敵方單體造成傷害，並使其失去平衡。
+
+#UseMessage1# [30]
+進行了衝撞！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry33*****
+#Name# [20]
+掃堂腿
+
+#Description# [50]
+使敵方單體失去平衡。
+
+#UseMessage1# [30]
+使出了掃堂腿！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry34*****
+#Name# [20]
+雄吼
+
+#Description# [50]
+使敵方全體受驚嚇而無法行動。
+
+#UseMessage1# [30]
+發出了雄吼！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry35*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+治癒Ⅰ
+
+#Description# [50]
+回復我方單體 HP 約 30 點。
+
+#UseMessage1# [30]
+施放了 治癒Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry37*****
+#Name# [20]
+治癒Ⅱ
+
+#Description# [50]
+回復我方單體 HP 約 120 點。
+
+#UseMessage1# [30]
+施放了 治癒Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry38*****
+#Name# [20]
+治癒Ⅲ
+
+#Description# [50]
+回復我方單體 HP 約 480 點。
+
+#UseMessage1# [30]
+施放了 治癒Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry39*****
+#Name# [20]
+康復Ⅰ
+
+#Description# [50]
+回復我方全體 HP 約 20 點。
+
+#UseMessage1# [30]
+施放了 康復Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+康復Ⅱ
+
+#Description# [50]
+回復我方全體 HP 約 80 點。
+
+#UseMessage1# [30]
+施放了 康復Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+康復Ⅲ
+
+#Description# [50]
+回復我方全體 HP 約 320 點。
+
+#UseMessage1# [30]
+施放了 康復Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry42*****
+#Name# [20]
+治療Ⅰ
+
+#Description# [50]
+治癒中毒狀態。
+
+#UseMessage1# [30]
+施放了 治療Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry43*****
+#Name# [20]
+治療Ⅱ
+
+#Description# [50]
+治癒中毒、黑暗、沉默、睡眠狀態。
+
+#UseMessage1# [30]
+施放了 治療Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+治療Ⅲ
+
+#Description# [50]
+治癒無法戰鬥以外的異常狀態。
+
+#UseMessage1# [30]
+施放了 治療Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry45*****
+#Name# [20]
+復活Ⅰ
+
+#Description# [50]
+從無法戰鬥狀態中復活，並回復 10% HP。
+
+#UseMessage1# [30]
+施放了 復活Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry46*****
+#Name# [20]
+復活Ⅱ
+
+#Description# [50]
+從無法戰鬥狀態中復活，並回復 50% HP。
+
+#UseMessage1# [30]
+施放了 復活Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry47*****
+#Name# [20]
+復活Ⅲ
+
+#Description# [50]
+從無法戰鬥狀態中復活，並回復 100% HP。
+
+#UseMessage1# [30]
+施放了 復活Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry48*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+擊倒
+
+#Description# [50]
+一擊打倒敵方全體。
+
+#UseMessage1# [30]
+施放了 擊倒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+毒素
+
+#Description# [50]
+使敵方全體陷入 中毒 狀態。
+
+#UseMessage1# [30]
+施放了 毒素！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+致盲
+
+#Description# [50]
+使敵方全體陷入 黑暗 狀態。
+
+#UseMessage1# [30]
+施放了 致盲！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry52*****
+#Name# [20]
+沉默
+
+#Description# [50]
+使敵方全體陷入 沉默 狀態。
+
+#UseMessage1# [30]
+施放了 沉默！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry53*****
+#Name# [20]
+憤怒
+
+#Description# [50]
+使敵方全體陷入 暴走 狀態。
+
+#UseMessage1# [30]
+施放了 憤怒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry54*****
+#Name# [20]
+混亂
+
+#Description# [50]
+使敵方全體陷入 混亂 狀態。
+
+#UseMessage1# [30]
+施放了 混亂！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry55*****
+#Name# [20]
+睡眠
+
+#Description# [50]
+使敵方全體陷入 睡眠 狀態。
+
+#UseMessage1# [30]
+施放了 睡眠！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry56*****
+#Name# [20]
+麻痺
+
+#Description# [50]
+使敵方全體陷入 麻痺 狀態。
+
+#UseMessage1# [30]
+施放了 麻痺！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry57*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry58*****
+#Name# [20]
+武器祝福
+
+#Description# [50]
+提升我方單體的 攻擊力。
+
+#UseMessage1# [30]
+施放了 武器祝福！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry59*****
+#Name# [20]
+武器詛咒
+
+#Description# [50]
+降低敵方全體的 攻擊力。
+
+#UseMessage1# [30]
+施放了 武器詛咒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry60*****
+#Name# [20]
+護甲祝福
+
+#Description# [50]
+提升我方單體的 防禦力。
+
+#UseMessage1# [30]
+施放了 護甲祝福！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry61*****
+#Name# [20]
+護甲詛咒
+
+#Description# [50]
+降低敵方全體的 防禦力。
+
+#UseMessage1# [30]
+施放了 護甲詛咒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry62*****
+#Name# [20]
+精神祝福
+
+#Description# [50]
+提升我方單體的 精神力。
+
+#UseMessage1# [30]
+施放了 精神祝福！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry63*****
+#Name# [20]
+精神詛咒
+
+#Description# [50]
+降低敵方全體的 精神力。
+
+#UseMessage1# [30]
+施放了 精神詛咒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry64*****
+#Name# [20]
+神速移動
+
+#Description# [50]
+提升我方單體的 敏捷性。
+
+#UseMessage1# [30]
+施放了 神速移動！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry65*****
+#Name# [20]
+遲緩移動
+
+#Description# [50]
+降低敵方全體的 敏捷性。
+
+#UseMessage1# [30]
+施放了 遲緩移動！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry66*****
+#Name# [20]
+熱能防護
+
+#Description# [50]
+使我方全體籠罩在防護罩中，防禦炎屬性攻擊。
+
+#UseMessage1# [30]
+施放了 熱能防護！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry67*****
+#Name# [20]
+冰冷防護
+
+#Description# [50]
+使我方全體籠罩在防護罩中，防禦冷氣攻擊。
+
+#UseMessage1# [30]
+施放了 冰冷防護！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry68*****
+#Name# [20]
+生命吸收
+
+#Description# [50]
+吸收敵方單體的 HP。
+
+#UseMessage1# [30]
+施放了 生命吸收！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry69*****
+#Name# [20]
+靈魂吸收
+
+#Description# [50]
+吸收敵方單體的 MP。
+
+#UseMessage1# [30]
+施放了 靈魂吸收！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry70*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry71*****
+#Name# [20]
+傳送
+
+#Description# [50]
+瞬間移動至曾去過的城鎮等地方。
+
+#UseMessage1# [30]
+施放了 傳送！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry72*****
+#Name# [20]
+逃脫
+
+#Description# [50]
+從洞窟等迷宮中脫出。
+
+#UseMessage1# [30]
+施放了 逃脫！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry73*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry74*****
+#Name# [20]
+火球Ⅰ
+
+#Description# [50]
+對敵方單體造成炎屬性傷害。
+
+#UseMessage1# [30]
+施放了 火球Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry75*****
+#Name# [20]
+火球Ⅱ
+
+#Description# [50]
+對敵方單體造成炎屬性傷害。
+
+#UseMessage1# [30]
+施放了 火球Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry76*****
+#Name# [20]
+火球Ⅲ
+
+#Description# [50]
+對敵方單體造成炎屬性傷害。
+
+#UseMessage1# [30]
+施放了 火球Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry77*****
+#Name# [20]
+火焰Ⅰ
+
+#Description# [50]
+對敵方全體造成炎屬性傷害。
+
+#UseMessage1# [30]
+施放了 火焰Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry78*****
+#Name# [20]
+火焰Ⅱ
+
+#Description# [50]
+對敵方全體造成炎屬性傷害。
+
+#UseMessage1# [30]
+施放了 火焰Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry79*****
+#Name# [20]
+火焰Ⅲ
+
+#Description# [50]
+對敵方全體造成炎屬性傷害。
+
+#UseMessage1# [30]
+施放了 火焰Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry80*****
+#Name# [20]
+冰凍Ⅰ
+
+#Description# [50]
+對敵方單體造成冷気屬性傷害。
+
+#UseMessage1# [30]
+施放了 冰凍Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry81*****
+#Name# [20]
+冰凍Ⅱ
+
+#Description# [50]
+對敵方單體造成冷気屬性傷害。
+
+#UseMessage1# [30]
+施放了 冰凍Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry82*****
+#Name# [20]
+冰凍Ⅲ
+
+#Description# [50]
+對敵方單體造成冷気屬性傷害。
+
+#UseMessage1# [30]
+施放了 冰凍Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry83*****
+#Name# [20]
+暴風雪Ⅰ
+
+#Description# [50]
+對敵方全體造成冷気屬性傷害。
+
+#UseMessage1# [30]
+施放了 暴風雪Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry84*****
+#Name# [20]
+暴風雪Ⅱ
+
+#Description# [50]
+對敵方全體造成冷気屬性傷害。
+
+#UseMessage1# [30]
+施放了 暴風雪Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry85*****
+#Name# [20]
+暴風雪Ⅲ
+
+#Description# [50]
+對敵方全體造成冷気屬性傷害。
+
+#UseMessage1# [30]
+施放了 暴風雪Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry86*****
+#Name# [20]
+雷電Ⅰ
+
+#Description# [50]
+對敵方單體造成雷屬性傷害。
+
+#UseMessage1# [30]
+施放了 雷電Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry87*****
+#Name# [20]
+雷電Ⅱ
+
+#Description# [50]
+對敵方單體造成雷屬性傷害。
+
+#UseMessage1# [30]
+施放了 雷電Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry88*****
+#Name# [20]
+雷電Ⅲ
+
+#Description# [50]
+對敵方單體造成雷屬性傷害。
+
+#UseMessage1# [30]
+施放了 雷電Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry89*****
+#Name# [20]
+火花Ⅰ
+
+#Description# [50]
+對敵方全體造成雷屬性傷害。
+
+#UseMessage1# [30]
+施放了 火花Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry90*****
+#Name# [20]
+火花Ⅱ
+
+#Description# [50]
+對敵方全體造成雷屬性傷害。
+
+#UseMessage1# [30]
+施放了 火花Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry91*****
+#Name# [20]
+火花Ⅲ
+
+#Description# [50]
+對敵方全體造成雷屬性傷害。
+
+#UseMessage1# [30]
+施放了 火花Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry92*****
+#Name# [20]
+水彈Ⅰ
+
+#Description# [50]
+對敵方單體造成水屬性傷害。
+
+#UseMessage1# [30]
+施放了 水彈Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry93*****
+#Name# [20]
+水彈Ⅱ
+
+#Description# [50]
+對敵方單體造成水屬性傷害。
+
+#UseMessage1# [30]
+施放了 水彈Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry94*****
+#Name# [20]
+水彈Ⅲ
+
+#Description# [50]
+對敵方單體造成水屬性傷害。
+
+#UseMessage1# [30]
+施放了 水彈Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry95*****
+#Name# [20]
+水浪Ⅰ
+
+#Description# [50]
+對敵方全體造成水屬性傷害。
+
+#UseMessage1# [30]
+施放了 水浪Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry96*****
+#Name# [20]
+水浪Ⅱ
+
+#Description# [50]
+對敵方全體造成水屬性傷害。
+
+#UseMessage1# [30]
+施放了 水浪Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry97*****
+#Name# [20]
+水浪Ⅲ
+
+#Description# [50]
+對敵方全體造成水屬性傷害。
+
+#UseMessage1# [30]
+施放了 水浪Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry98*****
+#Name# [20]
+飛石Ⅰ
+
+#Description# [50]
+對敵方單體造成大地屬性傷害。
+
+#UseMessage1# [30]
+施放了 飛石Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry99*****
+#Name# [20]
+飛石Ⅱ
+
+#Description# [50]
+對敵方單體造成大地屬性傷害。
+
+#UseMessage1# [30]
+施放了 飛石Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry100*****
+#Name# [20]
+飛石Ⅲ
+
+#Description# [50]
+對敵方單體造成大地屬性傷害。
+
+#UseMessage1# [30]
+施放了 飛石Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry101*****
+#Name# [20]
+地震Ⅰ
+
+#Description# [50]
+對敵方全體造成大地屬性傷害。
+
+#UseMessage1# [30]
+施放了 地震Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry102*****
+#Name# [20]
+地震Ⅱ
+
+#Description# [50]
+對敵方全體造成大地屬性傷害。
+
+#UseMessage1# [30]
+施放了 地震Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry103*****
+#Name# [20]
+地震Ⅲ
+
+#Description# [50]
+對敵方全體造成大地屬性傷害。
+
+#UseMessage1# [30]
+施放了 地震Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry104*****
+#Name# [20]
+風刃Ⅰ
+
+#Description# [50]
+對敵方單體造成風屬性傷害。
+
+#UseMessage1# [30]
+施放了 風刃Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry105*****
+#Name# [20]
+風刃Ⅱ
+
+#Description# [50]
+對敵方單體造成風屬性傷害。
+
+#UseMessage1# [30]
+施放了 風刃Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry106*****
+#Name# [20]
+風刃Ⅲ
+
+#Description# [50]
+對敵方單體造成風屬性傷害。
+
+#UseMessage1# [30]
+施放了 風刃Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry107*****
+#Name# [20]
+龍捲風Ⅰ
+
+#Description# [50]
+對敵方全體造成風屬性傷害。
+
+#UseMessage1# [30]
+施放了 龍捲風Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry108*****
+#Name# [20]
+龍捲風Ⅱ
+
+#Description# [50]
+對敵方全體造成風屬性傷害。
+
+#UseMessage1# [30]
+施放了 龍捲風Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry109*****
+#Name# [20]
+龍捲風Ⅲ
+
+#Description# [50]
+對敵方全體造成風屬性傷害。
+
+#UseMessage1# [30]
+施放了 龍捲風Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry110*****
+#Name# [20]
+神聖Ⅰ
+
+#Description# [50]
+對敵方單體造成神聖屬性傷害。
+
+#UseMessage1# [30]
+施放了 神聖Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry111*****
+#Name# [20]
+神聖Ⅱ
+
+#Description# [50]
+對敵方單體造成神聖屬性傷害。
+
+#UseMessage1# [30]
+施放了 神聖Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry112*****
+#Name# [20]
+神聖Ⅲ
+
+#Description# [50]
+對敵方單體造成神聖屬性傷害。
+
+#UseMessage1# [30]
+施放了 神聖Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry113*****
+#Name# [20]
+星光Ⅰ
+
+#Description# [50]
+對敵方全體造成神聖屬性傷害。
+
+#UseMessage1# [30]
+施放了 星光Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry114*****
+#Name# [20]
+星光Ⅱ
+
+#Description# [50]
+對敵方全體造成神聖屬性傷害。
+
+#UseMessage1# [30]
+施放了 星光Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry115*****
+#Name# [20]
+星光Ⅲ
+
+#Description# [50]
+對敵方全體造成神聖屬性傷害。
+
+#UseMessage1# [30]
+施放了 星光Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry116*****
+#Name# [20]
+暗影Ⅰ
+
+#Description# [50]
+對敵方單體造成暗黒屬性傷害。
+
+#UseMessage1# [30]
+施放了 暗影Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry117*****
+#Name# [20]
+暗影Ⅱ
+
+#Description# [50]
+對敵方單體造成暗黒屬性傷害。
+
+#UseMessage1# [30]
+施放了 暗影Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry118*****
+#Name# [20]
+暗影Ⅲ
+
+#Description# [50]
+對敵方單體造成暗黒屬性傷害。
+
+#UseMessage1# [30]
+施放了 暗影Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry119*****
+#Name# [20]
+黑暗Ⅰ
+
+#Description# [50]
+對敵方全體造成暗黒屬性傷害。
+
+#UseMessage1# [30]
+施放了 黑暗Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry120*****
+#Name# [20]
+黑暗Ⅱ
+
+#Description# [50]
+對敵方全體造成暗黒屬性傷害。
+
+#UseMessage1# [30]
+施放了 黑暗Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry121*****
+#Name# [20]
+黑暗Ⅲ
+
+#Description# [50]
+對敵方全體造成暗黒屬性傷害。
+
+#UseMessage1# [30]
+施放了 黑暗Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry122*****
+#Name# [20]
+爆裂Ⅰ
+
+#Description# [50]
+對敵方單體造成無屬性傷害。
+
+#UseMessage1# [30]
+施放了 爆裂Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry123*****
+#Name# [20]
+爆裂Ⅱ
+
+#Description# [50]
+對敵方單體造成無屬性傷害。
+
+#UseMessage1# [30]
+施放了 爆裂Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry124*****
+#Name# [20]
+爆裂Ⅲ
+
+#Description# [50]
+對敵方單體造成無屬性傷害。
+
+#UseMessage1# [30]
+施放了 爆裂Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry125*****
+#Name# [20]
+核爆Ⅰ
+
+#Description# [50]
+對敵方全體造成無屬性傷害。
+
+#UseMessage1# [30]
+施放了 核爆Ⅰ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry126*****
+#Name# [20]
+核爆Ⅱ
+
+#Description# [50]
+對敵方全體造成無屬性傷害。
+
+#UseMessage1# [30]
+施放了 核爆Ⅱ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry127*****
+#Name# [20]
+核爆Ⅲ
+
+#Description# [50]
+對敵方全體造成無屬性傷害。
+
+#UseMessage1# [30]
+施放了 核爆Ⅲ！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry128*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry129*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry130*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry131*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry132*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry133*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry134*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry135*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry136*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry137*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry138*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry139*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry140*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry141*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry142*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry143*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry144*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry145*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry146*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry147*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry148*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry149*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry150*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry151*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry152*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry153*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry154*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry155*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry156*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry157*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry158*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry159*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry160*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry161*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry162*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry163*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry164*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry165*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry166*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry167*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry168*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry169*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry170*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry171*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry172*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry173*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry174*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry175*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry176*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry177*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry178*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry179*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry180*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry181*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry182*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry183*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry184*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry185*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry186*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry187*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry188*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry189*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry190*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry191*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry192*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry193*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry194*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry195*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry196*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry197*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry198*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry199*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry200*****
+#Name# [20]
+麥奎
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+解放了 麥奎 的意識！
+
+#UseMessage2# [50]
+麥奎はヒトキマイラと同化した・・・。
+
+
+
+*****Entry201*****
+#Name# [20]
+恩德
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+解放了 恩德 的意識！
+
+#UseMessage2# [50]
+恩德はヒトキマイラと同化した・・・。
+
+
+
+*****Entry202*****
+#Name# [20]
+奧茲卡
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+解放了 奧茲卡 的意識！
+
+#UseMessage2# [50]
+奧茲卡はヒトキマイラと同化した・・・。
+
+
+
+*****Entry203*****
+#Name# [20]
+莫莉娜
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+解放了 莫莉娜 的意識！
+
+#UseMessage2# [50]
+莫莉娜はヒトキマイラと同化した・・・。
+
+
+
+*****Entry204*****
+#Name# [20]
+海優
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+解放了 海優 的意識！
+
+#UseMessage2# [50]
+海優はヒトキマイラと同化した・・・。
+
+
+
+*****Entry205*****
+#Name# [20]
+莉音
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+解放了 海優 的意識！
+
+#UseMessage2# [50]
+海優はヒトキマイラと同化した・・・。
+
+
+
+*****Entry206*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry207*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry208*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry209*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry210*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry211*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry212*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry213*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry214*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry215*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry216*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry217*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry218*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry219*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry220*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry221*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry222*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry223*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry224*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry225*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry226*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry227*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry228*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry229*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry230*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry231*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry232*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry233*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry234*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry235*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry236*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry237*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry238*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry239*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry240*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry241*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry242*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry243*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry244*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry245*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry246*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry247*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry248*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry249*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry250*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+

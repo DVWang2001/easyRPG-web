@@ -1,0 +1,53 @@
+﻿1. [MARKER: Message] [FACE: Ｆタマ] 味方になってくれなかったニャ･･･
+2. [MARKER: Message] [FACE: Ｆタマ] それ以上もってったらドロボーニャ。
+3. [MARKER: Message] [FACE: F鞍春] では、そなたもあさるな。
+4. [MARKER: Message] [FACE: Ｆタマ] 鍵　鍵と･･･
+5. [MARKER: Message] [FACE: Ｆタマ] あったニャ。
+\.･･････ニャ？
+6. [MARKER: Message] [FACE: F鞍春] どうした。
+7. [MARKER: Message] [FACE: Ｆタマ] 薬草がいっぱい入ってるニャ。
+ちょこっともらっていくかニャ？
+8. [MARKER: Message] [FACE: F鞍春] \.\.･･･そうだな。
+出世払いということで
+２つ３つ頂戴するか。
+9. [MARKER: Message] [FACE: Ｆタマ] ･･･止めると思ったが
+\.お主　意外とシュールじゃニャ。
+10. [MARKER: Message] [FACE: Ｆタマ] ま、いいニャ。
+鍵と一緒に　
+薬草４つだけもらっていくニャ。
+11. [MARKER: Message] [FACE: Ｆタマ] 開いたニャ。
+12. [MARKER: Message] [FACE: Ｆタマ] 鍵は 紫の包みの中だと思うニャ。
+13. [MARKER: Message] [FACE: Ｆタマ] ニャ～っ$e
+14. [MARKER: Message] [FACE: Ｆタマ] ･･･は、はニャ？
+15. [MARKER: Message] [FACE: Ｆタマ] い、今のは何だったニャ？
+16. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+17. [MARKER: Message] [FACE: F鞍春] \.･･･随分とリアルな幻影だな。
+18. [MARKER: Message] [FACE: F鞍春] \.この男が抱えていた過去が
+妖気と一緒に 飛散したのだろう。
+19. [MARKER: Message] [FACE: Ｆタマ] 過去が飛散？
+20. [MARKER: Message] [FACE: Ｆタマ] なんで飛散したニャ？
+21. [MARKER: Message] [FACE: F鞍春] \.さぁな。
+22. [MARKER: Message] [FACE: F鞍春] ただ･･････
+23. [MARKER: Message] [FACE: F鞍春] \.この男の姿は
+もう 普通の人の姿に戻ったようだ。
+24. [MARKER: Message] [FACE: Ｆタマ] \.あ。\.そういえば
+マコトの背中にあった
+黒い羽がなくなってるニャ。
+25. [MARKER: Message] [FACE: Ｆタマ] \.さっきの幻影のカラスと
+マコトの黒い羽と
+なんか関わりがあったんかいニャ？
+26. [MARKER: Message] [FACE: F鞍春] \.そうかもしれぬ。
+27. [MARKER: Message] [FACE: Ｆタマ] カラスにとり憑かれていたニャ？
+28. [MARKER: Message] [FACE: F鞍春] カラスというか
+カラスが持っていた闇というか･･･
+29. [MARKER: Message] [FACE: F鞍春] \.心の空白に
+闇がとりつくことは よくあることだ。
+30. [MARKER: Message] [FACE: Ｆタマ] \S[2]闇･･････。
+31. [MARKER: Message] [FACE: Ｆタマ] \.マコトは優しい奴だからニャ。
+32. [MARKER: Message] [FACE: Ｆタマ] ホントはお主のことだって
+通してやりたかったんニャ。
+33. [MARKER: Message] [FACE: Ｆタマ] だからオイラに
+お主の味方をしろって･･･
+34. [MARKER: Message] [FACE: F鞍春] \.･･････わかっている。
+35. [MARKER: Message] [FACE: Ｆタマ] \S[3]･････････。
+36. [MARKER: Message] [FACE: Ｆタマ] \.先･･････行くかニャ？

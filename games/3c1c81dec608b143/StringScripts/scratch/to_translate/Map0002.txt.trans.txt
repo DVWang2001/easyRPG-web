@@ -1,0 +1,231 @@
+﻿1. [MARKER: Message] \.ふっふっふっふふ～ん$a
+2. [MARKER: Message] [FACE: F鞍春] \.？
+3. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.･･･はニャ$d
+4. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.しまった･･･
+\.シッポが挟まったニャ$e
+5. [MARKER: Message] [FACE: F鞍春] ？
+6. [MARKER: Message] [FACE: F鞍春] ･･････なんだ？
+\.誰かいるのか？
+7. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.ありゃ。取れないニャ$e$e$e
+8. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] ニャ～っ
+9. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] シッポが
+罠にかかっちゃったニャ～っ$e
+10. [MARKER: Message] [FACE: F鞍春] \.･･････シッポ？
+11. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] ふに～っ$e
+ふにょ～っ$e
+12. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[3]････････････。
+13. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 誰か取ってニャ～～～っ$e
+14. [MARKER: Message] [FACE: F鞍春] \.少し待て。
+15. [MARKER: Message] [FACE: F鞍春] こう暗闇では
+そなたがどこにいるかも
+わからぬ。
+16. [MARKER: Message] [FACE: F鞍春] 今、明かりをつける。
+17. [MARKER: Message] [FACE: Ｆタマ] ニャっ？
+18. [MARKER: Message] [FACE: Ｆタマ] なんか急に明るく･･･
+19. [MARKER: Message] [FACE: F鞍春] \.\S[2]･････････。
+20. [MARKER: Message] [FACE: Ｆタマ] \.\S[2]･････････。
+21. [MARKER: Message] [FACE: F鞍春] \.\S[2]･･･････････････。
+22. [MARKER: Message] [FACE: Ｆタマ] \.？　\.･･･おまえ　誰ニャ？
+23. [MARKER: Message] [FACE: F鞍春] \.\S[2]･････････
+24. [MARKER: Message] [FACE: F鞍春] \S[3]･････････\.タヌキ？　　
+25. [MARKER: Message] [FACE: Ｆタマ] \.タヌ･･･
+26. [MARKER: Message] [FACE: Ｆタマ] \.タヌキじゃないニャ！　猫ニャ！
+27. [MARKER: Message] [FACE: F鞍春] \.\S[2]しゃべる猫か･･････\.化け猫だな。
+28. [MARKER: Message] [FACE: Ｆタマ] 化け猫で悪かったニャ$n
+29. [MARKER: Message] [FACE: Ｆタマ] ニャ、ニャっ！
+\.ちっ近寄るニャっ$e
+30. [MARKER: Message] [FACE: F鞍春] \.シッポが罠に引っかかったと
+言っていたろう。
+31. [MARKER: Message] [FACE: F鞍春] \.罠をはずしてやるから
+向こうを向け。
+32. [MARKER: Message] [FACE: Ｆタマ] \.余計なお世話ニャ！
+33. [MARKER: Message] [FACE: Ｆタマ] \.お主なんかに頼まなくても
+自分ではずせるニャ！
+34. [MARKER: Message] [FACE: F鞍春] \.ついさっき暗闇で
+35. [MARKER: Message] [FACE: F鞍春] \.\S[2]「誰か取ってニャ～～～っ$e」
+\S[1]と言っていたのが聞こえていたが？
+36. [MARKER: Message] [FACE: Ｆタマ] \.むぐっ$n
+\.聞かれてたのニャ。
+37. [MARKER: Message] [FACE: F鞍春] \.おそらく 村の猟師が
+獲物を仕留めるために
+仕掛けた罠だろう。
+38. [MARKER: Message] [FACE: F鞍春] \.そこに 
+化け猫がかかっているとわかったら
+袋叩きにでも遭いかねぬぞ。
+39. [MARKER: Message] [FACE: Ｆタマ] \.違うニャ。
+40. [MARKER: Message] [FACE: Ｆタマ] \.この罠は
+お主らみたいな 外から来る
+怪しげな人間をハメるために
+41. [MARKER: Message] [FACE: Ｆタマ] オイラが自分で仕掛けた罠ニャ。
+42. [MARKER: Message] [FACE: F鞍春] \S[3]･････････。
+43. [MARKER: Message] [FACE: F鞍春] \.なるほど。
+\.では、自分が仕掛けた罠に
+ハマったのか。
+44. [MARKER: Message] [FACE: Ｆタマ] はっ。　
+45. [MARKER: Message] [FACE: Ｆタマ] 自分で自分の仕掛けた
+罠にハマったコトを
+ばらしてしまったニャ$e
+46. [MARKER: Message] [FACE: F鞍春] \.　$d
+47. [MARKER: Message] [FACE: F鞍春] \.･･･まあいい。
+48. [MARKER: Message] [FACE: F鞍春] 後ろを向け。
+罠を外してやる。
+49. [MARKER: Message] [FACE: Ｆタマ] そ、そ、そんなことを言って･･･
+50. [MARKER: Message] [FACE: Ｆタマ] 後ろを向いた隙に
+オイラを仕留めようという気ニャ！
+51. [MARKER: Message] [FACE: F鞍春] \.安心しろ。
+私はそんな暇人ではない。
+52. [MARKER: Message] [FACE: Ｆタマ] いやニャ～っ
+誰か助けてニャ～っ$e
+53. [MARKER: Message] [FACE: F鞍春] まわれー･･･右。
+54. [MARKER: Message] [FACE: Ｆタマ] くるっ。
+55. [MARKER: Message] [FACE: Ｆタマ] ア、アレ？
+56. [MARKER: Message] [FACE: F鞍春] 少し動くな。
+57. [MARKER: Message] [FACE: Ｆタマ] ふ～
+\.短い命だったニャ･･･
+58. [MARKER: Message] [FACE: F鞍春] \.\.･････････$d
+59. [MARKER: Message] [FACE: Ｆタマ] \.でも、どうせ死ぬなら
+60. [MARKER: Message] [FACE: Ｆタマ] せめてその前に
+オイラ、鯛の尾頭付きが
+食べたかったニャ･･･
+61. [MARKER: Message] [FACE: F鞍春] はずれたぞ。
+62. [MARKER: Message] [FACE: Ｆタマ] そうニャ。
+一度、マタタビとかいうものも
+試してみたかったニャ。
+63. [MARKER: Message] [FACE: F鞍春] ･･････。
+はずれたぞ。
+64. [MARKER: Message] [FACE: Ｆタマ] \.\S[2]････････････。
+65. [MARKER: Message] [FACE: Ｆタマ] はニャ？
+生きてるニャ。
+66. [MARKER: Message] [FACE: F鞍春] 当たり前だ。
+67. [MARKER: Message] [FACE: F鞍春] 私に
+化け猫を食らう趣味はない。
+68. [MARKER: Message] [FACE: Ｆタマ] \.れ、礼は言わないニャ。
+69. [MARKER: Message] [FACE: F鞍春] \.かまわぬ。
+70. [MARKER: Message] [FACE: F鞍春] \.化け猫に礼を言われても
+嬉しくないしな。
+71. [MARKER: Message] [FACE: Ｆタマ] なんか、今の
+ムカついたニャ$n
+72. [MARKER: Message] [FACE: Ｆタマ] だ、だいたいお主
+73. [MARKER: Message] [FACE: Ｆタマ] こんな山奥の洞窟に
+何の用ニャ。
+74. [MARKER: Message] [FACE: Ｆタマ] 見たトコ、
+\.男のくせに 女みたいな細腕だし
+\.化け猫のオイラも助けてくれたし
+75. [MARKER: Message] [FACE: Ｆタマ] 金目当てに 村の連中から
+「妖怪退治」を引き受けて来たワケでは
+なさそうニャ。
+76. [MARKER: Message] [FACE: F鞍春] \.妖怪退治に来たつもりはない。
+77. [MARKER: Message] [FACE: Ｆタマ] \.こんな洞窟に
+山菜なんて生えてないニャ。
+78. [MARKER: Message] [FACE: F鞍春] \.だからといって、誰も
+山菜取りに来たとは言っておらぬ$d
+79. [MARKER: Message] [FACE: Ｆタマ] じゃ、何しに来たニャっ。
+80. [MARKER: Message] [FACE: F鞍春] \.うむ、実は
+81. [MARKER: Message] [FACE: F鞍春] \.先月、妖怪にさらわれて
+行方不明になったという
+羽村の姫君を探しに･･･
+82. [MARKER: Message] [FACE: Ｆタマ] ･･･
+そんな姫、ここにはいないニャ。
+
+83. [MARKER: Message] [FACE: F鞍春] \.いなくていいのだ。
+84. [MARKER: Message] [FACE: Ｆタマ] \.ニャ？
+85. [MARKER: Message] [FACE: F鞍春] \.姫君を探す･･･\.フリをして
+実は「狐」に会いに来たのでな。
+
+86. [MARKER: Message] [FACE: Ｆタマ] \.狐？
+87. [MARKER: Message] [FACE: F鞍春] \.この洞窟のどこかに
+人の姿をした狐がいるだろう。
+88. [MARKER: Message] [FACE: Ｆタマ] \.狐の姫さんなら この奥に
+\S[2]･･･････････････
+89. [MARKER: Message] [FACE: F鞍春] \S[2]･･･････････････
+90. [MARKER: Message] [FACE: Ｆタマ] \.いないニャ。
+
+91. [MARKER: Message] [FACE: F鞍春] \S[2]････････････。
+92. [MARKER: Message] [FACE: F鞍春] \.この奥に\S[2]･････････
+\.いないのか。
+93. [MARKER: Message] [FACE: Ｆタマ] \.･･･えーと
+94. [MARKER: Message] [FACE: F鞍春] ウソのつけない化け猫だな。
+95. [MARKER: Message] [FACE: Ｆタマ] \.ほ、\.ほっといてニャ$e
+96. [MARKER: Message] [FACE: F鞍春] まぁ、よい。
+勝手に探すまでだ。
+97. [MARKER: Message] [FACE: Ｆタマ] ま、待つニャ！
+98. [MARKER: Message] [FACE: F鞍春] \.なんだ？　急いでいるのだが。
+99. [MARKER: Message] [FACE: Ｆタマ] \.お主、狐の姫さんに何の用ニャ。
+100. [MARKER: Message] [FACE: F鞍春] \S[2]･････････\S[1]話があるだけだ。
+\.用が済めばすぐに 退散する。
+101. [MARKER: Message] [FACE: Ｆタマ] \.姫さんは誰にも会いたくないと
+言ってるニャ。
+102. [MARKER: Message] [FACE: Ｆタマ] \.だからオイラたちが
+こうやって扉の番をしてるんニャ。
+103. [MARKER: Message] [FACE: F鞍春] \.オイラたち･････････
+104. [MARKER: Message] [FACE: F鞍春] \.そうか。
+105. [MARKER: Message] [FACE: F鞍春] \.他にも扉の番をしている妖怪たちが
+いるということだな。
+106. [MARKER: Message] [FACE: Ｆタマ] \.そうニャ。
+107. [MARKER: Message] [FACE: Ｆタマ] 途中途中にも
+恐ろし～い妖怪がいっぱいいるニャ。
+108. [MARKER: Message] [FACE: Ｆタマ] よっぽど腕に自身がなければ
+命がいくつあっても足りないニャ。
+109. [MARKER: Message] [FACE: Ｆタマ] お主がどうなろうと
+知ったことではないが
+110. [MARKER: Message] [FACE: Ｆタマ] 罠を外してもらったことだし
+一応、忠告しておくニャ。
+111. [MARKER: Message] [FACE: F鞍春] ･･････わかった。
+
+112. [MARKER: Message] [FACE: F鞍春] そなたを見ていると
+恐ろしい妖怪がたくさんいるようには
+思えぬところだが･･･
+113. [MARKER: Message] [FACE: F鞍春] \.忠告は承っておく。
+114. [MARKER: Message] [FACE: Ｆタマ] よしニャ。
+115. [MARKER: Message] [FACE: Ｆタマ] そうと決まれば
+さっさと行こうニャ。
+116. [MARKER: Message] [FACE: F鞍春] \S[2]･･････さっさと、って
+117. [MARKER: Message] [FACE: F鞍春] \.そなたも一緒に行くつもりか？
+118. [MARKER: Message] [FACE: Ｆタマ] 当たり前ニャ。
+お主が姫さんに何もしないよう
+見張ってるニャ。
+119. [MARKER: Message] [FACE: Ｆタマ] \.それともなんニャ。
+オイラが一緒に行くと
+まずいコトでもあるニャ？
+120. [MARKER: Message] [FACE: F鞍春] \S[2]･･････いや$d
+121. [MARKER: Message] [FACE: F鞍春] ･･･ま、\.タヌキ１匹増えたところで
+どうということもなかろう。
+122. [MARKER: Message] [FACE: Ｆタマ] そうと決まれば
+さぁ、行くニャ･･････
+123. [MARKER: Message] [FACE: Ｆタマ] \S[2]･･････って、\S[1]だから
+タヌキじゃなくって猫ニャって！
+124. [MARKER: Message] [FACE: Ｆタマ] もうなにないニャ。
+顔に似合わず欲張りだニャ、お主。
+125. [MARKER: Message] [FACE: F鞍春] ･･････。
+126. [MARKER: Message] [FACE: Ｆタマ] その鍵があれば、
+とりあえず、最初の扉は開くニャ。
+127. [MARKER: Message] [FACE: Ｆタマ] そこの赤い包みに
+鍵がはいっとるハズニャ。
+128. [MARKER: Message] [FACE: Ｆタマ] ココはオイラの部屋ニャ。
+129. [MARKER: Message] [FACE: F鞍春] タヌキの部屋に用はない。
+130. [MARKER: Message] [FACE: Ｆタマ] 待つニャ。
+そこの赤い包みの中に
+入り口の扉を開ける鍵が入ってるニャ。
+131. [MARKER: Message] [FACE: Ｆタマ] ･･････って、猫ニャってば！
+132. [MARKER: Message] [FACE: Ｆタマ] さっきの鍵で開くはずニャ。
+えーと、鍵穴　鍵穴･･･と･･････あった。
+133. [MARKER: Message] [FACE: F鞍春] 開いたようだな。
+134. [MARKER: Message] [FACE: Ｆタマ] 鍵はオイラの部屋ニャ。
+135. [MARKER: Message] [FACE: Ｆタマ] さっきの鍵で開くはずニャ。
+えーと、鍵穴　鍵穴･･･と･･････あった。
+136. [MARKER: Message] [FACE: F鞍春] 開いたようだな。
+137. [MARKER: Message] [FACE: Ｆタマ] アレ？　開かないニャ。
+138. [MARKER: Message] [FACE: F鞍春] ･･･鍵穴があるようだが。
+139. [MARKER: Message] [FACE: Ｆタマ] あ、そうだったニャ。
+鍵がないと開かないんだったニャｧ。
+140. [MARKER: Message] [FACE: Ｆタマ] ココの鍵なら
+さっきの入り口右に行ったところの
+オイラの部屋にあるニャ。
+141. [MARKER: Message] [FACE: Ｆタマ] そこの赤い包みに
+鍵がはいっとるハズニャ。
+142. [MARKER: Message] [FACE: Ｆタマ] ココはオイラの部屋ニャ。
+143. [MARKER: Message] [FACE: F鞍春] タヌキの部屋に用はない。
+144. [MARKER: Message] [FACE: Ｆタマ] 待つニャ。
+そこの赤い包みの中に
+入り口の扉を開ける鍵が入ってるニャ。
+145. [MARKER: Message] [FACE: Ｆタマ] ･･････って、タヌキじゃなくて猫ニャ！

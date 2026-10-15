@@ -1,0 +1,96 @@
+﻿*****Entry1*****
+#Name# [8]
+
+
+#InflictedOnAlly# [30]
+
+
+#InflictedOnEnemy# [30]
+
+
+#Recovered# [30]
+
+
+
+
+*****Entry2*****
+#Name# [8]
+
+
+#InflictedOnAlly# [30]
+
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+
+
+
+
+*****Entry3*****
+#Name# [8]
+
+
+#InflictedOnAlly# [30]
+
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+
+
+
+
+*****Entry4*****
+#Name# [8]
+
+
+#InflictedOnAlly# [30]
+
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+
+
+
+
+*****Entry5*****
+#Name# [8]
+
+
+#InflictedOnAlly# [30]
+
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+

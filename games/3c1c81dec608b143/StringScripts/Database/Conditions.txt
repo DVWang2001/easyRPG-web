@@ -1,0 +1,203 @@
+﻿*****Entry1*****
+#Name# [8]
+戰鬥不能
+
+#InflictedOnAlly# [30]
+倒下了！
+
+#InflictedOnEnemy# [30]
+擊倒了！
+
+#Recovered# [30]
+站起來了！
+
+
+
+*****Entry2*****
+#Name# [8]
+屏息
+
+#InflictedOnAlly# [30]
+正在屏住呼吸
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+正在屏住呼吸
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+
+
+
+
+*****Entry3*****
+#Name# [8]
+黑暗
+
+#InflictedOnAlly# [30]
+陷入了黑暗之中！
+
+#InflictedOnEnemy# [30]
+封入了黑暗之中！
+
+#AlreadyInflicted# [30]
+已陷入黑暗之中！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+黑暗消散了！
+
+
+
+*****Entry4*****
+#Name# [8]
+沉默
+
+#InflictedOnAlly# [30]
+陷入了沉默！
+
+#InflictedOnEnemy# [30]
+使其陷入了沉默！
+
+#AlreadyInflicted# [30]
+已陷入沉默！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+沉默解除了！
+
+
+
+*****Entry5*****
+#Name# [8]
+暴走
+
+#InflictedOnAlly# [30]
+暴走了！
+
+#InflictedOnEnemy# [30]
+使其暴走了！
+
+#AlreadyInflicted# [30]
+已處於暴走狀態！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+恢復理智了！
+
+
+
+*****Entry6*****
+#Name# [8]
+混亂
+
+#InflictedOnAlly# [30]
+陷入混亂！
+
+#InflictedOnEnemy# [30]
+使其陷入混亂！
+
+#AlreadyInflicted# [30]
+已陷入混亂！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+恢復理智了！
+
+
+
+*****Entry7*****
+#Name# [8]
+睡眠
+
+#InflictedOnAlly# [30]
+睡著了！
+
+#InflictedOnEnemy# [30]
+使其睡著了！
+
+#AlreadyInflicted# [30]
+已陷入睡眠！
+
+#Continuing# [30]
+正在睡覺…
+
+#Recovered# [30]
+醒來了！
+
+
+
+*****Entry8*****
+#Name# [8]
+束縛
+
+#InflictedOnAlly# [30]
+頭髮纏繞住了！
+
+#InflictedOnEnemy# [30]
+被束縛住了！
+
+#AlreadyInflicted# [30]
+行動變得困難了！
+
+#Continuing# [30]
+行動困難！
+
+#Recovered# [30]
+斬斷了黑髮！
+
+
+
+*****Entry9*****
+#Name# [8]
+跌倒
+
+#InflictedOnAlly# [30]
+絆倒了！
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+仍在跌倒中…
+
+#Continuing# [30]
+還在跌倒中…
+
+#Recovered# [30]
+站起來了！
+
+
+
+*****Entry10*****
+#Name# [8]
+驚嚇
+
+#InflictedOnAlly# [30]
+僵在原地了！
+
+#InflictedOnEnemy# [30]
+僵在原地了！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+正僵在原地…
+
+#Recovered# [30]
+正僵在原地…
+
+

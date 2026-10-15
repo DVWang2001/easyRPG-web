@@ -1,0 +1,125 @@
+﻿**********Event33**********
+-----Page2-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.なんだ？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.池ニャ。
+##
+
+
+#Message#
+お魚釣れるかもしれないニャ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]･･････。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+おっ魚、おっ魚♪
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]･････････。
+##
+
+
+#Message#
+\.１人で釣ってくれ。
+じゃぁな。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+はニャ？！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.？！
+##
+
+
+#Message#
+\.落ちたのか？！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+ゴボゴボ　ごぶべでびゃ～っ
+##
+
+
+
+-----Page3-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]･････････。
+##
+
+
+#Message#
+\.ビショビショになっちゃったニャ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+･･････
+誰のせいだ$n
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+反省してるニャ$d
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]･････････ふぅ。
+##
+
+
+#Message#
+今度なにかあっても
+置いて行くぞ。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.わ、\.わかったニャ。
+##
+
+
+
+

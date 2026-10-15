@@ -1,0 +1,37 @@
+﻿1. [MARKER: Message] [FACE: Ｆタマ] あっ、そうニャ。
+2. [MARKER: Message] [FACE: Ｆタマ] この上に、おジジがおるからニャ。
+3. [MARKER: Message] [FACE: F鞍春] \.おジジ？
+4. [MARKER: Message] [FACE: Ｆタマ] 次の扉を守ってる
+オイラたちの仲間の妖怪ニャ。
+5. [MARKER: Message] [FACE: Ｆタマ] もしまた
+闘うことになっても
+おジジは歳いってるから
+手加減してやってニャ。
+6. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+7. [MARKER: Message] [FACE: F鞍春] それは･･･
+\.扉を守っている意味があるのか？
+8. [MARKER: Message] [FACE: Ｆタマ] \.\S[2]･････････
+9. [MARKER: Message] [FACE: Ｆタマ] 　\.\.\.$d
+10. [MARKER: Message] [FACE: F鞍春] 　\.\.\.$d
+11. [MARKER: Message] [FACE: Ｆタマ] \.\.ま、あんまり深く考えないでニャ。
+12. [MARKER: Message] [FACE: Ｆタマ] \.･･･おにぎり見っけ。
+13. [MARKER: Message] [FACE: F鞍春] \.何でこんなトコロに？
+14. [MARKER: Message] [FACE: Ｆタマ] うーん。
+誰かココで夕飯食べたんだニャ。
+きっと。
+15. [MARKER: Message] [FACE: Ｆタマ] 持っていこ。
+16. [MARKER: Message] [FACE: F鞍春] \.\S[2]ところで･･････
+17. [MARKER: Message] [FACE: F鞍春] \.ひとつ聞いてもよいか？
+18. [MARKER: Message] [FACE: Ｆタマ] \.なんニャ？
+19. [MARKER: Message] [FACE: F鞍春] \.なぜ そなたは
+「狐」のことを「姫さん」と
+呼んでいるのだ？
+20. [MARKER: Message] [FACE: Ｆタマ] \.ん～
+21. [MARKER: Message] [FACE: Ｆタマ] \.この洞窟を取り仕切っているから
+ってのもあるかもしれんが･･･
+22. [MARKER: Message] [FACE: Ｆタマ] \.お姫さんみたいに
+キレイだから･･･ってのも
+あるかもしれんニャ。
+23. [MARKER: Message] [FACE: Ｆタマ] \.他の者たちも
+みんなそう呼んどるニャ。
+24. [MARKER: Message] [FACE: F鞍春] \.\.\S[2]･････････そうか。

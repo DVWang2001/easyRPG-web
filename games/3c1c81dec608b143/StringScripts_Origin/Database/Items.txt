@@ -1,0 +1,755 @@
+﻿*****Entry1*****
+#Name# [20]
+刀
+
+#Description# [50]
+小型の太刀
+
+
+
+*****Entry2*****
+#Name# [20]
+タマの鍵①
+
+#Description# [50]
+タマの守る扉の鍵
+
+
+
+*****Entry3*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+薬草
+
+#Description# [50]
+小さな傷をふさぎ、治療する
+
+
+
+*****Entry5*****
+#Name# [20]
+干し魚
+
+#Description# [50]
+タマの好物。
+
+
+
+*****Entry6*****
+#Name# [20]
+真実の鍵②
+
+#Description# [50]
+真実が守る扉の鍵
+
+
+
+*****Entry7*****
+#Name# [20]
+花
+
+#Description# [50]
+かわいいお花
+
+
+
+*****Entry8*****
+#Name# [20]
+酒
+
+#Description# [50]
+気付け薬がわり
+
+
+
+*****Entry9*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+延命酒剣豪
+
+#Description# [50]
+気付け薬がわり。アルコール度が高く一気に目が覚める
+
+
+
+*****Entry11*****
+#Name# [20]
+お爺の鍵③
+
+#Description# [50]
+おジジが守る扉の鍵
+
+
+
+*****Entry12*****
+#Name# [20]
+おにぎり
+
+#Description# [50]
+食べて体力回復。でも闘いながら食べるのはムリ
+
+
+
+*****Entry13*****
+#Name# [20]
+鬼の鍵④
+
+#Description# [50]
+鬼が守る扉の鍵
+
+
+
+*****Entry14*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry27*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry33*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry34*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry35*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry37*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry38*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry39*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry42*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry43*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry45*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry46*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry47*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry48*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry52*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry53*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry54*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry55*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry56*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry57*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry58*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry59*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry60*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry61*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry62*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry63*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry64*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry65*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry66*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry67*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry68*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry69*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry70*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry71*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry72*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry73*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry74*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry75*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry76*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry77*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry78*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry79*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry80*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry81*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry82*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry83*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry84*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+

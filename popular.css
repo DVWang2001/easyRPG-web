@@ -1,0 +1,7 @@
+/* 「熱門」排序鈕＝ RM 方角指令鈕（與工具列標籤鈕一致） */
+#hot { padding:5px 11px; border-radius:5px; border:1px solid var(--win-lo,#06205f);
+  background:linear-gradient(180deg,#21305c,#131e44); color:#dbe3ff; font-size:13px; cursor:pointer;
+  box-shadow:inset 0 1px 0 rgba(159,180,255,.30); }
+#hot:hover { border-color:var(--gold,#f5c542); color:#fff; }
+#hot.active { background:var(--gold,#f5c542); color:#1a1400;
+  border-color:var(--gold,#f5c542); font-weight:700; box-shadow:inset 0 1px 0 rgba(255,255,255,.5); }

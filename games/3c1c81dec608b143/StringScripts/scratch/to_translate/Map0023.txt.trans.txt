@@ -1,0 +1,181 @@
+﻿1. [MARKER: Message] [FACE: Ｆタマ] ･･････オイ、お主
+2. [MARKER: Message] [FACE: Ｆタマ] お主は
+狐の姫さんにも もう会ってしまって
+特に用事はないだろうし
+3. [MARKER: Message] [FACE: Ｆタマ] あとはこのまま
+城へ戻るののだろう？
+4. [MARKER: Message] [FACE: F鞍春] ･･･そのつもりですが。
+5. [MARKER: Message] [FACE: Ｆタマ] \.･･････オイラは化け猫ニャ。
+\.城へは行けないニャ。
+6. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+7. [MARKER: Message] [FACE: Ｆタマ] だから ほっといていいニャ。
+\.お主１人で
+城へ帰ってニャ。
+8. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+9. [MARKER: Message] [FACE: F鞍春] ムリに
+城にお連れしようとまでは
+思っておりませんが･･･
+10. [MARKER: Message] [FACE: Ｆタマ] \S[2]･･････\S[1]何イキナリ
+敬語なんか使って･･････
+なんか 気色悪いニャ。
+11. [MARKER: Message] [FACE: F鞍春] ですが･･･
+12. [MARKER: Message] [FACE: F鞍春] \.あなた様の 
+大豊家との婚儀のお話は
+白紙に戻りましたけれども
+13. [MARKER: Message] [FACE: F鞍春] ･･････それでも
+城にお戻りになるのは
+お嫌ですか？
+14. [MARKER: Message] [FACE: Ｆタマ] \.え゛
+\.婚儀が白紙？！
+15. [MARKER: Message] [FACE: F鞍春] はい。
+16. [MARKER: Message] [FACE: F鞍春] 相手方から
+破談の申し入れがあったそうに
+ございます。
+17. [MARKER: Message] [FACE: Ｆタマ] \S[2]そうか･･････
+18. [MARKER: Message] [FACE: Ｆタマ] さすがにあの
+大豊のスケベ爺も
+妖怪に連れ去られたと噂されている姫とは
+結婚したくないとみえる。
+19. [MARKER: Message] [FACE: Ｆタマ] \S[2]･････････。
+20. [MARKER: Message] [FACE: Ｆタマ] \S[2]･････････っていうか
+･････････お、お主･･･
+な、なんで
+21. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+22. [MARKER: Message] [FACE: F鞍春] 羽村の･･････
+\.玉姫様でございますね？
+23. [MARKER: Message] [FACE: Ｆタマ] \S[2]･････････。
+24. [MARKER: Message] [FACE: F鞍春] 初めてこの場所で
+お会いした時に
+もしや･･･と思ってはいたのですが
+25. [MARKER: Message] [FACE: F鞍春] 先ほどからあなた様の 
+行動のご様子を見ていると
+ふと\S[2]･･････\S[1]そうではないかと。
+26. [MARKER: Message] [FACE: Ｆタマ] こっ、行動のご様子ってったって
+お主、\.私と直に会ったことなど
+ないでは･･････
+27. [MARKER: Message] [FACE: F鞍春] \.ではやはり。
+28. [MARKER: Message] [FACE: Ｆタマ] \.はっ$d
+29. [MARKER: Message] [FACE: F鞍春] \.聞いたところによれば
+30. [MARKER: Message] [FACE: F鞍春] 寝ているときに
+ご自身の髪の毛が首に絡まって
+窒息しそうになったとか
+31. [MARKER: Message] [FACE: F鞍春] 子供の頃
+庭の池にいるオタマジャクシを
+すくい取ろうとして
+池に落ちたとか
+32. [MARKER: Message] [FACE: F鞍春] 先ほどから
+同じ様な光景を 拝見しておりましたら
+もうこれは間違いないなと。
+33. [MARKER: Message] [FACE: Ｆタマ] \S[2]･････････。
+34. [MARKER: Message] [FACE: F鞍春] 皆、玉姫は妖怪にさらわれたと
+思っております。
+35. [MARKER: Message] [FACE: F鞍春] \.でも違いますね。
+36. [MARKER: Message] [FACE: F鞍春] \.婚儀がお嫌で
+･･････ご自身で逃げ出されたのですね？
+37. [MARKER: Message] [FACE: Ｆタマ] \S[2]･････････。
+38. [MARKER: Message] [FACE: Ｆタマ] \.そうニャ。
+39. [MARKER: Message] [FACE: Ｆタマ] 大豊のスケベ爺と結婚するくらいなら
+死んだ方がマシだと思ったのニャ。
+40. [MARKER: Message] [FACE: F鞍春] \.\.というよりも、さきの戦で
+\.彼が あなたの兄君を
+討ち取った男だからでは･･････？
+41. [MARKER: Message] [FACE: Ｆタマ] \S[8]･････････。
+42. [MARKER: Message] [FACE: Ｆタマ] \.\.お主には
+なんでもわかってるみたいだな。
+43. [MARKER: Message] [FACE: Ｆタマ] \.ひと月ほど前
+私は夜霧に紛れて城を出た。
+44. [MARKER: Message] [FACE: Ｆタマ] 行く宛などなかったが
+とにかく城から遠ざかることだけ考えて
+私は走った。
+45. [MARKER: Message] [FACE: Ｆタマ] いつの間にか 霧が晴れていて
+\S[2]綺麗な満月が顔を出していたのを
+覚えている･･･
+46. [MARKER: Message] [FACE: Ｆタマ] そう、丁度
+今夜の満月のような･･････
+47. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]月を見ていたら
+なんだか急に 身体が軽くなってきて･･･
+48. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]ふと気がついたときには
+私は猫になっていた･･･
+49. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]一度でいいから
+猫のように自由な身になりたいと
+50. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]前々から願っていたせいかもしれない･･･
+51. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]そんなとき 姫さんに･･･
+52. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]いや、お主の母御に会ったのだ。
+53. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]思えば不思議な出会いだった。
+54. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\S[2]人に化けた狐と
+猫に化けた人の出会いだったのだから･･･
+55. [MARKER: Message] [FACE: F鞍春] \S[3]･････････。
+56. [MARKER: Message] [FACE: Ｆタマ] 姫さんのおかげで
+私は行き倒れずにすんだ。
+\.マコトたちも それは同じだ。
+57. [MARKER: Message] [FACE: Ｆタマ] \.それに
+58. [MARKER: Message] [FACE: Ｆタマ] おかげでお主という
+変わった人間も 知ることが出来た。
+59. [MARKER: Message] [FACE: Ｆタマ] \.だから
+姫さんには感謝している。
+60. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+61. [MARKER: Message] [FACE: F鞍春] \S[3]･････････。
+62. [MARKER: Message] [FACE: F鞍春] \S[6]･････････。
+63. [MARKER: Message] [FACE: Ｆタマ] 聞いとるか？　
+さっきから黙りこくっているが。
+64. [MARKER: Message] [FACE: F鞍春] ･･･聞いてます。
+ただ･･･
+65. [MARKER: Message] [FACE: F鞍春] なにやら、
+そのお姿と口調に違和感が･･････
+66. [MARKER: Message] [FACE: Ｆタマ] むっ。
+67. [MARKER: Message] [FACE: Ｆタマ] お主
+人が猫の姿してるからって
+バカにしてるな！
+68. [MARKER: Message] [FACE: F鞍春] いえ、\.･･･ちょっとだけ。
+69. [MARKER: Message] [FACE: Ｆタマ] 人がせっかく
+真面目に話をしているのに
+むかっ$n
+70. [MARKER: Message] [FACE: F鞍春] あの、一つだけお話ししておきます。
+71. [MARKER: Message] [FACE: Ｆタマ] ふん。
+お主の話なんか もう聞いてやらん。
+
+72. [MARKER: Message] [FACE: F鞍春] 実は
+73. [MARKER: Message] [FACE: F鞍春] \.今回、玉姫様の婚儀が
+取りやめになったこともありまして
+74. [MARKER: Message] [FACE: F鞍春] 玉姫様を城へお連れして戻った者には
+玉姫様との婚儀を認めてもよいと
+父君様がおっしゃっており
+75. [MARKER: Message] [FACE: Ｆタマ] \S[2]･････････。
+76. [MARKER: Message] [FACE: F鞍春] といっても
+玉姫様もいまだ猫のお姿･･････
+77. [MARKER: Message] [FACE: F鞍春] そうでなくとも私は
+半分狐という、妖怪だかなんだか
+よくわからない身でございますから
+78. [MARKER: Message] [FACE: F鞍春] ムリにその話を
+進めていただこうとは
+思っておりませぬ。
+79. [MARKER: Message] [FACE: F鞍春] ですから
+80. [MARKER: Message] [FACE: F鞍春] 無事 城へ戻られた後は
+もう家出なさることなどないように
+お願い申しあげます。
+81. [MARKER: Message] [FACE: F鞍春] では、先に外へ参っております。
+82. [MARKER: Message] [FACE: Ｆタマ] \S[3]･･････････････････。
+83. [MARKER: Message] [FACE: Ｆタマ] \.\S[2]私を連れて戻った者と結婚･･･？
+84. [MARKER: Message] [FACE: Ｆタマ] \S[2]･･････っていうとこの場合
+お主と結婚するということに･･････？
+85. [MARKER: Message] [FACE: Ｆタマ] \S[3]･････････。
+86. [MARKER: Message] [FACE: Ｆタマ] おおっ！
+87. [MARKER: Message] [FACE: Ｆタマ] \.それはよいかもっ！
+88. [MARKER: Message] [FACE: Ｆタマ] お主となら結婚してもいいぞ！
+89. [MARKER: Message] [FACE: Ｆタマ] って、アレ、もうおらんじゃないか$d
+90. [MARKER: Message] [FACE: Ｆタマ] 何で置いていく～～～っ！
+91. [MARKER: Message] [FACE: Ｆタマ] いや、待て。
+92. [MARKER: Message] [FACE: Ｆタマ] この姿のまんまじゃ
+結婚どころか 私が玉だということすら
+誰もわからないじゃないか。
+93. [MARKER: Message] [FACE: Ｆタマ] わ～ん
+どうしたら元に戻るのだ～～～っ！！
+94. [MARKER: Message] [FACE: Ｆ羽村の姫] \S[2]････････････。
+95. [MARKER: Message] [FACE: Ｆ羽村の姫] 　\.？
+96. [MARKER: Message] [FACE: Ｆ羽村の姫] \S[2]なんか今、光ったような･･････
+97. [MARKER: Message] [FACE: Ｆ羽村の姫] ･･････アレ？
+98. [MARKER: Message] [FACE: Ｆ羽村の姫] 太ったかな。
+急に身体が重くなったし
+なんか着物もきつい。
+99. [MARKER: Message] [FACE: Ｆ羽村の姫] っていうか \.おいっ。
+100. [MARKER: Message] [FACE: Ｆ羽村の姫] \.\S[2]私を置いてくな～～～っ。

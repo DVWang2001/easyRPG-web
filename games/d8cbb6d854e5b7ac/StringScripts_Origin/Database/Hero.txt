@@ -1,0 +1,95 @@
+﻿*****Entry1*****
+#Name# [12]
+カイン
+
+#Title# [12]
+薪割り小僧
+
+#SkillCommand# [10]
+必殺技
+
+
+
+*****Entry2*****
+#Name# [12]
+マリオン
+
+#Title# [12]
+鍛冶屋の娘
+
+#SkillCommand# [10]
+必殺技
+
+
+
+*****Entry3*****
+#Name# [12]
+キサラ
+
+#Title# [12]
+魔法使い
+
+#SkillCommand# [10]
+魔法
+
+
+
+*****Entry4*****
+#Name# [12]
+ユリア
+
+#Title# [12]
+神官
+
+#SkillCommand# [10]
+魔法
+
+
+
+*****Entry5*****
+#Name# [12]
+アネット
+
+#Title# [12]
+狩人
+
+#SkillCommand# [10]
+必殺技
+
+
+
+*****Entry6*****
+#Name# [12]
+ロッカ
+
+#Title# [12]
+薬草摘み
+
+#SkillCommand# [10]
+召還
+
+
+
+*****Entry7*****
+#Name# [12]
+リリー
+
+#Title# [12]
+発明家
+
+#SkillCommand# [10]
+かがく
+
+
+
+*****Entry8*****
+#Name# [12]
+アネット
+
+#Title# [12]
+狩人
+
+#SkillCommand# [10]
+必殺技
+
+

@@ -1,0 +1,70 @@
+{
+    "filepath": "Database/Hero.txt",
+    "meta": [
+        {
+            "type": "tag",
+            "line_idx": 2
+        },
+        {
+            "type": "tag",
+            "line_idx": 5
+        },
+        {
+            "type": "tag",
+            "line_idx": 11
+        },
+        {
+            "type": "tag",
+            "line_idx": 14
+        },
+        {
+            "type": "tag",
+            "line_idx": 20
+        },
+        {
+            "type": "tag",
+            "line_idx": 23
+        },
+        {
+            "type": "tag",
+            "line_idx": 38
+        }
+    ],
+    "items": [
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "鞍春"
+        },
+        {
+            "face": "NONE",
+            "marker": "Title",
+            "text": "若者"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "タマ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Title",
+            "text": "化け猫"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "真実"
+        },
+        {
+            "face": "NONE",
+            "marker": "Title",
+            "text": "青年"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "和真"
+        }
+    ]
+}

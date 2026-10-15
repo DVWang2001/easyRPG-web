@@ -1,0 +1,57 @@
+[MAIN]
+_AFTER_ENCRYPT_WAIT = 2000
+
+WINDOW_TITLE = ç°ÇÃïóÇä¥Ç∂Çƒ
+
+WINDOW_BMP00 = .\Game_Files\Picture\z_back00.xyz
+
+WIN_MODE =1
+
+SAFE_MODE_ENABLE = 1
+
+BUTTON_GRAY_OUT = 1
+
+[KEY]
+PRINT_INFO = 0
+
+EDIT_X = 16
+EDIT_Y = 248
+EDIT_WIDTH = 100
+EDIT_HEIGHT = 16
+EDIT_FONTSIZE = 12
+
+[BUTTON]
+START_BMP = .\Game_Files\Picture\z_button01.xyz
+START_X = 304
+START_Y = 128
+START_PUSH = .\Game_Files\RPG_RT.exe
+
+EXIT_BMP = .\Game_Files\Picture\z_button04.xyz
+EXIT_X = 304
+EXIT_Y = 240
+
+WINMODE_BMP_ON = .\Game_Files\Picture\z_win01.xyz
+WINMODE_BMP_OFF = .\Game_Files\Picture\z_win02.xyz
+WINMODE_X = 304
+WINMODE_Y = 100
+
+EXT00_BMP = .\Game_Files\Picture\z_button02.xyz
+EXT00_X = 304
+EXT00_Y = 156
+EXT00_PUSH = manual\manual.html
+
+EXT03_BMP = .\Game_Files\Picture\z_button03.xyz
+EXT03_X = 304
+EXT03_Y = 184
+EXT03_PUSH = http://alphanuts.jp/
+
+EXT01_BMP = .\Game_Files\Picture\z_button05.xyz
+EXT01_X = 304
+EXT01_Y = 212
+EXT01_PUSH = manual\kanren.html
+
+EXT07_BMP = .\Game_Files\Picture\z_button08.xyz
+EXT07_X = 16
+EXT07_Y = 16
+EXT07_PUSH = manual\trouble.txt
+

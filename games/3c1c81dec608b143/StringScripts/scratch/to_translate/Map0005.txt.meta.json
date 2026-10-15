@@ -1,0 +1,1647 @@
+{
+    "filepath": "Map0005.txt",
+    "meta": [
+        {
+            "type": "message",
+            "start_line_idx": 5,
+            "end_line_idx": 5
+        },
+        {
+            "type": "message",
+            "start_line_idx": 12,
+            "end_line_idx": 12
+        },
+        {
+            "type": "message",
+            "start_line_idx": 19,
+            "end_line_idx": 20
+        },
+        {
+            "type": "message",
+            "start_line_idx": 27,
+            "end_line_idx": 28
+        },
+        {
+            "type": "message",
+            "start_line_idx": 33,
+            "end_line_idx": 34
+        },
+        {
+            "type": "message",
+            "start_line_idx": 39,
+            "end_line_idx": 40
+        },
+        {
+            "type": "message",
+            "start_line_idx": 47,
+            "end_line_idx": 48
+        },
+        {
+            "type": "message",
+            "start_line_idx": 55,
+            "end_line_idx": 55
+        },
+        {
+            "type": "message",
+            "start_line_idx": 62,
+            "end_line_idx": 62
+        },
+        {
+            "type": "message",
+            "start_line_idx": 69,
+            "end_line_idx": 70
+        },
+        {
+            "type": "message",
+            "start_line_idx": 75,
+            "end_line_idx": 75
+        },
+        {
+            "type": "message",
+            "start_line_idx": 82,
+            "end_line_idx": 82
+        },
+        {
+            "type": "message",
+            "start_line_idx": 89,
+            "end_line_idx": 89
+        },
+        {
+            "type": "message",
+            "start_line_idx": 96,
+            "end_line_idx": 96
+        },
+        {
+            "type": "message",
+            "start_line_idx": 103,
+            "end_line_idx": 105
+        },
+        {
+            "type": "message",
+            "start_line_idx": 110,
+            "end_line_idx": 111
+        },
+        {
+            "type": "message",
+            "start_line_idx": 118,
+            "end_line_idx": 120
+        },
+        {
+            "type": "message",
+            "start_line_idx": 125,
+            "end_line_idx": 127
+        },
+        {
+            "type": "message",
+            "start_line_idx": 132,
+            "end_line_idx": 133
+        },
+        {
+            "type": "message",
+            "start_line_idx": 140,
+            "end_line_idx": 140
+        },
+        {
+            "type": "message",
+            "start_line_idx": 145,
+            "end_line_idx": 145
+        },
+        {
+            "type": "message",
+            "start_line_idx": 152,
+            "end_line_idx": 152
+        },
+        {
+            "type": "message",
+            "start_line_idx": 159,
+            "end_line_idx": 160
+        },
+        {
+            "type": "message",
+            "start_line_idx": 167,
+            "end_line_idx": 167
+        },
+        {
+            "type": "message",
+            "start_line_idx": 174,
+            "end_line_idx": 176
+        },
+        {
+            "type": "message",
+            "start_line_idx": 183,
+            "end_line_idx": 183
+        },
+        {
+            "type": "message",
+            "start_line_idx": 188,
+            "end_line_idx": 188
+        },
+        {
+            "type": "message",
+            "start_line_idx": 195,
+            "end_line_idx": 195
+        },
+        {
+            "type": "message",
+            "start_line_idx": 200,
+            "end_line_idx": 200
+        },
+        {
+            "type": "message",
+            "start_line_idx": 207,
+            "end_line_idx": 208
+        },
+        {
+            "type": "message",
+            "start_line_idx": 215,
+            "end_line_idx": 215
+        },
+        {
+            "type": "message",
+            "start_line_idx": 222,
+            "end_line_idx": 222
+        },
+        {
+            "type": "message",
+            "start_line_idx": 227,
+            "end_line_idx": 228
+        },
+        {
+            "type": "message",
+            "start_line_idx": 237,
+            "end_line_idx": 237
+        },
+        {
+            "type": "message",
+            "start_line_idx": 242,
+            "end_line_idx": 242
+        },
+        {
+            "type": "message",
+            "start_line_idx": 249,
+            "end_line_idx": 249
+        },
+        {
+            "type": "message",
+            "start_line_idx": 256,
+            "end_line_idx": 256
+        },
+        {
+            "type": "message",
+            "start_line_idx": 267,
+            "end_line_idx": 267
+        },
+        {
+            "type": "message",
+            "start_line_idx": 278,
+            "end_line_idx": 278
+        },
+        {
+            "type": "message",
+            "start_line_idx": 285,
+            "end_line_idx": 285
+        },
+        {
+            "type": "message",
+            "start_line_idx": 294,
+            "end_line_idx": 294
+        },
+        {
+            "type": "message",
+            "start_line_idx": 299,
+            "end_line_idx": 300
+        },
+        {
+            "type": "message",
+            "start_line_idx": 307,
+            "end_line_idx": 307
+        },
+        {
+            "type": "message",
+            "start_line_idx": 314,
+            "end_line_idx": 315
+        },
+        {
+            "type": "message",
+            "start_line_idx": 322,
+            "end_line_idx": 324
+        },
+        {
+            "type": "message",
+            "start_line_idx": 331,
+            "end_line_idx": 332
+        },
+        {
+            "type": "message",
+            "start_line_idx": 337,
+            "end_line_idx": 339
+        },
+        {
+            "type": "message",
+            "start_line_idx": 350,
+            "end_line_idx": 350
+        },
+        {
+            "type": "message",
+            "start_line_idx": 357,
+            "end_line_idx": 358
+        },
+        {
+            "type": "message",
+            "start_line_idx": 369,
+            "end_line_idx": 369
+        },
+        {
+            "type": "message",
+            "start_line_idx": 374,
+            "end_line_idx": 375
+        },
+        {
+            "type": "message",
+            "start_line_idx": 380,
+            "end_line_idx": 380
+        },
+        {
+            "type": "message",
+            "start_line_idx": 387,
+            "end_line_idx": 387
+        },
+        {
+            "type": "message",
+            "start_line_idx": 392,
+            "end_line_idx": 392
+        },
+        {
+            "type": "message",
+            "start_line_idx": 399,
+            "end_line_idx": 400
+        },
+        {
+            "type": "message",
+            "start_line_idx": 407,
+            "end_line_idx": 407
+        },
+        {
+            "type": "message",
+            "start_line_idx": 414,
+            "end_line_idx": 416
+        },
+        {
+            "type": "message",
+            "start_line_idx": 421,
+            "end_line_idx": 422
+        },
+        {
+            "type": "message",
+            "start_line_idx": 427,
+            "end_line_idx": 427
+        },
+        {
+            "type": "message",
+            "start_line_idx": 434,
+            "end_line_idx": 435
+        },
+        {
+            "type": "message",
+            "start_line_idx": 440,
+            "end_line_idx": 441
+        },
+        {
+            "type": "message",
+            "start_line_idx": 446,
+            "end_line_idx": 449
+        },
+        {
+            "type": "message",
+            "start_line_idx": 456,
+            "end_line_idx": 456
+        },
+        {
+            "type": "message",
+            "start_line_idx": 461,
+            "end_line_idx": 461
+        },
+        {
+            "type": "message",
+            "start_line_idx": 468,
+            "end_line_idx": 469
+        },
+        {
+            "type": "message",
+            "start_line_idx": 474,
+            "end_line_idx": 475
+        },
+        {
+            "type": "message",
+            "start_line_idx": 482,
+            "end_line_idx": 483
+        },
+        {
+            "type": "message",
+            "start_line_idx": 488,
+            "end_line_idx": 489
+        },
+        {
+            "type": "message",
+            "start_line_idx": 494,
+            "end_line_idx": 496
+        },
+        {
+            "type": "message",
+            "start_line_idx": 501,
+            "end_line_idx": 502
+        },
+        {
+            "type": "message",
+            "start_line_idx": 509,
+            "end_line_idx": 509
+        },
+        {
+            "type": "message",
+            "start_line_idx": 514,
+            "end_line_idx": 516
+        },
+        {
+            "type": "message",
+            "start_line_idx": 523,
+            "end_line_idx": 524
+        },
+        {
+            "type": "message",
+            "start_line_idx": 529,
+            "end_line_idx": 531
+        },
+        {
+            "type": "message",
+            "start_line_idx": 538,
+            "end_line_idx": 538
+        },
+        {
+            "type": "message",
+            "start_line_idx": 543,
+            "end_line_idx": 546
+        },
+        {
+            "type": "message",
+            "start_line_idx": 553,
+            "end_line_idx": 553
+        },
+        {
+            "type": "message",
+            "start_line_idx": 560,
+            "end_line_idx": 562
+        },
+        {
+            "type": "message",
+            "start_line_idx": 569,
+            "end_line_idx": 569
+        },
+        {
+            "type": "message",
+            "start_line_idx": 576,
+            "end_line_idx": 577
+        },
+        {
+            "type": "message",
+            "start_line_idx": 584,
+            "end_line_idx": 585
+        },
+        {
+            "type": "message",
+            "start_line_idx": 592,
+            "end_line_idx": 594
+        },
+        {
+            "type": "message",
+            "start_line_idx": 601,
+            "end_line_idx": 602
+        },
+        {
+            "type": "message",
+            "start_line_idx": 609,
+            "end_line_idx": 611
+        },
+        {
+            "type": "message",
+            "start_line_idx": 618,
+            "end_line_idx": 618
+        },
+        {
+            "type": "message",
+            "start_line_idx": 625,
+            "end_line_idx": 626
+        },
+        {
+            "type": "message",
+            "start_line_idx": 633,
+            "end_line_idx": 634
+        },
+        {
+            "type": "message",
+            "start_line_idx": 641,
+            "end_line_idx": 642
+        },
+        {
+            "type": "message",
+            "start_line_idx": 647,
+            "end_line_idx": 648
+        },
+        {
+            "type": "message",
+            "start_line_idx": 655,
+            "end_line_idx": 655
+        },
+        {
+            "type": "message",
+            "start_line_idx": 662,
+            "end_line_idx": 664
+        },
+        {
+            "type": "message",
+            "start_line_idx": 669,
+            "end_line_idx": 669
+        },
+        {
+            "type": "message",
+            "start_line_idx": 676,
+            "end_line_idx": 676
+        },
+        {
+            "type": "message",
+            "start_line_idx": 683,
+            "end_line_idx": 683
+        },
+        {
+            "type": "message",
+            "start_line_idx": 692,
+            "end_line_idx": 693
+        },
+        {
+            "type": "message",
+            "start_line_idx": 700,
+            "end_line_idx": 700
+        },
+        {
+            "type": "message",
+            "start_line_idx": 705,
+            "end_line_idx": 706
+        },
+        {
+            "type": "message",
+            "start_line_idx": 711,
+            "end_line_idx": 712
+        },
+        {
+            "type": "message",
+            "start_line_idx": 719,
+            "end_line_idx": 720
+        },
+        {
+            "type": "message",
+            "start_line_idx": 725,
+            "end_line_idx": 725
+        },
+        {
+            "type": "message",
+            "start_line_idx": 730,
+            "end_line_idx": 730
+        },
+        {
+            "type": "message",
+            "start_line_idx": 737,
+            "end_line_idx": 737
+        },
+        {
+            "type": "message",
+            "start_line_idx": 744,
+            "end_line_idx": 745
+        },
+        {
+            "type": "message",
+            "start_line_idx": 750,
+            "end_line_idx": 751
+        },
+        {
+            "type": "message",
+            "start_line_idx": 758,
+            "end_line_idx": 758
+        },
+        {
+            "type": "message",
+            "start_line_idx": 765,
+            "end_line_idx": 767
+        },
+        {
+            "type": "message",
+            "start_line_idx": 772,
+            "end_line_idx": 772
+        },
+        {
+            "type": "message",
+            "start_line_idx": 777,
+            "end_line_idx": 777
+        },
+        {
+            "type": "message",
+            "start_line_idx": 782,
+            "end_line_idx": 783
+        },
+        {
+            "type": "message",
+            "start_line_idx": 788,
+            "end_line_idx": 789
+        },
+        {
+            "type": "message",
+            "start_line_idx": 794,
+            "end_line_idx": 794
+        },
+        {
+            "type": "message",
+            "start_line_idx": 799,
+            "end_line_idx": 801
+        },
+        {
+            "type": "message",
+            "start_line_idx": 806,
+            "end_line_idx": 806
+        },
+        {
+            "type": "message",
+            "start_line_idx": 811,
+            "end_line_idx": 811
+        },
+        {
+            "type": "message",
+            "start_line_idx": 816,
+            "end_line_idx": 818
+        },
+        {
+            "type": "message",
+            "start_line_idx": 823,
+            "end_line_idx": 823
+        },
+        {
+            "type": "message",
+            "start_line_idx": 830,
+            "end_line_idx": 830
+        },
+        {
+            "type": "message",
+            "start_line_idx": 837,
+            "end_line_idx": 837
+        },
+        {
+            "type": "message",
+            "start_line_idx": 842,
+            "end_line_idx": 842
+        },
+        {
+            "type": "message",
+            "start_line_idx": 847,
+            "end_line_idx": 849
+        },
+        {
+            "type": "message",
+            "start_line_idx": 854,
+            "end_line_idx": 856
+        },
+        {
+            "type": "message",
+            "start_line_idx": 863,
+            "end_line_idx": 863
+        },
+        {
+            "type": "message",
+            "start_line_idx": 870,
+            "end_line_idx": 871
+        },
+        {
+            "type": "message",
+            "start_line_idx": 876,
+            "end_line_idx": 877
+        },
+        {
+            "type": "message",
+            "start_line_idx": 882,
+            "end_line_idx": 884
+        },
+        {
+            "type": "message",
+            "start_line_idx": 891,
+            "end_line_idx": 891
+        },
+        {
+            "type": "message",
+            "start_line_idx": 898,
+            "end_line_idx": 900
+        },
+        {
+            "type": "message",
+            "start_line_idx": 905,
+            "end_line_idx": 906
+        },
+        {
+            "type": "message",
+            "start_line_idx": 911,
+            "end_line_idx": 911
+        },
+        {
+            "type": "message",
+            "start_line_idx": 918,
+            "end_line_idx": 918
+        },
+        {
+            "type": "message",
+            "start_line_idx": 923,
+            "end_line_idx": 923
+        },
+        {
+            "type": "message",
+            "start_line_idx": 928,
+            "end_line_idx": 928
+        },
+        {
+            "type": "message",
+            "start_line_idx": 935,
+            "end_line_idx": 935
+        },
+        {
+            "type": "message",
+            "start_line_idx": 942,
+            "end_line_idx": 942
+        },
+        {
+            "type": "message",
+            "start_line_idx": 949,
+            "end_line_idx": 949
+        },
+        {
+            "type": "message",
+            "start_line_idx": 954,
+            "end_line_idx": 955
+        },
+        {
+            "type": "message",
+            "start_line_idx": 960,
+            "end_line_idx": 961
+        },
+        {
+            "type": "message",
+            "start_line_idx": 968,
+            "end_line_idx": 968
+        },
+        {
+            "type": "message",
+            "start_line_idx": 975,
+            "end_line_idx": 975
+        },
+        {
+            "type": "message",
+            "start_line_idx": 980,
+            "end_line_idx": 980
+        },
+        {
+            "type": "message",
+            "start_line_idx": 987,
+            "end_line_idx": 987
+        },
+        {
+            "type": "message",
+            "start_line_idx": 994,
+            "end_line_idx": 995
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1002,
+            "end_line_idx": 1002
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1009,
+            "end_line_idx": 1009
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1014,
+            "end_line_idx": 1014
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1021,
+            "end_line_idx": 1021
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1026,
+            "end_line_idx": 1026
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1031,
+            "end_line_idx": 1031
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1038,
+            "end_line_idx": 1038
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1045,
+            "end_line_idx": 1046
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1051,
+            "end_line_idx": 1051
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1056,
+            "end_line_idx": 1056
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1061,
+            "end_line_idx": 1061
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1066,
+            "end_line_idx": 1066
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1071,
+            "end_line_idx": 1071
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1076,
+            "end_line_idx": 1077
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1084,
+            "end_line_idx": 1085
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1090,
+            "end_line_idx": 1091
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1096,
+            "end_line_idx": 1096
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1101,
+            "end_line_idx": 1101
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1106,
+            "end_line_idx": 1106
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1111,
+            "end_line_idx": 1111
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1116,
+            "end_line_idx": 1116
+        },
+        {
+            "type": "message",
+            "start_line_idx": 1121,
+            "end_line_idx": 1121
+        }
+    ],
+    "items": [
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "聞こえてたよ。タマ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.なにがニャ？"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.目がう～んと細くてタレてて\n悪かったね。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "ぶほ。\nき、聞こえていたニャ？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "ア、アレは･･･\n"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.お、男は細目でタレ目が１番だ\nという意味で言ったニャ！"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "悪かったな\nクリ目のつり目の男で。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.･･････人のあげ足をとるニャよ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.「人」ではないではないか。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.\\S[2]････････････。\n"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.漫才しに来たのか君ら？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "いや、違う。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.待て。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.･････････。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "どういう理由があるかはわからないが\nここから先に行かせるわけには\nいかないんだ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "余計な争いごとはしたくない。\nこのまま帰ってくれ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.･･････\n余計な争いごとをしたくないのは\n私も同じだ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "だが\n\\.悪運だけに頼って生きてきた\n男の命がかかっているのでな。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "このまま帰るわけには\nいかぬのだ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.\\S[2]悪運だけに頼ってきた男の･･････"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\S[2]････････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]････････････。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "･･････そうか。\n\\.では仕方ないな。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "通してくれるのニャ？！"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "いや、それはできない。\n\\.この扉を守ることが\n私の役目なのだから。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･･････？！"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･･････羽？！"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.･･････？！"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.君には･･･見えるのか？！"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･･････なるほど。\n\\.その羽が妖気の元だな。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "人には見えないと思っていたが･･･"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "私も遠慮はしない。\n\\.力ずくで通ってくれ！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.マコトっ！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.･･･ニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.･･･？！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "ニャーーーーーっ？！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "味方になってくれなかったニャ･･･"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "それ以上もってったらドロボーニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "って言いながら、干し魚を探すな。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "鍵　鍵と･･･"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "あったニャ。\n　　　･･････ニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "どうした。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "薬草がいっぱい入ってるニャ。\nちょこっともらっていくかニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･･･そうだな。\n出世払いということで\n１つ２つ頂戴するか。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "･･･止めると思ったが\n　　　お主　意外とシュールじゃニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "ま、いいニャ。\n鍵と一緒に　\n薬草３つだけもらっていくニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "開いたニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "確かそこの\n紫の包みの中に鍵が入ってたニャ。"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[5]\\C[17]･･･････････････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[5]\\C[17]俺はここで\n\\.\\.何をしている･･････？"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.\\.\\S[7]\\C[17]････････････和真？"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.\\S[2]え･･････"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.戦に行くっだって？"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.あぁ。\n"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.何でまた、急にそんなことを･･･"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.六郎が･･･行くんだそうだ。\nそれで、俺も行かないかって\n誘われてさ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.ほら俺も、少しでも\n暮らしの足しになればと思ってさ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.結構、報酬いいらしいぞ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "･･･だからって、\nなにも和真が行くことはないじゃないか。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "そりゃ、うちは小さな借り物の畑しか\nないけど"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "六郎のウチみたいに\n大家族ってわけじゃないんだし\n\\.今も兄弟３人で食べていくくらいは\nなんとかなってるじゃないか。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.ああ、今はな。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.でも、先が見えてるって感じだろ？"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "でも和真は長男なんだし\n\\.万が一のことがあったら･･･"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "どうしても戦に行くって言うなら\n俺が行くよ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.双子なんだから\n長男も何もないだろう。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "大丈夫。\n\\.こう見えても俺は悪運が強いんだ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "ほら、こないだ\n\\.空からカラスのフンが落ちてきたとき\nだって"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "おまえと竜太には　フンがかかったけど\n俺にはかからなかったじゃないか。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\S[2]･･････。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "カラスのフンと戦とは\n関係ないだろ。\n\\.･･･ヤなコト思い出させるなよ$d"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "･･･だから$e\\.\\.\nそんなに心配するなって言いたいんだよ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.俺が戦に行ってる間、\nおまえはこの家と竜太を守ってくれよ\n\\.真実。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\S[2]･･････。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "･･････\n\\.しょうがないな。\n言い出したらきかないんだからな、\n\\.和真は。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "なに話してるの　兄ちゃんたち？"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "ああ、竜太。\nいや、この　頑固なへそ曲がり兄貴が\n戦に行くって言うからさ･･･"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "頑固なへそ曲がり･･････$d"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "しばらくは\n寂しくなるなって話をな"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "なんで？\nべつに僕　寂しくないよ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "がーん。\n\\.竜太おまえ、\n俺がいなくても寂しくないのか？！"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "だって･･･\n\\.僕にはリュウタがいるし。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.\\S[2]リュウタって\n\\S[1]この間、おまえが拾ってきた\n子ガラスのコトか？"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "うん。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.竜太は\n俺よりカラスの方が好きなのか？！"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "そんなことないよ。\n同じくらいだよ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.同じくらいだってさ。\n"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "良かったな、和真。\nカラス並に好かれてて。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.　$d"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "でも竜太、おまえ\n\\.カラスに自分の名前つけるのは\nやめろよ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "縁起悪いから。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "じゃ、「カズマ」にしていい？"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "ダメダメダメーっ！$e"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.じゃ\n\\S[2]俺･･･\\S[1]帰るからな、真実。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.あ、\\.あぁ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.雨の中だったのに\nいろいろと･････すまなかったな。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "和真もいない時だし\n･･････助かったよ。"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "なんの。\nお互い様だよ。"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]･････････でも"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.いい墓ができて\\S[2]･･･良かったな。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.この家の裏庭だったら\nおまえにもすぐ会えるし"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.竜太もきっと\n寂しくないだろうさ･･･"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\s[2]･･････ああ。"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "　　　　　　　　\\C[19]\\S[2]「俺が戦に行ってる間\n　　　　　　　　おまえはこの家と竜太を守ってくれよ\n                ･･････\\.真実」"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]･･････和真"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]俺は竜太を守れなかったよ･･･"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]竜太は自分が飼っていた\nカラスのリュウタを追いかけていた"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]カラスのリュウタを追いかけていて\n誤って崖から落ちてしまった･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]竜太がそんなことになったのは"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]畑仕事にかかりっきりで\nろくに竜太の相手をしてやれなかった\n俺の責任だ･･･"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]すまない竜太･･････\\.そして"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\S[2]そして和真･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]\\.\\S[2]俺はこれから･･･\nどうやって、なにを\n\\.償っていけばいい･･････？"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.あんまり気を落とすなよ、真実。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\S[2]････････････。"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.って言ってもムリか･･･"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]あー･･･"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.えーと、\\.なんだ、\\.ほら、\n\\.和真もそろそろ\n戦から帰って来るんだろう？"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "確か、おまえんちの隣の六郎と\n一緒に戦に出かけたんだから\n帰ってくるのもだいたい一緒だよな？"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.えっ？"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "･･････あれ？\n\\.なんだ知らなかったのか。"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "ま、昨日の今日だからな。\n"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "戦が終わったとかで、\n六郎が夕べ遅くに\n帰ってきたらしいんだが。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "六郎が？！"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "おお。\n大したケガもしてなかったらしい。\n"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "昨日ウチのババァが\n六郎のかぁちゃんと長々･･･おわっ！"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "あ、おい、真実！"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]六郎が帰ってきた･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]それなら"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\C[17]それなら･･･和真も！"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "六郎！"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "･･･ま、真実･･･！"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\S[2]･･････あ"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.･･････\n夕べ戦場から戻ったって聞いて･･･"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\S[2]･･･無事\n\\S[1]･･･\\.だったんだな･･･六郎。"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.\\.あぁ･･･"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.\\.か"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.\\S[2]･･･和真は？"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.和真は一緒じゃ\n\\S[2]･･････なかったのか？"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "･･････六郎？"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.\\.\\S[2]和真は･･･"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]･････････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.\\.\\S[3]･･････死んだ･･･"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\S[2]･････････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "　　　　　　　\\S[2]\\C[19]大丈夫。\n　　　　　　　\\.こう見えても俺は悪運が強いんだ･･･"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]\\C[17]悪運なんか･･･"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.\\C[17]全然強くないじゃないか･･･\\.和真！"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "･･･リュウタ･･････？"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "･･････\\.竜太は"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "おまえを追いかけていて\n崖から足を滑らせた･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\.\\S[2]\\C[17]そうだ。\nすべてはおまえが元凶だ･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]\\C[17]竜太が死んだことも･･･\n\\.和真が死んだことも･･･"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]\\C[17]すべてはおまえのせいだ･･･！"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]\\C[17]竜太は死んでしまったのに"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]\\C[17]なぜおまえは生きている？"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]\\C[17]２人を･･････"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]\\C[17]２人を返せ！！"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]\\C[17]リュウタ！！"
+        }
+    ]
+}

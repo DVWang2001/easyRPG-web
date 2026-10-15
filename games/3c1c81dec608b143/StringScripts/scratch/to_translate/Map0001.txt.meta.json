@@ -1,0 +1,97 @@
+{
+    "filepath": "Map0001.txt",
+    "meta": [
+        {
+            "type": "message",
+            "start_line_idx": 3,
+            "end_line_idx": 3
+        },
+        {
+            "type": "message",
+            "start_line_idx": 8,
+            "end_line_idx": 9
+        },
+        {
+            "type": "message",
+            "start_line_idx": 14,
+            "end_line_idx": 14
+        },
+        {
+            "type": "message",
+            "start_line_idx": 19,
+            "end_line_idx": 20
+        },
+        {
+            "type": "message",
+            "start_line_idx": 25,
+            "end_line_idx": 26
+        },
+        {
+            "type": "message",
+            "start_line_idx": 31,
+            "end_line_idx": 31
+        },
+        {
+            "type": "message",
+            "start_line_idx": 36,
+            "end_line_idx": 36
+        },
+        {
+            "type": "message",
+            "start_line_idx": 41,
+            "end_line_idx": 41
+        },
+        {
+            "type": "message",
+            "start_line_idx": 46,
+            "end_line_idx": 47
+        }
+    ],
+    "items": [
+        {
+            "face": "NONE",
+            "marker": "Message",
+            "text": "\\.\\S[2]すでに記憶も定かでない･･･"
+        },
+        {
+            "face": "NONE",
+            "marker": "Message",
+            "text": "\\.\\S[2]２０年という年月は\nそれほどまでに 長いものだったのだろうか"
+        },
+        {
+            "face": "NONE",
+            "marker": "Message",
+            "text": "\\.\\S[2]はたして私がここへ来たのは"
+        },
+        {
+            "face": "NONE",
+            "marker": "Message",
+            "text": "\\.\\S[2]あの男のためなのか\n\\.それとも自分のためなのか･･･"
+        },
+        {
+            "face": "NONE",
+            "marker": "Message",
+            "text": "\\.\\S[2]本当はここへは\nやって来たくなかったのかもしれない"
+        },
+        {
+            "face": "NONE",
+            "marker": "Message",
+            "text": "\\.\\S[2]本当はあの人に･･･"
+        },
+        {
+            "face": "NONE",
+            "marker": "Message",
+            "text": "\\.\\S[2]会いたくはなかったのかもしれない･･････"
+        },
+        {
+            "face": "NONE",
+            "marker": "Message",
+            "text": "\\.\\S[2]しかしそれならばなぜ･･･"
+        },
+        {
+            "face": "NONE",
+            "marker": "Message",
+            "text": "\\.\\S[2]私は\nここへ来る道を選んでしまったのか･･･"
+        }
+    ]
+}

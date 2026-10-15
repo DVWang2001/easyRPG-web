@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:229",
+    "text": "スロットパンプゥ数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:230",
+    "text": "スロットうさぎ数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:231",
+    "text": "スロットファイロン数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:232",
+    "text": "スロット魔王数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:233",
+    "text": "スロット天使数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:235",
+    "text": "現在地マップID",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:236",
+    "text": "現在地Ｘ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:237",
+    "text": "現在地Ｙ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:238",
+    "text": "現在地地形ＩＤ",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:239",
+    "text": "踊り子変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:241",
+    "text": "ポーカー役判定（ｉ）",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:242",
+    "text": "ポーカー役判定（ｊ）",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:247",
+    "text": "主人公Ａの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:248",
+    "text": "主人公２の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:249",
+    "text": "主人公３の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:250",
+    "text": "主人公４の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:251",
+    "text": "主人公５の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:252",
+    "text": "主人公６の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:253",
+    "text": "主人公７の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:254",
+    "text": "主人公８の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:255",
+    "text": "主人公９の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:256",
+    "text": "主人公10の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:257",
+    "text": "主人公Ｊの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:258",
+    "text": "主人公Ｑの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:259",
+    "text": "主人公Ｋの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:267",
+    "text": "敵Ａの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:268",
+    "text": "敵２の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:269",
+    "text": "敵３の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:270",
+    "text": "敵４の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:271",
+    "text": "敵５の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:272",
+    "text": "敵６の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:273",
+    "text": "敵７の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:274",
+    "text": "敵８の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:275",
+    "text": "敵９の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:276",
+    "text": "敵10の数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:277",
+    "text": "敵Ｊの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:278",
+    "text": "敵Ｑの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:279",
+    "text": "敵Ｋの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:281",
+    "text": "主人公スペードの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:282",
+    "text": "主人公ハートの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:283",
+    "text": "主人公クラブの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:284",
+    "text": "主人公ダイヤの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:285",
+    "text": "主カード大きい順①",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:286",
+    "text": "主カード大きい順②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:287",
+    "text": "主カード大きい順③",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:288",
+    "text": "主カード大きい順④",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:289",
+    "text": "主カード大きい順⑤",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:290",
+    "text": "主カード大きい順変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:291",
+    "text": "敵スペードの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:292",
+    "text": "敵ハートの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:293",
+    "text": "敵クラブの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:294",
+    "text": "敵ダイヤの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:295",
+    "text": "敵カード大きい順①",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:296",
+    "text": "敵カード大きい順②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:297",
+    "text": "敵カード大きい順③",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:298",
+    "text": "敵カード大きい順④",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:299",
+    "text": "敵カード大きい順⑤",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:300",
+    "text": "敵カード大きい順変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:301",
+    "text": "ストレート判定変数①",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:302",
+    "text": "ストレート判定変数②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:303",
+    "text": "ストレート判定変数③",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:304",
+    "text": "ストレート判定変数④",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:305",
+    "text": "ストレート判定変数⑤",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:306",
+    "text": "ペアカウント変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:307",
+    "text": "どのカードチェンジ？",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:310",
+    "text": "マリスバトルコイン数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:311",
+    "text": "残りコイン数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:312",
+    "text": "宝箱開けた個数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:313",
+    "text": "予定合計金貨数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:314",
+    "text": "宝箱どれ選択？",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:315",
+    "text": "どの障害物移動？",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:316",
+    "text": "ラグのＸ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:317",
+    "text": "ウェインのＸ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:318",
+    "text": "ラグのＹ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:319",
+    "text": "ウェインのＹ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:321",
+    "text": "Ｄ・ハッシュＸ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:322",
+    "text": "Ｄ・ハッシュＹ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:323",
+    "text": "Ｄ・ハッシュ捕まえ数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:324",
+    "text": "Ｄ・ハッシュダメージ",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:361",
+    "text": "ルーレＬ１Ｎ①賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:362",
+    "text": "ルーレＬ１Ｎ②賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:363",
+    "text": "ルーレＬ１Ｎ③賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:364",
+    "text": "ルーレＬ１Ｎ④賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:365",
+    "text": "ルーレＬ１Ｎ⑤賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:366",
+    "text": "ルーレＬ１Ｎ⑥賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:367",
+    "text": "ルーレＬ１Ｎ⑦賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:368",
+    "text": "ルーレＬ１Ｎ⑧賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:369",
+    "text": "ルーレＬ１Ｎ⑨賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:370",
+    "text": "ルーレＬ１Ｎ⑩賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:371",
+    "text": "ルーレＬ１Ｎ⑪賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:372",
+    "text": "ルーレＬ１Ｎ⑫賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:373",
+    "text": "ルーレ賭け数場所選択",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:374",
+    "text": "ルーレット回転変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:375",
+    "text": "ルーレット回転数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:376",
+    "text": "ルーレどこで止まる",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:377",
+    "text": "ルーレット回転変数②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:378",
+    "text": "ルーレゲット数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:379",
+    "text": "ルーレゲット数万の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:380",
+    "text": "ルーレゲット数千の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:381",
+    "text": "ルーレゲット数百の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:382",
+    "text": "ルーレゲット数十の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:383",
+    "text": "ルーレゲット数一の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:384",
+    "text": "ルーレゲット色",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:1",
+    "text": "ＢＪ初期化",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:2",
+    "text": "画面初期化",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:3",
+    "text": "主人公カード配布",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:4",
+    "text": "保存",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:5",
+    "text": "敵カード配布",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:6",
+    "text": "保存一",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:7",
+    "text": "合計は？",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:8",
+    "text": "ラスト処理",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:9",
+    "text": "敵はまだとるの？",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:10",
+    "text": "所持金確認イベント",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:11",
+    "text": "結果判定",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:12",
+    "text": "ゲーム勝利判定",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:13",
+    "text": "主人公バースト判定",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:14",
+    "text": "敵バースト判定",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:15",
+    "text": "主人公役判定",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:16",
+    "text": "敵役判定",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:17",
+    "text": "親決め",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:18",
+    "text": "ダメージうける処理",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:19",
+    "text": "ダメージ計算",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:20",
+    "text": "役計算（保存）",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:21",
+    "text": "いくら賭ける？",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:22",
+    "text": "賭け数入力処理",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:23",
+    "text": "主人公カード表示",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:24",
+    "text": "敵カード表示",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:25",
+    "text": "敵カードオープン",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:26",
+    "text": "親チェンジ",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:27",
+    "text": "賭け数位割り",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:28",
+    "text": "賭け数初期化",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:29",
+    "text": "持ちチップ位わけ",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:30",
+    "text": "敵持ちチップ位わけ",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:31",
+    "text": "ダブルダウン",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:32",
+    "text": "敵いくらかける",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:33",
+    "text": "サレンダー",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:35",
+    "text": "主人公役表示",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:36",
+    "text": "敵役表示",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:38",
+    "text": "ダメージアタック表示",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:39",
+    "text": "メニュー01 HStDSU",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:40",
+    "text": "メニュー02 HStSu",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:41",
+    "text": "メニュー03 HSt",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:42",
+    "text": "メニュー04 H",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:43",
+    "text": "メニュー05  St",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:44",
+    "text": "メニュー06 CE",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:46",
+    "text": "ディーラーラスト処理",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:47",
+    "text": "ディーラー勝利表示",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:48",
+    "text": "チップ獲得処理",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:49",
+    "text": "ディーラダメージ計算",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_CommonEvents:51",
+    "text": "スロット表示",
+    "marker": "RM2K_CommonEvents",
+    "speaker": "SYSTEM"
+  }
+]

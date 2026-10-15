@@ -1,0 +1,449 @@
+﻿*****Entry1*****
+#Name# [20]
+接近
+
+#Description# [50]
+接近敵人
+
+#UseMessage1# [30]
+進入了前進姿勢
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+遠離
+
+#Description# [50]
+遠離敵人
+
+#UseMessage1# [30]
+進入了後退姿勢
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+偷竊
+
+#Description# [50]
+從敵人身上偷取道具
+
+#UseMessage1# [30]
+搜查敵人的懷中……
+
+#UseMessage2# [50]
+「（摸索索……）
+
+
+
+*****Entry4*****
+#Name# [20]
+逃跑
+
+#Description# [50]
+脫離戰鬥
+
+#UseMessage1# [30]
+脫離了戰鬥
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+藥草
+
+#Description# [50]
+回復HP（回復量：持有藥草數量×2）
+
+#UseMessage1# [30]
+聞了藥草的香氣
+
+#UseMessage2# [50]
+「（嗅嗅……）
+
+
+
+*****Entry6*****
+#Name# [20]
+觀察
+
+#Description# [50]
+調查敵人的武器與攻擊模式
+
+#UseMessage1# [30]
+正在觀察敵人
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+手槍
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+發射了手槍！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+狙擊步槍
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+發射了狙擊步槍！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+火箭筒
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+發射了火箭筒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+手槍T2
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+發射了手槍type2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+狙擊步槍T2
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+發射了狙擊步槍T2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+自動HG
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+發射了自動HG！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+霰彈槍
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+發射了霰彈槍！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+機關槍
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+瘋狂掃射了機關槍！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+雷射槍
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+發射了雷射槍！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+榴彈飛彈
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+發射了榴彈飛彈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+瞪眼
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+瞪了裘德！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+納西科槍
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+鳴響了納西科槍$p
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+威壓
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+劇烈咆哮了！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+看不見
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+的隱形攻擊！！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+黏答答：威壓
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+因為黏答答口香糖而焦躁
+
+#UseMessage2# [50]
+劇烈咆哮了！！！！！！
+
+
+
+*****Entry26*****
+#Name# [20]
+黏答答：瞪眼
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+因為黏答答口香糖而焦躁
+
+#UseMessage2# [50]
+瞪了裘德！！！！！！
+
+
+
+*****Entry27*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+

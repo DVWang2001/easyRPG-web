@@ -1,0 +1,210 @@
+﻿1. [MARKER: Message] [FACE: Ｆタマ] おジジ、生きてるニャ？
+2. [MARKER: Message] [FACE: Ｆタマ] 鍵も酒も持ったニャ。
+3. [MARKER: Message] [FACE: Ｆタマ] おジジには悪いが
+勝手に鍵持ってくニャ。
+4. [MARKER: Message] [FACE: Ｆタマ] えーと
+5. [MARKER: Message] [FACE: Ｆタマ] あったニャ。
+6. [MARKER: Message] [FACE: Ｆタマ] はニャ？
+･･････コレはなにニャ？
+7. [MARKER: Message] [FACE: F鞍春] ほう、酒か。
+気付け薬代わりになるな。
+8. [MARKER: Message] [FACE: Ｆタマ] ･･････
+もらってけと言っているように
+聞こえるニャ。
+9. [MARKER: Message] [FACE: F鞍春] ふむ。延命酒『剣豪』か。
+10. [MARKER: Message] [FACE: F鞍春] こんな酒を飲んでいたとは
+この爺様の長生きなワケがわかるな。
+11. [MARKER: Message] [FACE: Ｆタマ] 聞いとらんニャ　お主･･･。
+12. [MARKER: Message] [FACE: Ｆお爺] ほっほっほ
+13. [MARKER: Message] [FACE: Ｆお爺] \S[2]やはり来たの　若者。
+14. [MARKER: Message] [FACE: F鞍春] \.やはり？
+15. [MARKER: Message] [FACE: Ｆお爺] \.さっき
+一つ目根を倒した様子を
+見ておったでの。
+16. [MARKER: Message] [FACE: Ｆお爺] いや、なかなかの腕前じゃ。
+人間にしておくのは惜しいの。
+17. [MARKER: Message] [FACE: F鞍春] \.･･････。
+18. [MARKER: Message] [FACE: Ｆタマ] おジジ。
+こ奴、姫さんに話がある
+だけなんだそうニャ。
+19. [MARKER: Message] [FACE: Ｆタマ] \.だから
+そこを通してやって欲しいニャ。
+20. [MARKER: Message] [FACE: Ｆお爺] それはできん。
+21. [MARKER: Message] [FACE: Ｆお爺] 姫さんとの約束じゃ。
+ここは決して誰も通さぬ　とな。
+22. [MARKER: Message] [FACE: Ｆお爺] \.まして
+初対面の者の言う言葉を
+すぐさま 信用するわけにもいかぬ。
+23. [MARKER: Message] [FACE: Ｆお爺] 歳を取ると疑い深くての。
+\.ま、悪く思うでない。
+24. [MARKER: Message] [FACE: F鞍春] \S[2]･･････。
+25. [MARKER: Message] [FACE: F鞍春] \.いや、もっともな話だ。
+26. [MARKER: Message] [FACE: F鞍春] \.だが、私を信じて
+その帰りを待っている者が
+いるのでな。
+27. [MARKER: Message] [FACE: F鞍春] すまぬが
+なんとしても、そこを通らねばならぬ。
+28. [MARKER: Message] [FACE: Ｆお爺] \S[2]お主の帰りを信じて･･････？
+29. [MARKER: Message] [FACE: Ｆお爺] \S[2]･････････
+30. [MARKER: Message] [FACE: Ｆお爺] \.\.それは･･････お主の恋人かの？
+31. [MARKER: Message] [FACE: F鞍春] \.いや
+残念ながら 男だ。
+32. [MARKER: Message] [FACE: Ｆお爺] ･･････
+\S[2]ほっほっほ。
+33. [MARKER: Message] [FACE: Ｆお爺] \.仕方ないの。
+では、わしを倒してから行きなされ。
+34. [MARKER: Message] [FACE: Ｆお爺] \.もっとも
+\.倒せればの話じゃがの。
+35. [MARKER: Message] [FACE: Ｆタマ] やめといた方がいいニャ　おジジ。
+またぎっくり腰になるニャ。
+36. [MARKER: Message] [FACE: Ｆお爺] ほっほっほ。
+人の心配をする前に
+自分の心配をするがよいぞ。
+37. [MARKER: Message] [FACE: Ｆお爺] \S[2]･･････力を貸せ
+我と共に老いる枯れ木よ･･････！
+38. [MARKER: Message] [FACE: Ｆタマ] \.で、出た！
+39. [MARKER: Message] [FACE: F鞍春] \.･･････カラスの次は \.･･･枯れ木か。
+40. [MARKER: Message] [FACE: Ｆお爺] ほっほっほ。
+年寄りと思うて 手加減する必要はない。
+41. [MARKER: Message] [FACE: Ｆお爺] 思いっきりかかってくるがよい。
+42. [MARKER: Message] [FACE: Ｆタマ] \.おっ、おジジ？！
+43. [MARKER: Message] [FACE: Ｆタマ] \.ニャっ！
+44. [MARKER: Message] [FACE: Ｆタマ] わ～っ
+またニャ～～～っ！！！
+45. [MARKER: Message] [FACE: Ｆタマ] 鍵がないと開かないニャ。
+そこら辺に緑の包みがないニャ？
+46. [MARKER: Message] [FACE: Ｆ綾] ･･･では
+\.私を信じて･･･待っていて下さる？
+47. [MARKER: Message] [FACE: Ｆお爺] 寂しいけど･･･
+私はいつまでも待っているよ、綾。
+48. [MARKER: Message] [FACE: Ｆ綾] ･･････ありがとう。
+49. [MARKER: Message] [FACE: Ｆ綾] 本当は私、行きたくはないわ。
+50. [MARKER: Message] [FACE: Ｆ綾] でも、年をとっている父を
+１人で遠くの村まで行かせるのは
+どうしても不安なの。
+51. [MARKER: Message] [FACE: Ｆお爺] \.わかってる。
+52. [MARKER: Message] [FACE: Ｆ綾] その辺りの村には
+他にお医者様は１人も
+いらっしゃらないんですって。
+53. [MARKER: Message] [FACE: Ｆ綾] せめて
+その地で起こっている戦が
+早く終わってくれれば･･･
+54. [MARKER: Message] [FACE: Ｆ綾] けが人や病人さえ減ってくれさえすれば
+\.私も父も、すぐ
+帰って来られるはずだから･･･
+55. [MARKER: Message] [FACE: Ｆお爺] \.私はかまわないよ。
+56. [MARKER: Message] [FACE: Ｆお爺] 君が帰って来てくれさえするなら
+いつまでも待っている。
+57. [MARKER: Message] [FACE: Ｆ綾] 三郎さん･･････。
+58. [MARKER: Message] [FACE: Ｆ綾] 戻ってきたら･･･
+59. [MARKER: Message] [FACE: Ｆ綾] またここで
+\.こうして２人で会いましょう。
+60. [MARKER: Message] [FACE: Ｆお爺] ああ。
+61. [MARKER: Message] [FACE: Ｆ綾] ･･･\.あ　\.そうだ。
+62. [MARKER: Message] [FACE: Ｆ綾] それまでに、三郎さんに
+一つだけお願いがあるんだけど･･･
+63. [MARKER: Message] [FACE: Ｆお爺] お願い？
+64. [MARKER: Message] [FACE: Ｆ綾] \.おこらないでね。
+あの･･･
+65. [MARKER: Message] [FACE: Ｆお爺] \S[2]･･････？
+66. [MARKER: Message] [FACE: Ｆ綾] \.その･･･
+無精ひげを･･･\.とって欲しいの。
+67. [MARKER: Message] [FACE: Ｆお爺] ･･･え゛$d
+68. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　\S[2]\C[17]本当は･･･
+69. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　\S[2]\C[17]俺は綾に
+　　　　　行くなと言いたかった･･･
+70. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　\S[2]\C[17]その腕を掴んで
+　　　　　どこへも行くなと懇願したかった
+　　　　　･･･
+71. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　\S[2]\.\C[17]でも
+72. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　\S[2]\C[17]綾と
+　　　　　一回りほども離れた俺の年齢が
+　　　　　それを許さなかった･･････
+73. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 三郎。
+74. [MARKER: Message] [FACE: Ｆお爺] ･･･ん？
+75. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] おまえ
+何で結婚しないんだい。
+76. [MARKER: Message] [FACE: Ｆお爺] ･･････
+\.言ったろ、かぁさん。
+俺には約束した人がいるって。
+77. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] よく言うよ。
+あの、綾とかいう、若い医者の娘だろう？
+78. [MARKER: Message] [FACE: Ｆお爺] ･･･知ってんなら
+\.いちいち聞くなよ。
+79. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] あの娘ならもう
+帰って来やしないよ。
+80. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 聞けば、
+どこだかの村へ行って
+それっきりだそうじゃないか。
+81. [MARKER: Message] [FACE: Ｆお爺] ･･････しょうがないだろ。
+82. [MARKER: Message] [FACE: Ｆお爺] 戦が思ったより･･･長引いてるんだから。
+83. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] どうだかね。
+84. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.それにしたって、
+手紙くらい送ってよこしても
+良さそうなものだと思うけどね。
+85. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.悪いことは言わないから
+あきらめな、三郎。
+86. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 相手さえアレコレ選ばなきゃ
+あんたをムコに欲しいってウチは
+結構あんだよ。
+87. [MARKER: Message] [FACE: Ｆお爺] \S[2]･･････。
+88. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]綾は帰ってくる
+89. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]俺はそう信じて
+毎日 畑仕事の合間を縫って
+綾と再会を約束した あの場所へ出かけた
+90. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]\C[17]･･････綾と２人で見つけた場所･･･
+91. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\S[2]\C[17]この場所ならば
+誰も足を踏み入れない
+92. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\S[2]\C[17]誰に咎められることなく
+綾の帰りを待っていることが出来る･･･
+93. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]夏の嵐のさなかも
+冬の吹雪の中でも
+94. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]俺は
+綾の帰りを待ち続けた･･･
+95. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]しかし･･･
+96. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]何度季節が巡り巡っても
+97. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]綾は帰って来ることは
+なかった･･････
+98. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]綾以外に信じるものなど無かった俺は
+99. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]いつしか
+家に帰ることもせず
+100. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]足下に降りそそぐものが
+桜の花びらなのか
+紅葉なのか
+101. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]その区別すらつかなくなるほど
+待ち続け、そして
+102. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]そのうち俺の身体は
+多くの木々の枝の狭間で
+動かなくなっていた･･････
+103. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　　\C[17]\S[2]俺は間違っていたのだろうか･･･？
+104. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　　\S[2]\C[17]こうまでして
+　　　　　　　綾の帰りを待ち続けることに
+　　　　　　　何か･･････意味があったのだろうか？
+105. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　　\S[2]\C[17]例え誰に咎められても
+　　　　　　　
+106. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　　\S[2]\C[17]\.自ら綾を迎えに行くべきでは
+　　　　　　　なかったのだろうか･･････
+107. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　　\S[2]\C[17]そして
+　　　　　　　そんな疑問すら、なぜ
+108. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　　\S[2]\C[17]こんな風に 枯れ木と同化し、
+　　　　　　　身体を動かすことが出来なくなるまで
+　　　　　　　抱くことがなかったのだろうか･･････？
+109. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　　\C[17]\S[2]いや･･････
+110. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　　\C[17]\S[2]会いに行くのが怖かったのか･･････？
+111. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　　\C[17]\S[2]綾が俺を
+　　　　　　　忘れてしまったかも
+              しれないことが･･････？
+112. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　　\C[17]\S[2]だからこうして
+　　　　　　　いまだに心の奥底で
+　　　　　　　綾の帰りを待ち続けている･･････？
+113. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　\S[2]\C[19]･･･では
+　　　　　\.私を信じて･･･待っていて下さる？
+114. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\S[2]\C[17]･････････
+115. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\S[2]\C[17]俺はただ
+116. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\S[2]\C[17]綾の言葉を 信じていたかったのだ･･･
+117. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\S[2]\C[17]･･････きっと･･････
+118. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\S[2]\C[17]誰かの足音が
+　　　　　　近づいてくる･･････
+119. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\S[3]\C[17]綾･･････？
+120. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\S[3]\C[17]いや･･････
+121. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　\S[5]\C[17]･････狐･･････？

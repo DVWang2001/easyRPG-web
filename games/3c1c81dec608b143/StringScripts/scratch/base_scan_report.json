@@ -1,0 +1,370 @@
+{
+    "Map0001.txt": {
+        "tags": {
+            "#Message#": 9,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 53
+    },
+    "Map0002.txt": {
+        "tags": {
+            "#Message#": 145,
+            "#Choice#": 0,
+            "Select Face Graphic": 102
+        },
+        "lines": 1035
+    },
+    "Map0003.txt": {
+        "tags": {
+            "#Message#": 165,
+            "#Choice#": 0,
+            "Select Face Graphic": 108
+        },
+        "lines": 1183
+    },
+    "Map0004.txt": {
+        "tags": {
+            "#Message#": 143,
+            "#Choice#": 0,
+            "Select Face Graphic": 118
+        },
+        "lines": 1078
+    },
+    "Map0005.txt": {
+        "tags": {
+            "#Message#": 164,
+            "#Choice#": 0,
+            "Select Face Graphic": 94
+        },
+        "lines": 1127
+    },
+    "Map0006.txt": {
+        "tags": {
+            "#Message#": 22,
+            "#Choice#": 0,
+            "Select Face Graphic": 17
+        },
+        "lines": 165
+    },
+    "Map0007.txt": {
+        "tags": {
+            "#Message#": 121,
+            "#Choice#": 0,
+            "Select Face Graphic": 53
+        },
+        "lines": 820
+    },
+    "Map0008.txt": {
+        "tags": {
+            "#Message#": 18,
+            "#Choice#": 0,
+            "Select Face Graphic": 13
+        },
+        "lines": 125
+    },
+    "Map0009.txt": {
+        "tags": {
+            "#Message#": 157,
+            "#Choice#": 0,
+            "Select Face Graphic": 69
+        },
+        "lines": 1051
+    },
+    "Map0010.txt": {
+        "tags": {
+            "#Message#": 25,
+            "#Choice#": 0,
+            "Select Face Graphic": 12
+        },
+        "lines": 165
+    },
+    "Map0011.txt": {
+        "tags": {
+            "#Message#": 115,
+            "#Choice#": 0,
+            "Select Face Graphic": 54
+        },
+        "lines": 765
+    },
+    "Map0012.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Map0013.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Map0014.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Map0015.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Map0016.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Map0017.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Map0018.txt": {
+        "tags": {
+            "#Message#": 36,
+            "#Choice#": 0,
+            "Select Face Graphic": 24
+        },
+        "lines": 261
+    },
+    "Map0019.txt": {
+        "tags": {
+            "#Message#": 26,
+            "#Choice#": 0,
+            "Select Face Graphic": 21
+        },
+        "lines": 193
+    },
+    "Map0020.txt": {
+        "tags": {
+            "#Message#": 26,
+            "#Choice#": 0,
+            "Select Face Graphic": 18
+        },
+        "lines": 194
+    },
+    "Map0021.txt": {
+        "tags": {
+            "#Message#": 92,
+            "#Choice#": 0,
+            "Select Face Graphic": 41
+        },
+        "lines": 622
+    },
+    "Map0022.txt": {
+        "tags": {
+            "#Message#": 63,
+            "#Choice#": 0,
+            "Select Face Graphic": 34
+        },
+        "lines": 450
+    },
+    "Map0023.txt": {
+        "tags": {
+            "#Message#": 100,
+            "#Choice#": 0,
+            "Select Face Graphic": 49
+        },
+        "lines": 685
+    },
+    "Map0024.txt": {
+        "tags": {
+            "#Message#": 24,
+            "#Choice#": 0,
+            "Select Face Graphic": 15
+        },
+        "lines": 175
+    },
+    "Map0025.txt": {
+        "tags": {
+            "#Message#": 14,
+            "#Choice#": 0,
+            "Select Face Graphic": 9
+        },
+        "lines": 103
+    },
+    "Database/Animations.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 785
+    },
+    "Database/Attributes.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 101
+    },
+    "Database/ChipSet.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 29
+    },
+    "Database/Conditions.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 203
+    },
+    "Database/Hero.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 71
+    },
+    "Database/Items.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 755
+    },
+    "Database/Monsters.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 179
+    },
+    "Database/Skills.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 1919
+    },
+    "Database/Terrain.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 59
+    },
+    "Database/Troops.txt": {
+        "tags": {
+            "#Message#": 39,
+            "#Choice#": 0,
+            "Select Face Graphic": 44
+        },
+        "lines": 343
+    },
+    "Database/Vocab.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 385
+    },
+    "Database/Commons/Common0001.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Database/Commons/Common0002.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Database/Commons/Common0003.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Database/Commons/Common0004.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Database/Commons/Common0005.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Database/Commons/Common0006.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Database/Commons/Common0007.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Database/Commons/Common0008.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Database/Commons/Common0009.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    },
+    "Database/Commons/Common0010.txt": {
+        "tags": {
+            "#Message#": 0,
+            "#Choice#": 0,
+            "Select Face Graphic": 0
+        },
+        "lines": 0
+    }
+}

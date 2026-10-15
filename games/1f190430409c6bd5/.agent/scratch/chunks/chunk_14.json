@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "購入する",
+    "text": "購入する",
+    "marker": "ShopC:Buy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「何を買うんだい？」",
+    "text": "「何を買うんだい？」",
+    "marker": "ShopB:BuyScreen",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「いくつ買うんだい？」",
+    "text": "「いくつ買うんだい？」",
+    "marker": "ShopB:HowManyToBuy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「ありがとよっ！」",
+    "text": "「ありがとよっ！」",
+    "marker": "ShopB:SaleComplete",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「何を売るんだい？」",
+    "text": "「何を売るんだい？」",
+    "marker": "ShopB:SellScreen",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「いくつ売るんだい？」",
+    "text": "「いくつ売るんだい？」",
+    "marker": "ShopB:HowManyToSell",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「こんにちは。どんなご用ですか？」",
+    "text": "「こんにちは。どんなご用ですか？」",
+    "marker": "ShopC:ChoiceScreen",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「ほかにもご用がありますか？」",
+    "text": "「ほかにもご用がありますか？」",
+    "marker": "ShopC:ChoiceScreenAgain",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「何を買ってくれますか？」",
+    "text": "「何を買ってくれますか？」",
+    "marker": "ShopC:BuyScreen",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「いくつ買ってくれますか？」",
+    "text": "「いくつ買ってくれますか？」",
+    "marker": "ShopC:HowManyToBuy",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「どうもありがとう」",
+    "text": "「どうもありがとう」",
+    "marker": "ShopC:SaleComplete",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「何を売ってくれますか？」",
+    "text": "「何を売ってくれますか？」",
+    "marker": "ShopC:SellScreen",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「いくつ売ってくれますか？」",
+    "text": "「いくつ売ってくれますか？」",
+    "marker": "ShopC:HowManyToSell",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「宿泊料金は",
+    "text": "「宿泊料金は",
+    "marker": "InnA:IntroLine1a",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "になります。",
+    "text": "になります。",
+    "marker": "InnA:IntroLine1b",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "お泊まりになりますか？」",
+    "text": "お泊まりになりますか？」",
+    "marker": "InnA:IntroLine2",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "泊まる",
+    "text": "泊まる",
+    "marker": "InnB:Lodge",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "泊まらない",
+    "text": "泊まらない",
+    "marker": "InnB:DoNotLodge",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "「一泊",
+    "text": "「一泊",
+    "marker": "InnB:IntroLine1a",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "だが",
+    "text": "だが",
+    "marker": "InnB:IntroLine1b",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "泊まっていくかい？」",
+    "text": "泊まっていくかい？」",
+    "marker": "InnB:IntroLine2",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "所持数",
+    "text": "所持数",
+    "marker": "OwnedQuantity",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "装備数",
+    "text": "装備数",
+    "marker": "EquippedQuantity",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "チップ",
+    "text": "チップ",
+    "marker": "CurrencyUnit",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "戦う",
+    "text": "戦う",
+    "marker": "Fight",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "オート",
+    "text": "オート",
+    "marker": "Auto",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "逃げる",
+    "text": "逃げる",
+    "marker": "Escape",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "攻撃",
+    "text": "攻撃",
+    "marker": "Attack",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "防御",
+    "text": "防御",
+    "marker": "Defend",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "道具",
+    "text": "道具",
+    "marker": "Item",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "特殊技能",
+    "text": "特殊技能",
+    "marker": "Skill",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "装備",
+    "text": "装備",
+    "marker": "Equip",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "記録",
+    "text": "記録",
+    "marker": "File",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "ゲーム終了",
+    "text": "ゲーム終了",
+    "marker": "EndGame",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "最初から始める。",
+    "text": "最初から始める。",
+    "marker": "NewGame",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "続きから始める。",
+    "text": "続きから始める。",
+    "marker": "Continue",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "ゲーム終了する。",
+    "text": "ゲーム終了する。",
+    "marker": "Quit",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "レベル",
+    "text": "レベル",
+    "marker": "Level",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "ＨＰ",
+    "text": "ＨＰ",
+    "marker": "HP",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "ＭＰ",
+    "text": "ＭＰ",
+    "marker": "MP",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "正常",
+    "text": "正常",
+    "marker": "NormalState",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "Ｅ",
+    "text": "Ｅ",
+    "marker": "EXPShort",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "Ｌ",
+    "text": "Ｌ",
+    "marker": "LevelShort",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "Ｈ",
+    "text": "Ｈ",
+    "marker": "HPShort",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "Ｍ",
+    "text": "Ｍ",
+    "marker": "MPShort",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "消費ＭＰ",
+    "text": "消費ＭＰ",
+    "marker": "MPCost",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "攻撃力",
+    "text": "攻撃力",
+    "marker": "Offense",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "防御力",
+    "text": "防御力",
+    "marker": "Defense",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "精神力",
+    "text": "精神力",
+    "marker": "Mind",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "敏捷性",
+    "text": "敏捷性",
+    "marker": "Agility",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "右手",
+    "text": "右手",
+    "marker": "Arms",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "左手",
+    "text": "左手",
+    "marker": "Shield",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "胴体",
+    "text": "胴体",
+    "marker": "Armor",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "頭部",
+    "text": "頭部",
+    "marker": "Helmet",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "装飾品",
+    "text": "装飾品",
+    "marker": "Other",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "今までの経過を記してください。",
+    "text": "今までの経過を記してください。",
+    "marker": "ChooseSaveFile",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "どの記録から再開しますか？",
+    "text": "どの記録から再開しますか？",
+    "marker": "ChooseLoadFile",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "ゲームを終了してよろしいですか？",
+    "text": "ゲームを終了してよろしいですか？",
+    "marker": "QuitConfirm",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "はい",
+    "text": "はい",
+    "marker": "QuitYes",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Vocab.txt",
+    "key": "いいえ",
+    "text": "いいえ",
+    "marker": "QuitNo",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Database\\Commons\\Common0006.txt",
+    "key": "主得点　\\V[10] \\V[11] \\V[12] \\V[13] \\V[14]…\\V[24]残り\\V[25]\n主カ種　\\V[18] \\V[19] \\V[20] \\V[21] \\V[22]　\\V[26]残り\\V[27]\n敵得点　\\V[30] \\V[31] \\V[32] \\V[33] \\V[34]…\\V[44]残り\\V[45]\n敵カ種　\\V[38] \\V[39] \\V[40] \\V[41] \\V[42]  \\V[46]残り\\V[47]",
+    "text": "主得点　\\V[10] \\V[11] \\V[12] \\V[13] \\V[14]…\\V[24]残り\\V[25]\n主カ種　\\V[18] \\V[19] \\V[20] \\V[21] \\V[22]　\\V[26]残り\\V[27]\n敵得点　\\V[30] \\V[31] \\V[32] \\V[33] \\V[34]…\\V[44]残り\\V[45]\n敵カ種　\\V[38] \\V[39] \\V[40] \\V[41] \\V[42]  \\V[46]残り\\V[47]",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0012.txt",
+    "key": "ウェイン：\n　ま、まさか\\.・\\.・\\.・\\!負けた\\.・\\.・\\.・",
+    "text": "ウェイン：\n　ま、まさか\\.・\\.・\\.・\\!負けた\\.・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0012.txt",
+    "key": "セグメイン：\n　地獄に落ちな、新人君…",
+    "text": "セグメイン：\n　地獄に落ちな、新人君…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0012.txt",
+    "key": "ザング：\n　とっとと死にな！はっはっは！",
+    "text": "ザング：\n　とっとと死にな！はっはっは！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0012.txt",
+    "key": "エミール：\n　あなたは弱すぎた・・・残念です・・・",
+    "text": "エミール：\n　あなたは弱すぎた・・・残念です・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0012.txt",
+    "key": "サフィールス：\n　奇跡の生還ももうないだろう…\\!\n　さよなら・・・",
+    "text": "サフィールス：\n　奇跡の生還ももうないだろう…\\!\n　さよなら・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0012.txt",
+    "key": "セグメイン：\n　ま・・・\\.まさか・・・",
+    "text": "セグメイン：\n　ま・・・\\.まさか・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0012.txt",
+    "key": "セグメイン：\n　そんな・・・",
+    "text": "セグメイン：\n　そんな・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0012.txt",
+    "key": "ザング：\n　く・・・\\.くそ・・・",
+    "text": "ザング：\n　く・・・\\.くそ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0012.txt",
+    "key": "ザング：\n　こんな若造に・・・",
+    "text": "ザング：\n　こんな若造に・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベットチップ）\\<\\>×Ｂ.Ｊ.（×２）＝\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベットチップ）\\<\\>×Ｂ.Ｊ.（×２）＝\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベットチップ）×Ｂ.Ｊ.（×２）＝\\<\\>\\V[55]\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベットチップ）×Ｂ.Ｊ.（×２）＝\\<\\>\\V[55]\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×スリーセブンス（×８）＝\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×スリーセブンス（×８）＝\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）×スリーセブンス（×８）＝\\<\\>\\V[55]\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）×スリーセブンス（×８）＝\\<\\>\\V[55]\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×ストレート（×６）＝\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×ストレート（×６）＝\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）×ストレート（×６）＝\\<\\>\\V[55]\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）×ストレート（×６）＝\\<\\>\\V[55]\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×ファイブカード（×５）＝\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×ファイブカード（×５）＝\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）×ファイブカード（×５）＝\\<\\>\\V[55]\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）×ファイブカード（×５）＝\\<\\>\\V[55]\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×ＪＡＣＫ５（×１０）＝\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×ＪＡＣＫ５（×１０）＝\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）×ＪＡＣＫ５（×１０）＝\\<\\>\\V[55]\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）×ＪＡＣＫ５（×１０）＝\\<\\>\\V[55]\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×役なし＝\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×役なし＝\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）×役なし＝\\<\\>\\V[55]\\<",
+    "text": "　　　　　　　　\\>－　獲得チップ　－\\<\n\n\\>\\V[53]（ベット数）×役なし＝\\<\\>\\V[55]\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "\n　　　　　　\\>－　敵にダメージ！！！　－\\<",
+    "text": "\n　　　　　　\\>－　敵にダメージ！！！　－\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベットチップ）\\<\\>×Ｂ.Ｊ.（×２）＝\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベットチップ）\\<\\>×Ｂ.Ｊ.（×２）＝\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベットチップ）×Ｂ.Ｊ.（×２）＝\\<\\>\\V[55]\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベットチップ）×Ｂ.Ｊ.（×２）＝\\<\\>\\V[55]\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×スリーセブンス（×８）＝\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×スリーセブンス（×８）＝\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）×スリーセブンス（×８）＝\\<\\>\\V[55]\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）×スリーセブンス（×８）＝\\<\\>\\V[55]\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×ストレート（×６）＝\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×ストレート（×６）＝\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）×ストレート（×６）＝\\<\\>\\V[55]\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）×ストレート（×６）＝\\<\\>\\V[55]\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×ファイブカード（×５）＝\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×ファイブカード（×５）＝\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）×ファイブカード（×５）＝\\<\\>\\V[55]\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）×ファイブカード（×５）＝\\<\\>\\V[55]\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×ＪＡＣＫ５（×１０）＝\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×ＪＡＣＫ５（×１０）＝\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）×ＪＡＣＫ５（×１０）＝\\<\\>\\V[55]\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）×ＪＡＣＫ５（×１０）＝\\<\\>\\V[55]\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×役なし＝\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）\\<\\>×役なし＝\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）×役なし＝\\<\\>\\V[55]\\<",
+    "text": "　　　　　　　\\>－　チップダメージ　－\\<\n\n\\>\\V[53]（ベット数）×役なし＝\\<\\>\\V[55]\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0020.txt",
+    "key": "\n　　　　　\\>－　チップダメージ！！！　－\\<",
+    "text": "\n　　　　　\\>－　チップダメージ！！！　－\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0069.txt",
+    "key": "フラッシュ",
+    "text": "フラッシュ",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0069.txt",
+    "key": "ロイヤルストレートフラッシュ",
+    "text": "ロイヤルストレートフラッシュ",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0069.txt",
+    "key": "ストレートフラッシュ",
+    "text": "ストレートフラッシュ",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0069.txt",
+    "key": "ストレート",
+    "text": "ストレート",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0069.txt",
+    "key": "４カード",
+    "text": "４カード",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0069.txt",
+    "key": "スリーカード",
+    "text": "スリーカード",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0069.txt",
+    "key": "フルハウス",
+    "text": "フルハウス",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0069.txt",
+    "key": "ワンペア",
+    "text": "ワンペア",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0069.txt",
+    "key": "ツーペア",
+    "text": "ツーペア",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0069.txt",
+    "key": "\\V[247]　\\V[248]　\\V[249]　\\V[250]　\\V[251]　\\V[252]\n\\V[253]　\\V[254]　\\V[255]　\\V[256]　\\V[257]　\\V[258]\n\\V[259]\n\\V[281]  \\V[282]  \\V[283]  \\V[284]",
+    "text": "\\V[247]　\\V[248]　\\V[249]　\\V[250]　\\V[251]　\\V[252]\n\\V[253]　\\V[254]　\\V[255]　\\V[256]　\\V[257]　\\V[258]\n\\V[259]\n\\V[281]  \\V[282]  \\V[283]  \\V[284]",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0069.txt",
+    "key": "\\V[285]  \\V[286]  \\V[287]  \\V[288]  \\V[289]",
+    "text": "\\V[285]  \\V[286]  \\V[287]  \\V[288]  \\V[289]",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0070.txt",
+    "key": "\\V[267]　\\V[268]　\\V[269]　\\V[270]　\\V[271]　\\V[272]\n\\V[273]　\\V[274]　\\V[275]　\\V[276]　\\V[277]　\\V[278]\n\\V[279]\n\\V[291]  \\V[292]  \\V[293]  \\V[294]",
+    "text": "\\V[267]　\\V[268]　\\V[269]　\\V[270]　\\V[271]　\\V[272]\n\\V[273]　\\V[274]　\\V[275]　\\V[276]　\\V[277]　\\V[278]\n\\V[279]\n\\V[291]  \\V[292]  \\V[293]  \\V[294]",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0091.txt",
+    "key": "セグメイン：\n　親を決めるぞ。",
+    "text": "セグメイン：\n　親を決めるぞ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0091.txt",
+    "key": "ザング：\n　親決めだ。",
+    "text": "ザング：\n　親決めだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0091.txt",
+    "key": "エミール：\n　それでは、親を決めましょう。",
+    "text": "エミール：\n　それでは、親を決めましょう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0091.txt",
+    "key": "サフィールス：\n　それでは、親を決めよう。",
+    "text": "サフィールス：\n　それでは、親を決めよう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "セグメイン：\n　君が親だぜ。",
+    "text": "セグメイン：\n　君が親だぜ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "セグメイン：\n　さて、いくつ賭けるか・・・",
+    "text": "セグメイン：\n　さて、いくつ賭けるか・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "セグメイン：\n　私が親だな。",
+    "text": "セグメイン：\n　私が親だな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "セグメイン：\n　さて、いくつ賭けてくれるのかな？",
+    "text": "セグメイン：\n　さて、いくつ賭けてくれるのかな？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "ザング：\n　お前が親だ。",
+    "text": "ザング：\n　お前が親だ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "ザング：\n　賭けるぜ。",
+    "text": "ザング：\n　賭けるぜ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "ザング：\n　俺が親だ。",
+    "text": "ザング：\n　俺が親だ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "ザング：\n　いくつで勝負する？",
+    "text": "ザング：\n　いくつで勝負する？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "エミール：\n　あなたが親ですね。",
+    "text": "エミール：\n　あなたが親ですね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "エミール：\n　それでは、賭けましょう。",
+    "text": "エミール：\n　それでは、賭けましょう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "エミール：\n　私が親ですね。",
+    "text": "エミール：\n　私が親ですね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "エミール：\n　いくつで勝負するんですか？",
+    "text": "エミール：\n　いくつで勝負するんですか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "サフィールス：\n　君が親か…。",
+    "text": "サフィールス：\n　君が親か…。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "サフィールス：\n　さて、いくつ賭けるか…。",
+    "text": "サフィールス：\n　さて、いくつ賭けるか…。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "サフィールス：\n　私が親だ。",
+    "text": "サフィールス：\n　私が親だ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0092.txt",
+    "key": "サフィールス：\n　いくつ賭けるんですか？",
+    "text": "サフィールス：\n　いくつ賭けるんですか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0094.txt",
+    "key": "セグメイン：\n　それじゃ、いくぜ！！！",
+    "text": "セグメイン：\n　それじゃ、いくぜ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0094.txt",
+    "key": "ウェイン：\n　絶対負けられない！！！",
+    "text": "ウェイン：\n　絶対負けられない！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0094.txt",
+    "key": "ザング：\n　じゃ…死ねや！！！",
+    "text": "ザング：\n　じゃ…死ねや！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0094.txt",
+    "key": "ウェイン：\n　俺は勝つ！！！",
+    "text": "ウェイン：\n　俺は勝つ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0094.txt",
+    "key": "エミール：\n　それでは、始めましょう！",
+    "text": "エミール：\n　それでは、始めましょう！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0094.txt",
+    "key": "ウェイン：\n　負けることはできないんだ！！！",
+    "text": "ウェイン：\n　負けることはできないんだ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0094.txt",
+    "key": "サフィールス：\n　それでは、始めよう！！！",
+    "text": "サフィールス：\n　それでは、始めよう！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0094.txt",
+    "key": "ウェイン：\n　まだ死にたくはないんだ！！！",
+    "text": "ウェイン：\n　まだ死にたくはないんだ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0095.txt",
+    "key": "ウェイン：\n　よし！俺が親だ。",
+    "text": "ウェイン：\n　よし！俺が親だ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0095.txt",
+    "key": "セグメイン：\n　さて…いくつ賭けるとするか…",
+    "text": "セグメイン：\n　さて…いくつ賭けるとするか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0095.txt",
+    "key": "ウェイン：\n　俺が親か・・・",
+    "text": "ウェイン：\n　俺が親か・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0095.txt",
+    "key": "セグメイン：\n　つまり、私が賭けるんだな…",
+    "text": "セグメイン：\n　つまり、私が賭けるんだな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0095.txt",
+    "key": "セグメイン：\n　残念だが、私が親だな。",
+    "text": "セグメイン：\n　残念だが、私が親だな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0095.txt",
+    "key": "セグメント：\n　さて・・・\n　いくつ賭けてくれるか楽しみだよ…。",
+    "text": "セグメント：\n　さて・・・\n　いくつ賭けてくれるか楽しみだよ…。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0095.txt",
+    "key": "セグメイン：\n　私が親か…。",
+    "text": "セグメイン：\n　私が親か…。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0095.txt",
+    "key": "セグメイン：\n　はやく賭けてくれよ。",
+    "text": "セグメイン：\n　はやく賭けてくれよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0095.txt",
+    "key": "ザング：\n　さて…いくつ賭けるか…",
+    "text": "ザング：\n　さて…いくつ賭けるか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0095.txt",
+    "key": "ザング：\n　俺が賭けるのか…",
+    "text": "ザング：\n　俺が賭けるのか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0095.txt",
+    "key": "ザング：\n　俺が親だ。",
+    "text": "ザング：\n　俺が親だ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Database\\Commons\\Common0095.txt",
+    "key": "ザング：\n　勝負してこいよ。",
+    "text": "ザング：\n　勝負してこいよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  }
+]

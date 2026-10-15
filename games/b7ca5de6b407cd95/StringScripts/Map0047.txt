@@ -1,0 +1,75 @@
+**********Event2**********
+-----Page1-----
+#Message#
+\C[10]          > Early.Warning.System
+\.\.\.
+          > Bounty-Head Alert !!
+\.\.\.\.\.\.\^
+##
+
+
+#Message#
+\C[10]          > Head - NO.002 「Abyss Dragon」
+\.\.\.
+          > Rank:SS
+##
+
+
+
+
+**********Event3**********
+-----Page1-----
+#Message#
+\C[10]         VS: Bounty Head - 「Abyss Dragon」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: ＪＤ顔, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+10年前被你們殺害的夥伴的血債…
+的確已經還清了。
+##
+
+
+#Message#
+釣竿就送給你了…
+\!拿去當三途川的渡河費吧。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+「賞金首：深淵巨龍」已擊敗！！
+##
+
+
+#Message#
+> 獎金：9,900.cd 獲得
+
+> 能力值 +10
+##
+
+
+#Message#
+前往地下第一層的直達電梯已可使用！
+##
+
+
+
+
+**********Event4**********
+-----Page1-----
+#Message#
+前往地下第一層的直達電梯。
+##
+
+
+#Message#
+…但目前仍無法使用。
+##
+
+
+
+

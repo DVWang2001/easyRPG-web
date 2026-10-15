@@ -1,0 +1,38 @@
+﻿1. [MARKER: Message] [FACE: Ｆタマ] ナンマイダブニャ。
+2. [MARKER: Message] [FACE: F鞍春] 死んではおらぬて。
+3. [MARKER: Message] [FACE: Ｆタマ] 鍵も酒も持ったニャ。
+4. [MARKER: Message] [FACE: Ｆタマ] おジジには悪いが
+勝手に鍵持ってくニャ。
+5. [MARKER: Message] [FACE: Ｆタマ] えーと
+6. [MARKER: Message] [FACE: Ｆタマ] あったニャ。
+7. [MARKER: Message] [FACE: Ｆタマ] はニャ？
+･･････コレはなにニャ？
+8. [MARKER: Message] [FACE: F鞍春] ほう、酒か。
+気付け薬代わりになるな。
+9. [MARKER: Message] [FACE: Ｆタマ] ･･････
+もらってけと言っているように
+聞こえるニャ。
+10. [MARKER: Message] [FACE: F鞍春] ふむ。延命酒『剣豪』か。
+11. [MARKER: Message] [FACE: F鞍春] こんな歳で
+こんな強い酒を飲んでいたとは意外だな。
+12. [MARKER: Message] [FACE: Ｆタマ] 聞いとらんニャ　お主･･･。
+13. [MARKER: Message] [FACE: F鞍春] \S[2]･･････。
+14. [MARKER: Message] [FACE: Ｆタマ] \S[2]････････････。
+15. [MARKER: Message] [FACE: Ｆタマ] \.なんか切なくなってきたニャ。
+16. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+17. [MARKER: Message] [FACE: Ｆタマ] \.前におジジのこと
+マコトから聞いたことがあるニャ。
+
+18. [MARKER: Message] [FACE: Ｆタマ] \.枯れ木と一緒に 埋まっているところを
+姫さんが見つけて 拾ってきたって。
+19. [MARKER: Message] [FACE: F鞍春] \S[2]･････････
+20. [MARKER: Message] [FACE: F鞍春] \S[2]･･･では
+今の「狐」というのは･･･
+21. [MARKER: Message] [FACE: Ｆタマ] 姫さんのことニャ。\.きっと。
+22. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+23. [MARKER: Message] [FACE: Ｆタマ] \.しかし人の心とは そんなに
+とり憑き易いものなのかニャ。
+24. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+25. [MARKER: Message] [FACE: F鞍春] \.そうかもしれぬな。
+26. [MARKER: Message] [FACE: Ｆタマ] 鍵がないと開かないニャ。
+そこら辺に緑の包みがないニャ？

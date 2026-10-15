@@ -1,0 +1,17 @@
+﻿*****Entry1*****
+#Name# [20]
+Abyss1
+
+
+
+*****Entry2*****
+#Name# [20]
+Abyss2
+
+
+
+*****Entry3*****
+#Name# [20]
+Abyss3
+
+

@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　よっ・・・",
+    "text": "ウェイン：\n　よっ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　くっ！切ったようだ・・・",
+    "text": "ウェイン：\n　くっ！切ったようだ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　・・・死んでるのか？",
+    "text": "ウェイン：\n　・・・死んでるのか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　おい！大丈夫か！？",
+    "text": "ウェイン：\n　おい！大丈夫か！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "男：\n　ん・・・",
+    "text": "男：\n　ん・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　気づいたみたいだな…。",
+    "text": "ウェイン：\n　気づいたみたいだな…。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "男：\n　だ・・・誰やあんた？",
+    "text": "男：\n　だ・・・誰やあんた？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "男：\n　わいは生きてるんか・・・？",
+    "text": "男：\n　わいは生きてるんか・・・？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　あぁ、生きてる…\\!だが、いったいどうした？",
+    "text": "ウェイン：\n　あぁ、生きてる…\\!だが、いったいどうした？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "男：\n　いや、出口を探しとったら、壁が崩れて来てな・・・",
+    "text": "男：\n　いや、出口を探しとったら、壁が崩れて来てな・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "男：\n　このザマや・・・",
+    "text": "男：\n　このザマや・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "男：\n　でも、助かったんやな…",
+    "text": "男：\n　でも、助かったんやな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　いや、まだだ。\n　助かるには、ここから出ないとな。",
+    "text": "ウェイン：\n　いや、まだだ。\n　助かるには、ここから出ないとな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　どうだ？立てるか？",
+    "text": "ウェイン：\n　どうだ？立てるか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "男：\n　なんとか・・・",
+    "text": "男：\n　なんとか・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "男：\n　くぅ…",
+    "text": "男：\n　くぅ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　どこか痛むのか？",
+    "text": "ウェイン：\n　どこか痛むのか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "男：\n　いや、腹が減っただけや・・･",
+    "text": "男：\n　いや、腹が減っただけや・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　あなたもＤ．Ｊの選手なのか？",
+    "text": "ウェイン：\n　あなたもＤ．Ｊの選手なのか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "男：\n　あぁ…わいの名前は「ラグ」。\n　Ｄ．Ｊの選手や。\n　まぁ、落ちたからもう死んだと思われとるやろな。",
+    "text": "男：\n　あぁ…わいの名前は「ラグ」。\n　Ｄ．Ｊの選手や。\n　まぁ、落ちたからもう死んだと思われとるやろな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　あんさんも？",
+    "text": "ラグ：\n　あんさんも？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　私は「ウェイン」。\n　まぁ、あとは君と同じだろう。",
+    "text": "ウェイン：\n　私は「ウェイン」。\n　まぁ、あとは君と同じだろう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　だが、よく落ちて助かったな。",
+    "text": "ウェイン：\n　だが、よく落ちて助かったな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　へへへ…わいはもともと、軽業師やねん。\n　体の身軽さには自信があるんや。",
+    "text": "ラグ：\n　へへへ…わいはもともと、軽業師やねん。\n　体の身軽さには自信があるんや。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　とにかく、ここから脱出しないとな。",
+    "text": "ウェイン：\n　とにかく、ここから脱出しないとな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　どうだ？一緒に行くか？",
+    "text": "ウェイン：\n　どうだ？一緒に行くか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　１人より２人の方が脱出しやすいだろ。",
+    "text": "ウェイン：\n　１人より２人の方が脱出しやすいだろ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　そうやな。そうしよ。",
+    "text": "ラグ：\n　そうやな。そうしよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　ツルハシか…\n　ここを掘った時に忘れて行った物だろうな・・・",
+    "text": "ウェイン：\n　ツルハシか…\n　ここを掘った時に忘れて行った物だろうな・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　だが、だいぶ古びてるな。\n　これじゃ、掘り進むのは無理だろう。\n　まぁ、せいぜい薄い壁を壊すくらいってとこか・・・",
+    "text": "ウェイン：\n　だが、だいぶ古びてるな。\n　これじゃ、掘り進むのは無理だろう。\n　まぁ、せいぜい薄い壁を壊すくらいってとこか・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　どうする？持って行くか？",
+    "text": "ウェイン：\n　どうする？持って行くか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "持って行く。",
+    "text": "持って行く。",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　岩か・・・乗り越えるか？",
+    "text": "ウェイン：\n　岩か・・・乗り越えるか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　くっ…\\!大きすぎるな…無理か…",
+    "text": "ウェイン：\n　くっ…\\!大きすぎるな…無理か…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　わいが行きましょか？",
+    "text": "ラグ：\n　わいが行きましょか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　あぁ・・・",
+    "text": "ウェイン：\n　あぁ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　ほいっと。",
+    "text": "ラグ：\n　ほいっと。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　なんだ、簡単でんがな。\n　あんさん、こんなのも行けんのかい？",
+    "text": "ラグ：\n　なんだ、簡単でんがな。\n　あんさん、こんなのも行けんのかい？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　俺は頭脳派だからな…。",
+    "text": "ウェイン：\n　俺は頭脳派だからな…。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　ほい、手ぇ貸したる。",
+    "text": "ラグ：\n　ほい、手ぇ貸したる。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　よっ！",
+    "text": "ウェイン：\n　よっ！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　ラグ、頼む。",
+    "text": "ウェイン：\n　ラグ、頼む。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　ほい。",
+    "text": "ラグ：\n　ほい。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　まだ土が柔らかい・・・。\n　どうやら、最近崩れたようだな・・・。",
+    "text": "ウェイン：\n　まだ土が柔らかい・・・。\n　どうやら、最近崩れたようだな・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　ツルハシを使ってみるか…",
+    "text": "ウェイン：\n　ツルハシを使ってみるか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　ん？ツルハシが壊れてしまった…",
+    "text": "ウェイン：\n　ん？ツルハシが壊れてしまった…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　もう、使えないな…",
+    "text": "ウェイン：\n　もう、使えないな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　だが・・・この岩は、かたすぎる…\n　このツルハシじゃ、無理そうだ…\n　ツルハシが壊れるのがオチだ…",
+    "text": "ウェイン：\n　だが・・・この岩は、かたすぎる…\n　このツルハシじゃ、無理そうだ…\n　ツルハシが壊れるのがオチだ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　・・・なにもなしか。",
+    "text": "ウェイン：\n　・・・なにもなしか。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　だが、前に壁はないぞ…。",
+    "text": "ウェイン：\n　だが、前に壁はないぞ…。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　崩れてるな…とっとと壊すか・・・",
+    "text": "ウェイン：\n　崩れてるな…とっとと壊すか・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　他と比べると、まだ新しい…\n　どうやら、最近崩れたようだな・・・。",
+    "text": "ウェイン：\n　他と比べると、まだ新しい…\n　どうやら、最近崩れたようだな・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　まだ崩れてから、あまり時間がたってないようだな…",
+    "text": "ウェイン：\n　まだ崩れてから、あまり時間がたってないようだな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　壁が崩れてるな・・・",
+    "text": "ウェイン：\n　壁が崩れてるな・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　金貨？こんなところに…",
+    "text": "ウェイン：\n　金貨？こんなところに…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "拾う。",
+    "text": "拾う。",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "拾わない。",
+    "text": "拾わない。",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "\\>ウェイン：\\<\n　\\>な！？なんだ！？\\<",
+    "text": "\\>ウェイン：\\<\n　\\>な！？なんだ！？\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "？：\n　きゃーはっはっは！！！",
+    "text": "？：\n　きゃーはっはっは！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　俺達は先に進むことを選択したんだ…。\n　先に進もう…。",
+    "text": "ウェイン：\n　俺達は先に進むことを選択したんだ…。\n　先に進もう…。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　ふぅ…なんとかでてこれたな…",
+    "text": "ウェイン：\n　ふぅ…なんとかでてこれたな…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　なぁ…なんで宝箱のコインが\\V[311]枚になったんや？\n　あれ、1枚しか入ってなかったやろ？",
+    "text": "ラグ：\n　なぁ…なんで宝箱のコインが\\V[311]枚になったんや？\n　あれ、1枚しか入ってなかったやろ？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　これさ。",
+    "text": "ウェイン：\n　これさ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　あっ！拾った金貨や！！！",
+    "text": "ラグ：\n　あっ！拾った金貨や！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　そう、あの時、この洞窟で拾った金貨を\\V[311]枚だけ\n　宝箱の中に落としたのさ。",
+    "text": "ウェイン：\n　そう、あの時、この洞窟で拾った金貨を\\V[311]枚だけ\n　宝箱の中に落としたのさ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　なるほど！さすがは頭脳派や！！！",
+    "text": "ラグ：\n　なるほど！さすがは頭脳派や！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　・・・って、あんさんもイカサマやん！！！",
+    "text": "ラグ：\n　・・・って、あんさんもイカサマやん！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　バレなきゃいいんだよ。",
+    "text": "ウェイン：\n　バレなきゃいいんだよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　ばれたらイカサマ。ばれなきゃイカサマじゃない。\n　これ、常識だろ？",
+    "text": "ウェイン：\n　ばれたらイカサマ。ばれなきゃイカサマじゃない。\n　これ、常識だろ？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　ホンマかいな？",
+    "text": "ラグ：\n　ホンマかいな？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　それよりも、気になることがあるんだ…。",
+    "text": "ウェイン：\n　それよりも、気になることがあるんだ…。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　なぁ…あいつ、最後に、\n　「ラグロパスの加護でも、あったというのか・・・」\n　って言ってたよな・・・",
+    "text": "ウェイン：\n　なぁ…あいつ、最後に、\n　「ラグロパスの加護でも、あったというのか・・・」\n　って言ってたよな・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　そうやな…で、それがどないしたん？",
+    "text": "ラグ：\n　そうやな…で、それがどないしたん？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　なぁ・・・そういや、あのライニーって男は\n　この洞窟の中で、どうやって生きてるんだ？",
+    "text": "ウェイン：\n　なぁ・・・そういや、あのライニーって男は\n　この洞窟の中で、どうやって生きてるんだ？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　食料だって、なんにもないんだぜ…",
+    "text": "ウェイン：\n　食料だって、なんにもないんだぜ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　そう言われてみれば、そうやな…\n　ほんまに、どないしてんやろ？",
+    "text": "ラグ：\n　そう言われてみれば、そうやな…\n　ほんまに、どないしてんやろ？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　「餌」\\.・\\.・\\.・。",
+    "text": "ウェイン：\n　「餌」\\.・\\.・\\.・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　ん？どないしたん？",
+    "text": "ラグ：\n　ん？どないしたん？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　い、いや…\\!まさかな・・・ははは・・・",
+    "text": "ウェイン：\n　い、いや…\\!まさかな・・・ははは・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　と、とにかく、先に進もう！！！",
+    "text": "ウェイン：\n　と、とにかく、先に進もう！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ラグ：\n　よっしゃ、行くで。",
+    "text": "ラグ：\n　よっしゃ、行くで。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "５４４３３２２１１",
+    "text": "５４４３３２２１１",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　これを開けるか？",
+    "text": "ウェイン：\n　これを開けるか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "これに決定。",
+    "text": "これに決定。",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "やめておく。",
+    "text": "やめておく。",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　よし！開けるぞ！！！",
+    "text": "ウェイン：\n　よし！開けるぞ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　さてぇ！何枚入ってるのかなぁ？",
+    "text": "マリス・サーティーン：\n　さてぇ！何枚入ってるのかなぁ？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　３枚か。まぁまぁだな。",
+    "text": "ウェイン：\n　３枚か。まぁまぁだな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ラグ：\n　つまり…残りは\\V[311]枚やな・・・",
+    "text": "ラグ：\n　つまり…残りは\\V[311]枚やな・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　さぁ！どんどん行ってみようよ！！！",
+    "text": "マリス・サーティーン：\n　さぁ！どんどん行ってみようよ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　さぁ、次で最後だよぉ。覚悟はいいかい？",
+    "text": "マリス・サーティーン：\n　さぁ、次で最後だよぉ。覚悟はいいかい？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "？：\n　きゃーはっはっは！！！",
+    "text": "？：\n　きゃーはっはっは！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "？：\n　獲物がきたきたぁっ！！！",
+    "text": "？：\n　獲物がきたきたぁっ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　こ、ここは！？",
+    "text": "ウェイン：\n　こ、ここは！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "？：\n　ボクは「マリス・サーティーン」さ。\n　ここは、ボクの空間だよ。\n　キミ達はここで、ボクの餌になるのさ！！！",
+    "text": "？：\n　ボクは「マリス・サーティーン」さ。\n　ここは、ボクの空間だよ。\n　キミ達はここで、ボクの餌になるのさ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　餌？・・・つまり、俺達は罠にかかったってことか…",
+    "text": "ウェイン：\n　餌？・・・つまり、俺達は罠にかかったってことか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　そーゆーこと。",
+    "text": "マリス・サーティーン：\n　そーゆーこと。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ラグ：\n　なに、ワケの分からんこと、ぬかしてんねん！！！\n　はよ、こっから出さんかい！！！",
+    "text": "ラグ：\n　なに、ワケの分からんこと、ぬかしてんねん！！！\n　はよ、こっから出さんかい！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　う～ん、怒っちゃいや～ん。でもダメだよぉ～。\n　だって、君達が死なないと\n　おいしいご飯が食べられないもぉん。",
+    "text": "マリス・サーティーン：\n　う～ん、怒っちゃいや～ん。でもダメだよぉ～。\n　だって、君達が死なないと\n　おいしいご飯が食べられないもぉん。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ラグ：\n　いい加減にせぇよ！！！",
+    "text": "ラグ：\n　いい加減にせぇよ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　な～んてねぇ。",
+    "text": "マリス・サーティーン：\n　な～んてねぇ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　でもぉ～、それじゃぁ、かわいそうだからぁ～。\n　チャンスをあげちゃう～。",
+    "text": "マリス・サーティーン：\n　でもぉ～、それじゃぁ、かわいそうだからぁ～。\n　チャンスをあげちゃう～。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　うぅ～ん・・・\\!ボクって、やさしー！！！",
+    "text": "マリス・サーティーン：\n　うぅ～ん・・・\\!ボクって、やさしー！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ラグ：\n　こ、こいつ・・・",
+    "text": "ラグ：\n　こ、こいつ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　きゃーはっはっは！！！",
+    "text": "マリス・サーティーン：\n　きゃーはっはっは！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　ラグ、やめろ・・・\\!\n　で・・・チャンス？",
+    "text": "ウェイン：\n　ラグ、やめろ・・・\\!\n　で・・・チャンス？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　そう！大チャーンス！！！",
+    "text": "マリス・サーティーン：\n　そう！大チャーンス！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　カッモォーン！！！",
+    "text": "マリス・サーティーン：\n　カッモォーン！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　さぁてっ！ここに９個の宝箱がありまぁす！",
+    "text": "マリス・サーティーン：\n　さぁてっ！ここに９個の宝箱がありまぁす！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　この宝箱の中には、金貨が何枚か、入ってまぁす！\n　その数は最高で６枚！最低で１枚でぇす！",
+    "text": "マリス・サーティーン：\n　この宝箱の中には、金貨が何枚か、入ってまぁす！\n　その数は最高で６枚！最低で１枚でぇす！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　あなたは、この宝箱を３個だけ開けられまぁす！\n　そして、金貨の合計数が１３枚以上だったら\n　あなた達を、帰してあげちゃいまぁす！！！",
+    "text": "マリス・サーティーン：\n　あなたは、この宝箱を３個だけ開けられまぁす！\n　そして、金貨の合計数が１３枚以上だったら\n　あなた達を、帰してあげちゃいまぁす！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　でもぉ～…もし金貨が１２枚以下だったらァ\\.・\\.・\\.・\\.？",
+    "text": "マリス・サーティーン：\n　でもぉ～…もし金貨が１２枚以下だったらァ\\.・\\.・\\.・\\.？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "\\>マリス・サーティーン：\\<\n　\\>血ィぶちまいて、死んじゃいまぁすっ！！！\\<",
+    "text": "\\>マリス・サーティーン：\\<\n　\\>血ィぶちまいて、死んじゃいまぁすっ！！！\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　う～ん、ス・\\.リ・\\.リ・\\.ン・\\.グ♪",
+    "text": "マリス・サーティーン：\n　う～ん、ス・\\.リ・\\.リ・\\.ン・\\.グ♪",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　さぁ！早くやろうよ！！！",
+    "text": "マリス・サーティーン：\n　さぁ！早くやろうよ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ラグ：\n　くっ・・・この野郎・・・",
+    "text": "ラグ：\n　くっ・・・この野郎・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　だが、どうやら、やらなきゃいけないみたいだな。",
+    "text": "ウェイン：\n　だが、どうやら、やらなきゃいけないみたいだな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　そのとおりぃっ！！！\n　やらなきゃ、すぐにあの世行きだよ！！！",
+    "text": "マリス・サーティーン：\n　そのとおりぃっ！！！\n　やらなきゃ、すぐにあの世行きだよ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　それじゃ、スタートぉ！！！",
+    "text": "マリス・サーティーン：\n　それじゃ、スタートぉ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　さて、最初はどれを開けるのかなぁ？",
+    "text": "マリス・サーティーン：\n　さて、最初はどれを開けるのかなぁ？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　くっ…たったの１枚か。やばいな…。",
+    "text": "ウェイン：\n　くっ…たったの１枚か。やばいな…。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　運わる～い！！！",
+    "text": "マリス・サーティーン：\n　運わる～い！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　２枚か。ちょっと厳しいか…。",
+    "text": "ウェイン：\n　２枚か。ちょっと厳しいか…。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ラグ：\n　って、ちょっと待てぇ！\n　宝箱には、最高で６枚しか入ってないんやで！！！\n　どうあがいたって、無理やんか！！！",
+    "text": "ラグ：\n　って、ちょっと待てぇ！\n　宝箱には、最高で６枚しか入ってないんやで！！！\n　どうあがいたって、無理やんか！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ラグ：\n　どうするんや？",
+    "text": "ラグ：\n　どうするんや？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　どうするぅ？勝ち目はなくなっちゃたねぇ。\n　もう、あきらめよっか？",
+    "text": "マリス・サーティーン：\n　どうするぅ？勝ち目はなくなっちゃたねぇ。\n　もう、あきらめよっか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　・・・。",
+    "text": "ウェイン：\n　・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "あきらめる。",
+    "text": "あきらめる。",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "まだ続ける。",
+    "text": "まだ続ける。",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　くっ…ここまでか・・・",
+    "text": "ウェイン：\n　くっ…ここまでか・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　残念でしたぁ～！！！",
+    "text": "マリス・サーティーン：\n　残念でしたぁ～！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　まだ続けるさ・・・あきらめてたまるかよ。",
+    "text": "ウェイン：\n　まだ続けるさ・・・あきらめてたまるかよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　ん？？？もう勝ち目ないのにぃ？",
+    "text": "マリス・サーティーン：\n　ん？？？もう勝ち目ないのにぃ？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　あきらめたら、そこで終わり。\n　なにも見えてこない。",
+    "text": "ウェイン：\n　あきらめたら、そこで終わり。\n　なにも見えてこない。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　ここでやめれば、自分で負けを認めることになる。\n　つまり、自分に負けること。",
+    "text": "ウェイン：\n　ここでやめれば、自分で負けを認めることになる。\n　つまり、自分に負けること。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　俺は、自分に負けない。",
+    "text": "ウェイン：\n　俺は、自分に負けない。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　ぐぐぐぐぐぐぅ・・・おまえ生意気ぃ！！！",
+    "text": "マリス・サーティーン：\n　ぐぐぐぐぐぐぅ・・・おまえ生意気ぃ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　くっ！！！どうせ、おまえの負けは決定さ！！！\n　勝手に続けてればいいんだよ！！！",
+    "text": "マリス・サーティーン：\n　くっ！！！どうせ、おまえの負けは決定さ！！！\n　勝手に続けてればいいんだよ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　あとで、地獄を見せてやる！！！",
+    "text": "マリス・サーティーン：\n　あとで、地獄を見せてやる！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　最後だ・・･これを開けるか？",
+    "text": "ウェイン：\n　最後だ・・・これを開けるか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ラグ：\n　頼む！！！",
+    "text": "ラグ：\n　頼む！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　（・\\.・\\.・\\|１枚だ…。）",
+    "text": "ウェイン：\n　（・\\.・\\.・\\|１枚だ…。）",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ラグ：\n　（なんやて！？たったの１枚しか入ってないんか？\n　　合計しても、\\V[310]枚やんか！あと、\\V[311]枚足らんで！！！\n　　ウェイン！！！どうするんや？）",
+    "text": "ラグ：\n　（なんやて！？たったの１枚しか入ってないんか？\n　　合計しても、\\V[310]枚やんか！あと、\\V[311]枚足らんで！！！\n　　ウェイン！！！どうするんや？）",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　（くそっ・・・どうすればいいんだ・・・\n　　このまま負けるしかないのか・・・）",
+    "text": "ウェイン：\n　（くそっ・・・どうすればいいんだ・・・\n　　このまま負けるしかないのか・・・）",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　・\\.・\\.・\\.。",
+    "text": "ウェイン：\n　・\\.・\\.・\\.。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　！！！",
+    "text": "ウェイン：\n　！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　さぁ～…何枚入ってたのかなぁ～？？？",
+    "text": "マリス・サーティーン：\n　さぁ～…何枚入ってたのかなぁ～？？？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　・\\.・\\.・\\|\\V[311]枚だ。",
+    "text": "ウェイン：\n　・\\.・\\.・\\|\\V[311]枚だ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "マリス・サーティーン：\n　な、なにぃぃぃぃぃぃぃっ！\\V[311]枚ぃ！？",
+    "text": "マリス・サーティーン：\n　な、なにぃぃぃぃぃぃぃっ！\\V[311]枚ぃ！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0018.txt",
+    "key": "ウェイン：\n　そうだ。これで合計13枚。\\!俺達の勝ちだ。",
+    "text": "ウェイン：\n　そうだ。これで合計13枚。\\!俺達の勝ちだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  }
+]

@@ -1,0 +1,14 @@
+﻿*****Entry1*****
+#Name# [20]
+毒攻撃
+
+#Description# [50]
+敵単体にダメージを与え、毒状態にする。
+
+#UseMessage1# [30]
+の攻撃！
+
+#UseMessage2# [50]
+
+
+

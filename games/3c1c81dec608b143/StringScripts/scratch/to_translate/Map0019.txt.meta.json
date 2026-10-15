@@ -1,0 +1,267 @@
+{
+    "filepath": "Map0019.txt",
+    "meta": [
+        {
+            "type": "message",
+            "start_line_idx": 5,
+            "end_line_idx": 6
+        },
+        {
+            "type": "message",
+            "start_line_idx": 13,
+            "end_line_idx": 13
+        },
+        {
+            "type": "message",
+            "start_line_idx": 20,
+            "end_line_idx": 20
+        },
+        {
+            "type": "message",
+            "start_line_idx": 25,
+            "end_line_idx": 25
+        },
+        {
+            "type": "message",
+            "start_line_idx": 32,
+            "end_line_idx": 32
+        },
+        {
+            "type": "message",
+            "start_line_idx": 39,
+            "end_line_idx": 40
+        },
+        {
+            "type": "message",
+            "start_line_idx": 47,
+            "end_line_idx": 49
+        },
+        {
+            "type": "message",
+            "start_line_idx": 60,
+            "end_line_idx": 60
+        },
+        {
+            "type": "message",
+            "start_line_idx": 67,
+            "end_line_idx": 67
+        },
+        {
+            "type": "message",
+            "start_line_idx": 74,
+            "end_line_idx": 74
+        },
+        {
+            "type": "message",
+            "start_line_idx": 79,
+            "end_line_idx": 80
+        },
+        {
+            "type": "message",
+            "start_line_idx": 87,
+            "end_line_idx": 88
+        },
+        {
+            "type": "message",
+            "start_line_idx": 95,
+            "end_line_idx": 95
+        },
+        {
+            "type": "message",
+            "start_line_idx": 102,
+            "end_line_idx": 102
+        },
+        {
+            "type": "message",
+            "start_line_idx": 109,
+            "end_line_idx": 109
+        },
+        {
+            "type": "message",
+            "start_line_idx": 116,
+            "end_line_idx": 116
+        },
+        {
+            "type": "message",
+            "start_line_idx": 123,
+            "end_line_idx": 123
+        },
+        {
+            "type": "message",
+            "start_line_idx": 130,
+            "end_line_idx": 130
+        },
+        {
+            "type": "message",
+            "start_line_idx": 137,
+            "end_line_idx": 137
+        },
+        {
+            "type": "message",
+            "start_line_idx": 144,
+            "end_line_idx": 145
+        },
+        {
+            "type": "message",
+            "start_line_idx": 152,
+            "end_line_idx": 152
+        },
+        {
+            "type": "message",
+            "start_line_idx": 163,
+            "end_line_idx": 163
+        },
+        {
+            "type": "message",
+            "start_line_idx": 168,
+            "end_line_idx": 168
+        },
+        {
+            "type": "message",
+            "start_line_idx": 173,
+            "end_line_idx": 174
+        },
+        {
+            "type": "message",
+            "start_line_idx": 179,
+            "end_line_idx": 180
+        },
+        {
+            "type": "message",
+            "start_line_idx": 187,
+            "end_line_idx": 187
+        }
+    ],
+    "items": [
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "ちっ･･･\n嫌なこと思い出しちまったぜ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･･････。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "･･････。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "･･････そこの鍵だ。　持ってけ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "･･･いいのニャ？"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "るせーな\n用が済んだらさっさと行け！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "な、なんか\nオイラに対する態度と\nそやつに対する態度が違うニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･･････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.どうしたニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "強い･･･妖気のようなものを感じる。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "さっきの２人とは\n少々レベルの違う妖怪がいそうだな。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "それはそうニャ。\nここの扉を守ってるのは･･･お"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･･････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "お"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "お？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "･･････"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "へっくしょん$e"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･･････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "はニャ～、風邪ひいたかニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･･･\nへっくしょん大魔王か。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "へ？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "あ、そニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "コレ、お主にやるニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.\\.機会があったら\n\\.ユキノさんのお墓に供えてニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.\\.お主のことだから\nこういうのは気がきかんだろうから･･･"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\S[2]･････････"
+        }
+    ]
+}

@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　スロットテーブルなんて、チップは増えねぇよ。\n　やっば、Ｂ.Ｊだろ。",
+    "text": "男：\n　スロットテーブルなんて、チップは増えねぇよ。\n　やっば、Ｂ.Ｊだろ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　ま、負けた…\\!くそ！飲みまくってやる！！！",
+    "text": "男：\n　ま、負けた…\\!くそ！飲みまくってやる！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "従業員：\n　そこに遊び程度ですがスロットテーブルがあります。\n　遊んで見てくださいね。",
+    "text": "従業員：\n　そこに遊び程度ですがスロットテーブルがあります。\n　遊んで見てくださいね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "従業員：\n　ただ古い機種なので動作が遅くなることがあります。\n　そのへんは、ご理解ください。",
+    "text": "従業員：\n　ただ古い機種なので動作が遅くなることがあります。\n　そのへんは、ご理解ください。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　むぐむぐむぐむぐ・・・",
+    "text": "男：\n　むぐむぐむぐむぐ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "従業員：\n　疲れたら、ここで休んでいってください。",
+    "text": "従業員：\n　疲れたら、ここで休んでいってください。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "マスター：\n　どうです？ツキはありますか？",
+    "text": "マスター：\n　どうです？ツキはありますか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "はい",
+    "text": "はい",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "いいえ",
+    "text": "いいえ",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "マスター：\n　ついてる時は、どんどんいった方がいいですよ。",
+    "text": "マスター：\n　ついてる時は、どんどんいった方がいいですよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "マスター：\n　ツキはそのうち戻ります。\n　少し、休んだ方がいいですよ。",
+    "text": "マスター：\n　ツキはそのうち戻ります。\n　少し、休んだ方がいいですよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "おじいさん：\n　ほっほっほ、勝ちまくってしまったわい。\n　これで、世界一周旅行でも行こうかの。",
+    "text": "おじいさん：\n　ほっほっほ、勝ちまくってしまったわい。\n　これで、世界一周旅行でも行こうかの。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　はっはっは！勝ちまくりだよ！勝ちまくり！！！\\!\n　そうだ、じゃんけんしようぜ。\n　勝ったら１００チップあげるよ。",
+    "text": "男：\n　はっはっは！勝ちまくりだよ！勝ちまくり！！！\\!\n　そうだ、じゃんけんしようぜ。\n　勝ったら１００チップあげるよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "ウェイン：",
+    "text": "ウェイン：",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "「じゃんけんする。」",
+    "text": "「じゃんけんする。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "「遠慮します。」",
+    "text": "「遠慮します。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　そんじゃ、行くぜ！",
+    "text": "男：\n　そんじゃ、行くぜ！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　じゃん\\.・\\.・\\.・\\.けん\\.・\\.・\\.・\\^",
+    "text": "男：\n　じゃん\\.・\\.・\\.・\\.けん\\.・\\.・\\.・\\^",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "「グー。」",
+    "text": "「グー。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "「チョキ。」",
+    "text": "「チョキ。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "「パー。」",
+    "text": "「パー。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "ウェイン：グー。\n\n男：グー。",
+    "text": "ウェイン：グー。\n\n男：グー。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "ウェイン：グー。\n\n男：チョキ。",
+    "text": "ウェイン：グー。\n\n男：チョキ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "ウェイン：グー。\n\n男：パー。",
+    "text": "ウェイン：グー。\n\n男：パー。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "ウェイン：チョキ。\n\n男：グー。",
+    "text": "ウェイン：チョキ。\n\n男：グー。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "ウェイン：チョキ。\n\n男：チョキ。",
+    "text": "ウェイン：チョキ。\n\n男：チョキ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "ウェイン：チョキ。\n\n男：パー。",
+    "text": "ウェイン：チョキ。\n\n男：パー。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "ウェイン：パー。\n\n男：グー。",
+    "text": "ウェイン：パー。\n\n男：グー。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "ウェイン：パー。\n\n男：チョキ。",
+    "text": "ウェイン：パー。\n\n男：チョキ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "ウェイン：パー。\n\n男：パー。",
+    "text": "ウェイン：パー。\n\n男：パー。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　はっはっは！お前の勝ちだ！\n　ほら、もって行きな！１００チップだ！",
+    "text": "男：\n　はっはっは！お前の勝ちだ！\n　ほら、もって行きな！１００チップだ！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "\n　　　　　\\>－　１００チップもらった！　－\\<",
+    "text": "\n　　　　　\\>－　１００チップもらった！　－\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　あいこで・・・",
+    "text": "男：\n　あいこで・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　へっへっへ。俺の勝ちだ。\n　まだまだ、俺のツキも落ちてないな！",
+    "text": "男：\n　へっへっへ。俺の勝ちだ。\n　まだまだ、俺のツキも落ちてないな！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　そうかよ。ちぇっ・・・なんだよ…。\n　せっかくこの幸運を分けてやろうと思ったのによ。",
+    "text": "男：\n　そうかよ。ちぇっ・・・なんだよ…。\n　せっかくこの幸運を分けてやろうと思ったのによ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　そこの２個のスロットテーブルは、\n　それぞれ微妙に違うんだって。",
+    "text": "男：\n　そこの２個のスロットテーブルは、\n　それぞれ微妙に違うんだって。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　どう違うんだろう？",
+    "text": "男：\n　どう違うんだろう？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　スロットテーブルに、１枚でもコインを入れたら\n　もう、やめることはできないんだ。",
+    "text": "男：\n　スロットテーブルに、１枚でもコインを入れたら\n　もう、やめることはできないんだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　まぁ、当たり前か…",
+    "text": "男：\n　まぁ、当たり前か…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　あそこで、引いていれば、勝てたのに！！！\\!\n　次こそは！！！",
+    "text": "男：\n　あそこで、引いていれば、勝てたのに！！！\\!\n　次こそは！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　知ってるか？「R-Place」ってやり方しだいで\n　負けなしなんだぜ。",
+    "text": "男：\n　知ってるか？「R-Place」ってやり方しだいで\n　負けなしなんだぜ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0013.txt",
+    "key": "男：\n　俺は、それで大もうけよ！ワッハッハ！！！",
+    "text": "男：\n　俺は、それで大もうけよ！ワッハッハ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "ヘイムレイク：\n　ウェイン、期待しているよ。",
+    "text": "ヘイムレイク：\n　ウェイン、期待しているよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "ヘイムレイク：\n　ウェイン、これが君の初めての戦いだ。\n　油断はするなよ。・・・期待しているからな。",
+    "text": "ヘイムレイク：\n　ウェイン、これが君の初めての戦いだ。\n　油断はするなよ。・・・期待しているからな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "ヘイムレイク：\n　前回の戦いで君の人気が凄いんだ。\n　君を雇ってよかったよ。",
+    "text": "ヘイムレイク：\n　前回の戦いで君の人気が凄いんだ。\n　君を雇ってよかったよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "ヘイムレイク：\n　この調子でどんどん勝っていってくれよ。",
+    "text": "ヘイムレイク：\n　この調子でどんどん勝っていってくれよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "ヘイムレイク：\n　君のおかげで儲かってるよ。\n　このまま、うまくいけば１０戦前までに\n　１０００￡払えるかもしれないんだ。",
+    "text": "ヘイムレイク：\n　君のおかげで儲かってるよ。\n　このまま、うまくいけば１０戦前までに\n　１０００￡払えるかもしれないんだ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "ヘイムレイク：\n　期待を裏切らないでくれよ。",
+    "text": "ヘイムレイク：\n　期待を裏切らないでくれよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "ヘイムレイク：\n　よくやってくれた。次も頼むよ。",
+    "text": "ヘイムレイク：\n　よくやってくれた。次も頼むよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "ヘイムレイク：\n　ふ…、がんばってくれよ。",
+    "text": "ヘイムレイク：\n　ふ…、がんばってくれよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "ウェイン：\n　くっ…",
+    "text": "ウェイン：\n　くっ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　今回の相手はＤ．Ｊでは有名な「セグメイン」です。\n　ここで、彼を倒せば、名前が売れるでしょう。",
+    "text": "老人：\n　今回の相手はＤ．Ｊでは有名な「セグメイン」です。\n　ここで、彼を倒せば、名前が売れるでしょう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　セグメインは、特に特徴がないので\n　ウェイン…あなたなら、勝てるはずです。",
+    "text": "老人：\n　セグメインは、特に特徴がないので\n　ウェイン…あなたなら、勝てるはずです。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　そこの、出口からでれば、試合場はすぐです。",
+    "text": "老人：\n　そこの、出口からでれば、試合場はすぐです。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　御武運を。",
+    "text": "老人：\n　御武運を。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　今回の相手は武者の「ザング」です。\n　かなり気が荒いので刺激しないようにお願いします。",
+    "text": "老人：\n　今回の相手は武者の「ザング」です。\n　かなり気が荒いので刺激しないようにお願いします。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　ザングは、責めてくるタイプですね。\n　まぁ、あなたなら大丈夫でしょう。",
+    "text": "老人：\n　ザングは、責めてくるタイプですね。\n　まぁ、あなたなら大丈夫でしょう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　今回の相手は「エミール」です。\n　エミールは、はっきり言って強いです。",
+    "text": "老人：\n　今回の相手は「エミール」です。\n　エミールは、はっきり言って強いです。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　彼は必ずＢ.Ｊをやってきます。\n　しっかりした役を作っていくことをお勧めします。\n　まぁ、運しだいですがね。",
+    "text": "老人：\n　彼は必ずＢ.Ｊをやってきます。\n　しっかりした役を作っていくことをお勧めします。\n　まぁ、運しだいですがね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　それでは、戻りましょう。",
+    "text": "老人：\n　それでは、戻りましょう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　それでは、今までのチップは預かります。",
+    "text": "老人：\n　それでは、今までのチップは預かります。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　で、２０００チップお渡しします。",
+    "text": "老人：\n　で、２０００チップお渡しします。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　それでは１時間以内に。\n　無理に、１時間ぴったりやる必要はありませんので。",
+    "text": "老人：\n　それでは１時間以内に。\n　無理に、１時間ぴったりやる必要はありませんので。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　今回の相手は「サフィールス」です。\n　特に特徴のない相手です。",
+    "text": "老人：\n　今回の相手は「サフィールス」です。\n　特に特徴のない相手です。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "老人：\n　サフィールスなら勝てるでしょう。",
+    "text": "老人：\n　サフィールスなら勝てるでしょう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "ウェイン：",
+    "text": "ウェイン：",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "「それじゃ、行くぞ。」",
+    "text": "「それじゃ、行くぞ。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "「まだ、やめておこう。」",
+    "text": "「まだ、やめておこう。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "ウェイン：\n　試合は終わった。どこへ行くんだ？",
+    "text": "ウェイン：\n　試合は終わった。どこへ行くんだ？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "\n　　　　　　\\>－　Ｂ.ＪとＤ.Ｊの違い　－\\<",
+    "text": "\n　　　　　　\\>－　Ｂ.ＪとＤ.Ｊの違い　－\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "「読む。」",
+    "text": "「読む。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "「読まない。」",
+    "text": "「読まない。」",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "\\>Ｂ.ＪとＤ.Ｊの一番大きな違いは「親」と「子」が\\<\n\\>入れ替わることです。\\<\n\\>始めは１/２の確率で「親」が決められますが、\\<\n\\>次からは勝った方が「親」になります。\\<",
+    "text": "\\>Ｂ.ＪとＤ.Ｊの一番大きな違いは「親」と「子」が\\<\n\\>入れ替わることです。\\<\n\\>始めは１/２の確率で「親」が決められますが、\\<\n\\>次からは勝った方が「親」になります。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "\\>そして、親になった際に注意しなければならないのは\\<\n\\>「合計数が１６以下の時、必ず引かなければならない」\\<\n\\>「合計数が１７以上の時、引くことはできない」\\<\n\\>ということです。\\<",
+    "text": "\\>そして、親になった際に注意しなければならないのは\\<\n\\>「合計数が１６以下の時、必ず引かなければならない」\\<\n\\>「合計数が１７以上の時、引くことはできない」\\<\n\\>ということです。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "\\>つまり、親になったら自分の意志ではなく\\<\n\\>自動的にゲームを進めるのと同じになるという事です。\\<\n\\>そして、賭けライフ数は子が決めるため、\\<\n\\>親になった場合は、決めることができません。\\<",
+    "text": "\\>つまり、親になったら自分の意志ではなく\\<\n\\>自動的にゲームを進めるのと同じになるという事です。\\<\n\\>そして、賭けライフ数は子が決めるため、\\<\n\\>親になった場合は、決めることができません。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "\\>しかし、親になった時のメリットは、\\<\n\\>同点の場合、勝利できるということです。\\<\n\\>つまり「Bust」しても、勝つ可能性が残っています。\\<",
+    "text": "\\>しかし、親になった時のメリットは、\\<\n\\>同点の場合、勝利できるということです。\\<\n\\>つまり「Bust」しても、勝つ可能性が残っています。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "\\>後は、ほぼ「Ｂ.Ｊ５」と同じです。\\<\n\\>ちなみに、勝利した場合、ライフが増えるのではなく\\<\n\\>相手のライフを減らすことになります。\\<",
+    "text": "\\>後は、ほぼ「Ｂ.Ｊ５」と同じです。\\<\n\\>ちなみに、勝利した場合、ライフが増えるのではなく\\<\n\\>相手のライフを減らすことになります。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0014.txt",
+    "key": "\\>そして、Ｄ.Ｊは命をかけるゲームです。\\<\n\\>つねに、真剣勝負でいくことを強くお勧めします。\\<",
+    "text": "\\>そして、Ｄ.Ｊは命をかけるゲームです。\\<\n\\>つねに、真剣勝負でいくことを強くお勧めします。\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "セグメイン：\n　君が今回の対戦相手か・・・",
+    "text": "セグメイン：\n　君が今回の対戦相手か・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ウェイン：\n　そうです。",
+    "text": "ウェイン：\n　そうです。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "セグメイン：\n　なんでも、新人だそうだな。",
+    "text": "セグメイン：\n　なんでも、新人だそうだな。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "セグメイン：\n　悪いが、死んでもらうよ。",
+    "text": "セグメイン：\n　悪いが、死んでもらうよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ウェイン：\n　・\\.・\\.・",
+    "text": "ウェイン：\n　・\\.・\\.・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ウェイン：\n　そのセリフ・・・\n　そのままお返ししましょう。",
+    "text": "ウェイン：\n　そのセリフ・・・\n　そのままお返ししましょう。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "セグメイン：\n　・\\.・\\.・。",
+    "text": "セグメイン：\n　・\\.・\\.・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "セグメイン：\n　後悔するなよ。",
+    "text": "セグメイン：\n　後悔するなよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ザング：\n　…",
+    "text": "ザング：\n　…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ウェイン：\n　あなたと対戦するウェインです。",
+    "text": "ウェイン：\n　あなたと対戦するウェインです。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ザング：\n　俺はお前を殺すだけだ。\n　ムダグチなぞ、叩いている暇はない。",
+    "text": "ザング：\n　俺はお前を殺すだけだ。\n　ムダグチなぞ、叩いている暇はない。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ウェイン：\n　喋れるのは今のうちですよ。",
+    "text": "ウェイン：\n　喋れるのは今のうちですよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ウェイン：\n　もうすぐ喋れなくなりますから。",
+    "text": "ウェイン：\n　もうすぐ喋れなくなりますから。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ザング：\n　…\\.殺す！",
+    "text": "ザング：\n　…\\.殺す！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "エミール：\n　あなたが対戦相手ですか・・・",
+    "text": "エミール：\n　あなたが対戦相手ですか・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ウェイン：\n　ウェインです。よろしく。",
+    "text": "ウェイン：\n　ウェインです。よろしく。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "エミール：\n　残念ですが、私は無敗。\n　あなたが叶う事はないと思いますが・・・",
+    "text": "エミール：\n　残念ですが、私は無敗。\n　あなたが叶う事はないと思いますが・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ウェイン：\n　無敗なのは私も同じ。",
+    "text": "ウェイン：\n　無敗なのは私も同じ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ウェイン：\n　やってみなければわかりませんよ。",
+    "text": "ウェイン：\n　やってみなければわかりませんよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "エミール：\n　ムダだと思いますけどね。",
+    "text": "エミール：\n　ムダだと思いますけどね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "サフィールス：\n　君がウェインか…\\!１度落ちたらしいな。\\!\n　だが、その復活も今日で無意味になるのさ・・・",
+    "text": "サフィールス：\n　君がウェインか…\\!１度落ちたらしいな。\\!\n　だが、その復活も今日で無意味になるのさ・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ウェイン：\n　それでも別にいいんだ…\\!どっちにしても同じこと。\\!\n　Ｄ.Ｊの呪縛から抜けられるのなら、いっそそれも…",
+    "text": "ウェイン：\n　それでも別にいいんだ…\\!どっちにしても同じこと。\\!\n　Ｄ.Ｊの呪縛から抜けられるのなら、いっそそれも…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "サフィールス：\n　ならば、望みどおりにしてやろう…",
+    "text": "サフィールス：\n　ならば、望みどおりにしてやろう…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0015.txt",
+    "key": "ウェイン：\n　ヘイムレイクを追うぞ！！！",
+    "text": "ウェイン：\n　ヘイムレイクを追うぞ！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0016.txt",
+    "key": "ウェイン：\n　ク、クレア・・・",
+    "text": "ウェイン：\n　ク、クレア・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0016.txt",
+    "key": "クレア：\n　ウェイン！諦めないで！！！",
+    "text": "クレア：\n　ウェイン！諦めないで！！！",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0016.txt",
+    "key": "\\>ウェイン：\\<\n　\\>クレア！！！\\<",
+    "text": "\\>ウェイン：\\<\n　\\>クレア！！！\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0016.txt",
+    "key": "\\>ウェイン：\\<\n　\\>だめだ！\\<\\!\\>まだ死ねない！！！\\<",
+    "text": "\\>ウェイン：\\<\n　\\>だめだ！\\<\\!\\>まだ死ねない！！！\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0016.txt",
+    "key": "\\>ウェイン：\\<\n　\\>なんとかしないと！！！\\<",
+    "text": "\\>ウェイン：\\<\n　\\>なんとかしないと！！！\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0016.txt",
+    "key": "\\>ウェイン：\\<\n　\\>そうだ！このフックつきロープで！！！\\<",
+    "text": "\\>ウェイン：\\<\n　\\>そうだ！このフックつきロープで！！！\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0016.txt",
+    "key": "\\>ウェイン：\\<\n　\\>よし！かかった！\\<\\!このまま降りるぞ…",
+    "text": "\\>ウェイン：\\<\n　\\>よし！かかった！\\<\\!このまま降りるぞ…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0016.txt",
+    "key": "\\>-　　　　ここからは、脱出モードになります。　　　-\\<\n\\>- 時間が経過するごとに、ＨＰが減少していきます。 -\\<\n\\>-さらに、ジャンプなどの行動をする場合がありますが-\\<\n\\>-行動をするたびに、さらにＨＰが減少していきます。-\\<",
+    "text": "\\>-　　　　ここからは、脱出モードになります。　　　-\\<\n\\>- 時間が経過するごとに、ＨＰが減少していきます。 -\\<\n\\>-さらに、ジャンプなどの行動をする場合がありますが-\\<\n\\>-行動をするたびに、さらにＨＰが減少していきます。-\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0016.txt",
+    "key": "\\>-　　 誰が１人が戦闘不能状態になったところで　　 -\\<\n\\>-　　　　　 ゲームオーバーとなります。　　　　　 -\\<\n\\>-　　 注意して、早くここから脱出してください。　 -\\<",
+    "text": "\\>-　　 誰が１人が戦闘不能状態になったところで　　 -\\<\n\\>-　　　　　 ゲームオーバーとなります。　　　　　 -\\<\n\\>-　　 注意して、早くここから脱出してください。　 -\\<",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　あの…",
+    "text": "ウェイン：\n　あの…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　どうも…。どうやら、生きて降りてこれたのですね。",
+    "text": "ライニー：\n　どうも…。どうやら、生きて降りてこれたのですね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　は、\\.はい…\\!このフックつきロープのおかげで…",
+    "text": "ウェイン：\n　は、\\.はい…\\!このフックつきロープのおかげで…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　私もそうでした。",
+    "text": "ライニー：\n　私もそうでした。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　あなたは・・・？",
+    "text": "ウェイン：\n　あなたは・・・？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　私の名前は「ライニー」。\n　私も元Ｄ．Ｊ選手でした。",
+    "text": "ライニー：\n　私の名前は「ライニー」。\n　私も元Ｄ．Ｊ選手でした。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　今では、ここでＤ．Ｊ選手の弔いをしています。",
+    "text": "ライニー：\n　今では、ここでＤ．Ｊ選手の弔いをしています。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　もう、何年になるでしょうか…",
+    "text": "ライニー：\n　もう、何年になるでしょうか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　弔い？",
+    "text": "ウェイン：\n　弔い？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　ここにくるＤ．Ｊ選手はほとんど死んでしまいます。\n　それを、水葬にして弔っているのです。",
+    "text": "ライニー：\n　ここにくるＤ．Ｊ選手はほとんど死んでしまいます。\n　それを、水葬にして弔っているのです。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　・・・そうですか…",
+    "text": "ウェイン：\n　・・・そうですか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　しかし、なぜ、そんなことを？",
+    "text": "ウェイン：\n　しかし、なぜ、そんなことを？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　・・・\\!生き残った私の役目なのでしょう…",
+    "text": "ライニー：\n　・・・\\!生き残った私の役目なのでしょう…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　そう信じています。",
+    "text": "ライニー：\n　そう信じています。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　生き残った者の役目ですか…",
+    "text": "ウェイン：\n　生き残った者の役目ですか…",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　あ、あの…他に人はいないんですか？",
+    "text": "ウェイン：\n　あ、あの…他に人はいないんですか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　何人かは、私やあなたのように\n　ロープで降りて来た人もいます。",
+    "text": "ライニー：\n　何人かは、私やあなたのように\n　ロープで降りて来た人もいます。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　そ！その人達はどうしたんです！？",
+    "text": "ウェイン：\n　そ！その人達はどうしたんです！？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　出口を探してくると、行ったきり帰ってきません。\n　出口を見つけたのか、あるいは・・・",
+    "text": "ライニー：\n　出口を探してくると、行ったきり帰ってきません。\n　出口を見つけたのか、あるいは・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　出口？\\.出口があるんですか？",
+    "text": "ウェイン：\n　出口？\\.出口があるんですか？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　私にはなんとも・・・。",
+    "text": "ライニー：\n　私にはなんとも・・・。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　ただ、この洞窟はＤ．Ｊのために作られたと\n　聞いたことがあります。",
+    "text": "ライニー：\n　ただ、この洞窟はＤ．Ｊのために作られたと\n　聞いたことがあります。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　だとすると、出口はあるということですね。",
+    "text": "ウェイン：\n　だとすると、出口はあるということですね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　たぶんとしか言えませんが…\n　それに、年月がかなりたっています。",
+    "text": "ライニー：\n　たぶんとしか言えませんが…\n　それに、年月がかなりたっています。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　出口があったとしても残ってるか・・・",
+    "text": "ライニー：\n　出口があったとしても残ってるか・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　いいんです、少しの確率があれば賭けてみる。\n　Ｄ．Ｊ選手ですから。",
+    "text": "ウェイン：\n　いいんです、少しの確率があれば賭けてみる。\n　Ｄ．Ｊ選手ですから。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　そうですね。",
+    "text": "ライニー：\n　そうですね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　それでは、行くのですね。",
+    "text": "ライニー：\n　それでは、行くのですね。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　もちろんです。待ってる人がいますから。",
+    "text": "ウェイン：\n　もちろんです。待ってる人がいますから。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　それは、うらやましいです。",
+    "text": "ライニー：\n　それは、うらやましいです。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　あなたに、ラグロパスの御加護がありますように。",
+    "text": "ライニー：\n　あなたに、ラグロパスの御加護がありますように。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　ん？ラグロパスってなんです？",
+    "text": "ウェイン：\n　ん？ラグロパスってなんです？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　あぁ…これは、私の村の神様のことです。\n　まぁ、小さな村なので誰も知らないでしょうけど。",
+    "text": "ライニー：\n　あぁ…これは、私の村の神様のことです。\n　まぁ、小さな村なので誰も知らないでしょうけど。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ライニー：\n　私はここで、私の役目をしていくつもりです。\n　これまで、長い間やっているのです。\n　いまさら、やめられませんよ。",
+    "text": "ライニー：\n　私はここで、私の役目をしていくつもりです。\n　これまで、長い間やっているのです。\n　いまさら、やめられませんよ。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　石があるな…\\!飛ぶか。",
+    "text": "ウェイン：\n　石があるな…\\!飛ぶか。",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　岩か…とがってるな・・・",
+    "text": "ウェイン：\n　岩か…とがってるな・・・",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "ウェイン：\n　乗り越えれば、先へ進めそうだが・・・どうする？",
+    "text": "ウェイン：\n　乗り越えれば、先へ進めそうだが・・・どうする？",
+    "marker": "Message",
+    "speaker": "NARRATION"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "乗り越える。",
+    "text": "乗り越える。",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "Map0017.txt",
+    "key": "やめておく。",
+    "text": "やめておく。",
+    "marker": "Choice",
+    "speaker": "SYSTEM"
+  }
+]

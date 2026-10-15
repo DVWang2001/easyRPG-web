@@ -1,0 +1,203 @@
+*****Entry1*****
+#Name# [8]
+無法戰鬥
+
+#InflictedOnAlly# [30]
+倒下了！
+
+#InflictedOnEnemy# [30]
+被打倒了！
+
+#Recovered# [30]
+重新站了起來！
+
+
+
+*****Entry2*****
+#Name# [8]
+毒
+
+#InflictedOnAlly# [30]
+陷入了中毒狀態！
+
+#InflictedOnEnemy# [30]
+陷入了中毒狀態！
+
+#AlreadyInflicted# [30]
+已經處於中毒狀態了！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+的中毒狀態解除了！
+
+
+
+*****Entry3*****
+#Name# [8]
+黑暗
+
+#InflictedOnAlly# [30]
+被黑暗籠罩了！
+
+#InflictedOnEnemy# [30]
+被黑暗籠罩了！
+
+#AlreadyInflicted# [30]
+已經處於被黑暗籠罩狀態了！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+的黑暗消散了！
+
+
+
+*****Entry4*****
+#Name# [8]
+沉默
+
+#InflictedOnAlly# [30]
+陷入了沉默狀態！
+
+#InflictedOnEnemy# [30]
+陷入了沉默狀態！
+
+#AlreadyInflicted# [30]
+已經處於沉默狀態了！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+的沉默狀態解除了！
+
+
+
+*****Entry5*****
+#Name# [8]
+暴走
+
+#InflictedOnAlly# [30]
+陷入了暴走狀態！
+
+#InflictedOnEnemy# [30]
+陷入了暴走狀態！
+
+#AlreadyInflicted# [30]
+已經處於暴走狀態了！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+恢復了理智！
+
+
+
+*****Entry6*****
+#Name# [8]
+混亂
+
+#InflictedOnAlly# [30]
+陷入了混亂狀態！
+
+#InflictedOnEnemy# [30]
+陷入了混亂狀態！
+
+#AlreadyInflicted# [30]
+已經處於混亂狀態了！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+恢復了理智！
+
+
+
+*****Entry7*****
+#Name# [8]
+睡眠
+
+#InflictedOnAlly# [30]
+睡著了！
+
+#InflictedOnEnemy# [30]
+陷入了睡眠狀態！
+
+#AlreadyInflicted# [30]
+已經睡著了！
+
+#Continuing# [30]
+依然在沉睡中……
+
+#Recovered# [30]
+醒來了！
+
+
+
+*****Entry8*****
+#Name# [8]
+麻痺
+
+#InflictedOnAlly# [30]
+麻痺得動彈不得！
+
+#InflictedOnEnemy# [30]
+陷入了麻痺狀態！
+
+#AlreadyInflicted# [30]
+已經處於麻痺狀態了！
+
+#Continuing# [30]
+因為麻痺而動彈不得！
+
+#Recovered# [30]
+的麻痺狀態解除了！
+
+
+
+*****Entry9*****
+#Name# [8]
+搖晃
+
+#InflictedOnAlly# [30]
+失去了平衡！
+
+#InflictedOnEnemy# [30]
+失去了平衡！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+身體正在搖晃……
+
+#Recovered# [30]
+身體正在搖晃……
+
+
+
+*****Entry10*****
+#Name# [8]
+吃驚
+
+#InflictedOnAlly# [30]
+愣在原地！
+
+#InflictedOnEnemy# [30]
+愣在原地！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+依然愣在原地……
+
+#Recovered# [30]
+依然愣在原地……
+
+

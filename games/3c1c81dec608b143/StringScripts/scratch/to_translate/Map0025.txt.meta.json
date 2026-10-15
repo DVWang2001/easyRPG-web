@@ -1,0 +1,147 @@
+{
+    "filepath": "Map0025.txt",
+    "meta": [
+        {
+            "type": "message",
+            "start_line_idx": 5,
+            "end_line_idx": 5
+        },
+        {
+            "type": "message",
+            "start_line_idx": 12,
+            "end_line_idx": 13
+        },
+        {
+            "type": "message",
+            "start_line_idx": 20,
+            "end_line_idx": 20
+        },
+        {
+            "type": "message",
+            "start_line_idx": 25,
+            "end_line_idx": 26
+        },
+        {
+            "type": "message",
+            "start_line_idx": 33,
+            "end_line_idx": 33
+        },
+        {
+            "type": "message",
+            "start_line_idx": 44,
+            "end_line_idx": 45
+        },
+        {
+            "type": "message",
+            "start_line_idx": 52,
+            "end_line_idx": 52
+        },
+        {
+            "type": "message",
+            "start_line_idx": 59,
+            "end_line_idx": 60
+        },
+        {
+            "type": "message",
+            "start_line_idx": 65,
+            "end_line_idx": 67
+        },
+        {
+            "type": "message",
+            "start_line_idx": 74,
+            "end_line_idx": 74
+        },
+        {
+            "type": "message",
+            "start_line_idx": 79,
+            "end_line_idx": 79
+        },
+        {
+            "type": "message",
+            "start_line_idx": 84,
+            "end_line_idx": 84
+        },
+        {
+            "type": "message",
+            "start_line_idx": 89,
+            "end_line_idx": 90
+        },
+        {
+            "type": "message",
+            "start_line_idx": 97,
+            "end_line_idx": 97
+        }
+    ],
+    "items": [
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.薬草見っけ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "よくいろいろな物が落ちている\n洞窟だな。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "がさつな奴ばっかりでニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "穴のあいた風呂敷持って\nあっちこっち移動しとるからニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "　\\.$d"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.ひとつ\nお主に聞いてもいいニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.なんだ？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.お主は一体\n誰のために 姫さんに会おうとしてるニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.さっきから聞いてると\n誰かのために\n姫さんと会おうとしてるみたいニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[3]････････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.私もわからぬ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.\\S[2]きっと会えば･･･"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.それがわかるのではないかと\nそう思ってやって来たのでな･･････"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\S[3]････････････。"
+        }
+    ]
+}

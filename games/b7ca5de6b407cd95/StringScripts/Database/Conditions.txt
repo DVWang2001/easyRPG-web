@@ -1,0 +1,203 @@
+*****Entry1*****
+#Name# [8]
+戰斗不能
+
+#InflictedOnAlly# [30]
+ 倒下了！
+
+#InflictedOnEnemy# [30]
+ 打倒了敵人！
+
+#Recovered# [30]
+ 站了起來！
+
+
+
+*****Entry2*****
+#Name# [8]
+中毒
+
+#InflictedOnAlly# [30]
+ 中毒了！
+
+#InflictedOnEnemy# [30]
+ 中毒了！
+
+#AlreadyInflicted# [30]
+ 正受到毒素侵蝕……
+
+#Continuing# [30]
+ 正受到毒素侵蝕……
+
+#Recovered# [30]
+ 毒素被淨化了！
+
+
+
+*****Entry3*****
+#Name# [8]
+失明
+
+#InflictedOnAlly# [30]
+ 看不見東西了！
+
+#InflictedOnEnemy# [30]
+ 看不見東西了！
+
+#AlreadyInflicted# [30]
+ 仍然看不見東西……
+
+#Continuing# [30]
+ 命中率下降了……
+
+#Recovered# [30]
+ 視力恢復了！
+
+
+
+*****Entry4*****
+#Name# [8]
+腐蝕
+
+#InflictedOnAlly# [30]
+ 的防具開始腐蝕了！
+
+#InflictedOnEnemy# [30]
+ 的裝甲開始腐蝕了！
+
+#AlreadyInflicted# [30]
+ 的防具正在逐漸腐蝕……
+
+#Continuing# [30]
+ 防禦力已降至五成……！
+
+#Recovered# [30]
+腐蝕效果被抑制了！
+
+
+
+*****Entry5*****
+#Name# [8]
+狂暴
+
+#InflictedOnAlly# [30]
+ 目標已迷失方向！
+
+#InflictedOnEnemy# [30]
+ 目標已迷失方向！
+
+#AlreadyInflicted# [30]
+ 目標仍處於迷失狀態……
+
+#Continuing# [30]
+ 目標仍處於迷失狀態……
+
+#Recovered# [30]
+ 目標已恢復正常！
+
+
+
+*****Entry6*****
+#Name# [8]
+呼吸困難
+
+#InflictedOnAlly# [30]
+ 無法呼吸……！
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+ 無法呼吸……！
+
+#Recovered# [30]
+ 已恢復正常！
+
+
+
+*****Entry7*****
+#Name# [8]
+觸電
+
+#InflictedOnAlly# [30]
+ 因電擊無法動彈……！
+
+#InflictedOnEnemy# [30]
+ 因電擊無法動彈……！
+
+#AlreadyInflicted# [30]
+ 觸電無法行動……！
+
+#Continuing# [30]
+ 觸電無法行動……！
+
+#Recovered# [30]
+ 已恢復正常！
+
+
+
+*****Entry8*****
+#Name# [8]
+--------
+
+#InflictedOnAlly# [30]
+
+
+#InflictedOnEnemy# [30]
+
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+
+
+
+
+*****Entry9*****
+#Name# [8]
+墜倒
+
+#InflictedOnAlly# [30]
+ 失去平衡……！
+
+#InflictedOnEnemy# [30]
+ 失去平衡……！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+ 身體搖晃不穩……
+
+#Recovered# [30]
+ 已重新站穩！
+
+
+
+*****Entry10*****
+#Name# [8]
+恐懼
+
+#InflictedOnAlly# [30]
+ 陷入恐懼戰慄！
+
+#InflictedOnEnemy# [30]
+ 陷入恐懼戰慄！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+ 呆立不動……
+
+#Recovered# [30]
+ 驅散了恐懼！
+
+

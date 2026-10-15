@@ -1,0 +1,448 @@
+{
+    "filepath": "Database/Conditions.txt",
+    "meta": [
+        {
+            "type": "tag",
+            "line_idx": 2
+        },
+        {
+            "type": "tag",
+            "line_idx": 5
+        },
+        {
+            "type": "tag",
+            "line_idx": 8
+        },
+        {
+            "type": "tag",
+            "line_idx": 11
+        },
+        {
+            "type": "tag",
+            "line_idx": 17
+        },
+        {
+            "type": "tag",
+            "line_idx": 20
+        },
+        {
+            "type": "tag",
+            "line_idx": 26
+        },
+        {
+            "type": "tag",
+            "line_idx": 38
+        },
+        {
+            "type": "tag",
+            "line_idx": 41
+        },
+        {
+            "type": "tag",
+            "line_idx": 44
+        },
+        {
+            "type": "tag",
+            "line_idx": 47
+        },
+        {
+            "type": "tag",
+            "line_idx": 53
+        },
+        {
+            "type": "tag",
+            "line_idx": 59
+        },
+        {
+            "type": "tag",
+            "line_idx": 62
+        },
+        {
+            "type": "tag",
+            "line_idx": 65
+        },
+        {
+            "type": "tag",
+            "line_idx": 68
+        },
+        {
+            "type": "tag",
+            "line_idx": 74
+        },
+        {
+            "type": "tag",
+            "line_idx": 80
+        },
+        {
+            "type": "tag",
+            "line_idx": 83
+        },
+        {
+            "type": "tag",
+            "line_idx": 86
+        },
+        {
+            "type": "tag",
+            "line_idx": 89
+        },
+        {
+            "type": "tag",
+            "line_idx": 95
+        },
+        {
+            "type": "tag",
+            "line_idx": 101
+        },
+        {
+            "type": "tag",
+            "line_idx": 104
+        },
+        {
+            "type": "tag",
+            "line_idx": 107
+        },
+        {
+            "type": "tag",
+            "line_idx": 110
+        },
+        {
+            "type": "tag",
+            "line_idx": 116
+        },
+        {
+            "type": "tag",
+            "line_idx": 122
+        },
+        {
+            "type": "tag",
+            "line_idx": 125
+        },
+        {
+            "type": "tag",
+            "line_idx": 128
+        },
+        {
+            "type": "tag",
+            "line_idx": 131
+        },
+        {
+            "type": "tag",
+            "line_idx": 134
+        },
+        {
+            "type": "tag",
+            "line_idx": 137
+        },
+        {
+            "type": "tag",
+            "line_idx": 143
+        },
+        {
+            "type": "tag",
+            "line_idx": 146
+        },
+        {
+            "type": "tag",
+            "line_idx": 149
+        },
+        {
+            "type": "tag",
+            "line_idx": 152
+        },
+        {
+            "type": "tag",
+            "line_idx": 155
+        },
+        {
+            "type": "tag",
+            "line_idx": 158
+        },
+        {
+            "type": "tag",
+            "line_idx": 164
+        },
+        {
+            "type": "tag",
+            "line_idx": 167
+        },
+        {
+            "type": "tag",
+            "line_idx": 173
+        },
+        {
+            "type": "tag",
+            "line_idx": 176
+        },
+        {
+            "type": "tag",
+            "line_idx": 179
+        },
+        {
+            "type": "tag",
+            "line_idx": 185
+        },
+        {
+            "type": "tag",
+            "line_idx": 188
+        },
+        {
+            "type": "tag",
+            "line_idx": 191
+        },
+        {
+            "type": "tag",
+            "line_idx": 197
+        },
+        {
+            "type": "tag",
+            "line_idx": 200
+        }
+    ],
+    "items": [
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "戦闘不能"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnAlly",
+            "text": "は倒れた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnEnemy",
+            "text": "を倒した！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Recovered",
+            "text": "は起きあがった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "息止め"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnAlly",
+            "text": "は息を止めている"
+        },
+        {
+            "face": "NONE",
+            "marker": "AlreadyInflicted",
+            "text": "は息を止めている"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "暗闇"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnAlly",
+            "text": "は暗闇に閉ざされた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnEnemy",
+            "text": "を暗闇に閉ざした！"
+        },
+        {
+            "face": "NONE",
+            "marker": "AlreadyInflicted",
+            "text": "はすでに暗闇に閉ざされている！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Recovered",
+            "text": "の暗闇が消えた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "沈黙"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnAlly",
+            "text": "は沈黙した！"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnEnemy",
+            "text": "を沈黙させた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "AlreadyInflicted",
+            "text": "はすでに沈黙している！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Recovered",
+            "text": "の沈黙が解けた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "暴走"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnAlly",
+            "text": "は暴走した！"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnEnemy",
+            "text": "を暴走させた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "AlreadyInflicted",
+            "text": "はすでに暴走している！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Recovered",
+            "text": "は我に返った！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "混乱"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnAlly",
+            "text": "は混乱した！"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnEnemy",
+            "text": "を混乱させた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "AlreadyInflicted",
+            "text": "はすでに混乱している！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Recovered",
+            "text": "は我に返った！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "睡眠"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnAlly",
+            "text": "は眠ってしまった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnEnemy",
+            "text": "を眠らせた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "AlreadyInflicted",
+            "text": "はすでに眠っている！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Continuing",
+            "text": "は眠っている・・・"
+        },
+        {
+            "face": "NONE",
+            "marker": "Recovered",
+            "text": "は目を覚ました！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "縛り"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnAlly",
+            "text": "に髪が巻き付いた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnEnemy",
+            "text": "は縛り固められた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "AlreadyInflicted",
+            "text": "は動きがとりにくくなった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Continuing",
+            "text": "は動きにくい！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Recovered",
+            "text": "は黒髪を断ち切った！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "転倒"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnAlly",
+            "text": "はコケた！"
+        },
+        {
+            "face": "NONE",
+            "marker": "AlreadyInflicted",
+            "text": "はまだコケている･･･"
+        },
+        {
+            "face": "NONE",
+            "marker": "Continuing",
+            "text": "はコケている･･･"
+        },
+        {
+            "face": "NONE",
+            "marker": "Recovered",
+            "text": "は起きあがった！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "驚き"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnAlly",
+            "text": "は立ちすくんだ！"
+        },
+        {
+            "face": "NONE",
+            "marker": "InflictedOnEnemy",
+            "text": "は立ちすくんだ！"
+        },
+        {
+            "face": "NONE",
+            "marker": "Continuing",
+            "text": "は立ちすくんでいる・・・"
+        },
+        {
+            "face": "NONE",
+            "marker": "Recovered",
+            "text": "は立ちすくんでいる・・・"
+        }
+    ]
+}

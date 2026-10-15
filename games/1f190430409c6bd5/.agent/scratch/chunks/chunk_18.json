@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:57",
+    "text": "カード表示Ｙ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:58",
+    "text": "賭け数百の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:59",
+    "text": "賭け数十の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:60",
+    "text": "賭け数一の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:61",
+    "text": "賭け数万の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:62",
+    "text": "賭け数千の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:63",
+    "text": "主人公役表示Ｘ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:64",
+    "text": "主人公役表示Ｙ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:65",
+    "text": "敵役表示Ｘ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:66",
+    "text": "敵役表示Ｙ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:67",
+    "text": "賭け数十万の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:70",
+    "text": "主人公持ちLife",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:71",
+    "text": "主人公カードの絵①",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:72",
+    "text": "主人公カードの絵②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:73",
+    "text": "主人公カードの絵③",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:74",
+    "text": "主人公カードの絵④",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:75",
+    "text": "主人公カードの絵⑤",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:76",
+    "text": "主どのカード絵代入？",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:77",
+    "text": "主人公Ａの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:78",
+    "text": "主人公チップ万の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:79",
+    "text": "主人公チップ千の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:80",
+    "text": "主人公チップ百の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:81",
+    "text": "主人公チップ十の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:82",
+    "text": "主人公チップ一の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:84",
+    "text": "主人公所持金",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:85",
+    "text": "所持金との差",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:87",
+    "text": "親決め回転変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:88",
+    "text": "セリフ決め変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:90",
+    "text": "敵持ちライフ",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:91",
+    "text": "敵カードの絵①",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:92",
+    "text": "敵カードの絵②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:93",
+    "text": "敵カードの絵③",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:94",
+    "text": "敵カードの絵④",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:95",
+    "text": "敵カードの絵⑤",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:96",
+    "text": "敵どのカード絵代入？",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:97",
+    "text": "敵Ａの数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:98",
+    "text": "敵ライフ万の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:99",
+    "text": "敵ライフ千の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:100",
+    "text": "敵ライフ百の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:101",
+    "text": "敵ライフ十の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:102",
+    "text": "敵ライフ一の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:104",
+    "text": "敵を何人倒したか変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:105",
+    "text": "エミバトカード配布",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:106",
+    "text": "エミバト５枚目カード",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:107",
+    "text": "エミバトカード配布②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:110",
+    "text": "システム表示Ｘ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:111",
+    "text": "システム表示Ｙ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:112",
+    "text": "賭け数SUB千の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:113",
+    "text": "賭け数SUB百の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:114",
+    "text": "賭け数SUB十の位",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:116",
+    "text": "じゃんけん勝利",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:117",
+    "text": "じゃんけん変数-敵",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:121",
+    "text": "スロット１リール１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:122",
+    "text": "スロット１リール２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:123",
+    "text": "スロット１リール３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:124",
+    "text": "スロット１リール４",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:125",
+    "text": "スロット１リール５",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:126",
+    "text": "スロット１リール６",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:127",
+    "text": "スロット１リール７",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:128",
+    "text": "スロット１リール８",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:129",
+    "text": "スロット１リール９",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:130",
+    "text": "スロット１リール１０",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:131",
+    "text": "スロット１リール１１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:132",
+    "text": "スロット１リール１２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:133",
+    "text": "スロット１リール１３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:134",
+    "text": "スロット１リール１４",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:135",
+    "text": "スロット１リール１５",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:136",
+    "text": "スロット１リール１６",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:137",
+    "text": "スロット１リール１７",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:138",
+    "text": "スロット１リール１８",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:139",
+    "text": "スロット１リール１９",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:140",
+    "text": "スロット１リール２０",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:141",
+    "text": "スロット１リール２１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:142",
+    "text": "スロット１リール２２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:143",
+    "text": "スロット１リール２３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:144",
+    "text": "スロット１－１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:145",
+    "text": "スロット１－２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:146",
+    "text": "スロット１－３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:147",
+    "text": "スロット２－１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:148",
+    "text": "スロット２－２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:149",
+    "text": "スロット２－３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:150",
+    "text": "スロット３－１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:151",
+    "text": "スロット３－２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:152",
+    "text": "スロット３－３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:153",
+    "text": "リールどこでとまる１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:154",
+    "text": "リールどこでとまる２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:155",
+    "text": "リールどこでとまる３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:156",
+    "text": "リールｉ変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:157",
+    "text": "リールｊ変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:158",
+    "text": "リールｋ変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:159",
+    "text": "リールｌ変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:160",
+    "text": "回転変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:161",
+    "text": "スロット２リール１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:162",
+    "text": "スロット２リール２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:163",
+    "text": "スロット２リール３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:164",
+    "text": "スロット２リール４",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:165",
+    "text": "スロット２リール５",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:166",
+    "text": "スロット２リール６",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:167",
+    "text": "スロット２リール７",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:168",
+    "text": "スロット２リール８",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:169",
+    "text": "スロット２リール９",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:170",
+    "text": "スロット２リール１０",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:171",
+    "text": "スロット２リール１１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:172",
+    "text": "スロット２リール１２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:173",
+    "text": "スロット２リール１３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:174",
+    "text": "スロット２リール１４",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:175",
+    "text": "スロット２リール１５",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:176",
+    "text": "スロット２リール１６",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:177",
+    "text": "スロット２リール１７",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:178",
+    "text": "スロット２リール１８",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:179",
+    "text": "スロット２リール１９",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:180",
+    "text": "スロット２リール２０",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:181",
+    "text": "スロット２リール２１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:182",
+    "text": "スロット２リール２２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:183",
+    "text": "スロット２リール２３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:186",
+    "text": "スロット表示変数１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:187",
+    "text": "スロット表示変数２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:188",
+    "text": "スロット表示変数３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:190",
+    "text": "スロット賭けコイン数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:191",
+    "text": "スロットゲット数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:192",
+    "text": "スロット回転変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:194",
+    "text": "スロット文字Ｘ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:195",
+    "text": "スロット文字Ｙ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:201",
+    "text": "スロット３リール１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:202",
+    "text": "スロット３リール２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:203",
+    "text": "スロット３リール３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:204",
+    "text": "スロット３リール４",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:205",
+    "text": "スロット３リール５",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:206",
+    "text": "スロット３リール６",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:207",
+    "text": "スロット３リール７",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:208",
+    "text": "スロット３リール８",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:209",
+    "text": "スロット３リール９",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:210",
+    "text": "スロット３リール１０",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:211",
+    "text": "スロット３リール１１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:212",
+    "text": "スロット３リール１２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:213",
+    "text": "スロット３リール１３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:214",
+    "text": "スロット３リール１４",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:215",
+    "text": "スロット３リール１５",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:216",
+    "text": "スロット３リール１６",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:217",
+    "text": "スロット３リール１７",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:218",
+    "text": "スロット３リール１８",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:219",
+    "text": "スロット３リール１９",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:220",
+    "text": "スロット３リール２０",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:221",
+    "text": "スロット３リール２１",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:222",
+    "text": "スロット３リール２２",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:223",
+    "text": "スロット３リール２３",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:225",
+    "text": "スロット２マンドラ数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:226",
+    "text": "スロット３マンドラ数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:227",
+    "text": "スロット２きのこ数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:228",
+    "text": "スロット３きのこ数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  }
+]

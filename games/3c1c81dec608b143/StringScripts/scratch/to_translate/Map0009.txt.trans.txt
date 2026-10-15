@@ -1,0 +1,261 @@
+﻿1. [MARKER: Message] [FACE: Ｆ鬼] \S[2]･･････よぉ、来たな。
+
+2. [MARKER: Message] [FACE: F鞍春] 　\.！
+3. [MARKER: Message] [FACE: Ｆ鬼] \.オイ、タマ。
+
+4. [MARKER: Message] [FACE: Ｆ鬼] \S[3]誰がヘクション大魔王だって？
+5. [MARKER: Message] [FACE: Ｆタマ] オ、\.オイラが言ったんじゃないニャ～$e
+6. [MARKER: Message] [FACE: F鞍春] \S[3]････････････。
+
+7. [MARKER: Message] [FACE: Ｆ鬼] \.なんだその顔は。
+
+8. [MARKER: Message] [FACE: Ｆ鬼] \.ナマで鬼を見るのは初めてか？
+9. [MARKER: Message] [FACE: F鞍春] \S[2]･････････鬼･･･
+10. [MARKER: Message] [FACE: Ｆ鬼] おめーもおめーだ　タマ。
+11. [MARKER: Message] [FACE: Ｆ鬼] なに　そんなヤツの手助けしに
+ついて回ってやがる。
+12. [MARKER: Message] [FACE: Ｆタマ] てっ手助けじゃないニャ。
+見張ってるんニャ$d
+13. [MARKER: Message] [FACE: Ｆ鬼] そうは見えねーよ。
+14. [MARKER: Message] [FACE: F鞍春] \.･････････。
+15. [MARKER: Message] [FACE: Ｆ鬼] \.･･･ま、\.いーか。
+16. [MARKER: Message] [FACE: Ｆ鬼] \.さっさと始めて
+\.さっさと終わらせるとするか。
+17. [MARKER: Message] [FACE: F鞍春] \.待て、私は
+18. [MARKER: Message] [FACE: Ｆ鬼] 何も聞きたかねぇよ。
+19. [MARKER: Message] [FACE: Ｆ鬼] \.おめーは ここを通りたい。
+俺は おまえを通したくねぇ･･･
+20. [MARKER: Message] [FACE: Ｆ鬼] 闘う理由はあるわけだ。
+21. [MARKER: Message] [FACE: Ｆ鬼] 遠慮なくかかってきな。
+22. [MARKER: Message] [FACE: F鞍春] \.･･････問答無用か。
+23. [MARKER: Message] [FACE: Ｆ鬼] それから、
+そっちが２人がかりなら
+こっちも人数増やさせてもらうぜ。
+24. [MARKER: Message] [FACE: Ｆタマ] ニャニャっ！
+25. [MARKER: Message] [FACE: Ｆ鬼] 出でよ
+左童破天！
+26. [MARKER: Message] [FACE: F鞍春] \.よし。
+鬼の懐を探ってみるか。
+27. [MARKER: Message] [FACE: Ｆタマ] ･･････ないニャ？
+28. [MARKER: Message] [FACE: F鞍春] \.懐にないとすると\S[2]･･････
+29. [MARKER: Message] [FACE: Ｆ鬼] ･･･どこ触ってやがる
+このスケベ野郎！
+30. [MARKER: Message] [FACE: Ｆタマ] あっ。
+生きてるニャ。
+31. [MARKER: Message] [FACE: Ｆ鬼] \.ったりめーだ。
+俺を誰だと思って･･････っ痛てて
+32. [MARKER: Message] [FACE: F鞍春] \.気色悪いのはお互い様だ。
+33. [MARKER: Message] [FACE: F鞍春] \.胸元を探られるのが嫌なら
+鍵を渡せ。
+34. [MARKER: Message] [FACE: Ｆ鬼] \S[2]･･････ちっ
+35. [MARKER: Message] [FACE: Ｆ鬼] \.言いたいこと言いやがる。
+36. [MARKER: Message] [FACE: Ｆ鬼] \.\S[2]･･････だが
+37. [MARKER: Message] [FACE: Ｆ鬼] \.おめー、
+\.あの鬼火の技は どこで覚えやがった。
+38. [MARKER: Message] [FACE: F鞍春] \.･･････さぁ
+\.どこでだったかな。
+39. [MARKER: Message] [FACE: Ｆ鬼] \.ちぇ。
+愛想のねー奴だぜ。
+40. [MARKER: Message] [FACE: F鞍春] \.物心ついたときには
+使えるようになっていたからな。
+41. [MARKER: Message] [FACE: F鞍春] \S[2]どこで･･･\S[1]と言われても
+わからぬだけだ。
+42. [MARKER: Message] [FACE: F鞍春] ま、\.これのおかげで　
+子供の頃はよく、
+鬼の子と言われたものだが。
+43. [MARKER: Message] [FACE: Ｆ鬼] ･･････
+44. [MARKER: Message] [FACE: Ｆ鬼] \S[2]･･････\.鬼の･･･
+45. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+46. [MARKER: Message] [FACE: Ｆタマ] \.どうしたニャ。
+47. [MARKER: Message] [FACE: F鞍春] 強い･･･妖気のようなものを感じる。
+48. [MARKER: Message] [FACE: F鞍春] さっきの２人とは
+少々ケタの違う妖怪がいそうだな。
+49. [MARKER: Message] [FACE: Ｆタマ] それはそうニャ。
+ここの扉を守ってるのは おそろし～い･･･
+50. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+51. [MARKER: Message] [FACE: Ｆタマ] お･･････
+52. [MARKER: Message] [FACE: F鞍春] お？
+53. [MARKER: Message] [FACE: Ｆタマ] ･･････
+54. [MARKER: Message] [FACE: Ｆタマ] へっくしょん$e
+55. [MARKER: Message] [FACE: F鞍春] ･･････。
+56. [MARKER: Message] [FACE: Ｆタマ] はニャ～、風邪ひいたかニャ。
+57. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+58. [MARKER: Message] [FACE: F鞍春] ･･･
+へっくしょん大魔王か。
+59. [MARKER: Message] [FACE: Ｆタマ] へ？
+60. [MARKER: Message] [FACE: Ｆタマ] ぜーぜー･･･
+61. [MARKER: Message] [FACE: Ｆタマ] ･･････良かった
+オイラ生きてるニャ。
+62. [MARKER: Message] [FACE: Ｆタマ] \.これでまた
+アノ、変な光がブニョ～っと･･･
+63. [MARKER: Message] [FACE: Ｆタマ] \S[2]･･････････････････。
+64. [MARKER: Message] [FACE: Ｆタマ] ･･････アレ？
+65. [MARKER: Message] [FACE: Ｆタマ] 今回は
+何にも起きないニャ。
+66. [MARKER: Message] [FACE: F鞍春] \S[2]･････････。
+67. [MARKER: Message] [FACE: F鞍春] 鬼というのは
+人の心が生み出したもの･･･
+68. [MARKER: Message] [FACE: F鞍春] 自らが心を開かねば
+その変化がとかれることは
+あるまい。
+69. [MARKER: Message] [FACE: Ｆタマ] \s[4]･･････心･･･
+70. [MARKER: Message] [FACE: F鞍春] 先へ進むぞ。
+このままでは夜が明けてしまいそうだ。
+71. [MARKER: Message] [FACE: Ｆタマ] \.･･･わかったニャ。
+72. [MARKER: Message] [FACE: F鞍春] \.さて･･･扉の鍵は･･･
+73. [MARKER: Message] [FACE: F鞍春] 鬼本人の懐を探ってみるか。
+74. [MARKER: Message] [FACE: Ｆタマ] やっぱ
+開かないニャ。
+75. [MARKER: Message] [FACE: F鞍春] け飛ばしてみるか。
+76. [MARKER: Message] [FACE: Ｆタマ] \.･･････。
+\.お主、顔と似合わないことを
+するニャって。
+77. [MARKER: Message] [FACE: F鞍春] ･･･開かぬな。
+78. [MARKER: Message] [FACE: F鞍春] 本人が持っているかもしれぬな。
+79. [MARKER: Message] [FACE: Ｆタマ] やっぱり鍵がないと
+開かないんだニャ･･･
+80. [MARKER: Message] [FACE: F鞍春] しかし、そんな包みらしきものは
+見あたらぬが。
+81. [MARKER: Message] [FACE: Ｆタマ] 鍵を探すニャ。
+82. [MARKER: Message] [FACE: Ｆタマ] てめー･･･草次郎･･･！
+83. [MARKER: Message] [FACE: Ｆタマ] なにしに来やがった！！
+84. [MARKER: Message] [FACE: Ｆ草次郎] なにしに来たとは
+随分なご挨拶だな、小吉。
+85. [MARKER: Message] [FACE: Ｆ草次郎] せっかく
+雪乃の幼なじみのよしみで
+線香の一本もあげに来てやったって
+いうのにな。
+86. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] なんだと･･･？！
+87. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 誰のせいでこんなことになったと
+思ってるんだ！
+88. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 草次郎、てめー
+雪乃になにしやがった！！
+89. [MARKER: Message] [FACE: Ｆ草次郎] \.\.なんにもしてねーよ。
+90. [MARKER: Message] [FACE: Ｆ草次郎] \.しようとしたら　あの女
+\.勝手に舌噛んじまいやがったんだからな。
+91. [MARKER: Message] [FACE: Ｆ草次郎] 小吉の借金をまけてくれと
+泣いて頼むから
+92. [MARKER: Message] [FACE: Ｆ草次郎] \.話によっては
+まけてやってもいいと言ってやったのに
+恩知らずな奴だぜ。
+93. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.･･････\.てめーは
+94. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.てめーは･･･人間じゃねぇ。
+95. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] てめーは･･･鬼だ！
+96. [MARKER: Message] [FACE: Ｆ草次郎] ･･････。
+97. [MARKER: Message] [FACE: Ｆ草次郎] \.\S[3]鬼で結構。
+98. [MARKER: Message] [FACE: Ｆ草次郎] \.だが悪いのは
+借金つくっておめーを置いて家を出た
+おめーの親父だ。
+99. [MARKER: Message] [FACE: Ｆ草次郎] \.俺を恨むのは
+お門違いって奴だぜ、\.小吉。
+100. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 草次郎の親父も嫌な金貸しだったが
+あいつは輪をかけてひどい奴だな。
+101. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 本当だよ。
+あいつは本当に鬼だよ。
+102. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 雪乃は
+あいつが殺したようなもんさ。
+103. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 違いねぇ。
+小吉もかわいそうにな。
+104. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]なんとでも言えばいい･･･
+105. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]なにを言われようとも
+106. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]\S[2]俺は生まれてこの方
+　　　　　\.こういう生き方しか
+　　　　　教わってこなかったのだから
+　　　　　･･････
+107. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\C[17]親父は
+困っている奴らを助けるために
+金貸しを始めた。
+108. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\C[17]でも、こんな時世、
+借りた金をまともに返せる奴なんて
+ほとんどいやしねぇ。
+109. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\C[17]感謝されるのは
+初めだけで
+110. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\C[17]ほとんどの奴らは
+金の取り立てに行けば
+揃いも揃って　嫌な顔をしやがる
+･･････
+111. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\C[17]だから親父は
+鬼になって取り立てを始めた･･･
+そして
+112. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\C[17]そんな親父を見るのが嫌で
+家を出た兄貴に代わって　俺が
+113. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\C[17]\S[2]鬼の後を継いだ･･････
+114. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\C[17]あれから４年も経つ。
+いい加減　鬼と言われるのにも
+慣れてきた。
+115. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]\S[3]だが 雪乃･･････
+116. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\.\S[2]\C[17]少なくとも\S[1]
+　　　　　\S[2]おまえにだけは･･････
+117. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]\S[2]･････････
+118. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]草ちゃん･･･
+　　　　　\.またお父さんと喧嘩したの？
+119. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]･･･殴られたんだ？
+120. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]\S[2]･････････
+121. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]\.親父は俺が嫌いなんだ
+122. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]なに言ってるの？
+　　　　　\.そんなわけないじゃない
+123. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]だいたい、兄貴には
+　　　　　「森太郎」なんて名前つけて、
+　　　　　俺には「草次郎」だ
+124. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]草だぜ、草！
+125. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]･･････
+126. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]･･･あのね
+127. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]草ちゃんのお父さん、
+　　　　　\.森太郎お兄ちゃんには大きく
+　　　　　草ちゃんには強く育って欲しい
+　　　　　って、そう言ってたよ。
+128. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]草って
+　　　　　踏まれても踏まれても
+　　　　　起きあがる･･･
+　　　　　強い生き物だからって
+129. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]\S[2]･････････
+130. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]あたしは草ちゃんの名前
+　　　　　\.好きだなぁ
+131. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]\S[2]･････････
+132. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]･･････ね
+　　　　　\.一緒に謝ってあげるから
+　　　　　家に帰ろう？
+133. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[19]\S[2]ね？　草ちゃん･･････
+134. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]\S[3]雪乃･･････
+135. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]おまえが
+　　　　　\.小吉の借金をまけてくれと
+　　　　　俺に相談を持ちかけてきたとき
+136. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]俺がおまえに惚れていると
+　　　　　言ったら･･････
+137. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]\S[2]なぜ
+　　　　　\.あんなに怯えた目をした？
+138. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]幼なじみで
+　　　　　子供の頃からの仲良しだった
+　　　　　そんなおまえから見ても
+139. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]\S[2]俺は
+　　　　　鬼に見えたのか･･････？
+140. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]おまえがあんな顔をしなければ
+　　　　　･･････
+　　　　　俺に怯えたりしなければ･･････
+141. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]\S[2]俺はおまえに
+　　　　　あんなことをするつもりは
+　　　　　なかったんだ･････
+142. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]\S[3]俺は本当に
+
+143. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　\C[17]\S[3]おまえが好きだったのだから･･･
+144. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]\S[2]雪乃･･････
+145. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]\S[2]俺が本当に
+　　　　　おまえに何かすると思ったか？
+146. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]\S[2]小吉と一緒になると言って
+　　　　　喜んでいたおまえの幸せを
+147. [MARKER: Message] [FACE: Ｆ草次郎] 　　　　　\C[17]\S[2]俺が壊したいと思っていると
+　　　　　･･････
+　　　　　本当に思ったのか･･････？
+148. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]いっそ
+149. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]本物の鬼になれればいい。
+150. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]そうすれば
+罪悪感のかけらもなく
+俺は生きていけるのだから。
+151. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]雪乃もこの世にいない
+今となっては･･････
+152. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]鬼になれ･･･
+153. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]誰か俺を
+154. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]俺を鬼にしてくれ･･･！
+155. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　\S[2]････････････
+156. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　\S[4]････････････？･････････
+157. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　\S[5]･････････誰だ････････？

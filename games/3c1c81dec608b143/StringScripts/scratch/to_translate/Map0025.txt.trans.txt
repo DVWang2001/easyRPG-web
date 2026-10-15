@@ -1,0 +1,21 @@
+﻿1. [MARKER: Message] [FACE: Ｆタマ] \.薬草見っけ。
+2. [MARKER: Message] [FACE: F鞍春] よくいろいろな物が落ちている
+洞窟だな。
+3. [MARKER: Message] [FACE: Ｆタマ] がさつな奴ばっかりでニャ。
+4. [MARKER: Message] [FACE: Ｆタマ] 穴のあいた風呂敷持って
+あっちこっち移動しとるからニャ。
+5. [MARKER: Message] [FACE: F鞍春] 　\.$d
+6. [MARKER: Message] [FACE: Ｆタマ] \.ひとつ
+お主に聞いてもいいニャ？
+7. [MARKER: Message] [FACE: F鞍春] \.なんだ？
+8. [MARKER: Message] [FACE: Ｆタマ] \.お主は一体
+誰のために 姫さんに会おうとしてるニャ。
+9. [MARKER: Message] [FACE: Ｆタマ] \.さっきから聞いてると
+誰かのために
+姫さんと会おうとしてるみたいニャ。
+10. [MARKER: Message] [FACE: F鞍春] \S[3]････････････。
+11. [MARKER: Message] [FACE: F鞍春] \.私もわからぬ。
+12. [MARKER: Message] [FACE: F鞍春] \.\S[2]きっと会えば･･･
+13. [MARKER: Message] [FACE: F鞍春] \.それがわかるのではないかと
+そう思ってやって来たのでな･･････
+14. [MARKER: Message] [FACE: Ｆタマ] \S[3]････････････。

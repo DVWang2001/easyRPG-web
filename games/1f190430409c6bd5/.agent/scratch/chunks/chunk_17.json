@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:285",
+    "text": "警備兵（左右）倒す",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:286",
+    "text": "クウィールと話す",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:287",
+    "text": "牢屋スイッチ①",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:288",
+    "text": "牢屋スイッチ②",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:289",
+    "text": "牢屋スイッチ③",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:290",
+    "text": "牢屋スイッチ④",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:291",
+    "text": "クウィール逃げる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:292",
+    "text": "地下箱ＯＰＥＮ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:293",
+    "text": "障害物①",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:294",
+    "text": "障害物②",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:295",
+    "text": "障害物③",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:296",
+    "text": "障害物④",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:297",
+    "text": "障害物⑤",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:298",
+    "text": "SK",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:299",
+    "text": "ラグが出る",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:300",
+    "text": "ドゥーガが出る",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:301",
+    "text": "重装警備兵倒す01",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:302",
+    "text": "重装警備兵倒す02",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:303",
+    "text": "重装警備兵倒す03",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:304",
+    "text": "重装警備兵倒す04",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:305",
+    "text": "重装警備兵倒す05",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:306",
+    "text": "重装警備兵倒す06",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:307",
+    "text": "重装警備兵倒す07",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:308",
+    "text": "重装警備兵倒す08",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:309",
+    "text": "重装警備兵倒す09",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:310",
+    "text": "重装警備兵倒す10",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:311",
+    "text": "重装警備兵倒す11",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:312",
+    "text": "重装警備兵倒す12",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:313",
+    "text": "重装警備兵倒す13",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:314",
+    "text": "重装警備兵倒す14",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:315",
+    "text": "重装警備兵倒す15",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:316",
+    "text": "重装警備兵倒す16",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:317",
+    "text": "重装警備兵倒す17",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:318",
+    "text": "重装警備兵倒す18",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:319",
+    "text": "重装警備兵倒す19",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:320",
+    "text": "重装警備兵倒す20",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:321",
+    "text": "重装警備兵倒す21",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:322",
+    "text": "重装警備兵倒す22",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:323",
+    "text": "重装警備兵倒す23",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:324",
+    "text": "重装警備兵倒す24",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:325",
+    "text": "重装警備兵倒す25",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:326",
+    "text": "重装警備兵倒す26",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:327",
+    "text": "重装警備兵倒す27",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:328",
+    "text": "重装警備兵倒す28",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:329",
+    "text": "重装警備兵倒す29",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:330",
+    "text": "重装警備兵倒す30",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:331",
+    "text": "重装警備兵倒す31",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:332",
+    "text": "重装警備兵倒す32",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:333",
+    "text": "重装警備兵倒す33",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:334",
+    "text": "重装警備兵倒す34",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:335",
+    "text": "重装警備兵倒す35",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:336",
+    "text": "重装警備兵倒す36",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:337",
+    "text": "重装警備兵倒す37",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:338",
+    "text": "重装警備兵倒す38",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:339",
+    "text": "重装警備兵倒す39",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:340",
+    "text": "重装警備兵倒す40",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:341",
+    "text": "カードをさがせ！ラグ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:342",
+    "text": "カードをさがせ！ドゥ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:343",
+    "text": "ヴァディスでる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:344",
+    "text": "帰宅イベント終了",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:345",
+    "text": "探し中",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:346",
+    "text": "叩くの始まる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:347",
+    "text": "ラグ台詞01",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:348",
+    "text": "ラグ台詞02",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:349",
+    "text": "ラグ台詞03",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:350",
+    "text": "ヘイムレイク出る",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:351",
+    "text": "警備兵でる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:352",
+    "text": "警備兵捕まえにでる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:353",
+    "text": "警備兵・に消える",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:354",
+    "text": "警備兵・ほ消える",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:355",
+    "text": "警備兵・い消える",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:356",
+    "text": "警備兵・ろ消える",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:357",
+    "text": "警備兵・は消える",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:358",
+    "text": "爆薬使用",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:359",
+    "text": "ヴァディス台詞01",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:360",
+    "text": "ヴァディス台詞02",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:361",
+    "text": "ヴァディス倒れる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:362",
+    "text": "ヴァディス戦闘後",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:363",
+    "text": "ラグ倒れる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:364",
+    "text": "牢屋につかまる。",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:365",
+    "text": "プッチ・メッセ使用",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:366",
+    "text": "再びＤ.Ｊ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:367",
+    "text": "ミチタ出る",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:368",
+    "text": "王国警察でる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:369",
+    "text": "ドア消える",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:370",
+    "text": "ヘイムレイク逃げる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:371",
+    "text": "トライフィア出る",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:372",
+    "text": "Ｄ・ハッシュ逃げる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:373",
+    "text": "Ｄ・ハッシュを追え！",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:374",
+    "text": "Ｄ・ハッシュ入る",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:375",
+    "text": "ラグふたたび",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:376",
+    "text": "Ｄ・ハッシュ捕まえる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:377",
+    "text": "バールげっと",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:378",
+    "text": "バール使用",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:379",
+    "text": "Ｄ・ハッシュ出る",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:380",
+    "text": "画面広く",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:381",
+    "text": "トライフィア裏切り",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:382",
+    "text": "バール使用可能",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:383",
+    "text": "扉壊し",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:384",
+    "text": "クウィール出る",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:385",
+    "text": "クレアでる",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:386",
+    "text": "Ｄ・ハッシュスタート",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:387",
+    "text": "床ＯＮ",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Switches:388",
+    "text": "村でのドゥーガ話",
+    "marker": "RM2K_Switches",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:1",
+    "text": "キー入力変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:6",
+    "text": "回復変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:7",
+    "text": "ランダム効果音変数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:10",
+    "text": "主人公カードの数字①",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:11",
+    "text": "主人公カードの数字②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:12",
+    "text": "主人公カードの数字③",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:13",
+    "text": "主人公カードの数字④",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:14",
+    "text": "主人公カードの数字⑤",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:15",
+    "text": "主人公カード配布",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:16",
+    "text": "主人公カード配布回数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:17",
+    "text": "どのカード数値代入？",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:18",
+    "text": "カード配布保存①",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:19",
+    "text": "カード配布保存②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:20",
+    "text": "カード配布保存③",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:21",
+    "text": "カード配布保存④",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:22",
+    "text": "カード配布保存⑤",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:23",
+    "text": "どのカード保存代入？",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:24",
+    "text": "主人公合計",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:25",
+    "text": "主人公残り",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:26",
+    "text": "主人公合計②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:27",
+    "text": "主人公残り②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:30",
+    "text": "敵カードの数字①",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:31",
+    "text": "敵カードの数字②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:32",
+    "text": "敵カードの数字③",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:33",
+    "text": "敵カードの数字④",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:34",
+    "text": "敵カードの数字⑤",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:35",
+    "text": "敵カード配布",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:36",
+    "text": "敵カード配布回数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:37",
+    "text": "敵どのカードに数値？",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:38",
+    "text": "敵カード保存①",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:39",
+    "text": "敵カード保存②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:40",
+    "text": "敵カード保存③",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:41",
+    "text": "敵カード保存④",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:42",
+    "text": "敵カード保存⑤",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:43",
+    "text": "敵どのカードに保存？",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:44",
+    "text": "敵合計",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:45",
+    "text": "敵残り",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:46",
+    "text": "敵合計②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:47",
+    "text": "敵残り②",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:50",
+    "text": "親…主人公0・敵1",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:51",
+    "text": "どっちが大きいの？",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:52",
+    "text": "勝利判定…勝0引1負2",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:53",
+    "text": "賭け数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:54",
+    "text": "賭け数チェック",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:55",
+    "text": "合計ダメージ数",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  },
+  {
+    "file": "_RM2K_Names_",
+    "key": "RM2K_Variables:56",
+    "text": "カード表示Ｘ座標",
+    "marker": "RM2K_Variables",
+    "speaker": "SYSTEM"
+  }
+]

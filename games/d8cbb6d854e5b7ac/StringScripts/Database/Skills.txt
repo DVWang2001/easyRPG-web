@@ -1,0 +1,3419 @@
+*****Entry1*****
+#Name# [20]
+逃跑腳力
+
+#Description# [50]
+返回地下城的出口。
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+元氣滿滿
+
+#Description# [50]
+以元氣滿滿恢復自己的ＨＰ。
+
+#UseMessage1# [30]
+注入了鬥志！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+斬天裂地
+
+#Description# [50]
+直劈腦袋的一擊。
+
+#UseMessage1# [30]
+施展了斬天裂地！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+小治癒
+
+#Description# [50]
+恢復一名隊友ＨＰ的魔法。
+
+#UseMessage1# [30]
+吟唱了小治癒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+喝醒
+
+#Description# [50]
+喝醒一名隊友，使其恢復正常狀態。
+
+#UseMessage1# [30]
+進行了喝醒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+要害一擊
+
+#Description# [50]
+直擊敵人要害的必殺一擊。
+
+#UseMessage1# [30]
+施展了要害一擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+蓄力
+
+#Description# [50]
+以氣勢提升自身的攻擊力。
+
+#UseMessage1# [30]
+蓄滿了氣勢！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+日輪劍
+
+#Description# [50]
+對敵方造成巨額傷害的必殺一擊。
+
+#UseMessage1# [30]
+施展了日輪劍！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+揮拳
+
+#Description# [50]
+使出渾身解數毆打敵方單體。
+
+#UseMessage1# [30]
+出手毆打了！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+狂轟濫炸
+
+#Description# [50]
+瘋狂毆打敵方單體。
+
+#UseMessage1# [30]
+瘋狂毆打了對手！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+大暴走
+
+#Description# [50]
+發動大暴走對敵方全體造成傷害。
+
+#UseMessage1# [30]
+的大暴走！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+角粉碎
+
+#Description# [50]
+必殺的空手劈擊。
+
+#UseMessage1# [30]
+施展了角粉碎！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+重擊粉碎
+
+#Description# [50]
+以雙手劈擊粉碎單個敵人。
+
+#UseMessage1# [30]
+施展了重擊粉碎！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+永眠
+
+#Description# [50]
+送單個敵人上路。
+
+#UseMessage1# [30]
+施展了永眠！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+變青蛙
+
+#Description# [50]
+使單個敵人陷入青蛙狀態。
+
+#UseMessage1# [30]
+吟唱了變青蛙！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+瞬間移動
+
+#Description# [50]
+瞬間移動至曾去過的城鎮或村莊。
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+火焰彈
+
+#Description# [50]
+向單個敵人發射火球的魔法。
+
+#UseMessage1# [30]
+唱了火焰彈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+烈焰風暴
+
+#Description# [50]
+向全體敵人釋放火柱的魔法。
+
+#UseMessage1# [30]
+唱了烈焰風暴！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+火焰纏身
+
+#Description# [50]
+包裹單體敵人於火焰中的魔法。
+
+#UseMessage1# [30]
+唱了火焰纏身！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+火海
+
+#Description# [50]
+以火海圍困全體敵人的魔法。
+
+#UseMessage1# [30]
+唱了火海！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+滅世之焰
+
+#Description# [50]
+傳說中曾將世界籠罩在火海之中的魔法。
+
+#UseMessage1# [30]
+唱了滅世之焰！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+靈魂淨化
+
+#Description# [50]
+淨化靈魂的魔法。
+
+#UseMessage1# [30]
+唱了靈魂淨化！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+小治癒
+
+#Description# [50]
+恢復一名隊友ＨＰ的魔法。
+
+#UseMessage1# [30]
+吟唱了小治癒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+解毒
+
+#Description# [50]
+淨化單體友方中毒狀態的魔法。
+
+#UseMessage1# [30]
+施放了解毒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+治癒
+
+#Description# [50]
+恢復一名隊友ＨＰ的魔法。
+
+#UseMessage1# [30]
+施放了治癒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+全解
+
+#Description# [50]
+治療單體友方異常狀態的魔法。
+
+#UseMessage1# [30]
+施放了全解！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry27*****
+#Name# [20]
+復活
+
+#Description# [50]
+恢復單體友方的氣絕狀態，並使ＨＰ完全恢復的魔法。
+
+#UseMessage1# [30]
+施放了復活！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+全體治癒
+
+#Description# [50]
+恢復全體友方ＨＰ的魔法。
+
+#UseMessage1# [30]
+施放了全體治癒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+神恩
+
+#Description# [50]
+為全體友方施加祝福，暫時提升能力值。
+
+#UseMessage1# [30]
+吟唱了神恩！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+火精靈
+
+#Description# [50]
+召喚火精靈，以火焰包圍單體敵人。
+
+#UseMessage1# [30]
+召喚了火精靈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+要害狙擊
+
+#Description# [50]
+發動鎖定敵方要害的精準一擊。
+
+#UseMessage1# [30]
+鎖定了要害！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+亂射
+
+#Description# [50]
+朝全體敵人降下箭雨。
+
+#UseMessage1# [30]
+發動了亂射！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry33*****
+#Name# [20]
+生命精靈
+
+#Description# [50]
+藉由生命精靈的力量，恢復單體友方的ＨＰ。
+
+#UseMessage1# [30]
+召喚了生命精靈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry34*****
+#Name# [20]
+風暴精靈
+
+#Description# [50]
+召喚風暴精靈，對全體敵人造成傷害。
+
+#UseMessage1# [30]
+召喚了風暴精靈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry35*****
+#Name# [20]
+雷電精靈
+
+#Description# [50]
+召喚雷電精靈，對全體敵人造成傷害。
+
+#UseMessage1# [30]
+召喚了雷電精靈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+召喚狼
+
+#Description# [50]
+召喚狼來攻擊單個敵人。
+
+#UseMessage1# [30]
+召喚了狼！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry37*****
+#Name# [20]
+召喚鳥
+
+#Description# [50]
+召喚鳥，送自己去之前去過的地方。
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry38*****
+#Name# [20]
+召喚暴馬
+
+#Description# [50]
+召喚暴馬來攻擊單個敵人。
+
+#UseMessage1# [30]
+召喚了暴馬！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry39*****
+#Name# [20]
+召喚熊
+
+#Description# [50]
+召喚熊來攻擊單個敵人。
+
+#UseMessage1# [30]
+召喚了熊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+召喚猛獸
+
+#Description# [50]
+召喚猛獸來攻擊單個敵人。
+
+#UseMessage1# [30]
+召喚了野獸！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+召喚巨龍
+
+#Description# [50]
+召喚巨龍來攻擊全體敵人。
+
+#UseMessage1# [30]
+召喚了巨龍！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry42*****
+#Name# [20]
+投擲炸彈
+
+#Description# [50]
+向單個敵人投擲炸彈。
+
+#UseMessage1# [30]
+投擲了炸彈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry43*****
+#Name# [20]
+怪光線
+
+#Description# [50]
+用奇異的光線攻擊單個敵人。
+
+#UseMessage1# [30]
+發射了怪光線！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+膠著光束
+
+#Description# [50]
+用神祕的膠著光束使單個敵人麻痺。
+
+#UseMessage1# [30]
+發射了膠著光束！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry45*****
+#Name# [20]
+催眠音波
+
+#Description# [50]
+用奇異的音波使全體敵人陷入睡眠。
+
+#UseMessage1# [30]
+發射了催眠音波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry46*****
+#Name# [20]
+殺人音波
+
+#Description# [50]
+用奇妙的音波對單個敵人造成傷害。
+
+#UseMessage1# [30]
+施放了殺人音波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry47*****
+#Name# [20]
+粒子光束砲
+
+#Description# [50]
+用最新的科學力量對全體敵人造成傷害。
+
+#UseMessage1# [30]
+施放了粒子光束砲！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry48*****
+#Name# [20]
+霧息
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施放了霧息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+霧擊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施放了霧擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+霧之呼喚
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+霧氣正向聚集！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+巨力重擊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+吟唱了巨力重擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry52*****
+#Name# [20]
+大火炎
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+吟唱了大火炎！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry53*****
+#Name# [20]
+貓空翻
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+的貓空翻！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry54*****
+#Name# [20]
+貓拳
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施放了貓拳！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry55*****
+#Name# [20]
+死亡之爪
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施放了死亡之爪！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry56*****
+#Name# [20]
+斬巖
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施放了斬巖！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry57*****
+#Name# [20]
+斬鐵劍
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施放了斬鐵劍！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry58*****
+#Name# [20]
+大地波動
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施放了大地波動！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry59*****
+#Name# [20]
+烈焰風暴
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+唱了烈焰風暴！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry60*****
+#Name# [20]
+火海
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+唱了火海！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry61*****
+#Name# [20]
+滅世之焰
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+唱了滅世之焰！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry62*****
+#Name# [20]
+暗黑治癒
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+吟唱了暗黑治癒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry63*****
+#Name# [20]
+超級重擊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+吟唱了超級重擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry64*****
+#Name# [20]
+超級火炎
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+唱了超級火炎！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry65*****
+#Name# [20]
+雷霆風暴
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+唱了雷霆風暴！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry66*****
+#Name# [20]
+鬥氣風暴
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+釋放了鬥氣風暴！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry67*****
+#Name# [20]
+獸吼
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+發出了獸吼！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry68*****
+#Name# [20]
+超級粉碎
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+唱了超級粉碎！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry69*****
+#Name# [20]
+暗黑光環
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+唱了暗黑光環！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry70*****
+#Name# [20]
+超級粉碎（死）
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+唱了超級粉碎！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry71*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry72*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry73*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry74*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry75*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry76*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry77*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry78*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry79*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry80*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry81*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry82*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry83*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry84*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry85*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry86*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry87*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry88*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry89*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry90*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry91*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry92*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry93*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry94*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry95*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry96*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry97*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry98*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry99*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry100*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry101*****
+#Name# [20]
+毒攻擊
+
+#Description# [50]
+對單個敵人造成傷害，并使其進入中毒狀態。
+
+#UseMessage1# [30]
+的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry102*****
+#Name# [20]
+致盲攻擊
+
+#Description# [50]
+對單個敵人造成傷害，并使其進入致盲狀態。
+
+#UseMessage1# [30]
+的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry103*****
+#Name# [20]
+睡眠攻擊
+
+#Description# [50]
+對單個敵人造成傷害，并使其進入睡眠狀態。
+
+#UseMessage1# [30]
+的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry104*****
+#Name# [20]
+麻痹攻擊
+
+#Description# [50]
+對單個敵人造成傷害，并使其進入麻痹狀態。
+
+#UseMessage1# [30]
+的攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry105*****
+#Name# [20]
+火焰吐息
+
+#Description# [50]
+對所有敵人造成火焰屬性傷害。
+
+#UseMessage1# [30]
+吐出了火焰吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry106*****
+#Name# [20]
+暴雪吐息
+
+#Description# [50]
+對所有敵人造成寒氣屬性傷害。
+
+#UseMessage1# [30]
+吐出了暴風雪吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry107*****
+#Name# [20]
+電擊
+
+#Description# [50]
+對所有敵人造成雷電屬性傷害。
+
+#UseMessage1# [30]
+放出了電擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry108*****
+#Name# [20]
+海嘯
+
+#Description# [50]
+對所有敵人造成水屬性傷害。
+
+#UseMessage1# [30]
+放出了海嘯！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry109*****
+#Name# [20]
+碎石
+
+#Description# [50]
+對所有敵人造成大地屬性傷害。
+
+#UseMessage1# [30]
+放出了碎石！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry110*****
+#Name# [20]
+風刃
+
+#Description# [50]
+對所有敵人造成風屬性傷害。
+
+#UseMessage1# [30]
+放出了風刃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry111*****
+#Name# [20]
+毒氣吐息
+
+#Description# [50]
+使所有敵人進入中毒狀態。
+
+#UseMessage1# [30]
+吐出了毒氣吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry112*****
+#Name# [20]
+睡眠吐息
+
+#Description# [50]
+使所有敵人進入睡眠狀態。
+
+#UseMessage1# [30]
+吐出了睡眠吐息！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry113*****
+#Name# [20]
+花粉（中毒）
+
+#Description# [50]
+使所有敵人進入中毒狀態。
+
+#UseMessage1# [30]
+散播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry114*****
+#Name# [20]
+花粉（黑暗）
+
+#Description# [50]
+使全體敵人陷入黑暗狀態。
+
+#UseMessage1# [30]
+散播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry115*****
+#Name# [20]
+花粉（暴走）
+
+#Description# [50]
+使全體敵人陷入暴走狀態。
+
+#UseMessage1# [30]
+散播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry116*****
+#Name# [20]
+花粉（混亂）
+
+#Description# [50]
+使全體敵人陷入混亂狀態。
+
+#UseMessage1# [30]
+散播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry117*****
+#Name# [20]
+花粉（麻痹）
+
+#Description# [50]
+使全體敵人陷入麻痹狀態。
+
+#UseMessage1# [30]
+散播了花粉！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry118*****
+#Name# [20]
+超聲波（暴走）
+
+#Description# [50]
+使全體敵人陷入暴走狀態。
+
+#UseMessage1# [30]
+釋放了超聲波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry119*****
+#Name# [20]
+超聲波（混亂）
+
+#Description# [50]
+使全體敵人陷入混亂狀態。
+
+#UseMessage1# [30]
+釋放了超聲波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry120*****
+#Name# [20]
+超聲波（睡眠）
+
+#Description# [50]
+使所有敵人進入睡眠狀態。
+
+#UseMessage1# [30]
+釋放了超聲波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry121*****
+#Name# [20]
+可疑的霧（沉默）
+
+#Description# [50]
+使全體敵人陷入沉默狀態。
+
+#UseMessage1# [30]
+釋放了可疑的霧！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry122*****
+#Name# [20]
+可疑的霧（睡眠）
+
+#Description# [50]
+使所有敵人進入睡眠狀態。
+
+#UseMessage1# [30]
+釋放了可疑的霧！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry123*****
+#Name# [20]
+沉默之歌
+
+#Description# [50]
+使全體敵人陷入沉默狀態。
+
+#UseMessage1# [30]
+唱起了沉默之歌！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry124*****
+#Name# [20]
+搖籃曲
+
+#Description# [50]
+使所有敵人進入睡眠狀態。
+
+#UseMessage1# [30]
+唱起了搖籃曲！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry125*****
+#Name# [20]
+魅惑之歌
+
+#Description# [50]
+使全體敵人陷入混亂狀態。
+
+#UseMessage1# [30]
+唱起了誘惑之歌！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry126*****
+#Name# [20]
+沙塵
+
+#Description# [50]
+使全體敵人陷入黑暗狀態。
+
+#UseMessage1# [30]
+卷起了沙塵！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry127*****
+#Name# [20]
+炫目之光
+
+#Description# [50]
+使全體敵人陷入黑暗狀態。
+
+#UseMessage1# [30]
+釋放了炫目光芒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry128*****
+#Name# [20]
+纏繞
+
+#Description# [50]
+對單個敵人造成傷害，并使其進入麻痹狀態。
+
+#UseMessage1# [30]
+用纏繞攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry129*****
+#Name# [20]
+麻痹凝視
+
+#Description# [50]
+使單個敵人進入麻痹狀態。
+
+#UseMessage1# [30]
+銳利地瞪視著！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry130*****
+#Name# [20]
+吸血
+
+#Description# [50]
+吸收單個敵人的HP。
+
+#UseMessage1# [30]
+的吸血攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry131*****
+#Name# [20]
+詭異之舞
+
+#Description# [50]
+吸收單個敵人的MP。
+
+#UseMessage1# [30]
+跳起了詭異的舞蹈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry132*****
+#Name# [20]
+沖撞
+
+#Description# [50]
+對單個敵人造成傷害，并使其失去平衡。
+
+#UseMessage1# [30]
+的撞擊攻擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry133*****
+#Name# [20]
+掃腿
+
+#Description# [50]
+使單個敵人失去平衡。
+
+#UseMessage1# [30]
+使出了掃堂腿！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry134*****
+#Name# [20]
+咆哮
+
+#Description# [50]
+使所有敵人受驚，無法行動。
+
+#UseMessage1# [30]
+發出了咆哮！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry135*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry136*****
+#Name# [20]
+微治癒（一般）
+
+#Description# [50]
+恢復一名隊友ＨＰ的魔法。
+
+#UseMessage1# [30]
+唱誦了微治癒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry137*****
+#Name# [20]
+小治癒（一般）
+
+#Description# [50]
+恢復一名隊友ＨＰ的魔法。
+
+#UseMessage1# [30]
+吟唱了小治癒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry138*****
+#Name# [20]
+治癒 Lv3
+
+#Description# [50]
+恢復盟友單體的ＨＰ約480點。
+
+#UseMessage1# [30]
+唱誦了治癒 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry139*****
+#Name# [20]
+恢復 Lv1
+
+#Description# [50]
+恢復盟友全體的ＨＰ約20點。
+
+#UseMessage1# [30]
+唱誦了恢復 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry140*****
+#Name# [20]
+恢復 Lv2
+
+#Description# [50]
+恢復盟友全體的ＨＰ約80點。
+
+#UseMessage1# [30]
+唱誦了恢復 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry141*****
+#Name# [20]
+恢復 Lv3
+
+#Description# [50]
+恢復盟友全體的ＨＰ約320點。
+
+#UseMessage1# [30]
+唱了恢復 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry142*****
+#Name# [20]
+淨化 Lv1
+
+#Description# [50]
+解除中毒狀態。
+
+#UseMessage1# [30]
+唱了淨化 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry143*****
+#Name# [20]
+淨化 Lv2
+
+#Description# [50]
+解除中毒、黑暗、沉默、睡眠狀態。
+
+#UseMessage1# [30]
+唱了淨化 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry144*****
+#Name# [20]
+淨化 Lv3
+
+#Description# [50]
+解除戰斗不能以外的所有異常狀態。
+
+#UseMessage1# [30]
+唱了淨化 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry145*****
+#Name# [20]
+復活 Lv1
+
+#Description# [50]
+從戰斗不能狀態中復活，并恢復10%的HP。
+
+#UseMessage1# [30]
+唱了復活 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry146*****
+#Name# [20]
+復活 Lv2
+
+#Description# [50]
+從戰斗不能狀態中復活，并恢復50%的HP。
+
+#UseMessage1# [30]
+唱了復活 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry147*****
+#Name# [20]
+復活 Lv3
+
+#Description# [50]
+從戰斗不能狀態中復活，并恢復100%的HP。
+
+#UseMessage1# [30]
+唱了復活 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry148*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry149*****
+#Name# [20]
+死亡宣告
+
+#Description# [50]
+一擊打倒敵方單體。
+
+#UseMessage1# [30]
+抽離了靈魂！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry150*****
+#Name# [20]
+中毒
+
+#Description# [50]
+使所有敵人進入中毒狀態。
+
+#UseMessage1# [30]
+施放了中毒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry151*****
+#Name# [20]
+致盲
+
+#Description# [50]
+使全體敵人陷入黑暗狀態。
+
+#UseMessage1# [30]
+施放了致盲！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry152*****
+#Name# [20]
+沉默
+
+#Description# [50]
+使全體敵人陷入沉默狀態。
+
+#UseMessage1# [30]
+施放了沉默！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry153*****
+#Name# [20]
+憤怒
+
+#Description# [50]
+使全體敵人陷入暴走狀態。
+
+#UseMessage1# [30]
+施放了憤怒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry154*****
+#Name# [20]
+混亂
+
+#Description# [50]
+使全體敵人陷入混亂狀態。
+
+#UseMessage1# [30]
+施放了混亂！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry155*****
+#Name# [20]
+睡眠
+
+#Description# [50]
+使敵方單體陷入睡眠狀態。
+
+#UseMessage1# [30]
+施放了睡眠！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry156*****
+#Name# [20]
+麻痹
+
+#Description# [50]
+使全體敵人陷入麻痹狀態。
+
+#UseMessage1# [30]
+施放了麻痹！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry157*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry158*****
+#Name# [20]
+武器祝福
+
+#Description# [50]
+提升我方單體的攻擊力。
+
+#UseMessage1# [30]
+施放了武器祝福！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry159*****
+#Name# [20]
+武器詛咒
+
+#Description# [50]
+降低敵方全體的攻擊力。
+
+#UseMessage1# [30]
+施放了武器詛咒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry160*****
+#Name# [20]
+護甲祝福
+
+#Description# [50]
+提升我方單體的防御力。
+
+#UseMessage1# [30]
+施放了護甲祝福！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry161*****
+#Name# [20]
+護甲詛咒
+
+#Description# [50]
+降低敵方全體的防御力。
+
+#UseMessage1# [30]
+施放了護甲詛咒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry162*****
+#Name# [20]
+精神祝福
+
+#Description# [50]
+提升我方單體的精神力。
+
+#UseMessage1# [30]
+施放了精神祝福！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry163*****
+#Name# [20]
+精神詛咒
+
+#Description# [50]
+降低敵方全體的精神力。
+
+#UseMessage1# [30]
+施放了精神詛咒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry164*****
+#Name# [20]
+疾速移動
+
+#Description# [50]
+提升我方單體的敏捷性。
+
+#UseMessage1# [30]
+施放了疾速移動！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry165*****
+#Name# [20]
+緩慢移動
+
+#Description# [50]
+降低敵方全體的敏捷性。
+
+#UseMessage1# [30]
+施放了緩慢移動！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry166*****
+#Name# [20]
+熱能屏障
+
+#Description# [50]
+用屏障包裹全體友軍，使其免受火焰攻擊。
+
+#UseMessage1# [30]
+施放了熱能屏障！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry167*****
+#Name# [20]
+寒冰屏障
+
+#Description# [50]
+用屏障包裹全體友軍，使其免受寒氣攻擊。
+
+#UseMessage1# [30]
+施放了寒冰屏障！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry168*****
+#Name# [20]
+生命吸收
+
+#Description# [50]
+吸收單個敵人的HP。
+
+#UseMessage1# [30]
+施放了生命吸收！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry169*****
+#Name# [20]
+靈魂吸收
+
+#Description# [50]
+吸收單個敵人的MP。
+
+#UseMessage1# [30]
+施放了靈魂吸收！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry170*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry171*****
+#Name# [20]
+傳送
+
+#Description# [50]
+瞬間移動到曾去過的城鎮等地。
+
+#UseMessage1# [30]
+施放了傳送！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry172*****
+#Name# [20]
+逃脫
+
+#Description# [50]
+從洞窟等地脫身而出。
+
+#UseMessage1# [30]
+施放了逃脫！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry173*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry174*****
+#Name# [20]
+火焰 S（一般）
+
+#Description# [50]
+向單個敵人發射火球的魔法。
+
+#UseMessage1# [30]
+唱了火焰彈！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry175*****
+#Name# [20]
+烈焰 S（一般）
+
+#Description# [50]
+對單個敵人造成火焰屬性傷害。
+
+#UseMessage1# [30]
+唱了火焰纏身！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry176*****
+#Name# [20]
+烈焰 Lv3
+
+#Description# [50]
+對單個敵人造成火焰屬性傷害。
+
+#UseMessage1# [30]
+吟唱了烈焰 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry177*****
+#Name# [20]
+火焰 Lv2
+
+#Description# [50]
+對所有敵人造成火焰屬性傷害。
+
+#UseMessage1# [30]
+吟唱了火焰 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry178*****
+#Name# [20]
+火焰 Lv1
+
+#Description# [50]
+對所有敵人造成火焰屬性傷害。
+
+#UseMessage1# [30]
+吟唱了火焰 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry179*****
+#Name# [20]
+火焰 Lv3
+
+#Description# [50]
+對所有敵人造成火焰屬性傷害。
+
+#UseMessage1# [30]
+吟唱了火焰 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry180*****
+#Name# [20]
+冰霜 Lv1
+
+#Description# [50]
+對單個敵人造成寒冰屬性傷害。
+
+#UseMessage1# [30]
+吟唱了冰霜 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry181*****
+#Name# [20]
+冰霜 Lv2
+
+#Description# [50]
+對單個敵人造成寒冰屬性傷害。
+
+#UseMessage1# [30]
+吟唱了冰霜 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry182*****
+#Name# [20]
+冰霜 Lv3
+
+#Description# [50]
+對單個敵人造成寒冰屬性傷害。
+
+#UseMessage1# [30]
+吟唱了冰霜 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry183*****
+#Name# [20]
+暴風雪 Lv1
+
+#Description# [50]
+對所有敵人造成寒氣屬性傷害。
+
+#UseMessage1# [30]
+吟唱了暴風雪 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry184*****
+#Name# [20]
+暴風雪 Lv2
+
+#Description# [50]
+對所有敵人造成寒氣屬性傷害。
+
+#UseMessage1# [30]
+吟唱了暴風雪 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry185*****
+#Name# [20]
+暴風雪 Lv3
+
+#Description# [50]
+對所有敵人造成寒氣屬性傷害。
+
+#UseMessage1# [30]
+吟唱了暴風雪 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry186*****
+#Name# [20]
+雷電 Lv1
+
+#Description# [50]
+對單個敵人造成雷屬性傷害。
+
+#UseMessage1# [30]
+吟唱了雷電 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry187*****
+#Name# [20]
+雷電 Lv2
+
+#Description# [50]
+對單個敵人造成雷屬性傷害。
+
+#UseMessage1# [30]
+吟唱了雷電 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry188*****
+#Name# [20]
+雷電 Lv3
+
+#Description# [50]
+對單個敵人造成雷屬性傷害。
+
+#UseMessage1# [30]
+吟唱了雷電 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry189*****
+#Name# [20]
+閃電 Lv1
+
+#Description# [50]
+對所有敵人造成雷電屬性傷害。
+
+#UseMessage1# [30]
+吟唱了閃電 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry190*****
+#Name# [20]
+閃電 Lv2
+
+#Description# [50]
+對所有敵人造成雷電屬性傷害。
+
+#UseMessage1# [30]
+吟唱了閃電 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry191*****
+#Name# [20]
+閃電 Lv3
+
+#Description# [50]
+對所有敵人造成雷電屬性傷害。
+
+#UseMessage1# [30]
+吟唱了閃電 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry192*****
+#Name# [20]
+水流 Lv1
+
+#Description# [50]
+對單個敵人造成水屬性傷害。
+
+#UseMessage1# [30]
+吟唱了水流 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry193*****
+#Name# [20]
+水流 Lv2
+
+#Description# [50]
+對單個敵人造成水屬性傷害。
+
+#UseMessage1# [30]
+吟唱了水流 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry194*****
+#Name# [20]
+水流 Lv3
+
+#Description# [50]
+對單個敵人造成水屬性傷害。
+
+#UseMessage1# [30]
+吟唱了水流 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry195*****
+#Name# [20]
+波動 Lv1
+
+#Description# [50]
+對所有敵人造成水屬性傷害。
+
+#UseMessage1# [30]
+吟唱了波動 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry196*****
+#Name# [20]
+波動 Lv2
+
+#Description# [50]
+對所有敵人造成水屬性傷害。
+
+#UseMessage1# [30]
+吟唱了波動 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry197*****
+#Name# [20]
+波動 Lv3
+
+#Description# [50]
+對所有敵人造成水屬性傷害。
+
+#UseMessage1# [30]
+吟唱了波動 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry198*****
+#Name# [20]
+石化 Lv1
+
+#Description# [50]
+對單個敵人造成大地屬性傷害。
+
+#UseMessage1# [30]
+吟唱了石化 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry199*****
+#Name# [20]
+石化 Lv2
+
+#Description# [50]
+對單個敵人造成大地屬性傷害。
+
+#UseMessage1# [30]
+吟唱了石化 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry200*****
+#Name# [20]
+石化 Lv3
+
+#Description# [50]
+對單個敵人造成大地屬性傷害。
+
+#UseMessage1# [30]
+吟唱了石化 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry201*****
+#Name# [20]
+地震
+
+#Description# [50]
+對所有敵人造成大地屬性傷害。
+
+#UseMessage1# [30]
+引起了地震！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry202*****
+#Name# [20]
+地震 Lv2
+
+#Description# [50]
+對所有敵人造成大地屬性傷害。
+
+#UseMessage1# [30]
+吟唱了地震 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry203*****
+#Name# [20]
+地震 Lv3
+
+#Description# [50]
+對所有敵人造成大地屬性傷害。
+
+#UseMessage1# [30]
+吟唱了地震 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry204*****
+#Name# [20]
+颶風 Lv1
+
+#Description# [50]
+對單個敵人造成風屬性傷害。
+
+#UseMessage1# [30]
+吟唱了颶風 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry205*****
+#Name# [20]
+颶風 Lv2
+
+#Description# [50]
+對單個敵人造成風屬性傷害。
+
+#UseMessage1# [30]
+吟唱了颶風 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry206*****
+#Name# [20]
+颶風 Lv3
+
+#Description# [50]
+對單個敵人造成風屬性傷害。
+
+#UseMessage1# [30]
+吟唱了颶風 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry207*****
+#Name# [20]
+龍捲風 Lv1
+
+#Description# [50]
+對所有敵人造成風屬性傷害。
+
+#UseMessage1# [30]
+吟唱了龍捲風 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry208*****
+#Name# [20]
+龍捲風 Lv2
+
+#Description# [50]
+對所有敵人造成風屬性傷害。
+
+#UseMessage1# [30]
+吟唱了龍捲風 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry209*****
+#Name# [20]
+龍捲風 Lv3
+
+#Description# [50]
+對所有敵人造成風屬性傷害。
+
+#UseMessage1# [30]
+吟唱了龍捲風 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry210*****
+#Name# [20]
+聖光 Lv1
+
+#Description# [50]
+對單個敵人造成神圣屬性傷害。
+
+#UseMessage1# [30]
+吟唱了聖光 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry211*****
+#Name# [20]
+聖光 Lv2
+
+#Description# [50]
+對單個敵人造成神圣屬性傷害。
+
+#UseMessage1# [30]
+吟唱了聖光 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry212*****
+#Name# [20]
+聖光 Lv3
+
+#Description# [50]
+對單個敵人造成神圣屬性傷害。
+
+#UseMessage1# [30]
+吟唱了聖光 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry213*****
+#Name# [20]
+星光 Lv1
+
+#Description# [50]
+對全體敵人造成神圣屬性傷害。
+
+#UseMessage1# [30]
+吟唱了星光 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry214*****
+#Name# [20]
+星光 Lv2
+
+#Description# [50]
+對全體敵人造成神圣屬性傷害。
+
+#UseMessage1# [30]
+吟唱了星光 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry215*****
+#Name# [20]
+星光 Lv3
+
+#Description# [50]
+對全體敵人造成神圣屬性傷害。
+
+#UseMessage1# [30]
+吟唱了星光 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry216*****
+#Name# [20]
+暗影 Lv1
+
+#Description# [50]
+對單個敵人造成暗黑屬性傷害。
+
+#UseMessage1# [30]
+吟唱了暗影 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry217*****
+#Name# [20]
+暗影 Lv2
+
+#Description# [50]
+對單個敵人造成暗黑屬性傷害。
+
+#UseMessage1# [30]
+吟唱了暗影 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry218*****
+#Name# [20]
+暗影 Lv3
+
+#Description# [50]
+對單個敵人造成暗黑屬性傷害。
+
+#UseMessage1# [30]
+吟唱了暗影 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry219*****
+#Name# [20]
+暗黑 Lv1
+
+#Description# [50]
+對全體敵人造成暗黑屬性傷害。
+
+#UseMessage1# [30]
+吟唱了暗黑 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry220*****
+#Name# [20]
+暗黑 Lv2
+
+#Description# [50]
+對全體敵人造成暗黑屬性傷害。
+
+#UseMessage1# [30]
+吟唱了暗黑 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry221*****
+#Name# [20]
+暗黑 Lv3
+
+#Description# [50]
+對全體敵人造成暗黑屬性傷害。
+
+#UseMessage1# [30]
+吟唱了暗黑 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry222*****
+#Name# [20]
+爆裂 Lv1
+
+#Description# [50]
+對單個敵人造成無屬性傷害。
+
+#UseMessage1# [30]
+吟唱了爆裂 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry223*****
+#Name# [20]
+爆裂 Lv2
+
+#Description# [50]
+對單個敵人造成無屬性傷害。
+
+#UseMessage1# [30]
+吟唱了爆裂 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry224*****
+#Name# [20]
+爆裂 Lv3
+
+#Description# [50]
+對單個敵人造成無屬性傷害。
+
+#UseMessage1# [30]
+吟唱了爆裂 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry225*****
+#Name# [20]
+核爆 Lv1
+
+#Description# [50]
+對全體敵人造成無屬性傷害。
+
+#UseMessage1# [30]
+吟唱了核爆 Lv1！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry226*****
+#Name# [20]
+核爆 Lv2
+
+#Description# [50]
+對全體敵人造成無屬性傷害。
+
+#UseMessage1# [30]
+吟唱了核爆 Lv2！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry227*****
+#Name# [20]
+核爆 Lv3
+
+#Description# [50]
+對全體敵人造成無屬性傷害。
+
+#UseMessage1# [30]
+吟唱了核爆 Lv3！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry228*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+

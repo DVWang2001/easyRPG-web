@@ -1,0 +1,386 @@
+*****Entry1*****
+#Name# [20]
+香草水
+
+#Description# [50]
+回復20點HP
+
+
+
+*****Entry2*****
+#Name# [20]
+香草茶
+
+#Description# [50]
+回復50點HP
+
+
+
+*****Entry3*****
+#Name# [20]
+香草精華
+
+#Description# [50]
+完全回復HP
+
+
+
+*****Entry4*****
+#Name# [20]
+鼠尾草水
+
+#Description# [50]
+回復20點MP
+
+
+
+*****Entry5*****
+#Name# [20]
+鼠尾草茶
+
+#Description# [50]
+回復50點MP
+
+
+
+*****Entry6*****
+#Name# [20]
+鼠尾草精油
+
+#Description# [50]
+完全恢復MP
+
+
+
+*****Entry7*****
+#Name# [20]
+森林香氣
+
+#Description# [50]
+解除詛咒
+
+
+
+*****Entry8*****
+#Name# [20]
+森林露水
+
+#Description# [50]
+回復50點HP與50點MP
+
+
+
+*****Entry9*****
+#Name# [20]
+森林結晶
+
+#Description# [50]
+完全恢復HP和MP
+
+
+
+*****Entry10*****
+#Name# [20]
+研磨香草泥
+
+#Description# [50]
+治療中毒
+
+
+
+*****Entry11*****
+#Name# [20]
+香草軟膏
+
+#Description# [50]
+治療中毒、黑暗、沉默、暴怒、混亂、睡眠、搖晃、驚嚇狀態
+
+
+
+*****Entry12*****
+#Name# [20]
+橡木法杖
+
+#Description# [50]
+橡木手杖
+
+
+
+*****Entry13*****
+#Name# [20]
+絲柏木魔杖
+
+#Description# [50]
+檜木之杖
+
+
+
+*****Entry14*****
+#Name# [20]
+皮革鞭
+
+#Description# [50]
+皮鞭。能一次攻擊敵方全體
+
+
+
+*****Entry15*****
+#Name# [20]
+銀製魔杖
+
+#Description# [50]
+銀製手杖
+
+
+
+*****Entry16*****
+#Name# [20]
+鼠尾草鞭
+
+#Description# [50]
+用鼠尾草的枝條編織而成的鞭子。能一次攻擊敵方全體
+
+
+
+*****Entry17*****
+#Name# [20]
+毀滅者
+
+#Description# [50]
+破壞力超群的法杖
+
+
+
+*****Entry18*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+棉質長袍
+
+#Description# [50]
+棉製長袍
+
+
+
+*****Entry20*****
+#Name# [20]
+絲綢長袍
+
+#Description# [50]
+絲綢長袍
+
+
+
+*****Entry21*****
+#Name# [20]
+羽毛長袍
+
+#Description# [50]
+既輕便又便於活動的長袍
+
+
+
+*****Entry22*****
+#Name# [20]
+輕捷長袍
+
+#Description# [50]
+能提升迴避率的奇妙長袍
+
+
+
+*****Entry23*****
+#Name# [20]
+閃耀長袍
+
+#Description# [50]
+閃耀光芒的長袍
+
+
+
+*****Entry24*****
+#Name# [20]
+神聖長袍
+
+#Description# [50]
+天人所穿戴的長袍
+
+
+
+*****Entry25*****
+#Name# [20]
+尖頂帽
+
+#Description# [50]
+非常普通的帽子
+
+
+
+*****Entry26*****
+#Name# [20]
+風之帽子
+
+#Description# [50]
+能提升敏捷度的奇妙帽子
+
+
+
+*****Entry27*****
+#Name# [20]
+森林面紗
+
+#Description# [50]
+天人面紗。防禦力、精神力、敏捷度提升。
+
+
+
+*****Entry28*****
+#Name# [20]
+魅惑術
+
+#Description# [50]
+防止中毒
+
+
+
+*****Entry29*****
+#Name# [20]
+防詛咒念珠
+
+#Description# [50]
+防止詛咒
+
+
+
+*****Entry30*****
+#Name# [20]
+避邪符
+
+#Description# [50]
+防止無法戰鬥以外的異常狀態
+
+
+
+*****Entry31*****
+#Name# [20]
+日程本
+
+#Description# [50]
+諾恩的日程本
+
+
+
+*****Entry32*****
+#Name# [20]
+白玉
+
+#Description# [50]
+擊倒虛擬怪物時所撿到的玉石
+
+
+
+*****Entry33*****
+#Name# [20]
+鼠尾草
+
+#Description# [50]
+香草的一種
+
+
+
+*****Entry34*****
+#Name# [20]
+可攜式魔法陣
+
+#Description# [50]
+在貳之山山腰使用時……
+
+
+
+*****Entry35*****
+#Name# [20]
+雞蛋
+
+#Description# [50]
+巨大的母雞蛋
+
+
+
+*****Entry36*****
+#Name# [20]
+耳朵
+
+#Description# [50]
+在結業考試地下城的第一層使用時……
+
+
+
+*****Entry37*****
+#Name# [20]
+金黃之葉
+
+#Description# [50]
+如果在原野地圖背後使用的話……
+
+
+
+*****Entry38*****
+#Name# [20]
+黑色徽章
+
+#Description# [50]
+從謎之男那裡得到的徽章
+
+
+
+*****Entry39*****
+#Name# [20]
+可攜式魔法陣
+
+#Description# [50]
+在樓層14使用的話………
+
+
+
+*****Entry40*****
+#Name# [20]
+刨冰·草莓
+
+#Description# [50]
+草莓口味的刨冰
+
+
+
+*****Entry41*****
+#Name# [20]
+刨冰·哈密瓜
+
+#Description# [50]
+哈密瓜口味的刨冰
+
+
+
+*****Entry42*****
+#Name# [20]
+刨冰·檸檬
+
+#Description# [50]
+檸檬口味的刨冰
+
+
+
+*****Entry43*****
+#Name# [20]
+炒麵
+
+#Description# [50]
+炒麵
+
+

@@ -1,0 +1,637 @@
+{
+    "filepath": "Map0022.txt",
+    "meta": [
+        {
+            "type": "message",
+            "start_line_idx": 5,
+            "end_line_idx": 5
+        },
+        {
+            "type": "message",
+            "start_line_idx": 10,
+            "end_line_idx": 10
+        },
+        {
+            "type": "message",
+            "start_line_idx": 17,
+            "end_line_idx": 18
+        },
+        {
+            "type": "message",
+            "start_line_idx": 25,
+            "end_line_idx": 27
+        },
+        {
+            "type": "message",
+            "start_line_idx": 34,
+            "end_line_idx": 35
+        },
+        {
+            "type": "message",
+            "start_line_idx": 42,
+            "end_line_idx": 42
+        },
+        {
+            "type": "message",
+            "start_line_idx": 49,
+            "end_line_idx": 50
+        },
+        {
+            "type": "message",
+            "start_line_idx": 55,
+            "end_line_idx": 55
+        },
+        {
+            "type": "message",
+            "start_line_idx": 62,
+            "end_line_idx": 62
+        },
+        {
+            "type": "message",
+            "start_line_idx": 67,
+            "end_line_idx": 69
+        },
+        {
+            "type": "message",
+            "start_line_idx": 76,
+            "end_line_idx": 76
+        },
+        {
+            "type": "message",
+            "start_line_idx": 81,
+            "end_line_idx": 83
+        },
+        {
+            "type": "message",
+            "start_line_idx": 90,
+            "end_line_idx": 92
+        },
+        {
+            "type": "message",
+            "start_line_idx": 99,
+            "end_line_idx": 102
+        },
+        {
+            "type": "message",
+            "start_line_idx": 107,
+            "end_line_idx": 108
+        },
+        {
+            "type": "message",
+            "start_line_idx": 115,
+            "end_line_idx": 118
+        },
+        {
+            "type": "message",
+            "start_line_idx": 123,
+            "end_line_idx": 125
+        },
+        {
+            "type": "message",
+            "start_line_idx": 132,
+            "end_line_idx": 133
+        },
+        {
+            "type": "message",
+            "start_line_idx": 140,
+            "end_line_idx": 141
+        },
+        {
+            "type": "message",
+            "start_line_idx": 148,
+            "end_line_idx": 148
+        },
+        {
+            "type": "message",
+            "start_line_idx": 153,
+            "end_line_idx": 155
+        },
+        {
+            "type": "message",
+            "start_line_idx": 162,
+            "end_line_idx": 163
+        },
+        {
+            "type": "message",
+            "start_line_idx": 170,
+            "end_line_idx": 171
+        },
+        {
+            "type": "message",
+            "start_line_idx": 176,
+            "end_line_idx": 179
+        },
+        {
+            "type": "message",
+            "start_line_idx": 186,
+            "end_line_idx": 186
+        },
+        {
+            "type": "message",
+            "start_line_idx": 193,
+            "end_line_idx": 194
+        },
+        {
+            "type": "message",
+            "start_line_idx": 199,
+            "end_line_idx": 201
+        },
+        {
+            "type": "message",
+            "start_line_idx": 208,
+            "end_line_idx": 208
+        },
+        {
+            "type": "message",
+            "start_line_idx": 213,
+            "end_line_idx": 215
+        },
+        {
+            "type": "message",
+            "start_line_idx": 220,
+            "end_line_idx": 222
+        },
+        {
+            "type": "message",
+            "start_line_idx": 229,
+            "end_line_idx": 229
+        },
+        {
+            "type": "message",
+            "start_line_idx": 236,
+            "end_line_idx": 237
+        },
+        {
+            "type": "message",
+            "start_line_idx": 242,
+            "end_line_idx": 244
+        },
+        {
+            "type": "message",
+            "start_line_idx": 251,
+            "end_line_idx": 251
+        },
+        {
+            "type": "message",
+            "start_line_idx": 258,
+            "end_line_idx": 258
+        },
+        {
+            "type": "message",
+            "start_line_idx": 265,
+            "end_line_idx": 268
+        },
+        {
+            "type": "message",
+            "start_line_idx": 275,
+            "end_line_idx": 277
+        },
+        {
+            "type": "message",
+            "start_line_idx": 284,
+            "end_line_idx": 284
+        },
+        {
+            "type": "message",
+            "start_line_idx": 289,
+            "end_line_idx": 292
+        },
+        {
+            "type": "message",
+            "start_line_idx": 297,
+            "end_line_idx": 299
+        },
+        {
+            "type": "message",
+            "start_line_idx": 304,
+            "end_line_idx": 305
+        },
+        {
+            "type": "message",
+            "start_line_idx": 312,
+            "end_line_idx": 312
+        },
+        {
+            "type": "message",
+            "start_line_idx": 319,
+            "end_line_idx": 320
+        },
+        {
+            "type": "message",
+            "start_line_idx": 325,
+            "end_line_idx": 327
+        },
+        {
+            "type": "message",
+            "start_line_idx": 332,
+            "end_line_idx": 333
+        },
+        {
+            "type": "message",
+            "start_line_idx": 338,
+            "end_line_idx": 340
+        },
+        {
+            "type": "message",
+            "start_line_idx": 345,
+            "end_line_idx": 347
+        },
+        {
+            "type": "message",
+            "start_line_idx": 354,
+            "end_line_idx": 354
+        },
+        {
+            "type": "message",
+            "start_line_idx": 359,
+            "end_line_idx": 359
+        },
+        {
+            "type": "message",
+            "start_line_idx": 366,
+            "end_line_idx": 366
+        },
+        {
+            "type": "message",
+            "start_line_idx": 373,
+            "end_line_idx": 373
+        },
+        {
+            "type": "message",
+            "start_line_idx": 378,
+            "end_line_idx": 378
+        },
+        {
+            "type": "message",
+            "start_line_idx": 383,
+            "end_line_idx": 383
+        },
+        {
+            "type": "message",
+            "start_line_idx": 388,
+            "end_line_idx": 389
+        },
+        {
+            "type": "message",
+            "start_line_idx": 394,
+            "end_line_idx": 394
+        },
+        {
+            "type": "message",
+            "start_line_idx": 399,
+            "end_line_idx": 401
+        },
+        {
+            "type": "message",
+            "start_line_idx": 408,
+            "end_line_idx": 408
+        },
+        {
+            "type": "message",
+            "start_line_idx": 413,
+            "end_line_idx": 413
+        },
+        {
+            "type": "message",
+            "start_line_idx": 418,
+            "end_line_idx": 419
+        },
+        {
+            "type": "message",
+            "start_line_idx": 424,
+            "end_line_idx": 424
+        },
+        {
+            "type": "message",
+            "start_line_idx": 431,
+            "end_line_idx": 431
+        },
+        {
+            "type": "message",
+            "start_line_idx": 436,
+            "end_line_idx": 437
+        },
+        {
+            "type": "message",
+            "start_line_idx": 444,
+            "end_line_idx": 444
+        }
+    ],
+    "items": [
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "おや、こんなところにも墓があるね。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "どれどれ･･･"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.雪乃の墓･･････\\.か。\n\\.･･････違うな。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.コレ\n人が先に見てるのに なんじゃ。\n動かすでない！"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.あ、すみません。\nなんか･･･気が競っちゃって$e"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.ま、気持ちはわからないでもないが。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.･･･でも驚きました。\n"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.綾どのが私と同郷だったとは･･････"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "そりゃ、こっちのセリフだよ。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.７年振りに記憶を取り戻したアンタが\n私と同じ村出身だって\n言い出したんだからね。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "はぁ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "記憶を失ったままだったら\n危うく“田吾兵衛”なんて\nダサイ名前で一生を終わるところでした。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "るさいね。\n人がせっかく付けてやった名前に\nケチつけんじゃないよ。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.でも７年前、\n戦で瀕死になってるアンタを\nたまたま、薬師の私が\n発見して助けたのは"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "単なる偶然じゃ\nなかったのかもしれないね。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "しかも一緒に\n墓探しをすることになるとは\nこれはもう、運命としか言いようがないと\n･･････"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "というか、夜明け前から\n墓ばっかり調べて回ってる姿って\n\\.端から見たら 単に怪しいだけかも$d"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "生きてるか死んでるかを調べるには\nこれが一番手っ取り早いだろ。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.しかし随分斜めってる墓だね。\n少し真っ直ぐに直してお上げ \\.和真。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "ところでさっきの･･･"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "アンタが昔住んでたっていう家の\n裏庭にあった墓\n\\S[2]･･････竜太･･･と言ったね？"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.はい。\n下の弟です。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "なんで亡くなったか知らないが\n"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "アンタの\n歳の離れた弟っていうんだから\nまだ小さかっただろうに\nかわいそうなことをしたね。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.･･････はい。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "しかし、だからって\nもう１人の･･･双子って言ったかね？"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "その双子の弟まで\n死んでしまったんじゃないかっていうのは\n\\.考えすぎじゃないかい？"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.はい･･････でも"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "あいつ\n俺と双子のくせに 俺と違って\n妙に神経質なんです。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "もしかしたら\n竜太のことや俺のことで悩んで\n世を儚んでしまったりとか･･･"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.･･････アンタと違って･･･ねぇ･･･"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "家も今は\n誰も住んでないみたいですし"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "竜太の墓をほったらかしで\nどこかへ行ってしまうというのも\n考えにくいですし･･･"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.でも、\\.墓がないことを祈ります。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.そうだね。\nなにかワケがあって\nよその村に行ってるだけかも\nしれないからね。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.それより綾どのの\n探しておられるお墓って･･･\n誰のお墓なんですか？"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.私の帰りを\n待っていてくれると言っていた\n私よりも一回り以上年上の\n爺さんの墓さ。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "あんたの弟と違って\n６８才の私よりもさらに一回り年上の\n爺さんだからね"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "人生５０年のこの世の中で\n生きているはずはないだろうよ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.･････････。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "すぐに帰るつもりだったのに\n帰れなかった･･････"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "戦が終わった後も\n飢饉だ疫病だと･･････\n病人が減ることはなかったし"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "父も死んでしまって\n何もかも１人でやるしかなかったからね。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "せめて私のことなんか忘れて\n誰かと暮らしてくれていれば･･･\\.と\n手紙一つ出さずじまいだったが"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.あの不器用な人では\nそれもできなかったんじゃないかって\n今更ながら気になってね。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.あの、でも･･････"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "･･････？"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "･･････いえ"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.本当は"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "２人とも\n生きて会えるといいですね。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "\\.だって、わかりませんよ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "戦で\nあんな瀕死状態だった俺が\nこうして無事でいるんですから"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.どうかね。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "アンタはただ\n悪運が強いだけかもしれないよ。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "ほら、この前アンタが話してた･･･"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "あ、そーなんですよ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "昔、兄弟３人で畑仕事してるときに\nカラスのフンが落ちてきて"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]他の兄弟２人にはフンがかかったのに･･････"
+        }
+    ]
+}

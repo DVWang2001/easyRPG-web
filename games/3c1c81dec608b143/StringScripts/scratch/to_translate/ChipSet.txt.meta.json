@@ -1,0 +1,52 @@
+{
+    "filepath": "Database/ChipSet.txt",
+    "meta": [
+        {
+            "type": "tag",
+            "line_idx": 2
+        },
+        {
+            "type": "tag",
+            "line_idx": 8
+        },
+        {
+            "type": "tag",
+            "line_idx": 14
+        },
+        {
+            "type": "tag",
+            "line_idx": 20
+        },
+        {
+            "type": "tag",
+            "line_idx": 26
+        }
+    ],
+    "items": [
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "基本セット"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "外観セット"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "内装セット"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "ダンジョンセット"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "船セット"
+        }
+    ]
+}

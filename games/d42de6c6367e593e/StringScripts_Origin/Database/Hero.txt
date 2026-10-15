@@ -1,0 +1,164 @@
+﻿*****Entry1*****
+#Name# [12]
+圭介
+
+#Title# [12]
+Ａ型
+
+#SkillCommand# [10]
+槍械?特技
+
+
+
+*****Entry2*****
+#Name# [12]
+隆也
+
+#Title# [12]
+AB型
+
+#SkillCommand# [10]
+槍械?特技
+
+
+
+*****Entry3*****
+#Name# [12]
+隆也
+
+#Title# [12]
+AB型
+
+#SkillCommand# [10]
+槍械?特技
+
+
+
+*****Entry4*****
+#Name# [12]
+裕太
+
+#Title# [12]
+Ａ型
+
+#SkillCommand# [10]
+槍械?特技
+
+
+
+*****Entry5*****
+#Name# [12]
+愛琳
+
+#Title# [12]
+B型
+
+#SkillCommand# [10]
+槍械?特技
+
+
+
+*****Entry6*****
+#Name# [12]
+信彥
+
+#Title# [12]
+O型
+
+#SkillCommand# [10]
+槍械?特技
+
+
+
+*****Entry7*****
+#Name# [12]
+隆
+
+#Title# [12]
+AB型
+
+#SkillCommand# [10]
+念動力
+
+
+
+*****Entry8*****
+#Name# [12]
+曉子
+
+#Title# [12]
+B型
+
+#SkillCommand# [10]
+槍械?特技
+
+
+
+*****Entry9*****
+#Name# [12]
+月繪
+
+#Title# [12]
+Ａ型
+
+#SkillCommand# [10]
+槍械?特技
+
+
+
+*****Entry10*****
+#Name# [12]
+榮次
+
+#Title# [12]
+O型
+
+#SkillCommand# [10]
+槍械?特技
+
+
+
+*****Entry11*****
+#Name# [12]
+智
+
+#Title# [12]
+O型
+
+#SkillCommand# [10]
+槍械?特技
+
+
+
+*****Entry12*****
+#Name# [12]
+亞美
+
+#Title# [12]
+Ａ型
+
+#SkillCommand# [10]
+槍械?特技
+
+
+
+*****Entry13*****
+#Name# [12]
+血之血
+
+#Title# [12]
+密碼
+
+
+
+*****Entry14*****
+#Name# [12]
+榮次
+
+#Title# [12]
+發火
+
+#SkillCommand# [10]
+念動力
+
+

@@ -1,0 +1,1607 @@
+Total entries in this batch: 791
+--- ENTRY 2251 (Message) ---
+ザング：
+　俺が親か…。
+--- ENTRY 2252 (Message) ---
+ザング：
+　はやく賭けろよ。
+--- ENTRY 2253 (Message) ---
+エミール：
+　さて…いくつ賭けましょうか…
+--- ENTRY 2254 (Message) ---
+エミール：
+　私が賭けるんですね…
+--- ENTRY 2255 (Message) ---
+エミール：
+　私が親です。
+--- ENTRY 2256 (Message) ---
+エミール：
+　勝負してこないんですか？
+--- ENTRY 2257 (Message) ---
+エミール：
+　私が親ですか…。
+--- ENTRY 2258 (Message) ---
+エミール：
+　はやく賭けてくださいよ。
+--- ENTRY 2259 (Message) ---
+サフィールス：
+　さて…いくつ賭けようか…
+--- ENTRY 2260 (Message) ---
+サフィールス：
+　私が賭けるんだな…
+--- ENTRY 2261 (Message) ---
+サフィールス：
+　私が親だな。
+--- ENTRY 2262 (Message) ---
+サフィールス：
+　勝負してこないのかい？
+--- ENTRY 2263 (Message) ---
+サフィールス：
+　私が親なんだ…。
+--- ENTRY 2264 (Message) ---
+サフィールス：
+　はやく賭けてくれないか？
+--- ENTRY 2265 (Message) ---
+セグメイン：
+　くっ！！！
+--- ENTRY 2266 (Message) ---
+ザング：
+　くっ！！！
+--- ENTRY 2267 (Message) ---
+エミール：
+　うっ！！！
+--- ENTRY 2268 (Message) ---
+サフィールス：
+　うっ！！！
+--- ENTRY 2269 (Message) ---
+ウェイン：
+　くらえっ！！！
+--- ENTRY 2270 (Message) ---
+ウェイン：
+　はぁっ！
+--- ENTRY 2271 (Message) ---
+ウェイン：
+　はっ！
+--- ENTRY 2272 (Message) ---
+ウェイン：
+　くっ！！！
+--- ENTRY 2273 (Message) ---
+ウェイン：
+　うっ！
+--- ENTRY 2274 (Message) ---
+ウェイン：
+　くそっ！
+--- ENTRY 2275 (RM2K_MapNames) ---
+ＤＪ５バトル
+--- ENTRY 2276 (RM2K_MapNames) ---
+ディーラーＢ.Ｊ
+--- ENTRY 2277 (RM2K_MapNames) ---
+スロットテーブル
+--- ENTRY 2278 (RM2K_MapNames) ---
+オープニング
+--- ENTRY 2279 (RM2K_MapNames) ---
+部屋の中
+--- ENTRY 2280 (RM2K_MapNames) ---
+カジノ
+--- ENTRY 2281 (RM2K_MapNames) ---
+宿屋
+--- ENTRY 2282 (RM2K_MapNames) ---
+通路②
+--- ENTRY 2283 (RM2K_MapNames) ---
+仕事中
+--- ENTRY 2284 (RM2K_MapNames) ---
+ギルド
+--- ENTRY 2285 (RM2K_MapNames) ---
+仕事中
+--- ENTRY 2286 (RM2K_MapNames) ---
+Ｄ.Ｊ５フィールド
+--- ENTRY 2287 (RM2K_MapNames) ---
+酒場
+--- ENTRY 2288 (RM2K_MapNames) ---
+スポンサーのへや
+--- ENTRY 2289 (RM2K_MapNames) ---
+通路
+--- ENTRY 2290 (RM2K_MapNames) ---
+穴落ちる
+--- ENTRY 2291 (RM2K_MapNames) ---
+洞窟
+--- ENTRY 2292 (RM2K_MapNames) ---
+ボス
+--- ENTRY 2293 (RM2K_MapNames) ---
+ライニー回想
+--- ENTRY 2294 (RM2K_MapNames) ---
+階段
+--- ENTRY 2295 (RM2K_MapNames) ---
+外への通路
+--- ENTRY 2296 (RM2K_MapNames) ---
+外
+--- ENTRY 2297 (RM2K_MapNames) ---
+ヘイムレイク屋敷
+--- ENTRY 2298 (RM2K_MapNames) ---
+ゴコル村
+--- ENTRY 2299 (RM2K_MapNames) ---
+宿屋
+--- ENTRY 2300 (RM2K_MapNames) ---
+武器屋
+--- ENTRY 2301 (RM2K_MapNames) ---
+酒場
+--- ENTRY 2302 (RM2K_MapNames) ---
+ドゥーガの家
+--- ENTRY 2303 (RM2K_MapNames) ---
+ディーラーポーカー
+--- ENTRY 2304 (RM2K_MapNames) ---
+屋敷内１Ｆ・２Ｆ
+--- ENTRY 2305 (RM2K_MapNames) ---
+屋敷内Ｂ１Ｆ①
+--- ENTRY 2306 (RM2K_MapNames) ---
+屋敷内Ｂ１Ｆ②
+--- ENTRY 2307 (RM2K_MapNames) ---
+部屋①
+--- ENTRY 2308 (RM2K_MapNames) ---
+Ｄ.Ｊ５フィールドｷｬﾌﾟﾁｬ
+--- ENTRY 2309 (RM2K_MapNames) ---
+ヘイムレイク帰宅
+--- ENTRY 2310 (RM2K_MapNames) ---
+部屋②
+--- ENTRY 2311 (RM2K_MapNames) ---
+スロットテーブルテスト
+--- ENTRY 2312 (RM2K_MapNames) ---
+スロットテーブル
+--- ENTRY 2313 (RM2K_MapNames) ---
+Ｒ－Ｐｌａｃｅ
+--- ENTRY 2314 (RM2K_MapNames) ---
+ＤＪ５バトル
+--- ENTRY 2315 (RM2K_MapNames) ---
+遠景合成
+--- ENTRY 2316 (RM2K_MapNames) ---
+ルーレットテスト
+--- ENTRY 2317 (RM2K_MapNames) ---
+通路③
+--- ENTRY 2318 (RM2K_MapNames) ---
+Ｄ・ハッシュの部屋
+--- ENTRY 2319 (RM2K_MapNames) ---
+小部屋
+--- ENTRY 2320 (RM2K_MapNames) ---
+エンディング
+--- ENTRY 2321 (RM2K_MapNames) ---
+部屋の中
+--- ENTRY 2322 (RM2K_MapNames) ---
+部屋の中②
+--- ENTRY 2323 (RM2K_MapNames) ---
+Ｒ－Ｐｌａｃｅテスト
+--- ENTRY 2324 (RM2K_MapNames) ---
+テストマップ
+--- ENTRY 2325 (RM2K_MapNames) ---
+民家①
+--- ENTRY 2326 (RM2K_MapNames) ---
+民家②
+--- ENTRY 2327 (RM2K_MapNames) ---
+民家③
+--- ENTRY 2328 (RM2K_MapNames) ---
+民家④
+--- ENTRY 2329 (RM2K_MapNames) ---
+スタッフロール
+--- ENTRY 2330 (RM2K_Switches) ---
+常にＯＮのスイッチ
+--- ENTRY 2331 (RM2K_Switches) ---
+主人公ストップ
+--- ENTRY 2332 (RM2K_Switches) ---
+主人公バースト
+--- ENTRY 2333 (RM2K_Switches) ---
+主人公Ａ所持
+--- ENTRY 2334 (RM2K_Switches) ---
+主人公２２以上＆Ａ
+--- ENTRY 2335 (RM2K_Switches) ---
+主人公ＢＪ
+--- ENTRY 2336 (RM2K_Switches) ---
+主人公親
+--- ENTRY 2337 (RM2K_Switches) ---
+主人公７７７
+--- ENTRY 2338 (RM2K_Switches) ---
+主人公ストレート
+--- ENTRY 2339 (RM2K_Switches) ---
+主人公ファイブカード
+--- ENTRY 2340 (RM2K_Switches) ---
+主人公ＪＡＣＫ５
+--- ENTRY 2341 (RM2K_Switches) ---
+主人公ＪＡＣＫ
+--- ENTRY 2342 (RM2K_Switches) ---
+主人公Life1000以上
+--- ENTRY 2343 (RM2K_Switches) ---
+主人公Life100以上
+--- ENTRY 2344 (RM2K_Switches) ---
+主人公Life10以上
+--- ENTRY 2345 (RM2K_Switches) ---
+主人公TBJ
+--- ENTRY 2346 (RM2K_Switches) ---
+主人公QBJ
+--- ENTRY 2347 (RM2K_Switches) ---
+敵ストップ
+--- ENTRY 2348 (RM2K_Switches) ---
+敵バースト
+--- ENTRY 2349 (RM2K_Switches) ---
+敵Ａ所持
+--- ENTRY 2350 (RM2K_Switches) ---
+敵２２以上＆Ａ
+--- ENTRY 2351 (RM2K_Switches) ---
+敵ＢＪ
+--- ENTRY 2352 (RM2K_Switches) ---
+敵親
+--- ENTRY 2353 (RM2K_Switches) ---
+敵７７７
+--- ENTRY 2354 (RM2K_Switches) ---
+敵ストレート
+--- ENTRY 2355 (RM2K_Switches) ---
+敵ファイブカード
+--- ENTRY 2356 (RM2K_Switches) ---
+敵ＪＡＣＫ５
+--- ENTRY 2357 (RM2K_Switches) ---
+敵ＪＡＣＫ
+--- ENTRY 2358 (RM2K_Switches) ---
+敵Life1000以上
+--- ENTRY 2359 (RM2K_Switches) ---
+敵Life100以上
+--- ENTRY 2360 (RM2K_Switches) ---
+敵Life10以上
+--- ENTRY 2361 (RM2K_Switches) ---
+敵TBJ
+--- ENTRY 2362 (RM2K_Switches) ---
+敵QBJ
+--- ENTRY 2363 (RM2K_Switches) ---
+ゲーム終了
+--- ENTRY 2364 (RM2K_Switches) ---
+オープンモード
+--- ENTRY 2365 (RM2K_Switches) ---
+敵カードオープン
+--- ENTRY 2366 (RM2K_Switches) ---
+ダブルダウン宣言した
+--- ENTRY 2367 (RM2K_Switches) ---
+賭け数100以上
+--- ENTRY 2368 (RM2K_Switches) ---
+賭け数1000以上
+--- ENTRY 2369 (RM2K_Switches) ---
+賭け数10以上
+--- ENTRY 2370 (RM2K_Switches) ---
+賭け数10000以上
+--- ENTRY 2371 (RM2K_Switches) ---
+主JACK以外の役あり
+--- ENTRY 2372 (RM2K_Switches) ---
+敵JACK以外の役あり
+--- ENTRY 2373 (RM2K_Switches) ---
+主人公役あり
+--- ENTRY 2374 (RM2K_Switches) ---
+敵役あり
+--- ENTRY 2375 (RM2K_Switches) ---
+ベット変化で光る？
+--- ENTRY 2376 (RM2K_Switches) ---
+ベット開始
+--- ENTRY 2377 (RM2K_Switches) ---
+ベット千の位選択
+--- ENTRY 2378 (RM2K_Switches) ---
+ベット百の位選択
+--- ENTRY 2379 (RM2K_Switches) ---
+ベット十の位選択
+--- ENTRY 2380 (RM2K_Switches) ---
+ベット一の位選択
+--- ENTRY 2381 (RM2K_Switches) ---
+ベット完了
+--- ENTRY 2382 (RM2K_Switches) ---
+コンティニュー
+--- ENTRY 2383 (RM2K_Switches) ---
+ゲームエンド
+--- ENTRY 2384 (RM2K_Switches) ---
+スロット開始
+--- ENTRY 2385 (RM2K_Switches) ---
+スロット終了
+--- ENTRY 2386 (RM2K_Switches) ---
+見習いディーラー勝負
+--- ENTRY 2387 (RM2K_Switches) ---
+上位ディーラー勝負
+--- ENTRY 2388 (RM2K_Switches) ---
+スロットメッセ表示
+--- ENTRY 2389 (RM2K_Switches) ---
+スロット横①当たり
+--- ENTRY 2390 (RM2K_Switches) ---
+スロット横②当たり
+--- ENTRY 2391 (RM2K_Switches) ---
+スロット横③当たり
+--- ENTRY 2392 (RM2K_Switches) ---
+スロット３リール回転
+--- ENTRY 2393 (RM2K_Switches) ---
+スロット２リール回転
+--- ENTRY 2394 (RM2K_Switches) ---
+スロット１リール回転
+--- ENTRY 2395 (RM2K_Switches) ---
+スロット並列回転１
+--- ENTRY 2396 (RM2K_Switches) ---
+スロット並列回転２
+--- ENTRY 2397 (RM2K_Switches) ---
+スロット並列回転３
+--- ENTRY 2398 (RM2K_Switches) ---
+スロット斜下当たり
+--- ENTRY 2399 (RM2K_Switches) ---
+スロット斜上当たり
+--- ENTRY 2400 (RM2K_Switches) ---
+マンドラ３HIT-１
+--- ENTRY 2401 (RM2K_Switches) ---
+きのこ３HIT-１
+--- ENTRY 2402 (RM2K_Switches) ---
+マンドラ３HIT-２
+--- ENTRY 2403 (RM2K_Switches) ---
+きのこ３HIT-２
+--- ENTRY 2404 (RM2K_Switches) ---
+マンドラ３HIT-３
+--- ENTRY 2405 (RM2K_Switches) ---
+きのこ３HIT-３
+--- ENTRY 2406 (RM2K_Switches) ---
+マンドラ３HIT-４
+--- ENTRY 2407 (RM2K_Switches) ---
+きのこ３HIT-４
+--- ENTRY 2408 (RM2K_Switches) ---
+マンドラ３HIT-５
+--- ENTRY 2409 (RM2K_Switches) ---
+きのこ３HIT-５
+--- ENTRY 2410 (RM2K_Switches) ---
+マンドラ２ＨＩＴ
+--- ENTRY 2411 (RM2K_Switches) ---
+マンドラＨＩＴ
+--- ENTRY 2412 (RM2K_Switches) ---
+きのこ２ＨＩＴ
+--- ENTRY 2413 (RM2K_Switches) ---
+きのこＨＩＴ
+--- ENTRY 2414 (RM2K_Switches) ---
+パンプゥＨＩＴ
+--- ENTRY 2415 (RM2K_Switches) ---
+うさぎＨＩＴ
+--- ENTRY 2416 (RM2K_Switches) ---
+ファイロンＨＩＴ
+--- ENTRY 2417 (RM2K_Switches) ---
+魔王ＨＩＴ
+--- ENTRY 2418 (RM2K_Switches) ---
+天使ＨＩＴ
+--- ENTRY 2419 (RM2K_Switches) ---
+主人公ロイヤル
+--- ENTRY 2420 (RM2K_Switches) ---
+主人公ストフラ
+--- ENTRY 2421 (RM2K_Switches) ---
+主人公４カード
+--- ENTRY 2422 (RM2K_Switches) ---
+主人公フルハウス
+--- ENTRY 2423 (RM2K_Switches) ---
+主人公フラッシュ
+--- ENTRY 2424 (RM2K_Switches) ---
+主人公ストレート
+--- ENTRY 2425 (RM2K_Switches) ---
+主人公スリーカード
+--- ENTRY 2426 (RM2K_Switches) ---
+主人公ツーペア
+--- ENTRY 2427 (RM2K_Switches) ---
+主人公ワンペア
+--- ENTRY 2428 (RM2K_Switches) ---
+主人公役あり
+--- ENTRY 2429 (RM2K_Switches) ---
+主人公役なし
+--- ENTRY 2430 (RM2K_Switches) ---
+主人公チェンジ①
+--- ENTRY 2431 (RM2K_Switches) ---
+主人公チェンジ②
+--- ENTRY 2432 (RM2K_Switches) ---
+主人公チェンジ③
+--- ENTRY 2433 (RM2K_Switches) ---
+主人公チェンジ④
+--- ENTRY 2434 (RM2K_Switches) ---
+主人公チェンジ⑤
+--- ENTRY 2435 (RM2K_Switches) ---
+敵ロイヤル
+--- ENTRY 2436 (RM2K_Switches) ---
+スロット１－１回転
+--- ENTRY 2437 (RM2K_Switches) ---
+スロット１－２回転
+--- ENTRY 2438 (RM2K_Switches) ---
+スロット１－３回転
+--- ENTRY 2439 (RM2K_Switches) ---
+スロット２－１回転
+--- ENTRY 2440 (RM2K_Switches) ---
+スロット２－２回転
+--- ENTRY 2441 (RM2K_Switches) ---
+スロット２－３回転
+--- ENTRY 2442 (RM2K_Switches) ---
+スロット３－１回転
+--- ENTRY 2443 (RM2K_Switches) ---
+スロット３－２回転
+--- ENTRY 2444 (RM2K_Switches) ---
+スロット３－３回転
+--- ENTRY 2445 (RM2K_Switches) ---
+ルーレットNo.1選択
+--- ENTRY 2446 (RM2K_Switches) ---
+ルーレットNo.2選択
+--- ENTRY 2447 (RM2K_Switches) ---
+ルーレットNo.3選択
+--- ENTRY 2448 (RM2K_Switches) ---
+ルーレットNo.4選択
+--- ENTRY 2449 (RM2K_Switches) ---
+ルーレットNo.5選択
+--- ENTRY 2450 (RM2K_Switches) ---
+ルーレットNo.6選択
+--- ENTRY 2451 (RM2K_Switches) ---
+ルーレットNo.7選択
+--- ENTRY 2452 (RM2K_Switches) ---
+ルーレットNo.8選択
+--- ENTRY 2453 (RM2K_Switches) ---
+ルーレットNo.9選択
+--- ENTRY 2454 (RM2K_Switches) ---
+ルーレットNo.10選択
+--- ENTRY 2455 (RM2K_Switches) ---
+ルーレットNo.11選択
+--- ENTRY 2456 (RM2K_Switches) ---
+ルーレットNo.12選択
+--- ENTRY 2457 (RM2K_Switches) ---
+ルーレット賭けた
+--- ENTRY 2458 (RM2K_Switches) ---
+ゲット数1000以上
+--- ENTRY 2459 (RM2K_Switches) ---
+ゲット数100以上
+--- ENTRY 2460 (RM2K_Switches) ---
+ゲット数10以上
+--- ENTRY 2461 (RM2K_Switches) ---
+ルーレットヒット
+--- ENTRY 2462 (RM2K_Switches) ---
+バトルセグメイン
+--- ENTRY 2463 (RM2K_Switches) ---
+バトルザング
+--- ENTRY 2464 (RM2K_Switches) ---
+バトルエミール
+--- ENTRY 2465 (RM2K_Switches) ---
+バトルサフィールス
+--- ENTRY 2466 (RM2K_Switches) ---
+バトルエンド
+--- ENTRY 2467 (RM2K_Switches) ---
+オープニング終了
+--- ENTRY 2468 (RM2K_Switches) ---
+酒場の老人に行け
+--- ENTRY 2469 (RM2K_Switches) ---
+ディーラー①勝負
+--- ENTRY 2470 (RM2K_Switches) ---
+ディーラー②勝負
+--- ENTRY 2471 (RM2K_Switches) ---
+ディーラー③勝負
+--- ENTRY 2472 (RM2K_Switches) ---
+ディーラー④勝負
+--- ENTRY 2473 (RM2K_Switches) ---
+ディーラー⑤勝負
+--- ENTRY 2474 (RM2K_Switches) ---
+ディーラー⑥勝負
+--- ENTRY 2475 (RM2K_Switches) ---
+最初の挨拶＆説明終了
+--- ENTRY 2476 (RM2K_Switches) ---
+タイマー作動中
+--- ENTRY 2477 (RM2K_Switches) ---
+主人公ガラスセット
+--- ENTRY 2478 (RM2K_Switches) ---
+敵ガラスセット
+--- ENTRY 2479 (RM2K_Switches) ---
+バトル開始
+--- ENTRY 2480 (RM2K_Switches) ---
+穴に着陸
+--- ENTRY 2481 (RM2K_Switches) ---
+ライニーと話す
+--- ENTRY 2482 (RM2K_Switches) ---
+川越えた
+--- ENTRY 2483 (RM2K_Switches) ---
+ツルハシゲット
+--- ENTRY 2484 (RM2K_Switches) ---
+ツルハシ使用
+--- ENTRY 2485 (RM2K_Switches) ---
+ツルハシで壊した①
+--- ENTRY 2486 (RM2K_Switches) ---
+ツルハシ掘る価値あり
+--- ENTRY 2487 (RM2K_Switches) ---
+ツルハシで壊した②
+--- ENTRY 2488 (RM2K_Switches) ---
+ツルハシで壊した③
+--- ENTRY 2489 (RM2K_Switches) ---
+ツルハシで壊した④
+--- ENTRY 2490 (RM2K_Switches) ---
+ツルハシで壊した⑤
+--- ENTRY 2491 (RM2K_Switches) ---
+ツルハシで壊した⑥
+--- ENTRY 2492 (RM2K_Switches) ---
+ラグ目を覚ます
+--- ENTRY 2493 (RM2K_Switches) ---
+ラグ立ち上がる
+--- ENTRY 2494 (RM2K_Switches) ---
+ラグ仲間になる
+--- ENTRY 2495 (RM2K_Switches) ---
+金貨ゲット①
+--- ENTRY 2496 (RM2K_Switches) ---
+金貨ゲット②
+--- ENTRY 2497 (RM2K_Switches) ---
+金貨ゲット③
+--- ENTRY 2498 (RM2K_Switches) ---
+金貨ゲット④
+--- ENTRY 2499 (RM2K_Switches) ---
+金貨ゲット⑤
+--- ENTRY 2500 (RM2K_Switches) ---
+金貨ゲット⑥
+--- ENTRY 2501 (RM2K_Switches) ---
+金貨ゲット⑦
+--- ENTRY 2502 (RM2K_Switches) ---
+金貨ゲット⑧
+--- ENTRY 2503 (RM2K_Switches) ---
+金貨ゲット⑨
+--- ENTRY 2504 (RM2K_Switches) ---
+金貨ゲット⑩
+--- ENTRY 2505 (RM2K_Switches) ---
+岩越えた
+--- ENTRY 2506 (RM2K_Switches) ---
+魔方陣出現
+--- ENTRY 2507 (RM2K_Switches) ---
+宝箱出現①
+--- ENTRY 2508 (RM2K_Switches) ---
+宝箱出現②
+--- ENTRY 2509 (RM2K_Switches) ---
+宝箱出現③
+--- ENTRY 2510 (RM2K_Switches) ---
+宝箱出現④
+--- ENTRY 2511 (RM2K_Switches) ---
+宝箱出現⑤
+--- ENTRY 2512 (RM2K_Switches) ---
+宝箱出現⑥
+--- ENTRY 2513 (RM2K_Switches) ---
+宝箱出現⑦
+--- ENTRY 2514 (RM2K_Switches) ---
+宝箱出現⑧
+--- ENTRY 2515 (RM2K_Switches) ---
+宝箱出現⑨
+--- ENTRY 2516 (RM2K_Switches) ---
+マリスゲームスタート
+--- ENTRY 2517 (RM2K_Switches) ---
+宝箱OPEN①
+--- ENTRY 2518 (RM2K_Switches) ---
+宝箱OPEN②
+--- ENTRY 2519 (RM2K_Switches) ---
+宝箱OPEN③
+--- ENTRY 2520 (RM2K_Switches) ---
+宝箱OPEN④
+--- ENTRY 2521 (RM2K_Switches) ---
+宝箱OPEN⑤
+--- ENTRY 2522 (RM2K_Switches) ---
+宝箱OPEN⑥
+--- ENTRY 2523 (RM2K_Switches) ---
+宝箱OPEN⑦
+--- ENTRY 2524 (RM2K_Switches) ---
+宝箱OPEN⑧
+--- ENTRY 2525 (RM2K_Switches) ---
+宝箱OPEN⑨
+--- ENTRY 2526 (RM2K_Switches) ---
+金貨ゲット⑪
+--- ENTRY 2527 (RM2K_Switches) ---
+マリスゲーム終了
+--- ENTRY 2528 (RM2K_Switches) ---
+まさかね・・・
+--- ENTRY 2529 (RM2K_Switches) ---
+陰謀を知った
+--- ENTRY 2530 (RM2K_Switches) ---
+ラグが出る
+--- ENTRY 2531 (RM2K_Switches) ---
+夜なんです
+--- ENTRY 2532 (RM2K_Switches) ---
+１００￡ゲット
+--- ENTRY 2533 (RM2K_Switches) ---
+お金ないどうする？
+--- ENTRY 2534 (RM2K_Switches) ---
+寝てまっせ。
+--- ENTRY 2535 (RM2K_Switches) ---
+あさでっせ。
+--- ENTRY 2536 (RM2K_Switches) ---
+ベッド
+--- ENTRY 2537 (RM2K_Switches) ---
+朝ラグ加わる
+--- ENTRY 2538 (RM2K_Switches) ---
+ラグの目覚め
+--- ENTRY 2539 (RM2K_Switches) ---
+朝ラグ加わる２
+--- ENTRY 2540 (RM2K_Switches) ---
+朝宿屋の女将に話した
+--- ENTRY 2541 (RM2K_Switches) ---
+プッチ・メッセは？
+--- ENTRY 2542 (RM2K_Switches) ---
+プッチ・メッセは？２
+--- ENTRY 2543 (RM2K_Switches) ---
+プッチ・メッセゲット
+--- ENTRY 2544 (RM2K_Switches) ---
+ドゥーガはなした
+--- ENTRY 2545 (RM2K_Switches) ---
+ドゥーガ仲間に
+--- ENTRY 2546 (RM2K_Switches) ---
+武器屋箱①ＯＰＥＮ
+--- ENTRY 2547 (RM2K_Switches) ---
+投げナイフのはなし
+--- ENTRY 2548 (RM2K_Switches) ---
+武器屋箱②ＯＰＥＮ
+--- ENTRY 2549 (RM2K_Switches) ---
+ミチタに話した
+--- ENTRY 2550 (RM2K_Switches) ---
+警備兵（右）確認消
+--- ENTRY 2551 (RM2K_Switches) ---
+警備兵（左右）倒す
+--- ENTRY 2552 (RM2K_Switches) ---
+クウィールと話す
+--- ENTRY 2553 (RM2K_Switches) ---
+牢屋スイッチ①
+--- ENTRY 2554 (RM2K_Switches) ---
+牢屋スイッチ②
+--- ENTRY 2555 (RM2K_Switches) ---
+牢屋スイッチ③
+--- ENTRY 2556 (RM2K_Switches) ---
+牢屋スイッチ④
+--- ENTRY 2557 (RM2K_Switches) ---
+クウィール逃げる
+--- ENTRY 2558 (RM2K_Switches) ---
+地下箱ＯＰＥＮ
+--- ENTRY 2559 (RM2K_Switches) ---
+障害物①
+--- ENTRY 2560 (RM2K_Switches) ---
+障害物②
+--- ENTRY 2561 (RM2K_Switches) ---
+障害物③
+--- ENTRY 2562 (RM2K_Switches) ---
+障害物④
+--- ENTRY 2563 (RM2K_Switches) ---
+障害物⑤
+--- ENTRY 2564 (RM2K_Switches) ---
+SK
+--- ENTRY 2565 (RM2K_Switches) ---
+ラグが出る
+--- ENTRY 2566 (RM2K_Switches) ---
+ドゥーガが出る
+--- ENTRY 2567 (RM2K_Switches) ---
+重装警備兵倒す01
+--- ENTRY 2568 (RM2K_Switches) ---
+重装警備兵倒す02
+--- ENTRY 2569 (RM2K_Switches) ---
+重装警備兵倒す03
+--- ENTRY 2570 (RM2K_Switches) ---
+重装警備兵倒す04
+--- ENTRY 2571 (RM2K_Switches) ---
+重装警備兵倒す05
+--- ENTRY 2572 (RM2K_Switches) ---
+重装警備兵倒す06
+--- ENTRY 2573 (RM2K_Switches) ---
+重装警備兵倒す07
+--- ENTRY 2574 (RM2K_Switches) ---
+重装警備兵倒す08
+--- ENTRY 2575 (RM2K_Switches) ---
+重装警備兵倒す09
+--- ENTRY 2576 (RM2K_Switches) ---
+重装警備兵倒す10
+--- ENTRY 2577 (RM2K_Switches) ---
+重装警備兵倒す11
+--- ENTRY 2578 (RM2K_Switches) ---
+重装警備兵倒す12
+--- ENTRY 2579 (RM2K_Switches) ---
+重装警備兵倒す13
+--- ENTRY 2580 (RM2K_Switches) ---
+重装警備兵倒す14
+--- ENTRY 2581 (RM2K_Switches) ---
+重装警備兵倒す15
+--- ENTRY 2582 (RM2K_Switches) ---
+重装警備兵倒す16
+--- ENTRY 2583 (RM2K_Switches) ---
+重装警備兵倒す17
+--- ENTRY 2584 (RM2K_Switches) ---
+重装警備兵倒す18
+--- ENTRY 2585 (RM2K_Switches) ---
+重装警備兵倒す19
+--- ENTRY 2586 (RM2K_Switches) ---
+重装警備兵倒す20
+--- ENTRY 2587 (RM2K_Switches) ---
+重装警備兵倒す21
+--- ENTRY 2588 (RM2K_Switches) ---
+重装警備兵倒す22
+--- ENTRY 2589 (RM2K_Switches) ---
+重装警備兵倒す23
+--- ENTRY 2590 (RM2K_Switches) ---
+重装警備兵倒す24
+--- ENTRY 2591 (RM2K_Switches) ---
+重装警備兵倒す25
+--- ENTRY 2592 (RM2K_Switches) ---
+重装警備兵倒す26
+--- ENTRY 2593 (RM2K_Switches) ---
+重装警備兵倒す27
+--- ENTRY 2594 (RM2K_Switches) ---
+重装警備兵倒す28
+--- ENTRY 2595 (RM2K_Switches) ---
+重装警備兵倒す29
+--- ENTRY 2596 (RM2K_Switches) ---
+重装警備兵倒す30
+--- ENTRY 2597 (RM2K_Switches) ---
+重装警備兵倒す31
+--- ENTRY 2598 (RM2K_Switches) ---
+重装警備兵倒す32
+--- ENTRY 2599 (RM2K_Switches) ---
+重装警備兵倒す33
+--- ENTRY 2600 (RM2K_Switches) ---
+重装警備兵倒す34
+--- ENTRY 2601 (RM2K_Switches) ---
+重装警備兵倒す35
+--- ENTRY 2602 (RM2K_Switches) ---
+重装警備兵倒す36
+--- ENTRY 2603 (RM2K_Switches) ---
+重装警備兵倒す37
+--- ENTRY 2604 (RM2K_Switches) ---
+重装警備兵倒す38
+--- ENTRY 2605 (RM2K_Switches) ---
+重装警備兵倒す39
+--- ENTRY 2606 (RM2K_Switches) ---
+重装警備兵倒す40
+--- ENTRY 2607 (RM2K_Switches) ---
+カードをさがせ！ラグ
+--- ENTRY 2608 (RM2K_Switches) ---
+カードをさがせ！ドゥ
+--- ENTRY 2609 (RM2K_Switches) ---
+ヴァディスでる
+--- ENTRY 2610 (RM2K_Switches) ---
+帰宅イベント終了
+--- ENTRY 2611 (RM2K_Switches) ---
+探し中
+--- ENTRY 2612 (RM2K_Switches) ---
+叩くの始まる
+--- ENTRY 2613 (RM2K_Switches) ---
+ラグ台詞01
+--- ENTRY 2614 (RM2K_Switches) ---
+ラグ台詞02
+--- ENTRY 2615 (RM2K_Switches) ---
+ラグ台詞03
+--- ENTRY 2616 (RM2K_Switches) ---
+ヘイムレイク出る
+--- ENTRY 2617 (RM2K_Switches) ---
+警備兵でる
+--- ENTRY 2618 (RM2K_Switches) ---
+警備兵捕まえにでる
+--- ENTRY 2619 (RM2K_Switches) ---
+警備兵・に消える
+--- ENTRY 2620 (RM2K_Switches) ---
+警備兵・ほ消える
+--- ENTRY 2621 (RM2K_Switches) ---
+警備兵・い消える
+--- ENTRY 2622 (RM2K_Switches) ---
+警備兵・ろ消える
+--- ENTRY 2623 (RM2K_Switches) ---
+警備兵・は消える
+--- ENTRY 2624 (RM2K_Switches) ---
+爆薬使用
+--- ENTRY 2625 (RM2K_Switches) ---
+ヴァディス台詞01
+--- ENTRY 2626 (RM2K_Switches) ---
+ヴァディス台詞02
+--- ENTRY 2627 (RM2K_Switches) ---
+ヴァディス倒れる
+--- ENTRY 2628 (RM2K_Switches) ---
+ヴァディス戦闘後
+--- ENTRY 2629 (RM2K_Switches) ---
+ラグ倒れる
+--- ENTRY 2630 (RM2K_Switches) ---
+牢屋につかまる。
+--- ENTRY 2631 (RM2K_Switches) ---
+プッチ・メッセ使用
+--- ENTRY 2632 (RM2K_Switches) ---
+再びＤ.Ｊ
+--- ENTRY 2633 (RM2K_Switches) ---
+ミチタ出る
+--- ENTRY 2634 (RM2K_Switches) ---
+王国警察でる
+--- ENTRY 2635 (RM2K_Switches) ---
+ドア消える
+--- ENTRY 2636 (RM2K_Switches) ---
+ヘイムレイク逃げる
+--- ENTRY 2637 (RM2K_Switches) ---
+トライフィア出る
+--- ENTRY 2638 (RM2K_Switches) ---
+Ｄ・ハッシュ逃げる
+--- ENTRY 2639 (RM2K_Switches) ---
+Ｄ・ハッシュを追え！
+--- ENTRY 2640 (RM2K_Switches) ---
+Ｄ・ハッシュ入る
+--- ENTRY 2641 (RM2K_Switches) ---
+ラグふたたび
+--- ENTRY 2642 (RM2K_Switches) ---
+Ｄ・ハッシュ捕まえる
+--- ENTRY 2643 (RM2K_Switches) ---
+バールげっと
+--- ENTRY 2644 (RM2K_Switches) ---
+バール使用
+--- ENTRY 2645 (RM2K_Switches) ---
+Ｄ・ハッシュ出る
+--- ENTRY 2646 (RM2K_Switches) ---
+画面広く
+--- ENTRY 2647 (RM2K_Switches) ---
+トライフィア裏切り
+--- ENTRY 2648 (RM2K_Switches) ---
+バール使用可能
+--- ENTRY 2649 (RM2K_Switches) ---
+扉壊し
+--- ENTRY 2650 (RM2K_Switches) ---
+クウィール出る
+--- ENTRY 2651 (RM2K_Switches) ---
+クレアでる
+--- ENTRY 2652 (RM2K_Switches) ---
+Ｄ・ハッシュスタート
+--- ENTRY 2653 (RM2K_Switches) ---
+床ＯＮ
+--- ENTRY 2654 (RM2K_Switches) ---
+村でのドゥーガ話
+--- ENTRY 2655 (RM2K_Variables) ---
+キー入力変数
+--- ENTRY 2656 (RM2K_Variables) ---
+回復変数
+--- ENTRY 2657 (RM2K_Variables) ---
+ランダム効果音変数
+--- ENTRY 2658 (RM2K_Variables) ---
+主人公カードの数字①
+--- ENTRY 2659 (RM2K_Variables) ---
+主人公カードの数字②
+--- ENTRY 2660 (RM2K_Variables) ---
+主人公カードの数字③
+--- ENTRY 2661 (RM2K_Variables) ---
+主人公カードの数字④
+--- ENTRY 2662 (RM2K_Variables) ---
+主人公カードの数字⑤
+--- ENTRY 2663 (RM2K_Variables) ---
+主人公カード配布
+--- ENTRY 2664 (RM2K_Variables) ---
+主人公カード配布回数
+--- ENTRY 2665 (RM2K_Variables) ---
+どのカード数値代入？
+--- ENTRY 2666 (RM2K_Variables) ---
+カード配布保存①
+--- ENTRY 2667 (RM2K_Variables) ---
+カード配布保存②
+--- ENTRY 2668 (RM2K_Variables) ---
+カード配布保存③
+--- ENTRY 2669 (RM2K_Variables) ---
+カード配布保存④
+--- ENTRY 2670 (RM2K_Variables) ---
+カード配布保存⑤
+--- ENTRY 2671 (RM2K_Variables) ---
+どのカード保存代入？
+--- ENTRY 2672 (RM2K_Variables) ---
+主人公合計
+--- ENTRY 2673 (RM2K_Variables) ---
+主人公残り
+--- ENTRY 2674 (RM2K_Variables) ---
+主人公合計②
+--- ENTRY 2675 (RM2K_Variables) ---
+主人公残り②
+--- ENTRY 2676 (RM2K_Variables) ---
+敵カードの数字①
+--- ENTRY 2677 (RM2K_Variables) ---
+敵カードの数字②
+--- ENTRY 2678 (RM2K_Variables) ---
+敵カードの数字③
+--- ENTRY 2679 (RM2K_Variables) ---
+敵カードの数字④
+--- ENTRY 2680 (RM2K_Variables) ---
+敵カードの数字⑤
+--- ENTRY 2681 (RM2K_Variables) ---
+敵カード配布
+--- ENTRY 2682 (RM2K_Variables) ---
+敵カード配布回数
+--- ENTRY 2683 (RM2K_Variables) ---
+敵どのカードに数値？
+--- ENTRY 2684 (RM2K_Variables) ---
+敵カード保存①
+--- ENTRY 2685 (RM2K_Variables) ---
+敵カード保存②
+--- ENTRY 2686 (RM2K_Variables) ---
+敵カード保存③
+--- ENTRY 2687 (RM2K_Variables) ---
+敵カード保存④
+--- ENTRY 2688 (RM2K_Variables) ---
+敵カード保存⑤
+--- ENTRY 2689 (RM2K_Variables) ---
+敵どのカードに保存？
+--- ENTRY 2690 (RM2K_Variables) ---
+敵合計
+--- ENTRY 2691 (RM2K_Variables) ---
+敵残り
+--- ENTRY 2692 (RM2K_Variables) ---
+敵合計②
+--- ENTRY 2693 (RM2K_Variables) ---
+敵残り②
+--- ENTRY 2694 (RM2K_Variables) ---
+親…主人公0・敵1
+--- ENTRY 2695 (RM2K_Variables) ---
+どっちが大きいの？
+--- ENTRY 2696 (RM2K_Variables) ---
+勝利判定…勝0引1負2
+--- ENTRY 2697 (RM2K_Variables) ---
+賭け数
+--- ENTRY 2698 (RM2K_Variables) ---
+賭け数チェック
+--- ENTRY 2699 (RM2K_Variables) ---
+合計ダメージ数
+--- ENTRY 2700 (RM2K_Variables) ---
+カード表示Ｘ座標
+--- ENTRY 2701 (RM2K_Variables) ---
+カード表示Ｙ座標
+--- ENTRY 2702 (RM2K_Variables) ---
+賭け数百の位
+--- ENTRY 2703 (RM2K_Variables) ---
+賭け数十の位
+--- ENTRY 2704 (RM2K_Variables) ---
+賭け数一の位
+--- ENTRY 2705 (RM2K_Variables) ---
+賭け数万の位
+--- ENTRY 2706 (RM2K_Variables) ---
+賭け数千の位
+--- ENTRY 2707 (RM2K_Variables) ---
+主人公役表示Ｘ座標
+--- ENTRY 2708 (RM2K_Variables) ---
+主人公役表示Ｙ座標
+--- ENTRY 2709 (RM2K_Variables) ---
+敵役表示Ｘ座標
+--- ENTRY 2710 (RM2K_Variables) ---
+敵役表示Ｙ座標
+--- ENTRY 2711 (RM2K_Variables) ---
+賭け数十万の位
+--- ENTRY 2712 (RM2K_Variables) ---
+主人公持ちLife
+--- ENTRY 2713 (RM2K_Variables) ---
+主人公カードの絵①
+--- ENTRY 2714 (RM2K_Variables) ---
+主人公カードの絵②
+--- ENTRY 2715 (RM2K_Variables) ---
+主人公カードの絵③
+--- ENTRY 2716 (RM2K_Variables) ---
+主人公カードの絵④
+--- ENTRY 2717 (RM2K_Variables) ---
+主人公カードの絵⑤
+--- ENTRY 2718 (RM2K_Variables) ---
+主どのカード絵代入？
+--- ENTRY 2719 (RM2K_Variables) ---
+主人公Ａの数
+--- ENTRY 2720 (RM2K_Variables) ---
+主人公チップ万の位
+--- ENTRY 2721 (RM2K_Variables) ---
+主人公チップ千の位
+--- ENTRY 2722 (RM2K_Variables) ---
+主人公チップ百の位
+--- ENTRY 2723 (RM2K_Variables) ---
+主人公チップ十の位
+--- ENTRY 2724 (RM2K_Variables) ---
+主人公チップ一の位
+--- ENTRY 2725 (RM2K_Variables) ---
+主人公所持金
+--- ENTRY 2726 (RM2K_Variables) ---
+所持金との差
+--- ENTRY 2727 (RM2K_Variables) ---
+親決め回転変数
+--- ENTRY 2728 (RM2K_Variables) ---
+セリフ決め変数
+--- ENTRY 2729 (RM2K_Variables) ---
+敵持ちライフ
+--- ENTRY 2730 (RM2K_Variables) ---
+敵カードの絵①
+--- ENTRY 2731 (RM2K_Variables) ---
+敵カードの絵②
+--- ENTRY 2732 (RM2K_Variables) ---
+敵カードの絵③
+--- ENTRY 2733 (RM2K_Variables) ---
+敵カードの絵④
+--- ENTRY 2734 (RM2K_Variables) ---
+敵カードの絵⑤
+--- ENTRY 2735 (RM2K_Variables) ---
+敵どのカード絵代入？
+--- ENTRY 2736 (RM2K_Variables) ---
+敵Ａの数
+--- ENTRY 2737 (RM2K_Variables) ---
+敵ライフ万の位
+--- ENTRY 2738 (RM2K_Variables) ---
+敵ライフ千の位
+--- ENTRY 2739 (RM2K_Variables) ---
+敵ライフ百の位
+--- ENTRY 2740 (RM2K_Variables) ---
+敵ライフ十の位
+--- ENTRY 2741 (RM2K_Variables) ---
+敵ライフ一の位
+--- ENTRY 2742 (RM2K_Variables) ---
+敵を何人倒したか変数
+--- ENTRY 2743 (RM2K_Variables) ---
+エミバトカード配布
+--- ENTRY 2744 (RM2K_Variables) ---
+エミバト５枚目カード
+--- ENTRY 2745 (RM2K_Variables) ---
+エミバトカード配布②
+--- ENTRY 2746 (RM2K_Variables) ---
+システム表示Ｘ座標
+--- ENTRY 2747 (RM2K_Variables) ---
+システム表示Ｙ座標
+--- ENTRY 2748 (RM2K_Variables) ---
+賭け数SUB千の位
+--- ENTRY 2749 (RM2K_Variables) ---
+賭け数SUB百の位
+--- ENTRY 2750 (RM2K_Variables) ---
+賭け数SUB十の位
+--- ENTRY 2751 (RM2K_Variables) ---
+じゃんけん勝利
+--- ENTRY 2752 (RM2K_Variables) ---
+じゃんけん変数-敵
+--- ENTRY 2753 (RM2K_Variables) ---
+スロット１リール１
+--- ENTRY 2754 (RM2K_Variables) ---
+スロット１リール２
+--- ENTRY 2755 (RM2K_Variables) ---
+スロット１リール３
+--- ENTRY 2756 (RM2K_Variables) ---
+スロット１リール４
+--- ENTRY 2757 (RM2K_Variables) ---
+スロット１リール５
+--- ENTRY 2758 (RM2K_Variables) ---
+スロット１リール６
+--- ENTRY 2759 (RM2K_Variables) ---
+スロット１リール７
+--- ENTRY 2760 (RM2K_Variables) ---
+スロット１リール８
+--- ENTRY 2761 (RM2K_Variables) ---
+スロット１リール９
+--- ENTRY 2762 (RM2K_Variables) ---
+スロット１リール１０
+--- ENTRY 2763 (RM2K_Variables) ---
+スロット１リール１１
+--- ENTRY 2764 (RM2K_Variables) ---
+スロット１リール１２
+--- ENTRY 2765 (RM2K_Variables) ---
+スロット１リール１３
+--- ENTRY 2766 (RM2K_Variables) ---
+スロット１リール１４
+--- ENTRY 2767 (RM2K_Variables) ---
+スロット１リール１５
+--- ENTRY 2768 (RM2K_Variables) ---
+スロット１リール１６
+--- ENTRY 2769 (RM2K_Variables) ---
+スロット１リール１７
+--- ENTRY 2770 (RM2K_Variables) ---
+スロット１リール１８
+--- ENTRY 2771 (RM2K_Variables) ---
+スロット１リール１９
+--- ENTRY 2772 (RM2K_Variables) ---
+スロット１リール２０
+--- ENTRY 2773 (RM2K_Variables) ---
+スロット１リール２１
+--- ENTRY 2774 (RM2K_Variables) ---
+スロット１リール２２
+--- ENTRY 2775 (RM2K_Variables) ---
+スロット１リール２３
+--- ENTRY 2776 (RM2K_Variables) ---
+スロット１－１
+--- ENTRY 2777 (RM2K_Variables) ---
+スロット１－２
+--- ENTRY 2778 (RM2K_Variables) ---
+スロット１－３
+--- ENTRY 2779 (RM2K_Variables) ---
+スロット２－１
+--- ENTRY 2780 (RM2K_Variables) ---
+スロット２－２
+--- ENTRY 2781 (RM2K_Variables) ---
+スロット２－３
+--- ENTRY 2782 (RM2K_Variables) ---
+スロット３－１
+--- ENTRY 2783 (RM2K_Variables) ---
+スロット３－２
+--- ENTRY 2784 (RM2K_Variables) ---
+スロット３－３
+--- ENTRY 2785 (RM2K_Variables) ---
+リールどこでとまる１
+--- ENTRY 2786 (RM2K_Variables) ---
+リールどこでとまる２
+--- ENTRY 2787 (RM2K_Variables) ---
+リールどこでとまる３
+--- ENTRY 2788 (RM2K_Variables) ---
+リールｉ変数
+--- ENTRY 2789 (RM2K_Variables) ---
+リールｊ変数
+--- ENTRY 2790 (RM2K_Variables) ---
+リールｋ変数
+--- ENTRY 2791 (RM2K_Variables) ---
+リールｌ変数
+--- ENTRY 2792 (RM2K_Variables) ---
+回転変数
+--- ENTRY 2793 (RM2K_Variables) ---
+スロット２リール１
+--- ENTRY 2794 (RM2K_Variables) ---
+スロット２リール２
+--- ENTRY 2795 (RM2K_Variables) ---
+スロット２リール３
+--- ENTRY 2796 (RM2K_Variables) ---
+スロット２リール４
+--- ENTRY 2797 (RM2K_Variables) ---
+スロット２リール５
+--- ENTRY 2798 (RM2K_Variables) ---
+スロット２リール６
+--- ENTRY 2799 (RM2K_Variables) ---
+スロット２リール７
+--- ENTRY 2800 (RM2K_Variables) ---
+スロット２リール８
+--- ENTRY 2801 (RM2K_Variables) ---
+スロット２リール９
+--- ENTRY 2802 (RM2K_Variables) ---
+スロット２リール１０
+--- ENTRY 2803 (RM2K_Variables) ---
+スロット２リール１１
+--- ENTRY 2804 (RM2K_Variables) ---
+スロット２リール１２
+--- ENTRY 2805 (RM2K_Variables) ---
+スロット２リール１３
+--- ENTRY 2806 (RM2K_Variables) ---
+スロット２リール１４
+--- ENTRY 2807 (RM2K_Variables) ---
+スロット２リール１５
+--- ENTRY 2808 (RM2K_Variables) ---
+スロット２リール１６
+--- ENTRY 2809 (RM2K_Variables) ---
+スロット２リール１７
+--- ENTRY 2810 (RM2K_Variables) ---
+スロット２リール１８
+--- ENTRY 2811 (RM2K_Variables) ---
+スロット２リール１９
+--- ENTRY 2812 (RM2K_Variables) ---
+スロット２リール２０
+--- ENTRY 2813 (RM2K_Variables) ---
+スロット２リール２１
+--- ENTRY 2814 (RM2K_Variables) ---
+スロット２リール２２
+--- ENTRY 2815 (RM2K_Variables) ---
+スロット２リール２３
+--- ENTRY 2816 (RM2K_Variables) ---
+スロット表示変数１
+--- ENTRY 2817 (RM2K_Variables) ---
+スロット表示変数２
+--- ENTRY 2818 (RM2K_Variables) ---
+スロット表示変数３
+--- ENTRY 2819 (RM2K_Variables) ---
+スロット賭けコイン数
+--- ENTRY 2820 (RM2K_Variables) ---
+スロットゲット数
+--- ENTRY 2821 (RM2K_Variables) ---
+スロット回転変数
+--- ENTRY 2822 (RM2K_Variables) ---
+スロット文字Ｘ座標
+--- ENTRY 2823 (RM2K_Variables) ---
+スロット文字Ｙ座標
+--- ENTRY 2824 (RM2K_Variables) ---
+スロット３リール１
+--- ENTRY 2825 (RM2K_Variables) ---
+スロット３リール２
+--- ENTRY 2826 (RM2K_Variables) ---
+スロット３リール３
+--- ENTRY 2827 (RM2K_Variables) ---
+スロット３リール４
+--- ENTRY 2828 (RM2K_Variables) ---
+スロット３リール５
+--- ENTRY 2829 (RM2K_Variables) ---
+スロット３リール６
+--- ENTRY 2830 (RM2K_Variables) ---
+スロット３リール７
+--- ENTRY 2831 (RM2K_Variables) ---
+スロット３リール８
+--- ENTRY 2832 (RM2K_Variables) ---
+スロット３リール９
+--- ENTRY 2833 (RM2K_Variables) ---
+スロット３リール１０
+--- ENTRY 2834 (RM2K_Variables) ---
+スロット３リール１１
+--- ENTRY 2835 (RM2K_Variables) ---
+スロット３リール１２
+--- ENTRY 2836 (RM2K_Variables) ---
+スロット３リール１３
+--- ENTRY 2837 (RM2K_Variables) ---
+スロット３リール１４
+--- ENTRY 2838 (RM2K_Variables) ---
+スロット３リール１５
+--- ENTRY 2839 (RM2K_Variables) ---
+スロット３リール１６
+--- ENTRY 2840 (RM2K_Variables) ---
+スロット３リール１７
+--- ENTRY 2841 (RM2K_Variables) ---
+スロット３リール１８
+--- ENTRY 2842 (RM2K_Variables) ---
+スロット３リール１９
+--- ENTRY 2843 (RM2K_Variables) ---
+スロット３リール２０
+--- ENTRY 2844 (RM2K_Variables) ---
+スロット３リール２１
+--- ENTRY 2845 (RM2K_Variables) ---
+スロット３リール２２
+--- ENTRY 2846 (RM2K_Variables) ---
+スロット３リール２３
+--- ENTRY 2847 (RM2K_Variables) ---
+スロット２マンドラ数
+--- ENTRY 2848 (RM2K_Variables) ---
+スロット３マンドラ数
+--- ENTRY 2849 (RM2K_Variables) ---
+スロット２きのこ数
+--- ENTRY 2850 (RM2K_Variables) ---
+スロット３きのこ数
+--- ENTRY 2851 (RM2K_Variables) ---
+スロットパンプゥ数
+--- ENTRY 2852 (RM2K_Variables) ---
+スロットうさぎ数
+--- ENTRY 2853 (RM2K_Variables) ---
+スロットファイロン数
+--- ENTRY 2854 (RM2K_Variables) ---
+スロット魔王数
+--- ENTRY 2855 (RM2K_Variables) ---
+スロット天使数
+--- ENTRY 2856 (RM2K_Variables) ---
+現在地マップID
+--- ENTRY 2857 (RM2K_Variables) ---
+現在地Ｘ座標
+--- ENTRY 2858 (RM2K_Variables) ---
+現在地Ｙ座標
+--- ENTRY 2859 (RM2K_Variables) ---
+現在地地形ＩＤ
+--- ENTRY 2860 (RM2K_Variables) ---
+踊り子変数
+--- ENTRY 2861 (RM2K_Variables) ---
+ポーカー役判定（ｉ）
+--- ENTRY 2862 (RM2K_Variables) ---
+ポーカー役判定（ｊ）
+--- ENTRY 2863 (RM2K_Variables) ---
+主人公Ａの数
+--- ENTRY 2864 (RM2K_Variables) ---
+主人公２の数
+--- ENTRY 2865 (RM2K_Variables) ---
+主人公３の数
+--- ENTRY 2866 (RM2K_Variables) ---
+主人公４の数
+--- ENTRY 2867 (RM2K_Variables) ---
+主人公５の数
+--- ENTRY 2868 (RM2K_Variables) ---
+主人公６の数
+--- ENTRY 2869 (RM2K_Variables) ---
+主人公７の数
+--- ENTRY 2870 (RM2K_Variables) ---
+主人公８の数
+--- ENTRY 2871 (RM2K_Variables) ---
+主人公９の数
+--- ENTRY 2872 (RM2K_Variables) ---
+主人公10の数
+--- ENTRY 2873 (RM2K_Variables) ---
+主人公Ｊの数
+--- ENTRY 2874 (RM2K_Variables) ---
+主人公Ｑの数
+--- ENTRY 2875 (RM2K_Variables) ---
+主人公Ｋの数
+--- ENTRY 2876 (RM2K_Variables) ---
+敵Ａの数
+--- ENTRY 2877 (RM2K_Variables) ---
+敵２の数
+--- ENTRY 2878 (RM2K_Variables) ---
+敵３の数
+--- ENTRY 2879 (RM2K_Variables) ---
+敵４の数
+--- ENTRY 2880 (RM2K_Variables) ---
+敵５の数
+--- ENTRY 2881 (RM2K_Variables) ---
+敵６の数
+--- ENTRY 2882 (RM2K_Variables) ---
+敵７の数
+--- ENTRY 2883 (RM2K_Variables) ---
+敵８の数
+--- ENTRY 2884 (RM2K_Variables) ---
+敵９の数
+--- ENTRY 2885 (RM2K_Variables) ---
+敵10の数
+--- ENTRY 2886 (RM2K_Variables) ---
+敵Ｊの数
+--- ENTRY 2887 (RM2K_Variables) ---
+敵Ｑの数
+--- ENTRY 2888 (RM2K_Variables) ---
+敵Ｋの数
+--- ENTRY 2889 (RM2K_Variables) ---
+主人公スペードの数
+--- ENTRY 2890 (RM2K_Variables) ---
+主人公ハートの数
+--- ENTRY 2891 (RM2K_Variables) ---
+主人公クラブの数
+--- ENTRY 2892 (RM2K_Variables) ---
+主人公ダイヤの数
+--- ENTRY 2893 (RM2K_Variables) ---
+主カード大きい順①
+--- ENTRY 2894 (RM2K_Variables) ---
+主カード大きい順②
+--- ENTRY 2895 (RM2K_Variables) ---
+主カード大きい順③
+--- ENTRY 2896 (RM2K_Variables) ---
+主カード大きい順④
+--- ENTRY 2897 (RM2K_Variables) ---
+主カード大きい順⑤
+--- ENTRY 2898 (RM2K_Variables) ---
+主カード大きい順変数
+--- ENTRY 2899 (RM2K_Variables) ---
+敵スペードの数
+--- ENTRY 2900 (RM2K_Variables) ---
+敵ハートの数
+--- ENTRY 2901 (RM2K_Variables) ---
+敵クラブの数
+--- ENTRY 2902 (RM2K_Variables) ---
+敵ダイヤの数
+--- ENTRY 2903 (RM2K_Variables) ---
+敵カード大きい順①
+--- ENTRY 2904 (RM2K_Variables) ---
+敵カード大きい順②
+--- ENTRY 2905 (RM2K_Variables) ---
+敵カード大きい順③
+--- ENTRY 2906 (RM2K_Variables) ---
+敵カード大きい順④
+--- ENTRY 2907 (RM2K_Variables) ---
+敵カード大きい順⑤
+--- ENTRY 2908 (RM2K_Variables) ---
+敵カード大きい順変数
+--- ENTRY 2909 (RM2K_Variables) ---
+ストレート判定変数①
+--- ENTRY 2910 (RM2K_Variables) ---
+ストレート判定変数②
+--- ENTRY 2911 (RM2K_Variables) ---
+ストレート判定変数③
+--- ENTRY 2912 (RM2K_Variables) ---
+ストレート判定変数④
+--- ENTRY 2913 (RM2K_Variables) ---
+ストレート判定変数⑤
+--- ENTRY 2914 (RM2K_Variables) ---
+ペアカウント変数
+--- ENTRY 2915 (RM2K_Variables) ---
+どのカードチェンジ？
+--- ENTRY 2916 (RM2K_Variables) ---
+マリスバトルコイン数
+--- ENTRY 2917 (RM2K_Variables) ---
+残りコイン数
+--- ENTRY 2918 (RM2K_Variables) ---
+宝箱開けた個数
+--- ENTRY 2919 (RM2K_Variables) ---
+予定合計金貨数
+--- ENTRY 2920 (RM2K_Variables) ---
+宝箱どれ選択？
+--- ENTRY 2921 (RM2K_Variables) ---
+どの障害物移動？
+--- ENTRY 2922 (RM2K_Variables) ---
+ラグのＸ座標
+--- ENTRY 2923 (RM2K_Variables) ---
+ウェインのＸ座標
+--- ENTRY 2924 (RM2K_Variables) ---
+ラグのＹ座標
+--- ENTRY 2925 (RM2K_Variables) ---
+ウェインのＹ座標
+--- ENTRY 2926 (RM2K_Variables) ---
+Ｄ・ハッシュＸ座標
+--- ENTRY 2927 (RM2K_Variables) ---
+Ｄ・ハッシュＹ座標
+--- ENTRY 2928 (RM2K_Variables) ---
+Ｄ・ハッシュ捕まえ数
+--- ENTRY 2929 (RM2K_Variables) ---
+Ｄ・ハッシュダメージ
+--- ENTRY 2930 (RM2K_Variables) ---
+ルーレＬ１Ｎ①賭け数
+--- ENTRY 2931 (RM2K_Variables) ---
+ルーレＬ１Ｎ②賭け数
+--- ENTRY 2932 (RM2K_Variables) ---
+ルーレＬ１Ｎ③賭け数
+--- ENTRY 2933 (RM2K_Variables) ---
+ルーレＬ１Ｎ④賭け数
+--- ENTRY 2934 (RM2K_Variables) ---
+ルーレＬ１Ｎ⑤賭け数
+--- ENTRY 2935 (RM2K_Variables) ---
+ルーレＬ１Ｎ⑥賭け数
+--- ENTRY 2936 (RM2K_Variables) ---
+ルーレＬ１Ｎ⑦賭け数
+--- ENTRY 2937 (RM2K_Variables) ---
+ルーレＬ１Ｎ⑧賭け数
+--- ENTRY 2938 (RM2K_Variables) ---
+ルーレＬ１Ｎ⑨賭け数
+--- ENTRY 2939 (RM2K_Variables) ---
+ルーレＬ１Ｎ⑩賭け数
+--- ENTRY 2940 (RM2K_Variables) ---
+ルーレＬ１Ｎ⑪賭け数
+--- ENTRY 2941 (RM2K_Variables) ---
+ルーレＬ１Ｎ⑫賭け数
+--- ENTRY 2942 (RM2K_Variables) ---
+ルーレ賭け数場所選択
+--- ENTRY 2943 (RM2K_Variables) ---
+ルーレット回転変数
+--- ENTRY 2944 (RM2K_Variables) ---
+ルーレット回転数
+--- ENTRY 2945 (RM2K_Variables) ---
+ルーレどこで止まる
+--- ENTRY 2946 (RM2K_Variables) ---
+ルーレット回転変数②
+--- ENTRY 2947 (RM2K_Variables) ---
+ルーレゲット数
+--- ENTRY 2948 (RM2K_Variables) ---
+ルーレゲット数万の位
+--- ENTRY 2949 (RM2K_Variables) ---
+ルーレゲット数千の位
+--- ENTRY 2950 (RM2K_Variables) ---
+ルーレゲット数百の位
+--- ENTRY 2951 (RM2K_Variables) ---
+ルーレゲット数十の位
+--- ENTRY 2952 (RM2K_Variables) ---
+ルーレゲット数一の位
+--- ENTRY 2953 (RM2K_Variables) ---
+ルーレゲット色
+--- ENTRY 2954 (RM2K_CommonEvents) ---
+ＢＪ初期化
+--- ENTRY 2955 (RM2K_CommonEvents) ---
+画面初期化
+--- ENTRY 2956 (RM2K_CommonEvents) ---
+主人公カード配布
+--- ENTRY 2957 (RM2K_CommonEvents) ---
+保存
+--- ENTRY 2958 (RM2K_CommonEvents) ---
+敵カード配布
+--- ENTRY 2959 (RM2K_CommonEvents) ---
+保存一
+--- ENTRY 2960 (RM2K_CommonEvents) ---
+合計は？
+--- ENTRY 2961 (RM2K_CommonEvents) ---
+ラスト処理
+--- ENTRY 2962 (RM2K_CommonEvents) ---
+敵はまだとるの？
+--- ENTRY 2963 (RM2K_CommonEvents) ---
+所持金確認イベント
+--- ENTRY 2964 (RM2K_CommonEvents) ---
+結果判定
+--- ENTRY 2965 (RM2K_CommonEvents) ---
+ゲーム勝利判定
+--- ENTRY 2966 (RM2K_CommonEvents) ---
+主人公バースト判定
+--- ENTRY 2967 (RM2K_CommonEvents) ---
+敵バースト判定
+--- ENTRY 2968 (RM2K_CommonEvents) ---
+主人公役判定
+--- ENTRY 2969 (RM2K_CommonEvents) ---
+敵役判定
+--- ENTRY 2970 (RM2K_CommonEvents) ---
+親決め
+--- ENTRY 2971 (RM2K_CommonEvents) ---
+ダメージうける処理
+--- ENTRY 2972 (RM2K_CommonEvents) ---
+ダメージ計算
+--- ENTRY 2973 (RM2K_CommonEvents) ---
+役計算（保存）
+--- ENTRY 2974 (RM2K_CommonEvents) ---
+いくら賭ける？
+--- ENTRY 2975 (RM2K_CommonEvents) ---
+賭け数入力処理
+--- ENTRY 2976 (RM2K_CommonEvents) ---
+主人公カード表示
+--- ENTRY 2977 (RM2K_CommonEvents) ---
+敵カード表示
+--- ENTRY 2978 (RM2K_CommonEvents) ---
+敵カードオープン
+--- ENTRY 2979 (RM2K_CommonEvents) ---
+親チェンジ
+--- ENTRY 2980 (RM2K_CommonEvents) ---
+賭け数位割り
+--- ENTRY 2981 (RM2K_CommonEvents) ---
+賭け数初期化
+--- ENTRY 2982 (RM2K_CommonEvents) ---
+持ちチップ位わけ
+--- ENTRY 2983 (RM2K_CommonEvents) ---
+敵持ちチップ位わけ
+--- ENTRY 2984 (RM2K_CommonEvents) ---
+ダブルダウン
+--- ENTRY 2985 (RM2K_CommonEvents) ---
+敵いくらかける
+--- ENTRY 2986 (RM2K_CommonEvents) ---
+サレンダー
+--- ENTRY 2987 (RM2K_CommonEvents) ---
+主人公役表示
+--- ENTRY 2988 (RM2K_CommonEvents) ---
+敵役表示
+--- ENTRY 2989 (RM2K_CommonEvents) ---
+ダメージアタック表示
+--- ENTRY 2990 (RM2K_CommonEvents) ---
+メニュー01 HStDSU
+--- ENTRY 2991 (RM2K_CommonEvents) ---
+メニュー02 HStSu
+--- ENTRY 2992 (RM2K_CommonEvents) ---
+メニュー03 HSt
+--- ENTRY 2993 (RM2K_CommonEvents) ---
+メニュー04 H
+--- ENTRY 2994 (RM2K_CommonEvents) ---
+メニュー05  St
+--- ENTRY 2995 (RM2K_CommonEvents) ---
+メニュー06 CE
+--- ENTRY 2996 (RM2K_CommonEvents) ---
+ディーラーラスト処理
+--- ENTRY 2997 (RM2K_CommonEvents) ---
+ディーラー勝利表示
+--- ENTRY 2998 (RM2K_CommonEvents) ---
+チップ獲得処理
+--- ENTRY 2999 (RM2K_CommonEvents) ---
+ディーラダメージ計算
+--- ENTRY 3000 (RM2K_CommonEvents) ---
+スロット表示
+--- ENTRY 3001 (RM2K_CommonEvents) ---
+スロット回転（保存）
+--- ENTRY 3002 (RM2K_CommonEvents) ---
+スロット処理リール１
+--- ENTRY 3003 (RM2K_CommonEvents) ---
+スロット処理リール２
+--- ENTRY 3004 (RM2K_CommonEvents) ---
+スロット処理リール３
+--- ENTRY 3005 (RM2K_CommonEvents) ---
+スロット回転１（旧）
+--- ENTRY 3006 (RM2K_CommonEvents) ---
+スロット回転２（旧）
+--- ENTRY 3007 (RM2K_CommonEvents) ---
+スロット回転３（旧）
+--- ENTRY 3008 (RM2K_CommonEvents) ---
+スロット役判定
+--- ENTRY 3009 (RM2K_CommonEvents) ---
+スロット結果計算
+--- ENTRY 3010 (RM2K_CommonEvents) ---
+スロット賭け数決定
+--- ENTRY 3011 (RM2K_CommonEvents) ---
+スロット回転１
+--- ENTRY 3012 (RM2K_CommonEvents) ---
+スロット回転２
+--- ENTRY 3013 (RM2K_CommonEvents) ---
+スロット回転３
+--- ENTRY 3014 (RM2K_CommonEvents) ---
+ポーカー主役チェック
+--- ENTRY 3015 (RM2K_CommonEvents) ---
+ポーカー敵役チェック
+--- ENTRY 3016 (RM2K_CommonEvents) ---
+ポーカー主カード配布
+--- ENTRY 3017 (RM2K_CommonEvents) ---
+ポーカー敵カード配布
+--- ENTRY 3018 (RM2K_CommonEvents) ---
+ポーカー初期値代入
+--- ENTRY 3019 (RM2K_CommonEvents) ---
+ポーカー初期化
+--- ENTRY 3020 (RM2K_CommonEvents) ---
+ほぞん
+--- ENTRY 3021 (RM2K_CommonEvents) ---
+主人公ベットアップ
+--- ENTRY 3022 (RM2K_CommonEvents) ---
+ウェインが掘った
+--- ENTRY 3023 (RM2K_CommonEvents) ---
+ダンジョン生きてるか
+--- ENTRY 3024 (RM2K_CommonEvents) ---
+いくら賭ける？（見習
+--- ENTRY 3025 (RM2K_CommonEvents) ---
+賭け数入力処理（見習
+--- ENTRY 3026 (RM2K_CommonEvents) ---
+ルーレット賭けたか
+--- ENTRY 3027 (RM2K_CommonEvents) ---
+ルーレット当たり判定
+--- ENTRY 3028 (RM2K_CommonEvents) ---
+ルーレゲット数位分け
+--- ENTRY 3029 (RM2K_CommonEvents) ---
+並列処理
+--- ENTRY 3030 (RM2K_CommonEvents) ---
+敵セリフ（親決め）
+--- ENTRY 3031 (RM2K_CommonEvents) ---
+敵セリフ（親決まっ）
+--- ENTRY 3032 (RM2K_CommonEvents) ---
+敵ライフ代入
+--- ENTRY 3033 (RM2K_CommonEvents) ---
+敵セリフ（始め）
+--- ENTRY 3034 (RM2K_CommonEvents) ---
+敵セリフ（親チェンジ
+--- ENTRY 3035 (RM2K_CommonEvents) ---
+敵セリフ（くらう！
+--- ENTRY 3036 (RM2K_CommonEvents) ---
+主セリフ（くらえ！
+--- ENTRY 3037 (RM2K_CommonEvents) ---
+カオグラ表示
+--- ENTRY 3038 (RM2K_CommonEvents) ---
+主セリフ（くらう！
+--- ENTRY 3039 (RM2K_CommonEvents) ---
+エミバト配布
+--- ENTRY 3040 (RM2K_CommonEvents) ---
+エミバト主人公配布
+--- ENTRY 3041 (RM2K_CommonEvents) ---
+エミバト主人公５枚配

@@ -1,0 +1,1136 @@
+**********Event1**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「妳的心……
+　還是沒有改變嗎？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「這份我的愛……
+　妳還是不願接受嗎……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「只要妳待在這個魔法陣裡，
+　妳的祝福就會
+　轉化為詛咒，降臨到人類身上」
+##
+
+
+#Message#
+魔王
+「只要妳不接受我的愛……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「罷了……也好……」
+##
+
+
+#Message#
+魔王
+「我倆擁有
+　近乎永恆的時間——
+　魔族與神族……」
+##
+
+
+#Message#
+魔王
+「若是重疊了百億個晝與夜，
+　或許總有一天，
+　光明與黑暗也會交融的吧」
+##
+
+
+#Message#
+魔王
+「我會永遠
+　等待下去……」
+##
+
+
+#Message#
+魔王
+「直到
+　妳的心改變為止……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+
+-----Page2-----
+#Message#
+魔王
+「來吧……
+　從我手中奪走她也罷！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 11, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「你在說什麼啊！」
+##
+
+
+#Message#
+瑪莉安
+「喂！
+　你這傢伙……明明喜歡這位女孩——
+　不，是女神殿下吧！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「那、那當然……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 11, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「喜歡女孩子的人，
+　幹嘛把她綁在這種地方？
+　天底下哪有這種傻瓜！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「沒錯！就是這樣！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+尤莉亞
+「的確……
+　這未免也太……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「我、我在這裡……
+　等待她的心意改變……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「你在胡說什麼……」
+##
+
+
+#Message#
+琪莎拉
+「被這麼虐待，哪可能會喜歡上你……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 13, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+洛卡
+「是、是啊……」
+##
+
+
+#Message#
+洛卡
+「一定……
+　魔王大人，
+　已經被討厭了……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 15, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+安妮特
+「沒錯沒錯……。
+　這下完美了呢……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「才、才沒那回事……！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「憑什麼……
+　你能這麼說？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「那、那個……」
+##
+
+
+#Message#
+魔王
+「你、你瞧著……」
+##
+
+
+#Message#
+魔王
+「我問你……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「對我的問題，
+　搖搖頭回答我……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「妳……
+　愛我嗎？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「呃，妳剛、剛才
+　搖了搖頭」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「……這麼說來」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 15, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+安妮特
+「哈哈……
+　不是，才不是呢……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「你瞧你瞧。果然是討人厭吧？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「吵死了……。
+　閉嘴看著就好。
+　這些母的……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「什麼？什、什麼母的……？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「再問妳一次……。
+　這個我……」
+##
+
+
+#Message#
+魔王
+「我這個人……。
+　很討厭嗎？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+蘿卡
+「咦……？那個……
+　這麼說來……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「看吧……」
+##
+
+
+#Message#
+魔王
+「我才沒有……。
+　沒有被討厭……！」
+##
+
+
+#Message#
+魔王
+「沒有啊——！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「笨蛋！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「提問的方式根本就有問題！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 16, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「對對」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「一點兒邏輯都沒有。問題本身就有問題」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 14, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+安妮特
+「完全沒搞懂呢」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 13, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+洛卡
+「那個……
+　我也不一樣……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+尤莉亞
+「……是啊……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「吵死了閉嘴！這些母的們！
+　到底！什麼！怎麼！
+　哪裡不一樣了！？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「聽好……
+　這樣問才對喔」
+##
+
+
+#Message#
+琪莎拉
+「你……」
+##
+
+
+#Message#
+琪莎拉
+「……這傢伙……」
+##
+
+
+#Message#
+琪莎拉
+「……最討厭了……吧？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 7, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「看吧。
+　哪是討厭那麼簡單，
+　根本一點都不溫柔呢」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「耶∼
+　被拒絕的傢伙！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 15, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+安妮特
+「哈哈哈哈哈。
+　好丟臉∼」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「這、這樣……
+　我……我的所作所為……
+　到底……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「嘛……
+　要說的話……」
+##
+
+
+#Message#
+琪莎拉
+「一開始就沒有任何期望，
+　像蟑螂一樣被討厭的失戀男……」
+##
+
+
+#Message#
+琪莎拉
+「幾十年來，
+　不屈不撓地纏著不放……
+　大概就是這樣吧」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「好遜∼」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 15, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+安妮特
+「雖然很糟糕……
+　但這感覺超讚的！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+魔王
+「呃、你們……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+安妮特
+「幹、幹什麼啊……！
+　你們、還想幹下去嗎？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「幹吧！就這麼幹下去！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+尤莉亞
+「可以嗎？\n[1]大人。
+　喂……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+洛卡
+「那、那個……
+　\n[1]大人……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「喂、\n[1]……。
+　你要阻止他們對吧？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+是
+否
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 16, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「嗯，我知道了。
+　我也覺得這樣比較好」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「別這麼說嘛……。
+　快阻止他們啊」
+##
+
+
+#Message#
+瑪莉安
+「反正你們都是男人，
+　應該能理解他的心情吧？
+　我是女生所以不太懂……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「喂喂，大家聽我說！
+　住手住手！
+　夠了夠了！」
+##
+
+
+#Message#
+瑪莉安
+「喂喂，\n[1]也在說
+　你快住手啊！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「對對。就讓那個小丑
+　退場算了」
+##
+
+
+#Message#
+琪莎拉
+「何必做那種
+　死後還要挨鞭子一樣的事……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「那麼……
+　要是扔石頭的話，可以嗎？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「不行」
+##
+
+
+
+-----Page3-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「走了呢……是吧」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+尤莉亞
+「那個，\n[1]……
+　得趕快救女神殿下……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「啊，對耶……」
+##
+
+
+#Message#
+琪莎拉
+「哼哼哼……
+　這個魔法陣是……」
+##
+
+
+#Message#
+琪莎拉
+「這是反轉詛咒的術式……
+　還有靜默的結界呢……」
+##
+
+
+#Message#
+琪莎拉
+「那麼，進去應該沒問題……」
+##
+
+
+#Message#
+琪莎拉
+「好啦，洛卡……
+　可以進去了」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+洛卡
+「咦？ 咦？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「快點……！
+　我們去救女神殿下。
+　趕快！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+洛卡
+「好、好的……」
+##
+
+
+#Message#
+洛卡
+「……………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+洛卡
+「那、那個……
+　她腳上有鎖鏈綁著……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「讓我看看……？」
+##
+
+
+#Message#
+瑪莉安
+「……………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「喂——！
+　那個鎖鏈……
+　如果是神鐵的話，沒有裝備就拆不下來喔——！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「沒事、沒事。
+　感覺只是普通的鐵鍊……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「欸——！
+　就算是普通鐵鍊，
+　沒工具也拆不下來喔——！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「……………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「……咦咦咦咦……！
+　居然被我徒手拆下來了……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「好了，拆掉了」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「拆下來了耶……
+　妳這傢伙……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+尤莉亞
+「來吧……女神。
+　已經沒事了喔。
+　這邊請……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「…………」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+尤莉亞
+「來吧，女神……。
+　已經、沒事……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「啊——嗚嗚嗚嗚——！！
+　氣死我了——！！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+尤莉亞
+「咦……？呃？
+　咦？咦？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「煩死了——！感覺超差的！
+　給我適可而止——！！」
+##
+
+
+#Message#
+女神
+「四十七年了！！
+　四十七年啊！！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 12, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+蘿卡
+「是、是的！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「你愛不愛我？這個問題！
+　早晚都沒少過！
+　三萬八千五百三十二次！」
+##
+
+
+#Message#
+女神
+「三萬八千五百三十二次！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE1, 10, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+瑪莉安
+「這、這還真是……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「啊——！夠了！
+　到底要怎麼收拾你們啊——！！」
+##
+
+
+#Message#
+女神
+「都是那傢伙害的，
+　業績！一落千丈了啦——！！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+琪莎拉
+「冷靜點」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「啊——！
+　這世紀的工作配額！
+　居然完不成了不是嗎！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE3, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+莉莉
+「那個……
+　工、工作配額……是什麼？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「嗚——！
+　要是被愛神降職了，
+　都是那傢伙害的！」
+##
+
+
+#Message#
+女神
+「既然這樣，我就詛咒他！
+　我一定要詛咒他——！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE2, 14, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+安妮特
+「不、不好吧，詛咒什麼的……」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「那個虛無主義的
+　騙子混蛋
+　大混蛋啊啊！」
+##
+
+
+#Message#
+女神
+「居然擅自跑來！
+　這次又擅自消失了！」
+##
+
+
+#Message#
+女神
+「明明打算至少把怨氣發洩出去的……」
+##
+
+
+#Message#
+女神
+「居然擅自消失了——！
+　混帳——！」
+##
+
+
+#Message#
+女神
+「喂，你給我聽著！
+　直到我滿意為止，
+　你就陪我抱怨個夠！」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: FACE4, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+女神
+「聽見沒有！？」
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Choice#
+是
+否
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+　於是，
+　女神的怨氣就這麼
+　持續了整整三天三夜……。
+##
+
+
+#Message#
+　然後三天後……。
+　\n[1]回到了村莊。
+##
+
+
+
+

@@ -1,0 +1,14 @@
+﻿*****Entry1*****
+#Name# [8]
+
+
+#InflictedOnAlly# [30]
+
+
+#InflictedOnEnemy# [30]
+
+
+#Recovered# [30]
+
+
+

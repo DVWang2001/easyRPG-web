@@ -1,0 +1,14 @@
+﻿*****Entry1*****
+#Name# [8]
+戦闘不能
+
+#InflictedOnAlly# [30]
+は倒れた！
+
+#InflictedOnEnemy# [30]
+を倒した！
+
+#Recovered# [30]
+は立ち上がった！
+
+

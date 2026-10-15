@@ -1,0 +1,397 @@
+{
+    "filepath": "Database/Troops.txt",
+    "meta": [
+        {
+            "type": "message",
+            "start_line_idx": 5,
+            "end_line_idx": 5
+        },
+        {
+            "type": "message",
+            "start_line_idx": 12,
+            "end_line_idx": 12
+        },
+        {
+            "type": "message",
+            "start_line_idx": 19,
+            "end_line_idx": 19
+        },
+        {
+            "type": "message",
+            "start_line_idx": 30,
+            "end_line_idx": 31
+        },
+        {
+            "type": "message",
+            "start_line_idx": 38,
+            "end_line_idx": 38
+        },
+        {
+            "type": "message",
+            "start_line_idx": 45,
+            "end_line_idx": 46
+        },
+        {
+            "type": "message",
+            "start_line_idx": 57,
+            "end_line_idx": 57
+        },
+        {
+            "type": "message",
+            "start_line_idx": 68,
+            "end_line_idx": 68
+        },
+        {
+            "type": "message",
+            "start_line_idx": 79,
+            "end_line_idx": 79
+        },
+        {
+            "type": "message",
+            "start_line_idx": 86,
+            "end_line_idx": 86
+        },
+        {
+            "type": "message",
+            "start_line_idx": 95,
+            "end_line_idx": 95
+        },
+        {
+            "type": "message",
+            "start_line_idx": 106,
+            "end_line_idx": 106
+        },
+        {
+            "type": "message",
+            "start_line_idx": 115,
+            "end_line_idx": 115
+        },
+        {
+            "type": "message",
+            "start_line_idx": 122,
+            "end_line_idx": 122
+        },
+        {
+            "type": "message",
+            "start_line_idx": 135,
+            "end_line_idx": 135
+        },
+        {
+            "type": "message",
+            "start_line_idx": 142,
+            "end_line_idx": 142
+        },
+        {
+            "type": "message",
+            "start_line_idx": 147,
+            "end_line_idx": 147
+        },
+        {
+            "type": "message",
+            "start_line_idx": 160,
+            "end_line_idx": 161
+        },
+        {
+            "type": "message",
+            "start_line_idx": 168,
+            "end_line_idx": 168
+        },
+        {
+            "type": "message",
+            "start_line_idx": 175,
+            "end_line_idx": 176
+        },
+        {
+            "type": "message",
+            "start_line_idx": 183,
+            "end_line_idx": 184
+        },
+        {
+            "type": "message",
+            "start_line_idx": 191,
+            "end_line_idx": 192
+        },
+        {
+            "type": "message",
+            "start_line_idx": 203,
+            "end_line_idx": 203
+        },
+        {
+            "type": "message",
+            "start_line_idx": 208,
+            "end_line_idx": 209
+        },
+        {
+            "type": "message",
+            "start_line_idx": 220,
+            "end_line_idx": 221
+        },
+        {
+            "type": "message",
+            "start_line_idx": 226,
+            "end_line_idx": 226
+        },
+        {
+            "type": "message",
+            "start_line_idx": 239,
+            "end_line_idx": 240
+        },
+        {
+            "type": "message",
+            "start_line_idx": 247,
+            "end_line_idx": 247
+        },
+        {
+            "type": "message",
+            "start_line_idx": 252,
+            "end_line_idx": 254
+        },
+        {
+            "type": "message",
+            "start_line_idx": 261,
+            "end_line_idx": 261
+        },
+        {
+            "type": "message",
+            "start_line_idx": 272,
+            "end_line_idx": 272
+        },
+        {
+            "type": "message",
+            "start_line_idx": 277,
+            "end_line_idx": 279
+        },
+        {
+            "type": "message",
+            "start_line_idx": 286,
+            "end_line_idx": 287
+        },
+        {
+            "type": "message",
+            "start_line_idx": 294,
+            "end_line_idx": 294
+        },
+        {
+            "type": "message",
+            "start_line_idx": 305,
+            "end_line_idx": 305
+        },
+        {
+            "type": "message",
+            "start_line_idx": 312,
+            "end_line_idx": 312
+        },
+        {
+            "type": "message",
+            "start_line_idx": 323,
+            "end_line_idx": 325
+        },
+        {
+            "type": "message",
+            "start_line_idx": 330,
+            "end_line_idx": 330
+        },
+        {
+            "type": "message",
+            "start_line_idx": 337,
+            "end_line_idx": 337
+        }
+    ],
+    "items": [
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "くっ苦しいニャ～っ！"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "暴れるな。　そなたに当たるぞ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "当てたら絶交ニャ！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "バカ～っ！\n当たったニャ～っ！"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "よけろ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "捕まってるから\nよけられないニャっ！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "オイラもうダメニャ～･･･"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "息ができなひニャ～"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "何でオイラを狙うニャ～っ！"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "故意ではない$d"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "オイラもうダメニャ～･･･"
+        },
+        {
+            "face": "Erase }}}}}}}}}}}}}}}}}}}}",
+            "marker": "Message",
+            "text": "\\S[2]私の･･････貝を･･････"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "ゴボゴボゴボ～～～･･････"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]････････････$d"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "マコト！"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "君は一度、そっちの味方についたんだ。"
+        },
+        {
+            "face": "Ｆ真実",
+            "marker": "Message",
+            "text": "最後までそっち側で闘うといい。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.ん？\n右老杯受は呼んでねーぞ。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "クルルル･･････"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "･･･しょうがねーな。\n\\.じゃ俺は しばらく見物するぜ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "な、何者ニャ　コレは～っ$e\nどっから出てきたニャ～っ！"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "さしずめ\n鬼の創り出した幻影といったところか。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "痛いニャ～っ！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "幻影なのに\nなんでいたいニャ～っ！"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "ちっ\n思ったより役にたたねーな。"
+        },
+        {
+            "face": "Ｆ鬼",
+            "marker": "Message",
+            "text": "\\.どけ！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "待ってニャ！\nオイラ姫さんと闘うの嫌ニャ！"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "私もだ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "だが私は\n相手が誰であろうと\n売られたケンカは買う主義でな。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "オイラ抜けるニャ！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "やめるニャっ$e"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "お主\n話をしに来たダケって\n言ってたニャ！"
+        },
+        {
+            "face": "Ｆ狐姫",
+            "marker": "Message",
+            "text": "どけ、タマ！\n串猫になるぞ！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "く、\\.串猫$d　　　　　　　　　　　　　"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "･･････"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "･･････むか$n"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.･････････････\n\\.･････････････\n\\.すぅーーーーーーーーっ"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "やめるニャ～～～～～～～～～～～～$n"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "うおわ！"
+        }
+    ]
+}

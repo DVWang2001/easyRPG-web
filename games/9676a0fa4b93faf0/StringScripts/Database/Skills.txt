@@ -1,0 +1,1619 @@
+*****Entry1*****
+#Name# [20]
+－－－－－特技－劍技
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+究極二刀兇星斬
+
+#Description# [50]
+『究極二刀兇星斬』伊藏的究極奧義。(全體攻擊)
+
+#UseMessage1# [30]
+施展了究極二刀兇星斬！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+襲爪演舞
+
+#Description# [50]
+『襲爪演舞』亂舞技。(全體攻擊)
+
+#UseMessage1# [30]
+施展了襲爪演舞！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+降魔白雷刃
+
+#Description# [50]
+『降魔白雷刃』宛如纏繞雷電之惡鬼的一擊。(單體攻擊)
+
+#UseMessage1# [30]
+施展了降魔白雷刃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+櫻花葬封殺
+
+#Description# [50]
+『櫻花葬封殺』強大之中閃耀著美麗。(單體攻擊)
+
+#UseMessage1# [30]
+施展了櫻花葬封殺！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+熱血兄貴大行進
+
+#Description# [50]
+『熱血兄貴大行進』縱橫無阻地大行進。(全體攻擊)
+
+#UseMessage1# [30]
+「大哥∼∼∼∼！！！！」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+破牙滅衝擊
+
+#Description# [50]
+『破牙滅衝擊』在新日本傳授的傳統招式。(全體攻擊)
+
+#UseMessage1# [30]
+施展了破牙滅衝擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+－－－－－特技－體術
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+丹迪拳
+
+#Description# [50]
+散發著高雅氣質的紳士之拳。(單體攻擊)
+
+#UseMessage1# [30]
+施展了丹迪拳！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+丹迪踢
+
+#Description# [50]
+散發著高雅氣質的紳士之踢。(單體攻擊)
+
+#UseMessage1# [30]
+施展了丹迪踢！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+丹迪昇龍拳
+
+#Description# [50]
+散發著高雅氣質的紳士之上鉤拳。(單體攻擊)
+
+#UseMessage1# [30]
+施展了丹迪昇龍拳！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+丹迪雙掌打
+
+#Description# [50]
+散發著高雅氣質的紳士之雙掌打。(單體攻擊)
+
+#UseMessage1# [30]
+施展了丹迪雙掌打！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+丹迪烈光流星亂舞
+
+#Description# [50]
+氣質高雅，紳士的流星亂舞。(單體攻擊)
+
+#UseMessage1# [30]
+施展了丹迪烈光流星亂舞
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+－－－－－特技－槍技
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+死亡射擊
+
+#Description# [50]
+精準的射擊。(單體攻擊)
+
+#UseMessage1# [30]
+施展了死亡射擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+死亡彈頭
+
+#Description# [50]
+發射能量彈的技能。相當痛。(全體攻擊)
+
+#UseMessage1# [30]
+施展了死亡彈頭！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+日本傳統槍技雅
+
+#Description# [50]
+新日本傳統的、高格調槍技。(全體攻擊)
+
+#UseMessage1# [30]
+施展了日本傳統槍技雅！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+－－－－－特技－魔術
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+愛之火
+
+#Description# [50]
+喬喬莉娜過於炙熱的愛之炎。(全體攻擊)
+
+#UseMessage1# [30]
+「燃燒的愛之炎！」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+燃燒之愛
+
+#Description# [50]
+在森林裡交到朋友的蜥蜴先生前來援助。(全體攻擊)
+
+#UseMessage1# [30]
+「蜥蜴先生∼！」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+巨龍之愛
+
+#Description# [50]
+在森林裡交到朋友的巨龍先生前來援助。(全體攻擊)
+
+#UseMessage1# [30]
+「巨龍先生∼！」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry27*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+－－－－－魔法－回復
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+治療術
+
+#Description# [50]
+恢復同伴大約100左右的HP。
+
+#UseMessage1# [30]
+「治療術！」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+恢復術
+
+#Description# [50]
+恢復同伴大約500左右的HP。
+
+#UseMessage1# [30]
+「恢復術！」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry33*****
+#Name# [20]
+全體治療術
+
+#Description# [50]
+恢復我方全體大約250左右的HP。
+
+#UseMessage1# [30]
+「癒合我們所有的傷口吧……」
+
+#UseMessage2# [50]
+群體療癒！！！
+
+
+
+*****Entry34*****
+#Name# [20]
+神聖呼吸
+
+#Description# [50]
+回復我方全員約 500 的 HP。
+
+#UseMessage1# [30]
+「藉神之氣息癒合我們吧！」
+
+#UseMessage2# [50]
+神聖呼吸！！！
+
+
+
+*****Entry35*****
+#Name# [20]
+復活術
+
+#Description# [50]
+回復我方 1 人的全部 HP。
+
+#UseMessage1# [30]
+「癒合所有的傷口！」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+紳士療癒
+
+#Description# [50]
+僅限紳士們使用的回復術。回復 1 人的 200 HP。
+
+#UseMessage1# [30]
+去癒合吧！如同丹迪一般！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry37*****
+#Name# [20]
+再生
+
+#Description# [50]
+活用自我再生能力。回復 999 HP。僅限使用者。
+
+#UseMessage1# [30]
+的傷口正在逐漸癒合……
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry38*****
+#Name# [20]
+恢復活力
+
+#Description# [50]
+治癒盟友單人的各種狀態異常。無法用於復活及解除詛咒。
+
+#UseMessage1# [30]
+吟唱了Refresh！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry39*****
+#Name# [20]
+Reverse
+
+#Description# [50]
+使一名盟友從瀕死狀態完全恢復。
+
+#UseMessage1# [30]
+「Reverse！！」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+Angel Healing
+
+#Description# [50]
+恢復全體盟友的戰鬥不能狀態。
+
+#UseMessage1# [30]
+「Angel Healing！！」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+－－特技－劍技溫德爾
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry42*****
+#Name# [20]
+究極二刀兇星斬
+
+#Description# [50]
+『究極二刀·強勢斬』溫德爾的必殺技。
+
+#UseMessage1# [30]
+施展了究極二刀兇星斬！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry43*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry45*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry46*****
+#Name# [20]
+－－－特技－槍技貝爾
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry47*****
+#Name# [20]
+Weak Shot
+
+#Description# [50]
+精密的槍技。必定命中。對敵方單體有效。
+
+#UseMessage1# [30]
+「躲得掉嗎……？」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry48*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry52*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry53*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry54*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry55*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry56*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry57*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry58*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry59*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry60*****
+#Name# [20]
+－－－－－魔法－特殊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry61*****
+#Name# [20]
+Mobius Hole
+
+#Description# [50]
+瞬間移動到記憶中的地點。
+
+#UseMessage1# [30]
+吟唱了梅比烏斯傳送門！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry62*****
+#Name# [20]
+蟲洞
+
+#Description# [50]
+從迷宮瞬間移動到地圖上。
+
+#UseMessage1# [30]
+吟唱了蟲洞！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry63*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry64*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry65*****
+#Name# [20]
+－－－－－魔法－攻擊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry66*****
+#Name# [20]
+雷文
+
+#Description# [50]
+連星球都能炸飛的強大魔法。
+
+#UseMessage1# [30]
+釋放了雷文！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry67*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry68*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry69*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry70*****
+#Name# [20]
+－－－－－－－敵方招式
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry71*****
+#Name# [20]
+莫克愛國蘇聯擊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+「愛國蘇聯擊！！！」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry72*****
+#Name# [20]
+總統四字固定
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施展了總統四字固定！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry73*****
+#Name# [20]
+總統雙腳折壓固定
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施展了總統雙腳折壓固定！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry74*****
+#Name# [20]
+大統領卍字固
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施展了大統領卍字固！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry75*****
+#Name# [20]
+女王瞬殺五月雨擊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施展了女王瞬殺五月雨擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry76*****
+#Name# [20]
+女王猛虎撲殺擊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施展了女王猛虎撲殺擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry77*****
+#Name# [20]
+拿破崙射擊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施展了拿破崙射擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry78*****
+#Name# [20]
+拿破崙全體射擊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施展了拿破崙全體射擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry79*****
+#Name# [20]
+拿破崙馬踢
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+「吾馬之蹄的威力！」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry80*****
+#Name# [20]
+破壞程式
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+「sncaiufhwbekibcaspdie·······」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry81*****
+#Name# [20]
+究極破壞程式
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+「aazazkowkmcmneronngklkjsd···」
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry82*****
+#Name# [20]
+死哭爆熱衝
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+釋放了死哭爆熱衝！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry83*****
+#Name# [20]
+戮仙神滅陣
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+釋放了戮仙神滅陣！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry84*****
+#Name# [20]
+無想死神拳
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+釋放了無想死神拳！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry85*****
+#Name# [20]
+紳士斬
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+釋放了紳士斬！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry86*****
+#Name# [20]
+淑女踢
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+釋放了淑女踢！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry87*****
+#Name# [20]
+地獄烈火
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+釋放了地獄烈火！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry88*****
+#Name# [20]
+末日審判
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+釋放了末日審判
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry89*****
+#Name# [20]
+怒潮狂瀾
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+釋放了怒潮狂瀾！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry90*****
+#Name# [20]
+－－－－－一般敵人的技能
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry91*****
+#Name# [20]
+盜賊的秘訣
+
+#Description# [50]
+盜賊的秘訣
+
+#UseMessage1# [30]
+施展了盜賊的秘訣！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry92*****
+#Name# [20]
+山賊的秘訣
+
+#Description# [50]
+山賊的秘訣
+
+#UseMessage1# [30]
+施展了山賊的秘訣！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry93*****
+#Name# [20]
+半狂亂斬擊
+
+#Description# [50]
+狂亂的攻擊
+
+#UseMessage1# [30]
+施展了半狂亂斬擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry94*****
+#Name# [20]
+半狂亂重擊
+
+#Description# [50]
+狂亂的攻擊
+
+#UseMessage1# [30]
+施展了半狂亂重擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry95*****
+#Name# [20]
+空手劈擊
+
+#Description# [50]
+空手道風格的劈擊
+
+#UseMessage1# [30]
+施展了空手劈擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry96*****
+#Name# [20]
+空手後腦劈擊
+
+#Description# [50]
+空手道風格的後腦劈擊
+
+#UseMessage1# [30]
+施展了空手後腦劈擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry97*****
+#Name# [20]
+空手空中五段踢
+
+#Description# [50]
+在空中連踢5次的奧義
+
+#UseMessage1# [30]
+施展了空手空中五段踢！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry98*****
+#Name# [20]
+傳說之左
+
+#Description# [50]
+左刺拳
+
+#UseMessage1# [30]
+施展了傳說之左！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry99*****
+#Name# [20]
+閃耀之眼
+
+#Description# [50]
+眼睛發光
+
+#UseMessage1# [30]
+施展了閃耀之眼！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry100*****
+#Name# [20]
+咬住
+
+#Description# [50]
+大口咬下
+
+#UseMessage1# [30]
+施展了咬住！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry101*****
+#Name# [20]
+毒擊
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施展了毒擊！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry102*****
+#Name# [20]
+吸血
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+吸了血！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry103*****
+#Name# [20]
+詛咒
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施放了詛咒！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry104*****
+#Name# [20]
+死神之鐮
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+「引向死亡的邀請……」
+
+#UseMessage2# [50]
+接受它吧……。
+
+
+
+*****Entry105*****
+#Name# [20]
+石化凝視
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施展了石化凝視！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry106*****
+#Name# [20]
+超音波
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+釋放了超聲波！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry107*****
+#Name# [20]
+纏繞
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+施展了纏繞！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry108*****
+#Name# [20]
+針
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+用針刺了過來！
+
+#UseMessage2# [50]
+
+
+

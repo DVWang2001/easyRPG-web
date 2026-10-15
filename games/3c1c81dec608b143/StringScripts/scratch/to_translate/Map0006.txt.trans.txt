@@ -1,0 +1,29 @@
+﻿1. [MARKER: Message] [FACE: Ｆタマ] お花ニャ。
+2. [MARKER: Message] [FACE: Ｆタマ] か～わいい～から
+摘んでくニャ～♪
+3. [MARKER: Message] [FACE: Ｆタマ] ニャっと
+4. [MARKER: Message] [FACE: F鞍春] 妖怪かもしれぬぞ。
+ほれ、べよ～んという音と共に･･･
+5. [MARKER: Message] [FACE: Ｆタマ] ニャ？！　ニャ？！
+6. [MARKER: Message] [FACE: Ｆタマ] ･･････おっ、おどかすニャっ！
+7. [MARKER: Message] [FACE: F鞍春] \.\S[2]･･････
+\S[1]そなた、自分が妖怪だという意識が
+薄いな。
+8. [MARKER: Message] [FACE: Ｆタマ] ほ、ほっといてニャ！
+9. [MARKER: Message] [FACE: Ｆタマ] 狭い通りニャ。
+10. [MARKER: Message] [FACE: F鞍春] 縦に並んで歩けば通れるだろう。
+11. [MARKER: Message] [FACE: Ｆタマ] \.お主先に行ってニャ。
+12. [MARKER: Message] [FACE: Ｆタマ] ゆ、ゆっくり歩いてニャ。
+13. [MARKER: Message] [FACE: F鞍春] \S[2]･･････ん？
+14. [MARKER: Message] [FACE: F鞍春] \.･･････。
+15. [MARKER: Message] [FACE: Ｆタマ] 何ニャ？
+16. [MARKER: Message] [FACE: F鞍春] \.･･･同行メンバーが
+１人増えているようなのだが。
+17. [MARKER: Message] [FACE: Ｆタマ] \.？？？
+18. [MARKER: Message] [FACE: Ｆタマ] \.なんニャ？コレ。
+19. [MARKER: Message] [FACE: Ｆタマ] ブニャ～～～～～～～～～～～～！！！
+20. [MARKER: Message] [FACE: Ｆタマ] ふに。
+21. [MARKER: Message] [FACE: F鞍春] そなた
+\.挟まったり 絡まったり
+巻き付かれたり 忙しいな。
+22. [MARKER: Message] [FACE: Ｆタマ] \.･･････悪かったニャ。

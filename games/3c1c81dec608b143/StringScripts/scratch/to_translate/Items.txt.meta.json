@@ -1,0 +1,223 @@
+{
+    "filepath": "Database/Items.txt",
+    "meta": [
+        {
+            "type": "tag",
+            "line_idx": 2
+        },
+        {
+            "type": "tag",
+            "line_idx": 5
+        },
+        {
+            "type": "tag",
+            "line_idx": 11
+        },
+        {
+            "type": "tag",
+            "line_idx": 14
+        },
+        {
+            "type": "tag",
+            "line_idx": 29
+        },
+        {
+            "type": "tag",
+            "line_idx": 32
+        },
+        {
+            "type": "tag",
+            "line_idx": 38
+        },
+        {
+            "type": "tag",
+            "line_idx": 41
+        },
+        {
+            "type": "tag",
+            "line_idx": 47
+        },
+        {
+            "type": "tag",
+            "line_idx": 50
+        },
+        {
+            "type": "tag",
+            "line_idx": 56
+        },
+        {
+            "type": "tag",
+            "line_idx": 59
+        },
+        {
+            "type": "tag",
+            "line_idx": 65
+        },
+        {
+            "type": "tag",
+            "line_idx": 68
+        },
+        {
+            "type": "tag",
+            "line_idx": 74
+        },
+        {
+            "type": "tag",
+            "line_idx": 83
+        },
+        {
+            "type": "tag",
+            "line_idx": 86
+        },
+        {
+            "type": "tag",
+            "line_idx": 92
+        },
+        {
+            "type": "tag",
+            "line_idx": 95
+        },
+        {
+            "type": "tag",
+            "line_idx": 101
+        },
+        {
+            "type": "tag",
+            "line_idx": 104
+        },
+        {
+            "type": "tag",
+            "line_idx": 110
+        },
+        {
+            "type": "tag",
+            "line_idx": 113
+        },
+        {
+            "type": "tag",
+            "line_idx": 137
+        }
+    ],
+    "items": [
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "刀"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "小型の太刀"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "タマの鍵①"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "タマの守る扉の鍵"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "薬草"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "小さな傷をふさぎ、治療する"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "干し魚"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "タマの好物。"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "真実の鍵②"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "真実が守る扉の鍵"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "花"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "かわいいお花"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "酒"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "気付け薬がわり"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "--------------------"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "延命酒剣豪"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "気付け薬がわり。アルコール度が高く一気に目が覚める"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "お爺の鍵③"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "おジジが守る扉の鍵"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "おにぎり"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "食べて体力回復。でも闘いながら食べるのはムリ"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "鬼の鍵④"
+        },
+        {
+            "face": "NONE",
+            "marker": "Description",
+            "text": "鬼が守る扉の鍵"
+        },
+        {
+            "face": "NONE",
+            "marker": "Name",
+            "text": "--------------------"
+        }
+    ]
+}

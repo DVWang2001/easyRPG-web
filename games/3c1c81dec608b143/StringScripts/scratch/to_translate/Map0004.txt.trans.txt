@@ -1,0 +1,222 @@
+﻿1. [MARKER: Message] [FACE: F鞍春] \.\.･･･どうした？
+2. [MARKER: Message] [FACE: Ｆタマ] この先に
+オイラたちの仲間の妖怪がおるニャ。
+3. [MARKER: Message] [FACE: F鞍春] ･･･そうか。
+
+4. [MARKER: Message] [FACE: F鞍春] ムリに着いてこなくていいぞ
+ポチ。
+5. [MARKER: Message] [FACE: Ｆタマ] タマ･･････\.ニャ。
+6. [MARKER: Message] [FACE: Ｆタマ] そうじゃなくって
+\.･･････結構いい奴ニャ。
+7. [MARKER: Message] [FACE: Ｆタマ] 意外に話がわかる男ニャ。
+8. [MARKER: Message] [FACE: F鞍春] ･･････。
+9. [MARKER: Message] [FACE: Ｆタマ] \.うまく事情を話せば
+もしかしたら
+闘わずにすむかもしれないニャ。
+10. [MARKER: Message] [FACE: Ｆタマ] それか 味方になってくれるかも
+しれんニャ
+11. [MARKER: Message] [FACE: F鞍春] ･･････そうか。
+12. [MARKER: Message] [FACE: Ｆタマ] ただ
+目がう～んと細くてタレとるから
+そこだけ気をつけてニャ。
+13. [MARKER: Message] [FACE: F鞍春] \.･･････わかった。
+14. [MARKER: Message] [FACE: F鞍春] \S[2]･････････････。
+15. [MARKER: Message] [FACE: F鞍春] \S[2]･･････目が細くてタレていると･･･
+\.\S[1]何に気をつけろと？
+16. [MARKER: Message] [FACE: Ｆタマ] 細かいことは気にせずに早く行くニャ。
+17. [MARKER: Message] [FACE: F鞍春] ひょうたん？
+･･････酒か？
+18. [MARKER: Message] [FACE: Ｆタマ] なんで
+酒の入ったひょうたんが
+こんなトコに落ちてるニャ。
+19. [MARKER: Message] [FACE: F鞍春] さぁ･･･
+ここの住人の そなたが知らぬのでは
+私に知りようがないな。
+20. [MARKER: Message] [FACE: Ｆタマ] \.それはそうニャ。
+21. [MARKER: Message] [FACE: F鞍春] 酒なら
+気付け薬代わりになるかもしれぬ。
+･･･持っていくか。
+22. [MARKER: Message] [FACE: Ｆタマ] ？？？
+23. [MARKER: Message] [FACE: F鞍春] ？
+なにをしている。
+24. [MARKER: Message] [FACE: Ｆタマ] はニャ？
+25. [MARKER: Message] [FACE: Ｆタマ] ツタが首に
+絡まっちゃったみたいニャ。
+26. [MARKER: Message] [FACE: Ｆタマ] とっ
+取れないニャっ$e
+27. [MARKER: Message] [FACE: F鞍春] ･･････お主
+挟まったり 絡まったり
+忙しいな。
+28. [MARKER: Message] [FACE: Ｆタマ] ニャ～っ！
+のんきなこと言ってないで
+取ってニャっ！
+29. [MARKER: Message] [FACE: F鞍春] 今　取ってやる。
+少しじっとして･･････
+30. [MARKER: Message] [FACE: F鞍春] ･････････。
+31. [MARKER: Message] [FACE: Ｆタマ] なにニャ？
+32. [MARKER: Message] [FACE: F鞍春] そなたの首に絡まっているのは
+ツタではない。
+33. [MARKER: Message] [FACE: Ｆタマ] ？
+34. [MARKER: Message] [FACE: F鞍春] 蛇だ。
+35. [MARKER: Message] [FACE: Ｆタマ] 蛇？
+36. [MARKER: Message] [FACE: Ｆタマ] ････････････････････････
+\S[2]････････････････････････
+37. [MARKER: Message] [FACE: Ｆタマ] ぶニャ～～～～～～っっっっっっっ！！！
+38. [MARKER: Message] [FACE: Ｆタマ] ゲホゲホっ$e
+39. [MARKER: Message] [FACE: Ｆタマ] あ～
+死ぬかと思ったニャ。
+40. [MARKER: Message] [FACE: F鞍春] やれやれ
+手の掛かる見張りだな。
+41. [MARKER: Message] [FACE: Ｆタマ] 面目ないニャ。
+42. [MARKER: Message] [FACE: F鞍春] 行くぞ。
+43. [MARKER: Message] [FACE: Ｆタマ] ？？？
+44. [MARKER: Message] [FACE: F鞍春] ？
+なにをしている。
+45. [MARKER: Message] [FACE: Ｆタマ] はニャ？
+46. [MARKER: Message] [FACE: Ｆタマ] ツタが首に
+絡まっちゃったみたいニャ。
+47. [MARKER: Message] [FACE: Ｆタマ] とっ
+取れないニャっ$e
+48. [MARKER: Message] [FACE: F鞍春] ･･････お主
+挟まったり 絡まったり
+忙しいな。
+49. [MARKER: Message] [FACE: Ｆタマ] ニャ～っ！
+のんきなこと言ってないで
+取ってニャっ！
+50. [MARKER: Message] [FACE: F鞍春] 今　取ってやる。
+少しじっとして･･････
+51. [MARKER: Message] [FACE: F鞍春] ･････････。
+52. [MARKER: Message] [FACE: Ｆタマ] なにニャ？
+53. [MARKER: Message] [FACE: F鞍春] そなたの首に絡まっているのは
+ツタではない。
+54. [MARKER: Message] [FACE: Ｆタマ] ？
+55. [MARKER: Message] [FACE: F鞍春] \.蛇だ。
+56. [MARKER: Message] [FACE: Ｆタマ] 蛇？
+57. [MARKER: Message] [FACE: Ｆタマ] ････････････････････････
+･･････\S[2]･･････････････････
+58. [MARKER: Message] [FACE: Ｆタマ] ぶニャ～～～～～～っっっっっっっ！！！
+59. [MARKER: Message] [FACE: Ｆタマ] ゲホゲホっ$e
+60. [MARKER: Message] [FACE: Ｆタマ] あ～
+死ぬかと思ったニャ。
+61. [MARKER: Message] [FACE: F鞍春] やれやれ
+手の掛かる見張りだな。
+62. [MARKER: Message] [FACE: Ｆタマ] 面目ないニャ。
+63. [MARKER: Message] [FACE: F鞍春] 行くぞ。
+64. [MARKER: Message] [FACE: Ｆタマ] ･･････くんくん。
+65. [MARKER: Message] [FACE: F鞍春] どうした？
+66. [MARKER: Message] [FACE: Ｆタマ] どっかから
+お酒のニオイがするニャ。
+67. [MARKER: Message] [FACE: F鞍春] 酒？･･･$g
+68. [MARKER: Message] [FACE: Ｆタマ] なんじゃお主、酒好きかニャ。
+69. [MARKER: Message] [FACE: Ｆタマ] つくづく
+見かけによらん奴ニャ。
+70. [MARKER: Message] [FACE: F鞍春] \.それらしきものは
+見あたらぬが。
+71. [MARKER: Message] [FACE: Ｆタマ] へんだニャ？
+72. [MARKER: Message] [FACE: Ｆタマ] ･･････くんくん。
+73. [MARKER: Message] [FACE: F鞍春] どうした？
+74. [MARKER: Message] [FACE: Ｆタマ] どっかから
+お酒のニオイがするニャ。
+75. [MARKER: Message] [FACE: F鞍春] 酒？･･･$g
+76. [MARKER: Message] [FACE: Ｆタマ] なんじゃお主、酒好きかニャ。
+77. [MARKER: Message] [FACE: Ｆタマ] つくづく
+見かけによらん奴ニャ。
+78. [MARKER: Message] [FACE: F鞍春] \.それらしきものは
+見あたらぬが。
+79. [MARKER: Message] [FACE: Ｆタマ] へんだニャ？
+80. [MARKER: Message] [FACE: Ｆタマ] ･･････くんくん。
+81. [MARKER: Message] [FACE: F鞍春] どうした？
+82. [MARKER: Message] [FACE: Ｆタマ] どっかから
+お酒のニオイがするニャ。
+83. [MARKER: Message] [FACE: F鞍春] 酒？･･･$g
+84. [MARKER: Message] [FACE: Ｆタマ] なんじゃお主、酒好きかニャ。
+85. [MARKER: Message] [FACE: Ｆタマ] つくづく
+見かけによらん奴ニャ。
+86. [MARKER: Message] [FACE: F鞍春] \.それらしきものは
+見あたらぬが。
+87. [MARKER: Message] [FACE: Ｆタマ] へんだニャ？
+88. [MARKER: Message] [FACE: Ｆタマ] ･･････くんくん。
+89. [MARKER: Message] [FACE: F鞍春] どうした？
+90. [MARKER: Message] [FACE: Ｆタマ] どっかから
+お酒のニオイがするニャ。
+91. [MARKER: Message] [FACE: F鞍春] 酒？･･･$g
+92. [MARKER: Message] [FACE: Ｆタマ] なんじゃお主、酒好きかニャ。
+93. [MARKER: Message] [FACE: Ｆタマ] つくづく
+見かけによらん奴ニャ。
+94. [MARKER: Message] [FACE: F鞍春] \.それらしきものは
+見あたらぬが。
+95. [MARKER: Message] [FACE: Ｆタマ] へんだニャ？
+96. [MARKER: Message] [FACE: Ｆタマ] ･･････くんくん。
+97. [MARKER: Message] [FACE: F鞍春] どうした？
+98. [MARKER: Message] [FACE: Ｆタマ] どっかから
+お酒のニオイがするニャ。
+99. [MARKER: Message] [FACE: F鞍春] 酒？･･･$g
+100. [MARKER: Message] [FACE: Ｆタマ] なんじゃお主、酒好きかニャ。
+101. [MARKER: Message] [FACE: Ｆタマ] つくづく
+見かけによらん奴ニャ。
+102. [MARKER: Message] [FACE: F鞍春] \.それらしきものは
+見あたらぬが。
+103. [MARKER: Message] [FACE: Ｆタマ] へんだニャ？
+104. [MARKER: Message] [FACE: Ｆタマ] ･･････くんくん。
+105. [MARKER: Message] [FACE: F鞍春] どうした？
+106. [MARKER: Message] [FACE: Ｆタマ] どっかから
+お酒のニオイがするニャ。
+107. [MARKER: Message] [FACE: F鞍春] 酒？･･･$g
+108. [MARKER: Message] [FACE: Ｆタマ] なんじゃお主、酒好きかニャ。
+109. [MARKER: Message] [FACE: Ｆタマ] つくづく
+見かけによらん奴ニャ。
+110. [MARKER: Message] [FACE: F鞍春] \.それらしきものは
+見あたらぬが。
+111. [MARKER: Message] [FACE: Ｆタマ] へんだニャ？
+112. [MARKER: Message] [FACE: F鞍春] \.\.･･･今度はどうした？
+113. [MARKER: Message] [FACE: Ｆタマ] この先に
+オイラたちの仲間の妖怪がおるニャ。
+114. [MARKER: Message] [FACE: F鞍春] ･･･そうか。
+
+115. [MARKER: Message] [FACE: F鞍春] ムリに着いてこなくていいぞ
+ポチ。
+116. [MARKER: Message] [FACE: Ｆタマ] タマ･･････\.ニャ。
+117. [MARKER: Message] [FACE: Ｆタマ] そうじゃなくって
+\.･･････結構いい奴ニャ。
+118. [MARKER: Message] [FACE: Ｆタマ] 意外に話がわかる男ニャ。
+119. [MARKER: Message] [FACE: F鞍春] \.･･････。
+120. [MARKER: Message] [FACE: Ｆタマ] \.うまく事情を話せば
+もしかしたら
+闘わずにすむかもしれないニャ。
+121. [MARKER: Message] [FACE: Ｆタマ] それか 味方になってくれるかも
+しれんニャ
+122. [MARKER: Message] [FACE: F鞍春] ･･････そうか。
+123. [MARKER: Message] [FACE: Ｆタマ] ただ、目が
+\S[3]う～んと\S[1]細くてタレとるから
+そこだけ気をつけてニャ。
+124. [MARKER: Message] [FACE: F鞍春] \.･･････わかった。
+125. [MARKER: Message] [FACE: F鞍春] \S[3]･････････････。
+126. [MARKER: Message] [FACE: F鞍春] \S[2]･･････目が細くてタレていると･･･
+\.\S[1]何に気をつけろと？
+127. [MARKER: Message] [FACE: Ｆタマ] \.細かいことは気にせずに早く行くニャ。
+128. [MARKER: Message] [FACE: F鞍春] \.\.･･･どうした？
+129. [MARKER: Message] [FACE: Ｆタマ] この先に
+オイラたちの仲間の妖怪がおるニャ。
+130. [MARKER: Message] [FACE: F鞍春] ･･･そうか。
+
+131. [MARKER: Message] [FACE: F鞍春] ムリに着いてこなくていいぞ
+ポチ。
+132. [MARKER: Message] [FACE: Ｆタマ] タマ･･････\.ニャ。
+133. [MARKER: Message] [FACE: Ｆタマ] そうじゃなくって
+\.･･････結構いい奴ニャ。
+134. [MARKER: Message] [FACE: Ｆタマ] 意外に話がわかる男ニャ。
+135. [MARKER: Message] [FACE: F鞍春] ･･････。
+136. [MARKER: Message] [FACE: Ｆタマ] \.うまく事情を話せば
+もしかしたら
+闘わずにすむかもしれないニャ。
+137. [MARKER: Message] [FACE: Ｆタマ] それか 味方になってくれるかも
+しれんニャ
+138. [MARKER: Message] [FACE: F鞍春] ･･････そうか。
+139. [MARKER: Message] [FACE: Ｆタマ] ただ
+目がう～んと細くてタレとるから
+そこだけ気をつけてニャ。
+140. [MARKER: Message] [FACE: F鞍春] ･･････わかった。
+141. [MARKER: Message] [FACE: F鞍春] \S[2]･････････････。
+142. [MARKER: Message] [FACE: F鞍春] \S[2]･･････目が細くてタレていると･･･
+\.\S[1]何に気をつけろと？
+143. [MARKER: Message] [FACE: Ｆタマ] 細かいことは気にせずに早く行くニャ。

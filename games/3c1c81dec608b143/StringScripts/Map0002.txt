@@ -1,0 +1,1026 @@
+﻿**********Event1**********
+-----Page1-----
+#Message#
+\.哼哼哼哼～哼～$a
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.…咦喵？$d
+##
+
+
+#Message#
+\.糟了…
+\.尾巴被夾住了喵$e
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+？
+##
+
+
+#Message#
+……什麼人？
+\.有人在嗎？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.哎呀。拔不出來喵$e$e$e
+##
+
+
+#Message#
+喵～！
+##
+
+
+#Message#
+尾巴
+被陷阱夾住了喵～！$e
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.……尾巴？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Erase }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+唔喵～！$e
+啊喵～！$e
+##
+
+
+#Message#
+\S[3]………………。
+##
+
+
+#Message#
+誰來幫我解開喵～～～！$e
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.等一下。
+##
+
+
+#Message#
+在這種黑暗中，
+我連你在哪裡
+都看不清楚。
+##
+
+
+#Message#
+我這就點亮燈火。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+喵？
+##
+
+
+#Message#
+怎麼突然變亮了…
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\S[2]……………。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\S[2]……………。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\S[2]………………………。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.？　\.…你 是誰喵？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\S[2]……………
+##
+
+
+#Message#
+\S[3]……………\.狸貓？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.狸…
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.才不是狸貓喵！是貓喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\S[2]會說話的貓嗎……\.是妖貓吧。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+我是妖貓還真是對不起喔喵$n
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+喵、喵！
+\.不、不要靠近我喵！$e
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.你剛才不是說
+尾巴被陷阱夾住了嗎？
+##
+
+
+#Message#
+\.我來幫你把陷阱解開，
+轉過身去。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.多管閒事喵！
+##
+
+
+#Message#
+\.就算不求你這種傢伙，
+我自己也能解開喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.但你剛才在黑暗中
+##
+
+
+#Message#
+\.\S[2]「誰來幫我解開喵～～～！$e」
+\S[1]我可是聽得一清二楚？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.唔唔…$n
+\.被聽到了喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.這恐是村裡的獵人
+為了捕獲獵物
+而設下的陷阱吧。
+##
+
+
+#Message#
+\.要是被他們看見
+有隻妖貓被困在這裡，
+你免不了要挨一頓毒打。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.才不是喵。
+##
+
+
+#Message#
+\.這個陷阱是
+為了對付像你這樣從外面來的
+可疑人類
+##
+
+
+#Message#
+本喵自己設下的陷阱喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[3]……………。
+##
+
+
+#Message#
+\.原來如此。
+\.也就是說，你掉進了自己設的
+陷阱裡了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+啊。
+##
+
+
+#Message#
+本喵居然自己說溜嘴，
+招供了自己掉進自己陷阱的蠢事喵$e
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.　$d
+##
+
+
+#Message#
+\.…算了。
+##
+
+
+#Message#
+轉過去。
+我幫你把陷阱解開。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+你、你、你嘴上這麼說…
+##
+
+
+#Message#
+其實是想趁本喵轉過去的時候
+把我幹掉喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.放心吧。
+我可沒有那麼閒。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 4, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+我不要喵～！
+誰來救救我喵～！$e
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+向後……轉。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+（轉身）
+##
+
+
+#Message#
+咦、咦？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+別亂動。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+唉～
+\.看來本喵命不久矣喵…
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\.……………$d
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.不過，反正都要死了
+##
+
+
+#Message#
+至少在那之前，
+本喵真想吃一次
+有頭有尾的整條鯛魚喵…
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+解開了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 6, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+對喵。
+真想試一次
+那個叫做貓薄荷的東西喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+…………。
+解開了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.\S[2]………………。
+##
+
+
+#Message#
+哈喵？
+我還活著喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+廢話。
+##
+
+
+#Message#
+我可沒有
+吃妖貓的愛好。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.我、我才不會跟你道謝喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.無妨。
+##
+
+
+#Message#
+\.反正被妖貓道謝，
+我高興不起來。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+剛才那句話，
+真是讓人火大喵$n
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+話、話說回來你這傢伙
+##
+
+
+#Message#
+來這種深山野嶺的洞窟
+有什麼事喵？
+##
+
+
+#Message#
+看起來，
+\.明明是個男的卻像女人一樣纖細，
+\.而且還救了本喵這隻妖貓。
+##
+
+
+#Message#
+你該不會是為了錢，
+從村裡的人那裡接下
+「除妖」差事才來的喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.我沒打算來除妖。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.這種洞窟裡
+可不會長山菜喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.話雖如此，但也沒人說
+我是來採山菜的$d
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+那你是來做什麼的喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.嗯，其實
+##
+
+
+#Message#
+\.上個月被妖怪擄走、
+下落不明的
+羽村公主的…
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……
+那種公主，這裡根本沒有喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.沒有也無妨。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.喵？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.尋找公主…\.只是個藉口，
+其實我是來見「狐狸」的。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.狐狸？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.這洞窟的某處，
+應該有化為人形的狐狸在吧。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.狐狸公主的話，就在這深處的…
+\S[2]………………………
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]………………………
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.不在喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]………………。
+##
+
+
+#Message#
+\.這深處…\S[2]……………
+\.不在嗎？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.…呃
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+真是個不會說謊的妖貓。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.要、\.要你管喵！$e
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+罷了。
+我自己進去找就是。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+等、等等喵！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.幹嘛？我趕時間。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.你找狐狸公主有什麼事喵？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]……………\S[1]只是有些話要說。
+\.說完我就會立刻離開。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.公主說過她誰也不想見喵。
+##
+
+
+#Message#
+\.所以我們才會
+像這樣在這裡守著門喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.「我們」……………
+##
+
+
+#Message#
+\.這樣啊。
+##
+
+
+#Message#
+\.也就是說，還有其他守門的妖怪在吧。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.沒錯喵。
+##
+
+
+#Message#
+\.一路上
+可是有許多超～恐怖的妖怪喵。
+##
+
+
+#Message#
+\.如果對自己的身手沒有自信，
+有幾條命都不夠用喵。
+##
+
+
+#Message#
+雖然你變怎樣都跟本喵無關，
+##
+
+
+#Message#
+\.但看在你幫忙解開陷阱的份上，
+姑且還是警告你一下喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……我知道了。
+##
+
+
+#Message#
+雖然看著你，
+實在很難想像這裡會有很多恐怖的妖怪就是了…
+##
+
+
+#Message#
+\.不過你的勸告，我收下了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+那就好喵。
+##
+
+
+#Message#
+既然決定了，
+那就快點走吧喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]……你說快點走，
+##
+
+
+#Message#
+\.難道你也要一起去嗎？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+那當然喵。
+本喵得監視你，
+免得你對公主做什麼非禮的事喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 3, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\.還是說怎麼樣？
+本喵跟著你，
+有什麼不方便的嗎喵？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]……沒事$d
+##
+
+
+#Message#
+…罷了，\.多一隻狸貓
+想必也不會礙什麼事。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+既然說好了，
+來，出發喵……
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+\S[2]……不對！\S[1]都說了
+本喵不是狸貓是貓喵！
+##
+
+
+
+
+**********Event4**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+已經什麼都沒有了喵。
+看你長得這副模樣，沒想到還挺貪心的喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+…………。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+有了那把鑰匙，
+總之，第一道門就能打開了喵。
+##
+
+
+
+
+**********Event5**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+那邊的紅色包裹裡
+應該放著鑰匙喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+這裡是本喵的房間喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+我對狸貓的房間沒興趣。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+等等喵。
+那邊的紅色包裹裡，
+放著可以開入口大門的鑰匙喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……都說了是貓啦喵！
+##
+
+
+
+
+**********Event9**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+用剛才的鑰匙應該能打開喵。
+呃，鑰匙孔、鑰匙孔…有了！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+看來打開了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+鑰匙在本喵的房間裡喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+用剛才的鑰匙應該能打開喵。
+呃，鑰匙孔、鑰匙孔…有了！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+看來打開了。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+咦？打不開喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+…看來這裡有個鑰匙孔。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+啊，對喔喵。
+沒有鑰匙的話是打不開的喵。
+##
+
+
+#Message#
+這裡的鑰匙，
+就在剛才入口右邊
+本喵的房間裡喵。
+##
+
+
+
+
+**********Event10**********
+-----Page1-----
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+那邊的紅色包裹裡
+應該有鑰匙喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+這裡是本喵的房間喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: F鞍春, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+我對狸貓的房間沒興趣。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+等等喵。
+那邊的紅色包裹裡，
+放著可以開入口大門的鑰匙喵。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: Ｆタマ, 2, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+……都說了不是狸貓是貓喵！
+##
+
+
+
+

@@ -1,0 +1,2528 @@
+﻿*****Entry1*****
+#Name# [20]
+■現實的物品■
+
+#Description# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+傑德的衣服
+
+#Description# [50]
+傑德最喜歡的衣服
+
+
+
+*****Entry3*****
+#Name# [20]
+貝莉露的衣服
+
+#Description# [50]
+貝莉露最喜歡的衣服
+
+
+
+*****Entry4*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+俏皮的帽子
+
+#Description# [50]
+俏皮的帽子
+
+
+
+*****Entry7*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+神靈治療指南
+
+#Description# [50]
+艾瑪寫的神靈治療指南
+
+
+
+*****Entry11*****
+#Name# [20]
+口罩
+
+#Description# [50]
+抑制眠草效果的口罩
+
+
+
+*****Entry12*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+長袍
+
+#Description# [50]
+帕帕拉恰的長袍
+
+
+
+*****Entry14*****
+#Name# [20]
+薩普的衣服
+
+#Description# [50]
+薩普的衣服
+
+
+
+*****Entry15*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry27*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry33*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry34*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry35*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry37*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry38*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry39*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry42*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry43*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry45*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry46*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry47*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry48*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+■阿蓋特夢中物品
+
+#Description# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry52*****
+#Name# [20]
+藥草
+
+#Description# [50]
+恢復 30 點 HP
+
+
+
+*****Entry53*****
+#Name# [20]
+勇者的照片
+
+#Description# [50]
+勇者阿蓋特的親筆簽名照片
+
+
+
+*****Entry54*****
+#Name# [20]
+哥布林的棍棒
+
+#Description# [50]
+哥布林的棍棒。命中率 90%
+
+
+
+*****Entry55*****
+#Name# [20]
+殭屍的衣服
+
+#Description# [50]
+骯髒的殭屍服
+
+
+
+*****Entry56*****
+#Name# [20]
+飛龍的爪子
+
+#Description# [50]
+飛龍的爪子。聽說能賣高價
+
+
+
+*****Entry57*****
+#Name# [20]
+蝙蝠的糞便
+
+#Description# [50]
+蝙蝠的糞便。聽說可以用於魔法
+
+
+
+*****Entry58*****
+#Name# [20]
+黯淡的寶石
+
+#Description# [50]
+廉價的寶石
+
+
+
+*****Entry59*****
+#Name# [20]
+閃亮的寶石
+
+#Description# [50]
+挺值錢的寶石
+
+
+
+*****Entry60*****
+#Name# [20]
+女僕裝
+
+#Description# [50]
+艾瑪府邸的女僕裝
+
+
+
+*****Entry61*****
+#Name# [20]
+銀匕首
+
+#Description# [50]
+高級匕首
+
+
+
+*****Entry62*****
+#Name# [20]
+銀托盤
+
+#Description# [50]
+高級托盤
+
+
+
+*****Entry63*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry64*****
+#Name# [20]
+廢鐵
+
+#Description# [50]
+廢鐵。會有什麼用處嗎？
+
+
+
+*****Entry65*****
+#Name# [20]
+速度之星
+
+#Description# [50]
+可進行全體攻擊的劍
+
+
+
+*****Entry66*****
+#Name# [20]
+鋒利的匕首
+
+#Description# [50]
+比普通匕首稍微鋒利一些
+
+
+
+*****Entry67*****
+#Name# [20]
+戰士之劍
+
+#Description# [50]
+正式戰鬥用的劍
+
+
+
+*****Entry68*****
+#Name# [20]
+結實的衣服
+
+#Description# [50]
+結實的衣服
+
+
+
+*****Entry69*****
+#Name# [20]
+皮甲
+
+#Description# [50]
+皮革製的輕便護甲
+
+
+
+*****Entry70*****
+#Name# [20]
+精神活性劑
+
+#Description# [50]
+恢復 30 點 MP
+
+
+
+*****Entry71*****
+#Name# [20]
+超級藥水
+
+#Description# [50]
+從戰鬥不能狀態中恢復，並全額恢復 HP
+
+
+
+*****Entry72*****
+#Name# [20]
+火焰炸彈
+
+#Description# [50]
+向全體敵人灑下火焰的炸彈
+
+
+
+*****Entry73*****
+#Name# [20]
+閃光的鱗片
+
+#Description# [50]
+魚人的鱗片
+
+
+
+*****Entry74*****
+#Name# [20]
+閃光的鱗片＋
+
+#Description# [50]
+魚人的鱗片。稍微有點大
+
+
+
+*****Entry75*****
+#Name# [20]
+閃光的鱗片＋＋
+
+#Description# [50]
+魚人的鱗片。非常大
+
+
+
+*****Entry76*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry77*****
+#Name# [20]
+解毒草
+
+#Description# [50]
+治療中毒狀態
+
+
+
+*****Entry78*****
+#Name# [20]
+甦醒藥
+
+#Description# [50]
+從戰鬥不能狀態中恢復。並恢復 20 點 HP
+
+
+
+*****Entry79*****
+#Name# [20]
+女僕的便籤
+
+#Description# [50]
+在女僕房間裡發現的便籤
+
+
+
+*****Entry80*****
+#Name# [20]
+命運的立方體
+
+#Description# [50]
+絕對要、在使用前先進行存檔！
+
+
+
+*****Entry81*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry82*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry83*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry84*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry85*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry86*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry87*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry88*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry89*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry90*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry91*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry92*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry93*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry94*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry95*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry96*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry97*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry98*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry99*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry100*****
+#Name# [20]
+■雙方的物品■
+
+#Description# [50]
+班經常喝的酒
+
+
+
+*****Entry101*****
+#Name# [20]
+卡涅莉雅的戒指
+
+#Description# [50]
+封印著卡涅莉雅的戒指
+
+
+
+*****Entry102*****
+#Name# [20]
+黑瑪瑙耳環（右
+
+#Description# [50]
+可在夢境世界與現實世界通訊的道具
+
+
+
+*****Entry103*****
+#Name# [20]
+黑瑪瑙耳環（左
+
+#Description# [50]
+可在夢境世界與現實世界通訊的道具
+
+
+
+*****Entry104*****
+#Name# [20]
+黑瑪瑙耳環（右
+
+#Description# [50]
+可在夢境世界與現實世界通訊的道具
+
+
+
+*****Entry105*****
+#Name# [20]
+魔法卡
+
+#Description# [50]
+能帶入夢境世界的魔法卡。
+
+
+
+*****Entry106*****
+#Name# [20]
+魔法卡
+
+#Description# [50]
+能帶入夢境世界的魔法卡。
+
+
+
+*****Entry107*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry108*****
+#Name# [20]
+黃玉耳環（右
+
+#Description# [50]
+可在夢境世界與現實世界通訊的道具
+
+
+
+*****Entry109*****
+#Name# [20]
+黃玉耳環（左
+
+#Description# [50]
+可在夢境世界與現實世界通訊的道具
+
+
+
+*****Entry110*****
+#Name# [20]
+黃玉耳環（右
+
+#Description# [50]
+可在夢境世界與現實世界通訊的道具
+
+
+
+*****Entry111*****
+#Name# [20]
+黃玉耳環 右2
+
+#Description# [50]
+可在夢境世界與現實世界通訊的道具
+
+
+
+*****Entry112*****
+#Name# [20]
+黑瑪瑙耳環（左
+
+#Description# [50]
+可在夢境世界與現實世界通訊的道具
+
+
+
+*****Entry113*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry114*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry115*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry116*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry117*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry118*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry119*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry120*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry121*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry122*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry123*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry124*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry125*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry126*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry127*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry128*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry129*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry130*****
+#Name# [20]
+■羅絲與迦蕾特夢中物品
+
+#Description# [50]
+
+
+
+
+*****Entry131*****
+#Name# [20]
+發光苔蘚
+
+#Description# [50]
+恢復 30 點 HP
+
+
+
+*****Entry132*****
+#Name# [20]
+羅絲的衣服
+
+#Description# [50]
+羅絲的衣服
+
+
+
+*****Entry133*****
+#Name# [20]
+寶箱
+
+#Description# [50]
+不知道裡面裝了什麼，沉甸甸的寶箱
+
+
+
+*****Entry134*****
+#Name# [20]
+金鑰匙
+
+#Description# [50]
+某個鑰匙。上面有著精緻裝飾。
+
+
+
+*****Entry135*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry136*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry137*****
+#Name# [20]
+迦蕾特的衣服
+
+#Description# [50]
+迦蕾特的衣服
+
+
+
+*****Entry138*****
+#Name# [20]
+哥布林的棍棒＋
+
+#Description# [50]
+哥布林的棍棒。命中率 90%，帶有尖刺
+
+
+
+*****Entry139*****
+#Name# [20]
+獸人的戰斧
+
+#Description# [50]
+獸人的斧頭。命中率 90%
+
+
+
+*****Entry140*****
+#Name# [20]
+蝙蝠的耳朵
+
+#Description# [50]
+蝙蝠的耳朵
+
+
+
+*****Entry141*****
+#Name# [20]
+閃光的鱗片＋＋
+
+#Description# [50]
+魚人的鱗片。非常大
+
+
+
+*****Entry142*****
+#Name# [20]
+殭屍的衣服
+
+#Description# [50]
+骯髒的殭屍服
+
+
+
+*****Entry143*****
+#Name# [20]
+漂亮的禮服
+
+#Description# [50]
+時尚又漂亮的禮服
+
+
+
+*****Entry144*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry145*****
+#Name# [20]
+藥草
+
+#Description# [50]
+恢復 30 點 HP
+
+
+
+*****Entry146*****
+#Name# [20]
+藥水
+
+#Description# [50]
+恢復 80 點 HP
+
+
+
+*****Entry147*****
+#Name# [20]
+精神煥發劑
+
+#Description# [50]
+全體隊友全額恢復
+
+
+
+*****Entry148*****
+#Name# [20]
+解毒草
+
+#Description# [50]
+治療中毒狀態
+
+
+
+*****Entry149*****
+#Name# [20]
+甦醒藥
+
+#Description# [50]
+從戰鬥不能狀態中恢復。並恢復 20 點 HP
+
+
+
+*****Entry150*****
+#Name# [20]
+蘋果
+
+#Description# [50]
+恢復 10 點 HP
+
+
+
+*****Entry151*****
+#Name# [20]
+蜜柑
+
+#Description# [50]
+恢復 10 點 HP
+
+
+
+*****Entry152*****
+#Name# [20]
+哈密瓜
+
+#Description# [50]
+恢復 10 點 HP
+
+
+
+*****Entry153*****
+#Name# [20]
+盜賊的道具箱
+
+#Description# [50]
+小偷使用的道具套組
+
+
+
+*****Entry154*****
+#Name# [20]
+繩子
+
+#Description# [50]
+在昆齊特床底下發現的繩子
+
+
+
+*****Entry155*****
+#Name# [20]
+精神活性劑
+
+#Description# [50]
+恢復 30 點 MP
+
+
+
+*****Entry156*****
+#Name# [20]
+蘋果汁
+
+#Description# [50]
+恢復 10 點 HP
+
+
+
+*****Entry157*****
+#Name# [20]
+葡萄汁
+
+#Description# [50]
+恢復 10 點 HP
+
+
+
+*****Entry158*****
+#Name# [20]
+香蕉汁
+
+#Description# [50]
+恢復 10 點 HP
+
+
+
+*****Entry159*****
+#Name# [20]
+盜賊的鑰匙
+
+#Description# [50]
+從盜賊頭目那裡得到的鑰匙。
+
+
+
+*****Entry160*****
+#Name# [20]
+悟道之室的鑰匙
+
+#Description# [50]
+進入悟道之室用的鑰匙。
+
+
+
+*****Entry161*****
+#Name# [20]
+鋒利的匕首
+
+#Description# [50]
+比普通匕首稍微鋒利一些
+
+
+
+*****Entry162*****
+#Name# [20]
+戰士之劍
+
+#Description# [50]
+正式戰鬥用的劍
+
+
+
+*****Entry163*****
+#Name# [20]
+結實的衣服
+
+#Description# [50]
+結實的衣服
+
+
+
+*****Entry164*****
+#Name# [20]
+皮甲
+
+#Description# [50]
+皮革製的輕便護甲
+
+
+
+*****Entry165*****
+#Name# [20]
+晨星錘
+
+#Description# [50]
+鐵球
+
+
+
+*****Entry166*****
+#Name# [20]
+速度之戒
+
+#Description# [50]
+提升敏捷度的戒指
+
+
+
+*****Entry167*****
+#Name# [20]
+皮帽
+
+#Description# [50]
+皮革製的帽子
+
+
+
+*****Entry168*****
+#Name# [20]
+戰斧
+
+#Description# [50]
+雙手持的斧頭。
+
+
+
+*****Entry169*****
+#Name# [20]
+紅花
+
+#Description# [50]
+因為是黑白畫面所以不太清楚，但大概是紅色的花
+
+
+
+*****Entry170*****
+#Name# [20]
+白花
+
+#Description# [50]
+因為是黑白畫面所以不太清楚，但大概是白色的花
+
+
+
+*****Entry171*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry172*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry173*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry174*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry175*****
+#Name# [20]
+戰士之劍
+
+#Description# [50]
+正式戰鬥用的劍
+
+
+
+*****Entry176*****
+#Name# [20]
+鋒利的匕首
+
+#Description# [50]
+比普通匕首稍微鋒利一些
+
+
+
+*****Entry177*****
+#Name# [20]
+鐵拳
+
+#Description# [50]
+鐵拳
+
+
+
+*****Entry178*****
+#Name# [20]
+晨星錘
+
+#Description# [50]
+鐵球
+
+
+
+*****Entry179*****
+#Name# [20]
+結實的衣服
+
+#Description# [50]
+結實的衣服
+
+
+
+*****Entry180*****
+#Name# [20]
+皮甲
+
+#Description# [50]
+皮革製的輕便護甲
+
+
+
+*****Entry181*****
+#Name# [20]
+進階藥水
+
+#Description# [50]
+恢復 200 點 HP
+
+
+
+*****Entry182*****
+#Name# [20]
+雞頭
+
+#Description# [50]
+如字面意思，是雞的斷頭
+
+
+
+*****Entry183*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry184*****
+#Name# [20]
+神聖披風
+
+#Description# [50]
+用聖泉淨化過的披風
+
+
+
+*****Entry185*****
+#Name# [20]
+賢者寶冠
+
+#Description# [50]
+據說只有賢者才被允許戴上的寶冠
+
+
+
+*****Entry186*****
+#Name# [20]
+神聖鎧甲
+
+#Description# [50]
+用聖泉淨化過的鎧甲
+
+
+
+*****Entry187*****
+#Name# [20]
+疾風之劍
+
+#Description# [50]
+可連續攻擊 2 次的劍
+
+
+
+*****Entry188*****
+#Name# [20]
+最後之劍
+
+#Description# [50]
+雖然不知道為什麼是最後，但非常強力的劍
+
+
+
+*****Entry189*****
+#Name# [20]
+精靈之露
+
+#Description# [50]
+恢復精靈 30 點 MP
+
+
+
+*****Entry190*****
+#Name# [20]
+鐵爪
+
+#Description# [50]
+鐵製的爪子
+
+
+
+*****Entry191*****
+#Name# [20]
+鬥犬首輪
+
+#Description# [50]
+鬥犬戴的、帶有尖刺的頸圈
+
+
+
+*****Entry192*****
+#Name# [20]
+黃金爪
+
+#Description# [50]
+黃金爪
+
+
+
+*****Entry193*****
+#Name# [20]
+勇者之劍
+
+#Description# [50]
+
+
+
+
+*****Entry194*****
+#Name# [20]
+黃金膠囊
+
+#Description# [50]
+似乎是挺好用的東西
+
+
+
+*****Entry195*****
+#Name# [20]
+巨龍的咆哮
+
+#Description# [50]
+用龍鱗製作的最強鎧甲
+
+
+
+*****Entry196*****
+#Name# [20]
+精靈強化裝置
+
+#Description# [50]
+大幅提升精靈的能力
+
+
+
+*****Entry197*****
+#Name# [20]
+魔神劍
+
+#Description# [50]
+能像魔神一般發動攻擊的劍
+
+
+
+*****Entry198*****
+#Name# [20]
+烈焰爪
+
+#Description# [50]
+烈焰爪
+
+
+
+*****Entry199*****
+#Name# [20]
+聖者寶冠
+
+#Description# [50]
+聖者寶冠
+
+
+
+*****Entry200*****
+#Name# [20]
+■卡片■
+
+#Description# [50]
+
+
+
+
+*****Entry201*****
+#Name# [20]
+火球術
+
+#Description# [50]
+對單個敵人造成約 50 點炎屬性傷害
+
+
+
+*****Entry202*****
+#Name# [20]
+火焰之牆
+
+#Description# [50]
+對全體敵人造成 30 點炎屬性傷害
+
+
+
+*****Entry203*****
+#Name# [20]
+毒術
+
+#Description# [50]
+對全體敵人造成約 20 點傷害＋中毒狀態
+
+
+
+*****Entry204*****
+#Name# [20]
+治療術 II
+
+#Description# [50]
+恢復單個隊友 60 點 HP
+
+
+
+*****Entry205*****
+#Name# [20]
+治癒之風
+
+#Description# [50]
+恢復全體隊友 30 點 HP
+
+
+
+*****Entry206*****
+#Name# [20]
+治療術 III
+
+#Description# [50]
+恢復單個隊友 100 點 HP
+
+
+
+*****Entry207*****
+#Name# [20]
+神聖力量
+
+#Description# [50]
+借助神聖力量提升戰鬥力
+
+
+
+*****Entry208*****
+#Name# [20]
+雷電術
+
+#Description# [50]
+對單個敵人造成約 35 點雷屬性傷害
+
+
+
+*****Entry209*****
+#Name# [20]
+雷暴術
+
+#Description# [50]
+對全體敵人造成約 20 點雷屬性傷害
+
+
+
+*****Entry210*****
+#Name# [20]
+大霹靂
+
+#Description# [50]
+對全體敵人造成約 60 點無屬性傷害
+
+
+
+*****Entry211*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry212*****
+#Name# [20]
+哭泣道歉
+
+#Description# [50]
+降低敵人的防禦力
+
+
+
+*****Entry213*****
+#Name# [20]
+頂嘴
+
+#Description# [50]
+提升自己的防禦力
+
+
+
+*****Entry214*****
+#Name# [20]
+碎石術
+
+#Description# [50]
+用碎石砸向全體敵人
+
+
+
+*****Entry215*****
+#Name# [20]
+女僕的關懷
+
+#Description# [50]
+藉由關懷提升戰鬥力
+
+
+
+*****Entry216*****
+#Name# [20]
+蓄氣
+
+#Description# [50]
+蓄氣使攻擊力提升約 10 點
+
+
+
+*****Entry217*****
+#Name# [20]
+氣功波
+
+#Description# [50]
+將氣砸向單個敵人的鬥技
+
+
+
+*****Entry218*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry219*****
+#Name# [20]
+兌換券
+
+#Description# [50]
+像是魔法卡，但不知道是用來做什麼的
+
+
+
+*****Entry220*****
+#Name# [20]
+勇者的光輝
+
+#Description# [50]
+恢復全體隊友 60 點 HP，治療所有異常狀態
+
+
+
+*****Entry221*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry222*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry223*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry224*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry225*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry226*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry227*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry228*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry229*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry230*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry231*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry232*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry233*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry234*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry235*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry236*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry237*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry238*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry239*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry240*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry241*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry242*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry243*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry244*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry245*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry246*****
+#Name# [20]
+鐵鑰匙
+
+#Description# [50]
+開啟通往神之山的洞窟之門的鑰匙
+
+
+
+*****Entry247*****
+#Name# [20]
+回歸草
+
+#Description# [50]
+瞬間回到女僕所在的地方
+
+
+
+*****Entry248*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry249*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry250*****
+#Name# [20]
+■邁亞夢境道具■
+
+#Description# [50]
+
+
+
+
+*****Entry251*****
+#Name# [20]
+紅色果實
+
+#Description# [50]
+在無人島摘到的紅色果實。挺好吃的。
+
+
+
+*****Entry252*****
+#Name# [20]
+柴火
+
+#Description# [50]
+柴火。生火時用來燃燒
+
+
+
+*****Entry253*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry254*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry255*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry256*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry257*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry258*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry259*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry260*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry261*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry262*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry263*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry264*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry265*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry266*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry267*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry268*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry269*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry270*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry271*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry272*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry273*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry274*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry275*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry276*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry277*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry278*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry279*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry280*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry281*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+

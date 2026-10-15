@@ -1,0 +1,2459 @@
+﻿*****Entry1*****
+#Name# [20]
+思念波
+
+#Description# [50]
+思念の波を敵単体にぶつける
+
+#UseMessage1# [30]
+は思念波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+拡散波
+
+#Description# [50]
+思念の波を敵全体にぶつける
+
+#UseMessage1# [30]
+は拡散波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+強念波
+
+#Description# [50]
+強力な思念の波を敵単体にぶつける
+
+#UseMessage1# [30]
+は強念波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+強拡散波
+
+#Description# [50]
+強力な思念の波を敵全体にぶつける
+
+#UseMessage1# [30]
+は強拡散波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+超念波
+
+#Description# [50]
+超強力な思念の波を敵単体にぶつける
+
+#UseMessage1# [30]
+は超念波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+超拡散波
+
+#Description# [50]
+超強力な思念の波を敵全体にぶつける
+
+#UseMessage1# [30]
+は超拡散波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+究極念波
+
+#Description# [50]
+何やら究極らしい
+
+#UseMessage1# [30]
+は究極魔法を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+思念体修復
+
+#Description# [50]
+ＨＰを約３０回復
+
+#UseMessage1# [30]
+は思念体修復を行なった！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+思念体操作
+
+#Description# [50]
+思念体を強化する。ＨＰや攻撃力をアップさせる。
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+超思念体修復
+
+#Description# [50]
+ＨＰを約８０回復
+
+#UseMessage1# [30]
+は思念体修復を行なった！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+念防御
+
+#Description# [50]
+味方全員の魔法攻撃に対する防御力をアップする
+
+#UseMessage1# [30]
+は念防御を使った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+文章表示枠の濃度設定
+
+#Description# [50]
+文章表示枠の濃度を設定する
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+思念体強化（攻
+
+#Description# [50]
+使用者の攻撃力を一時的にアップする
+
+#UseMessage1# [30]
+は攻撃力を強化した！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+思念体強化（防
+
+#Description# [50]
+使用者の防御力を一時的にアップする
+
+#UseMessage1# [30]
+は防御力を強化した！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+思念体強化（速
+
+#Description# [50]
+使用者の敏捷性を一時的にアップする
+
+#UseMessage1# [30]
+は敏捷性を強化した！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+水鉄砲
+
+#Description# [50]
+水鉄砲を敵単体にぶつける
+
+#UseMessage1# [30]
+は水鉄砲を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+毒の爪
+
+#Description# [50]
+敵単体にダメージ。麻痺状態にする。
+
+#UseMessage1# [30]
+が毒の爪を振るう！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+炎のブレス
+
+#Description# [50]
+炎のブレスで敵全体にダメージ
+
+#UseMessage1# [30]
+は炎のブレスを吐いた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+吸血
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は血を吸った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+石のつぶて
+
+#Description# [50]
+敵全体に石をぶつける
+
+#UseMessage1# [30]
+は石のつぶてを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+まぶしい光
+
+#Description# [50]
+敵全体を混乱させる
+
+#UseMessage1# [30]
+はまぶしい光を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+水鉄砲＋
+
+#Description# [50]
+水鉄砲を敵単体にぶつける
+
+#UseMessage1# [30]
+は水鉄砲＋を放った！
+
+#UseMessage2# [50]
+息子の水鉄砲とは、一味違う！
+
+
+
+*****Entry27*****
+#Name# [20]
+ハイドロポンプ
+
+#Description# [50]
+水鉄砲を敵全体にぶつける
+
+#UseMessage1# [30]
+はハイドロポンプを放った！
+
+#UseMessage2# [50]
+先祖伝来の秘術！　受けるがいい！！
+
+
+
+*****Entry28*****
+#Name# [20]
+のしかかり
+
+#Description# [50]
+のしかかって、押しつぶす
+
+#UseMessage1# [30]
+はのしかかった！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+水の癒し
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は水の癒しを使った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+ファイヤーボム
+
+#Description# [50]
+敵全体に炎をあびせる
+
+#UseMessage1# [30]
+はファイヤーボムを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+悲しい雄叫び
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は悲しい雄叫びをあげた！
+
+#UseMessage2# [50]
+うおぉぉぉぉぉぉぉぉ！！！
+
+
+
+*****Entry32*****
+#Name# [20]
+頭を抱える
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は頭を抱えている！
+
+#UseMessage2# [50]
+うぉぉぉぉ！！！
+
+
+
+*****Entry33*****
+#Name# [20]
+あやまりながら殴る
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はあやまりながら殴りかかった！
+
+#UseMessage2# [50]
+ごめんよぉぉぉぉぉ！
+
+
+
+*****Entry34*****
+#Name# [20]
+メイドの気配り
+
+#Description# [50]
+メイドの気配りで、戦闘力アップ
+
+#UseMessage1# [30]
+はメイドの気配りを見せた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry35*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+ファイア
+
+#Description# [50]
+敵単体に炎属性のダメージを与える。
+
+#UseMessage1# [30]
+はファイアを唱えた！
+
+#UseMessage2# [50]
+ケケケッ！　モエロ、モエロ！
+
+
+
+*****Entry37*****
+#Name# [20]
+サンダー
+
+#Description# [50]
+敵単体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はサンダーを唱えた！
+
+#UseMessage2# [50]
+雷光召喚！！！！
+
+
+
+*****Entry38*****
+#Name# [20]
+メテオ
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はメテオを唱えた！
+
+#UseMessage2# [50]
+エマ様に逆らう者は、みんな死ねばいい！
+
+
+
+*****Entry39*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+炎の息
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は炎の息を吐いた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry42*****
+#Name# [20]
+誘惑の歌
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は誘惑の歌を歌った！
+
+#UseMessage2# [50]
+これであなたは、私の虜よ！
+
+
+
+*****Entry43*****
+#Name# [20]
+癒しの歌
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は癒しの歌を歌った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+夢喰い
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はアゲードの夢を貪り喰った！
+
+#UseMessage2# [50]
+ウマ、ウマ……
+
+
+
+*****Entry45*****
+#Name# [20]
+悪夢
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は悪夢を吐き出した！
+
+#UseMessage2# [50]
+ゲロゲロ……
+
+
+
+*****Entry46*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry47*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry48*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+泣いてあやまる
+
+#Description# [50]
+敵の攻撃力を下げる
+
+#UseMessage1# [30]
+は泣いてあやまった！
+
+#UseMessage2# [50]
+うわあ～！　ごめんなさい！　ごめんなさい！
+
+
+
+*****Entry52*****
+#Name# [20]
+くちごたえ
+
+#Description# [50]
+自分の防御力を上げる
+
+#UseMessage1# [30]
+はくちごたえした！
+
+#UseMessage2# [50]
+もう、言いなりには、ならない！
+
+
+
+*****Entry53*****
+#Name# [20]
+ムチで叩く
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はムチで叩いてきた！
+
+#UseMessage2# [50]
+向こうずねを叩きましょう！
+
+
+
+*****Entry54*****
+#Name# [20]
+ムチで叩く
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はムチで叩いてきた！
+
+#UseMessage2# [50]
+お尻を叩きましょう！
+
+
+
+*****Entry55*****
+#Name# [20]
+ムチで叩く
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はムチで叩いてきた！
+
+#UseMessage2# [50]
+マタのところを叩きましょう！
+
+
+
+*****Entry56*****
+#Name# [20]
+亡者のいざない
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はおぞましい声で叫んだ！
+
+#UseMessage2# [50]
+こっちへおいで、ローゼ……
+
+
+
+*****Entry57*****
+#Name# [20]
+げんこつ
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はげんこつで殴って来た！
+
+#UseMessage2# [50]
+思い知れ！
+
+
+
+*****Entry58*****
+#Name# [20]
+かみなり
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はかみなりを落とした！
+
+#UseMessage2# [50]
+親父をなめるな！
+
+
+
+*****Entry59*****
+#Name# [20]
+超音波
+
+#Description# [50]
+音の波を敵全体にぶつける
+
+#UseMessage1# [30]
+は超音波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry60*****
+#Name# [20]
+水鉄砲＋
+
+#Description# [50]
+水鉄砲を敵単体にぶつける
+
+#UseMessage1# [30]
+は水鉄砲＋を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry61*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry62*****
+#Name# [20]
+メテオ
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はメテオを唱えた！
+
+#UseMessage2# [50]
+このくらいで、死なないでくれよ！
+
+
+
+*****Entry63*****
+#Name# [20]
+サンダー・ストーム
+
+#Description# [50]
+敵全体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はサンダー・ストームを唱えた！
+
+#UseMessage2# [50]
+ククク……！　もう、ボロボロじゃないか！
+
+
+
+*****Entry64*****
+#Name# [20]
+気合溜め
+
+#Description# [50]
+気合を溜めて、約１０ポイント攻撃力アップ
+
+#UseMessage1# [30]
+は気合を溜めた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry65*****
+#Name# [20]
+気合斬り
+
+#Description# [50]
+気合をこめて敵単体を斬る剣技
+
+#UseMessage1# [30]
+は気合斬りを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry66*****
+#Name# [20]
+剣の舞
+
+#Description# [50]
+敵全体を斬り裂く剣技
+
+#UseMessage1# [30]
+は剣の舞を舞った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry67*****
+#Name# [20]
+気功波
+
+#Description# [50]
+気を敵単体にぶつける闘技
+
+#UseMessage1# [30]
+は気功波を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry68*****
+#Name# [20]
+烈風脚
+
+#Description# [50]
+敵全体に蹴りをあびせる闘技
+
+#UseMessage1# [30]
+は烈風脚を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry69*****
+#Name# [20]
+サンダー
+
+#Description# [50]
+敵単体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はサンダーを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry70*****
+#Name# [20]
+サンダー・ストーム
+
+#Description# [50]
+敵全体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はサンダー・ストームを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry71*****
+#Name# [20]
+フレイム・ウォール
+
+#Description# [50]
+敵全体に３０ポイントのダメージ
+
+#UseMessage1# [30]
+はフレイム・ウォールを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry72*****
+#Name# [20]
+ファイア・ボール
+
+#Description# [50]
+敵単体に５０ポイントのダメージ
+
+#UseMessage1# [30]
+はファイア・ボールを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry73*****
+#Name# [20]
+ヒール
+
+#Description# [50]
+ＨＰを約３０回復
+
+#UseMessage1# [30]
+はヒールを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry74*****
+#Name# [20]
+ヒールⅡ
+
+#Description# [50]
+ＨＰを約６０回復
+
+#UseMessage1# [30]
+はヒールⅡを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry75*****
+#Name# [20]
+ヒール・ウィンド
+
+#Description# [50]
+味方全体のＨＰ３０ポイント回復
+
+#UseMessage1# [30]
+はヒール・ウィンドを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry76*****
+#Name# [20]
+ホーリー・パワー
+
+#Description# [50]
+聖なる力で、戦闘力アップ
+
+#UseMessage1# [30]
+はホーリー・パワーを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry77*****
+#Name# [20]
+稲妻斬り
+
+#Description# [50]
+稲妻のように敵単体を斬る剣技
+
+#UseMessage1# [30]
+は稲妻斬りを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry78*****
+#Name# [20]
+勇者の輝き
+
+#Description# [50]
+味方全体のＨＰ８０ポイント回復　全状態治療
+
+#UseMessage1# [30]
+は勇者の輝きを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry79*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry80*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry81*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry82*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry83*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry84*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry85*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry86*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry87*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry88*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry89*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry90*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry91*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry92*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry93*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry94*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry95*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry96*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry97*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry98*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry99*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry100*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry101*****
+#Name# [20]
+ファイア・ボール
+
+#Description# [50]
+敵単体に５０ポイントのダメージ
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+火の玉が飛び出す！
+
+
+
+*****Entry102*****
+#Name# [20]
+フレイム・ウォール
+
+#Description# [50]
+敵全体に３０ポイントのダメージ
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+激しい炎がほとばしる！
+
+
+
+*****Entry103*****
+#Name# [20]
+ポイズン
+
+#Description# [50]
+敵全体に２０ポイントのダメージ＋毒状態
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+毒ガスが襲う！
+
+
+
+*****Entry104*****
+#Name# [20]
+ヒールⅡ
+
+#Description# [50]
+味方単体のＨＰ６０ポイント回復
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+身体に活力が甦る！
+
+
+
+*****Entry105*****
+#Name# [20]
+ヒール・ウィンド
+
+#Description# [50]
+味方全体のＨＰ３０ポイント回復
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+癒しの風が吹き抜ける！
+
+
+
+*****Entry106*****
+#Name# [20]
+ヒールⅢ
+
+#Description# [50]
+ＨＰを約１００回復
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+身体に活力が甦る！
+
+
+
+*****Entry107*****
+#Name# [20]
+ホーリー・パワー
+
+#Description# [50]
+聖なる力で、戦闘力アップ
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+聖なる力でパワーアップ！
+
+
+
+*****Entry108*****
+#Name# [20]
+サンダー
+
+#Description# [50]
+敵単体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+雷を呼ぶ！
+
+
+
+*****Entry109*****
+#Name# [20]
+サンダー・ストーム
+
+#Description# [50]
+敵全体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+雷の嵐が吹き荒れる！
+
+
+
+*****Entry110*****
+#Name# [20]
+ビッグ・バン
+
+#Description# [50]
+敵全体に無属性のダメージを与える。
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+大爆発！
+
+
+
+*****Entry111*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry112*****
+#Name# [20]
+泣いてあやまる
+
+#Description# [50]
+敵の防御力を下げる
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+とりあえず、泣いてあやまった！
+
+
+
+*****Entry113*****
+#Name# [20]
+くちごたえ
+
+#Description# [50]
+自分の防御力を上げる
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+すさまじい勢いで、くちごたえした！
+
+
+
+*****Entry114*****
+#Name# [20]
+石のつぶて
+
+#Description# [50]
+敵全体に石をぶつける
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+石のつぶてが敵を襲う！
+
+
+
+*****Entry115*****
+#Name# [20]
+メイドの気配り
+
+#Description# [50]
+メイドの気配りで、戦闘力アップ
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+はメイドの気配りで、戦闘力アップ！
+
+
+
+*****Entry116*****
+#Name# [20]
+気合溜め
+
+#Description# [50]
+気合を溜めて、約１０ポイント攻撃力アップ
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+気合がみなぎる！
+
+
+
+*****Entry117*****
+#Name# [20]
+気功波
+
+#Description# [50]
+気を敵単体にぶつける闘技
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+気の波がほとばしる！
+
+
+
+*****Entry118*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry119*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry120*****
+#Name# [20]
+勇者の輝き
+
+#Description# [50]
+味方全体のＨＰ６０ポイント回復　全状態治療
+
+#UseMessage1# [30]
+はカード魔法を起動させた！
+
+#UseMessage2# [50]
+まばゆい光につつまれた！
+
+
+
+*****Entry121*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry122*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry123*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry124*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry125*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry126*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry127*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry128*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry129*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry130*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry131*****
+#Name# [20]
+黒い吐息
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は黒い吐息を吐いた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry132*****
+#Name# [20]
+ダーク・ストーム
+
+#Description# [50]
+敵全体に暗黒属性のダメージを与える。
+
+#UseMessage1# [30]
+はダーク・ストームを唱えた！
+
+#UseMessage2# [50]
+闇よ！　奴らの魂を喰らいつくせ！
+
+
+
+*****Entry133*****
+#Name# [20]
+サンダー
+
+#Description# [50]
+敵単体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+はサンダーを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry134*****
+#Name# [20]
+斧を振り回す
+
+#Description# [50]
+斧を振り回し敵全体にダメージを
+
+#UseMessage1# [30]
+は斧を振り回した！
+
+#UseMessage2# [50]
+どおりゃああああ！！！
+
+
+
+*****Entry135*****
+#Name# [20]
+力を吸い取る
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+はベリルの夢から力を吸い取る！
+
+#UseMessage2# [50]
+クックックッ…！　マリン、君の絶望は最高の美味だ！
+
+
+
+*****Entry136*****
+#Name# [20]
+咆哮
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+の咆哮！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry137*****
+#Name# [20]
+風神
+
+#Description# [50]
+真空の刃で切り刻む
+
+#UseMessage1# [30]
+は風神を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry138*****
+#Name# [20]
+雷神
+
+#Description# [50]
+稲妻のような素早い攻撃
+
+#UseMessage1# [30]
+は雷神を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry139*****
+#Name# [20]
+ヒール・ウィンドα
+
+#Description# [50]
+味方全体のＨＰ１００ポイント回復
+
+#UseMessage1# [30]
+はヒール・ウィンドを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry140*****
+#Name# [20]
+ヒールα
+
+#Description# [50]
+ＨＰを約３００回復
+
+#UseMessage1# [30]
+はヒールαを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry141*****
+#Name# [20]
+念防御α
+
+#Description# [50]
+味方全員の暗黒属性攻撃に対する防御力をアップする
+
+#UseMessage1# [30]
+は念防御を使った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry142*****
+#Name# [20]
+闇の侵食
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は闇の侵食を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry143*****
+#Name# [20]
+黒き炎
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+は黒き炎を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry144*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry145*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry146*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry147*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry148*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry149*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry150*****
+#Name# [20]
+状況確認
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry151*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry152*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry153*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry154*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry155*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry156*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry157*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry158*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry159*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry160*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry161*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry162*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry163*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry164*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+

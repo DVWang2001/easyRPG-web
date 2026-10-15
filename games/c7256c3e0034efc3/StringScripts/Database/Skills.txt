@@ -1,0 +1,44 @@
+﻿*****Entry1*****
+#Name# [20]
+爆裂
+
+#Description# [50]
+直接將能量灌入對手體內並引爆。
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+影子
+
+#Description# [50]
+瞬間將對手斬成碎片，造成致命傷。
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+托爾
+
+#Description# [50]
+呼喚大地的力量，將高溫高壓的熔岩傾瀉在對手身上。
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+

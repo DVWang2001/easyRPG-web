@@ -1,0 +1,64 @@
+/* 公告＝ RPG Maker 藍色訊息窗（首頁唯一一處全力復古的 signature）。
+   色彩 token（--win-*、--gold）在 rm-theme.css 的 :root 定義；附 fallback 以防單獨載入。 */
+#announce { max-width: 980px; margin: 0 auto; padding: 6px 16px 0; }
+
+.ann-banner { position: relative; margin: 10px 0 0; color: #eaf0ff;
+  border-radius: 10px; padding: 16px 48px 18px 18px;
+  background: linear-gradient(180deg, var(--win-top,#3f5fcc), var(--win-bot,#16225e));
+  border: 1px solid var(--win-lo,#0a1140);
+  box-shadow: inset 0 0 0 1px rgba(159,180,255,.45),
+              inset 0 1px 0 rgba(255,255,255,.22),
+              0 10px 26px rgba(8,12,40,.55); }
+
+.ann-tools { position: absolute; top: 9px; right: 10px; display: flex; gap: 4px; }
+.ann-tools button { background: rgba(10,17,64,.35); border: 0; color: #cdd8ff;
+  font-size: 13px; cursor: pointer; padding: 3px 8px; border-radius: 7px; }
+.ann-tools button:hover { background: rgba(10,17,64,.62); color: #fff; }
+
+.ann-body { font-size: 14.5px; line-height: 1.7; word-break: break-word; }
+.ann-body a { color: var(--gold,#f5c542); text-decoration: underline; }
+.ann-body img { max-width: 100%; height: auto; border-radius: 6px; }
+.ann-empty { color: #aeb9ee; }
+.ann-meta { margin-top: 9px; font-size: 12px; color: #9fb0ee; }
+
+/* RM 對話窗 signature：右下角閃爍的續行游標 ▼（編輯中或空公告時不顯示） */
+.ann-banner::after { content: "\25BC"; position: absolute; right: 14px; bottom: 10px;
+  color: var(--gold,#f5c542); font-size: 12px;
+  animation: annblink 1.05s steps(2,start) infinite; }
+.ann-banner:has(.ann-editor:not([hidden]))::after,
+.ann-banner:has(.ann-empty)::after { display: none; }
+@keyframes annblink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .ann-banner::after { animation: none; } }
+
+/* 「查看所有公告」連結（首頁橫幅底部） */
+.ann-more { display: block; margin-top: 10px; color: var(--gold,#f5c542); font-size: 13px;
+  text-decoration: none; text-align: right; }
+.ann-more:hover { text-decoration: underline; }
+
+/* 編輯器（公告頁新增用） */
+.ann-editor { margin-top: 10px; }
+.ann-quill { background: #fff; color: #111; border-radius: 8px; min-height: 120px; }
+.ann-editbar { margin-top: 10px; display: flex; gap: 8px; }
+.ann-editbar button { padding: 6px 16px; border-radius: 8px; border: 0;
+  background: var(--gold,#f5c542); color: #1a1400; font-weight: 700;
+  cursor: pointer; font-size: 13px; }
+.ann-editbar button.ann-cancel { background: rgba(10,17,64,.5); color: #dbe3ff; font-weight: 400; }
+
+/* ---- 公告頁（announce.html）---- */
+.ann-top { display: flex; align-items: center; gap: 12px; padding: 14px 16px;
+  border-bottom: 1px solid var(--line,#262c44); }
+.ann-back { color: var(--muted,#8b93bf); text-decoration: none; font-size: 14px; }
+.ann-back:hover { color: var(--gold,#f5c542); }
+.ann-title { font-size: 18px; font-weight: 800; letter-spacing: .03em; }
+
+#announce-list { max-width: 980px; margin: 0 auto; padding: 6px 16px 44px; }
+.ann-item { margin-bottom: 16px; }
+.ann-item::after { display: none; }
+.ann-list-empty { text-align: center; color: var(--muted,#8b93bf); padding: 24px; }
+
+.ann-new { max-width: 980px; margin: 0 auto; padding: 12px 16px 0; }
+.ann-newbtn { padding: 8px 18px; border-radius: 8px; border: 2px solid var(--win-lo,#0a1140);
+  background: linear-gradient(180deg, var(--win-top,#3f5fcc), var(--win-bot,#16225e));
+  color: #fff; font-size: 14px; cursor: pointer; font-family: inherit;
+  box-shadow: inset 0 0 0 1px rgba(220,232,255,.5); }
+.ann-newbtn:hover { border-color: var(--gold,#f5c542); }

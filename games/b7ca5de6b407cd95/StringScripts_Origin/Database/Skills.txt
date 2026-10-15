@@ -1,0 +1,974 @@
+﻿*****Entry1*****
+#Name# [20]
+機銃掃射：１
+
+#Description# [50]
+機銃掃射による攻撃
+
+#UseMessage1# [30]
+ の攻撃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+機銃掃射：２
+
+#Description# [50]
+機銃掃射による攻撃
+
+#UseMessage1# [30]
+ の攻撃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+機銃掃射：３
+
+#Description# [50]
+機銃掃射による攻撃
+
+#UseMessage1# [30]
+ の攻撃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+機銃掃射：４
+
+#Description# [50]
+機銃掃射による攻撃
+
+#UseMessage1# [30]
+ の攻撃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+ファイアーブレス
+
+#Description# [50]
+炎熱のブレス
+
+#UseMessage1# [30]
+ は 燃えさかる炎を吐き出した！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+サンダーブレス
+
+#Description# [50]
+電撃のブレス／追加効果：感電
+
+#UseMessage1# [30]
+ は 周囲に電撃を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+アシッドブレス
+
+#Description# [50]
+酸のブレス／追加効果：腐食
+
+#UseMessage1# [30]
+ は　酸の息を吹きかけた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+電撃
+
+#Description# [50]
+敵全体に雷属性のダメージを与える。
+
+#UseMessage1# [30]
+ は 電撃を放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+酸を吐く
+
+#Description# [50]
+酸を吐く
+
+#UseMessage1# [30]
+ は 酸を吐き出した！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+噛みつき
+
+#Description# [50]
+噛みつく
+
+#UseMessage1# [30]
+ は 噛みついた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+毒噛みつき
+
+#Description# [50]
+噛みつく
+
+#UseMessage1# [30]
+ は 噛みついた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+引っ掻き
+
+#Description# [50]
+引っ掻く
+
+#UseMessage1# [30]
+ は 引っ掻いた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+毒引っ掻き
+
+#Description# [50]
+引っ掻く
+
+#UseMessage1# [30]
+ は 引っ掻いた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+噛みつき２
+
+#Description# [50]
+噛みつく
+
+#UseMessage1# [30]
+ は 噛みついた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry15*****
+#Name# [20]
+毒噛みつき２
+
+#Description# [50]
+噛みつく
+
+#UseMessage1# [30]
+ は 噛みついた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry16*****
+#Name# [20]
+引っ掻き２
+
+#Description# [50]
+引っ掻く
+
+#UseMessage1# [30]
+ は 引っ掻いた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry17*****
+#Name# [20]
+毒引っ掻き２
+
+#Description# [50]
+引っ掻く
+
+#UseMessage1# [30]
+ は 引っ掻いた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry18*****
+#Name# [20]
+噛みつきボス
+
+#Description# [50]
+噛みつく
+
+#UseMessage1# [30]
+ は 噛みついた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry19*****
+#Name# [20]
+引っ掻きボス
+
+#Description# [50]
+引っ掻く
+
+#UseMessage1# [30]
+ は 引っ掻いた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry20*****
+#Name# [20]
+引っ掻きアビドラ
+
+#Description# [50]
+引っ掻く
+
+#UseMessage1# [30]
+ は ４本の腕を 振りかざした！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry21*****
+#Name# [20]
+奇声
+
+#Description# [50]
+奇声を上げて攻撃力アップ
+
+#UseMessage1# [30]
+ は 奇声を上げた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry22*****
+#Name# [20]
+テイルウイップ
+
+#Description# [50]
+尻尾による全体攻撃
+
+#UseMessage1# [30]
+ は 尻尾でなぎ払った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry23*****
+#Name# [20]
+テイルウイップ２
+
+#Description# [50]
+尻尾による全体攻撃
+
+#UseMessage1# [30]
+ は 尻尾でなぎ払った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry24*****
+#Name# [20]
+テイルウイップ３
+
+#Description# [50]
+尻尾による全体攻撃
+
+#UseMessage1# [30]
+ は 尻尾でなぎ払った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry25*****
+#Name# [20]
+吸血（巻きつき）ボス
+
+#Description# [50]
+相手のＨＰを吸収する
+
+#UseMessage1# [30]
+ は 触手を巻き付けてきた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry26*****
+#Name# [20]
+吸血（巻きつき）
+
+#Description# [50]
+相手のＨＰを吸収する
+
+#UseMessage1# [30]
+ は 触手を巻き付けてきた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry27*****
+#Name# [20]
+吸血（牙）
+
+#Description# [50]
+相手のＨＰを吸収する
+
+#UseMessage1# [30]
+ は 牙を突き立てた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry28*****
+#Name# [20]
+吸血（牙）ボス
+
+#Description# [50]
+相手のＨＰを吸収する
+
+#UseMessage1# [30]
+ は 牙を突き立てた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+ファイアーブレスXeno
+
+#Description# [50]
+炎熱のブレス
+
+#UseMessage1# [30]
+ は 燃えさかる炎を吐き出した！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry30*****
+#Name# [20]
+リジェネレイトXeno
+
+#Description# [50]
+自分ののＨＰを 999ポイント程度回復する。
+
+#UseMessage1# [30]
+ は じっとしている･･･
+
+#UseMessage2# [50]
+傷口が再生し始めた！
+
+
+
+*****Entry31*****
+#Name# [20]
+アシッドブレスXeno
+
+#Description# [50]
+酸のブレス／追加効果：腐食
+
+#UseMessage1# [30]
+ は　酸の息を吹きかけた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+ヒーリング
+
+#Description# [50]
+味方のＨＰを回復させる／基本回復量 60
+
+#UseMessage1# [30]
+ は 意志力を具現化させた！
+
+#UseMessage2# [50]
+「フォース開放 【ヒーリング】！！
+
+
+
+*****Entry33*****
+#Name# [20]
+リジェネレイト
+
+#Description# [50]
+自分のＨＰを 10ポイント程度回復する。
+
+#UseMessage1# [30]
+ は じっとしている･･･
+
+#UseMessage2# [50]
+傷口が再生し始めた！
+
+
+
+*****Entry34*****
+#Name# [20]
+リジェネレイト
+
+#Description# [50]
+自分のＨＰを 25ポイント程度回復する。
+
+#UseMessage1# [30]
+ は じっとしている･･･
+
+#UseMessage2# [50]
+傷口が再生し始めた！
+
+
+
+*****Entry35*****
+#Name# [20]
+リジェネレイト
+
+#Description# [50]
+自分のＨＰを 50ポイント程度回復する。
+
+#UseMessage1# [30]
+ は じっとしている･･･
+
+#UseMessage2# [50]
+傷口が再生し始めた！
+
+
+
+*****Entry36*****
+#Name# [20]
+挑発
+
+#Description# [50]
+挑発して相手を怒らせる(敵全体)
+
+#UseMessage1# [30]
+ は 相手を挑発した！
+
+#UseMessage2# [50]
+「おらおら かかって来いよ！
+
+
+
+*****Entry37*****
+#Name# [20]
+バリアフィールド
+
+#Description# [50]
+フィールドを発生させ 炎や電撃を防ぐ(味方全体)
+
+#UseMessage1# [30]
+ は 意志力を具現化させた！
+
+#UseMessage2# [50]
+「フォース開放 【バリアフィールド】！！
+
+
+
+*****Entry38*****
+#Name# [20]
+ヒーリングサークル
+
+#Description# [50]
+味方のＨＰを回復させる(味方全体)／基本回復量 40
+
+#UseMessage1# [30]
+ は 意志力を具現化させた！
+
+#UseMessage2# [50]
+「フォース開放 【ヒーリングサークル】！！
+
+
+
+*****Entry39*****
+#Name# [20]
+バックスタッブ
+
+#Description# [50]
+背後からの一撃を浴びせる／基本ダメージ 30 要：剣
+
+#UseMessage1# [30]
+ の背後からの一撃！
+
+#UseMessage2# [50]
+「ヘッ 気づくのが遅いぜ！
+
+
+
+*****Entry40*****
+#Name# [20]
+ナパームショット
+
+#Description# [50]
+ナパーム弾(敵全体・炎熱)／基本ダメージ 25 要：銃
+
+#UseMessage1# [30]
+ は ナパーム弾を装填した！
+
+#UseMessage2# [50]
+「燃え尽きろ ゴミどもめ！
+
+
+
+*****Entry41*****
+#Name# [20]
+ファイアストーム
+
+#Description# [50]
+炎霊を召喚（敵全体・炎熱）／基本ダメージ 40
+
+#UseMessage1# [30]
+ は 意志力を具現化させた！
+
+#UseMessage2# [50]
+「フォース開放 【ファイアストーム】！！
+
+
+
+*****Entry42*****
+#Name# [20]
+ヘルファイア
+
+#Description# [50]
+超高熱で焼き尽くす(敵全体・炎熱)／基本ダメージ 50
+
+#UseMessage1# [30]
+ は 意志力を具現化させた！
+
+#UseMessage2# [50]
+「フォース開放 【ヘルファイア】！！
+
+
+
+*****Entry43*****
+#Name# [20]
+クロスブレイズ
+
+#Description# [50]
+相手を十文字に斬りつける／基本ダメージ 50 要：剣
+
+#UseMessage1# [30]
+ の十文字斬り！
+
+#UseMessage2# [50]
+「クロスブレイズ！！
+
+
+
+*****Entry44*****
+#Name# [20]
+ライジングブロー
+
+#Description# [50]
+懐に飛び込み 一撃を叩き込む／基本ダメージ 40
+
+#UseMessage1# [30]
+ は 素早く懐に飛び込んだ！
+
+#UseMessage2# [50]
+「ライジングブロー！！
+
+
+
+*****Entry45*****
+#Name# [20]
+デュアルブレイド
+
+#Description# [50]
+剣による連続攻撃(敵全体)／基本ダメージ 25 要：剣
+
+#UseMessage1# [30]
+ の連続攻撃！
+
+#UseMessage2# [50]
+「デュアルブレイド！！
+
+
+
+*****Entry46*****
+#Name# [20]
+ベルセルク
+
+#Description# [50]
+戦闘プログラム「ベルセルク」を発動させ 攻撃力ＵＰ
+
+#UseMessage1# [30]
+ は 戦闘プログラムを展開！
+
+#UseMessage2# [50]
+＞ベルセルク・モード起動･･･
+
+
+
+*****Entry47*****
+#Name# [20]
+バーティカルエッジ
+
+#Description# [50]
+剣による垂直斬り／基本ダメージ 30 要：剣
+
+#UseMessage1# [30]
+ は 剣を上段に構えた！
+
+#UseMessage2# [50]
+「バーティカルエッジ！！
+
+
+
+*****Entry48*****
+#Name# [20]
+クリムゾンエッジ
+
+#Description# [50]
+全てを斬り裂く瞬殺の刃／基本ダメージ 150 要：剣
+
+#UseMessage1# [30]
+ の瞬殺の刃！
+
+#UseMessage2# [50]
+「クリムゾンエッジ！！
+
+
+
+*****Entry49*****
+#Name# [20]
+バーストファイア
+
+#Description# [50]
+銃による３連射(敵全体)／基本ダメージ 30 要：銃
+
+#UseMessage1# [30]
+ は 銃を構えた！
+
+#UseMessage2# [50]
+「バーストファイア！！
+
+
+
+*****Entry50*****
+#Name# [20]
+バニシングショット
+
+#Description# [50]
+次元圧縮弾(敵全体)／基本ダメージ 40 要：銃
+
+#UseMessage1# [30]
+ は 次元圧縮弾を装填した！
+
+#UseMessage2# [50]
+「消えてなくなれ バケ物め！
+
+
+
+*****Entry51*****
+#Name# [20]
+リーサルスナイパー
+
+#Description# [50]
+敵の急所を正確に狙い撃つ／基本ダメージ 150 要：銃
+
+#UseMessage1# [30]
+ は 銃を構えた！
+
+#UseMessage2# [50]
+「リーサルスナイパー！！
+
+
+
+*****Entry52*****
+#Name# [20]
+ファイナルブレイク
+
+#Description# [50]
+ゼロ距離からの超振動攻撃／基本ダメージ 150
+
+#UseMessage1# [30]
+ の必殺の一撃！
+
+#UseMessage2# [50]
+「ファイナルブレイク！！
+
+
+
+*****Entry53*****
+#Name# [20]
+エナジーバースト
+
+#Description# [50]
+エネルギー弾を放つ(敵全体・電撃)／基本ダメージ 30
+
+#UseMessage1# [30]
+ は 意志力を具現化させた！
+
+#UseMessage2# [50]
+「フォース開放 【エナジーバースト】！！
+
+
+
+*****Entry54*****
+#Name# [20]
+Joker of Death
+
+#Description# [50]
+急所を撃ち抜く必殺の一撃／基本ダメージ 66 要：銃
+
+#UseMessage1# [30]
+ は 狙いを定めた！
+
+#UseMessage2# [50]
+「地獄へ堕ちろ 虫ケラめ！
+
+
+
+*****Entry55*****
+#Name# [20]
+死の刃
+
+#Description# [50]
+相手の首を一撃ではね飛ばす
+
+#UseMessage1# [30]
+ の振り上げた刃が 鈍く光る！
+
+#UseMessage2# [50]
+首を狙っての一撃！！
+
+
+
+*****Entry56*****
+#Name# [20]
+死の刃２
+
+#Description# [50]
+相手の首を一撃ではね飛ばす
+
+#UseMessage1# [30]
+ の振り上げた刃が 鈍く光る！
+
+#UseMessage2# [50]
+首を狙っての一撃！！
+
+
+
+*****Entry57*****
+#Name# [20]
+バニシング＝レイ
+
+#Description# [50]
+消滅の光
+
+#UseMessage1# [30]
+ は 意志力を具現化させた！
+
+#UseMessage2# [50]
+「フォース開放 【バニシング＝レイ】！！
+
+
+
+*****Entry58*****
+#Name# [20]
+レーザーカノン
+
+#Description# [50]
+レーザーカノンによる攻撃
+
+#UseMessage1# [30]
+ は 高出力レーザーを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry59*****
+#Name# [20]
+レーザーブレード
+
+#Description# [50]
+レーザーブレードによる一撃
+
+#UseMessage1# [30]
+ は 斬りつけた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry60*****
+#Name# [20]
+死ね死ねの舞
+
+#Description# [50]
+レーザーブレードの乱舞
+
+#UseMessage1# [30]
+ は 斬りつけた！
+
+#UseMessage2# [50]
+「ヒャ～ハッハッハッハッ！ 死ね死ね死ねィィィ
+
+
+
+*****Entry61*****
+#Name# [20]
+ムラマサブレード
+
+#Description# [50]
+妖刀「ムラマサブレード」による一撃
+
+#UseMessage1# [30]
+ の瞬速の刃！
+
+#UseMessage2# [50]
+「ムラマサブレード！
+
+
+
+*****Entry62*****
+#Name# [20]
+零式抜刀術
+
+#Description# [50]
+ムラマサブレード による必殺の刃／基本ダメージ 99
+
+#UseMessage1# [30]
+ の瞬速の刃！
+
+#UseMessage2# [50]
+「奥義・零式抜刀術！！
+
+
+
+*****Entry63*****
+#Name# [20]
+零式抜刀術
+
+#Description# [50]
+ムラマサブレード による必殺の刃／基本ダメージ 99
+
+#UseMessage1# [30]
+ の瞬速の刃！
+
+#UseMessage2# [50]
+「奥義・零式抜刀術！！
+
+
+
+*****Entry64*****
+#Name# [20]
+生還者
+
+#Description# [50]
+アビス入り口へ瞬時に移動する
+
+#UseMessage1# [30]
+はエスケープを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry65*****
+#Name# [20]
+エクスチャージ
+
+#Description# [50]
+自分のＨＰを回復させる／基本回復量 50
+
+#UseMessage1# [30]
+ は 精神を集中させた！
+
+#UseMessage2# [50]
+エクスチャージ開始･･･
+
+

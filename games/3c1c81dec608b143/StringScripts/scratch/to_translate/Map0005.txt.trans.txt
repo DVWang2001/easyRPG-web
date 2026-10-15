@@ -1,0 +1,263 @@
+﻿1. [MARKER: Message] [FACE: Ｆ真実] 聞こえてたよ。タマ。
+2. [MARKER: Message] [FACE: Ｆタマ] \.なにがニャ？
+3. [MARKER: Message] [FACE: Ｆ真実] \.目がう～んと細くてタレてて
+悪かったね。
+4. [MARKER: Message] [FACE: Ｆタマ] ぶほ。
+き、聞こえていたニャ？
+5. [MARKER: Message] [FACE: Ｆタマ] ア、アレは･･･
+
+6. [MARKER: Message] [FACE: Ｆタマ] \.お、男は細目でタレ目が１番だ
+という意味で言ったニャ！
+7. [MARKER: Message] [FACE: F鞍春] 悪かったな
+クリ目のつり目の男で。
+8. [MARKER: Message] [FACE: Ｆタマ] \.･･････人のあげ足をとるニャよ。
+9. [MARKER: Message] [FACE: F鞍春] \.「人」ではないではないか。
+10. [MARKER: Message] [FACE: Ｆ真実] \.\S[2]････････････。
+
+11. [MARKER: Message] [FACE: Ｆ真実] \.漫才しに来たのか君ら？
+12. [MARKER: Message] [FACE: F鞍春] いや、違う。
+13. [MARKER: Message] [FACE: Ｆ真実] \.待て。
+14. [MARKER: Message] [FACE: F鞍春] \.･････････。
+15. [MARKER: Message] [FACE: Ｆ真実] どういう理由があるかはわからないが
+ここから先に行かせるわけには
+いかないんだ。
+16. [MARKER: Message] [FACE: Ｆ真実] 余計な争いごとはしたくない。
+このまま帰ってくれ。
+17. [MARKER: Message] [FACE: F鞍春] \.･･････
+余計な争いごとをしたくないのは
+私も同じだ。
+18. [MARKER: Message] [FACE: F鞍春] だが
+\.悪運だけに頼って生きてきた
+男の命がかかっているのでな。
+19. [MARKER: Message] [FACE: F鞍春] このまま帰るわけには
+いかぬのだ。
+20. [MARKER: Message] [FACE: Ｆ真実] \.\S[2]悪運だけに頼ってきた男の･･････
+21. [MARKER: Message] [FACE: Ｆ真実] \S[2]････････････。
+22. [MARKER: Message] [FACE: F鞍春] \S[2]････････････。
+23. [MARKER: Message] [FACE: Ｆ真実] ･･････そうか。
+\.では仕方ないな。
+24. [MARKER: Message] [FACE: Ｆタマ] 通してくれるのニャ？！
+25. [MARKER: Message] [FACE: Ｆ真実] いや、それはできない。
+\.この扉を守ることが
+私の役目なのだから。
+26. [MARKER: Message] [FACE: F鞍春] \S[2]･･････？！
+27. [MARKER: Message] [FACE: F鞍春] \S[2]･･････羽？！
+28. [MARKER: Message] [FACE: Ｆ真実] \.･･････？！
+29. [MARKER: Message] [FACE: Ｆ真実] \.君には･･･見えるのか？！
+30. [MARKER: Message] [FACE: F鞍春] ･･････なるほど。
+\.その羽が妖気の元だな。
+31. [MARKER: Message] [FACE: Ｆ真実] 人には見えないと思っていたが･･･
+32. [MARKER: Message] [FACE: Ｆ真実] \S[2]･････････。
+33. [MARKER: Message] [FACE: Ｆ真実] 私も遠慮はしない。
+\.力ずくで通ってくれ！
+34. [MARKER: Message] [FACE: Ｆタマ] \.マコトっ！
+35. [MARKER: Message] [FACE: Ｆタマ] \.･･･ニャ？
+36. [MARKER: Message] [FACE: F鞍春] \.･･･？！
+37. [MARKER: Message] [FACE: Ｆタマ] ニャーーーーーっ？！
+38. [MARKER: Message] [FACE: Ｆタマ] 味方になってくれなかったニャ･･･
+39. [MARKER: Message] [FACE: Ｆタマ] それ以上もってったらドロボーニャ。
+40. [MARKER: Message] [FACE: F鞍春] って言いながら、干し魚を探すな。
+41. [MARKER: Message] [FACE: Ｆタマ] 鍵　鍵と･･･
+42. [MARKER: Message] [FACE: Ｆタマ] あったニャ。
+　　　･･････ニャ？
+43. [MARKER: Message] [FACE: F鞍春] どうした。
+44. [MARKER: Message] [FACE: Ｆタマ] 薬草がいっぱい入ってるニャ。
+ちょこっともらっていくかニャ？
+45. [MARKER: Message] [FACE: F鞍春] ･･･そうだな。
+出世払いということで
+１つ２つ頂戴するか。
+46. [MARKER: Message] [FACE: Ｆタマ] ･･･止めると思ったが
+　　　お主　意外とシュールじゃニャ。
+47. [MARKER: Message] [FACE: Ｆタマ] ま、いいニャ。
+鍵と一緒に　
+薬草３つだけもらっていくニャ。
+48. [MARKER: Message] [FACE: Ｆタマ] 開いたニャ。
+49. [MARKER: Message] [FACE: Ｆタマ] 確かそこの
+紫の包みの中に鍵が入ってたニャ。
+50. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[5]\C[17]･･･････････････
+51. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[5]\C[17]俺はここで
+\.\.何をしている･･････？
+52. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\.\S[7]\C[17]････････････和真？
+53. [MARKER: Message] [FACE: Ｆ真実] \.\S[2]え･･････
+54. [MARKER: Message] [FACE: Ｆ真実] \.戦に行くっだって？
+55. [MARKER: Message] [FACE: Ｆ真実] \.あぁ。
+
+56. [MARKER: Message] [FACE: Ｆ真実] \.何でまた、急にそんなことを･･･
+57. [MARKER: Message] [FACE: Ｆ真実] \.六郎が･･･行くんだそうだ。
+それで、俺も行かないかって
+誘われてさ。
+58. [MARKER: Message] [FACE: Ｆ真実] \.ほら俺も、少しでも
+暮らしの足しになればと思ってさ。
+59. [MARKER: Message] [FACE: Ｆ真実] \.結構、報酬いいらしいぞ。
+60. [MARKER: Message] [FACE: Ｆ真実] ･･･だからって、
+なにも和真が行くことはないじゃないか。
+61. [MARKER: Message] [FACE: Ｆ真実] そりゃ、うちは小さな借り物の畑しか
+ないけど
+62. [MARKER: Message] [FACE: Ｆ真実] 六郎のウチみたいに
+大家族ってわけじゃないんだし
+\.今も兄弟３人で食べていくくらいは
+なんとかなってるじゃないか。
+63. [MARKER: Message] [FACE: Ｆ真実] \.ああ、今はな。
+64. [MARKER: Message] [FACE: Ｆ真実] \.でも、先が見えてるって感じだろ？
+65. [MARKER: Message] [FACE: Ｆ真実] でも和真は長男なんだし
+\.万が一のことがあったら･･･
+66. [MARKER: Message] [FACE: Ｆ真実] どうしても戦に行くって言うなら
+俺が行くよ。
+67. [MARKER: Message] [FACE: Ｆ真実] \.双子なんだから
+長男も何もないだろう。
+68. [MARKER: Message] [FACE: Ｆ真実] 大丈夫。
+\.こう見えても俺は悪運が強いんだ。
+69. [MARKER: Message] [FACE: Ｆ真実] ほら、こないだ
+\.空からカラスのフンが落ちてきたとき
+だって
+70. [MARKER: Message] [FACE: Ｆ真実] おまえと竜太には　フンがかかったけど
+俺にはかからなかったじゃないか。
+71. [MARKER: Message] [FACE: Ｆ真実] \S[2]･･････。
+72. [MARKER: Message] [FACE: Ｆ真実] カラスのフンと戦とは
+関係ないだろ。
+\.･･･ヤなコト思い出させるなよ$d
+73. [MARKER: Message] [FACE: Ｆ真実] ･･･だから$e\.\.
+そんなに心配するなって言いたいんだよ。
+74. [MARKER: Message] [FACE: Ｆ真実] \.俺が戦に行ってる間、
+おまえはこの家と竜太を守ってくれよ
+\.真実。
+75. [MARKER: Message] [FACE: Ｆ真実] \S[2]･･････。
+76. [MARKER: Message] [FACE: Ｆ真実] ･･････
+\.しょうがないな。
+言い出したらきかないんだからな、
+\.和真は。
+77. [MARKER: Message] [FACE: Ｆ真実] なに話してるの　兄ちゃんたち？
+78. [MARKER: Message] [FACE: Ｆ真実] ああ、竜太。
+いや、この　頑固なへそ曲がり兄貴が
+戦に行くって言うからさ･･･
+79. [MARKER: Message] [FACE: Ｆ真実] 頑固なへそ曲がり･･････$d
+80. [MARKER: Message] [FACE: Ｆ真実] しばらくは
+寂しくなるなって話をな
+81. [MARKER: Message] [FACE: Ｆ真実] なんで？
+べつに僕　寂しくないよ。
+82. [MARKER: Message] [FACE: Ｆ真実] がーん。
+\.竜太おまえ、
+俺がいなくても寂しくないのか？！
+83. [MARKER: Message] [FACE: Ｆ真実] だって･･･
+\.僕にはリュウタがいるし。
+84. [MARKER: Message] [FACE: Ｆ真実] \.\S[2]リュウタって
+\S[1]この間、おまえが拾ってきた
+子ガラスのコトか？
+85. [MARKER: Message] [FACE: Ｆ真実] うん。
+86. [MARKER: Message] [FACE: Ｆ真実] \.竜太は
+俺よりカラスの方が好きなのか？！
+87. [MARKER: Message] [FACE: Ｆ真実] そんなことないよ。
+同じくらいだよ。
+88. [MARKER: Message] [FACE: Ｆ真実] \.同じくらいだってさ。
+
+89. [MARKER: Message] [FACE: Ｆ真実] 良かったな、和真。
+カラス並に好かれてて。
+90. [MARKER: Message] [FACE: Ｆ真実] \.　$d
+91. [MARKER: Message] [FACE: Ｆ真実] でも竜太、おまえ
+\.カラスに自分の名前つけるのは
+やめろよ。
+92. [MARKER: Message] [FACE: Ｆ真実] 縁起悪いから。
+93. [MARKER: Message] [FACE: Ｆ真実] じゃ、「カズマ」にしていい？
+94. [MARKER: Message] [FACE: Ｆ真実] ダメダメダメーっ！$e
+95. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.じゃ
+\S[2]俺･･･\S[1]帰るからな、真実。
+96. [MARKER: Message] [FACE: Ｆ真実] \.あ、\.あぁ。
+97. [MARKER: Message] [FACE: Ｆ真実] \.雨の中だったのに
+いろいろと･････すまなかったな。
+98. [MARKER: Message] [FACE: Ｆ真実] 和真もいない時だし
+･･････助かったよ。
+99. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] なんの。
+お互い様だよ。
+100. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]･････････でも
+101. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.いい墓ができて\S[2]･･･良かったな。
+102. [MARKER: Message] [FACE: Ｆ真実] \S[2]･････････。
+103. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.この家の裏庭だったら
+おまえにもすぐ会えるし
+104. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.竜太もきっと
+寂しくないだろうさ･･･
+105. [MARKER: Message] [FACE: Ｆ真実] \s[2]･･････ああ。
+106. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　　　\C[19]\S[2]「俺が戦に行ってる間
+　　　　　　　　おまえはこの家と竜太を守ってくれよ
+                ･･････\.真実」
+107. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]･･････和真
+108. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]俺は竜太を守れなかったよ･･･
+109. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]竜太は自分が飼っていた
+カラスのリュウタを追いかけていた
+110. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]カラスのリュウタを追いかけていて
+誤って崖から落ちてしまった･･････
+111. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]竜太がそんなことになったのは
+112. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]畑仕事にかかりっきりで
+ろくに竜太の相手をしてやれなかった
+俺の責任だ･･･
+113. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]すまない竜太･･････\.そして
+114. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\S[2]そして和真･･････
+115. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]\.\S[2]俺はこれから･･･
+どうやって、なにを
+\.償っていけばいい･･････？
+116. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.あんまり気を落とすなよ、真実。
+117. [MARKER: Message] [FACE: Ｆ真実] \S[2]････････････。
+118. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.って言ってもムリか･･･
+119. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]あー･･･
+120. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.えーと、\.なんだ、\.ほら、
+\.和真もそろそろ
+戦から帰って来るんだろう？
+121. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 確か、おまえんちの隣の六郎と
+一緒に戦に出かけたんだから
+帰ってくるのもだいたい一緒だよな？
+122. [MARKER: Message] [FACE: Ｆ真実] \.えっ？
+123. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] ･･････あれ？
+\.なんだ知らなかったのか。
+124. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] ま、昨日の今日だからな。
+
+125. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 戦が終わったとかで、
+六郎が夕べ遅くに
+帰ってきたらしいんだが。
+126. [MARKER: Message] [FACE: Ｆ真実] 六郎が？！
+127. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] おお。
+大したケガもしてなかったらしい。
+
+128. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 昨日ウチのババァが
+六郎のかぁちゃんと長々･･･おわっ！
+129. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] あ、おい、真実！
+130. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]六郎が帰ってきた･･････
+131. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]それなら
+132. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \C[17]それなら･･･和真も！
+133. [MARKER: Message] [FACE: Ｆ真実] 六郎！
+134. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] ･･･ま、真実･･･！
+135. [MARKER: Message] [FACE: Ｆ真実] \S[2]･･････あ
+136. [MARKER: Message] [FACE: Ｆ真実] \.･･････
+夕べ戦場から戻ったって聞いて･･･
+137. [MARKER: Message] [FACE: Ｆ真実] \S[2]･･･無事
+\S[1]･･･\.だったんだな･･･六郎。
+138. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\.あぁ･･･
+139. [MARKER: Message] [FACE: Ｆ真実] \.\.か
+140. [MARKER: Message] [FACE: Ｆ真実] \.\S[2]･･･和真は？
+141. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]･････････。
+142. [MARKER: Message] [FACE: Ｆ真実] \.和真は一緒じゃ
+\S[2]･･････なかったのか？
+143. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]･････････。
+144. [MARKER: Message] [FACE: Ｆ真実] \S[2]･････････。
+145. [MARKER: Message] [FACE: Ｆ真実] ･･････六郎？
+146. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\.\S[2]和真は･･･
+147. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]･････････
+148. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\.\S[3]･･････死んだ･･･
+149. [MARKER: Message] [FACE: Ｆ真実] \S[2]･････････
+150. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] 　　　　　　　\S[2]\C[19]大丈夫。
+　　　　　　　\.こう見えても俺は悪運が強いんだ･･･
+151. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]\C[17]悪運なんか･･･
+152. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\C[17]全然強くないじゃないか･･･\.和真！
+153. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] ･･･リュウタ･･････？
+154. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]･････････。
+155. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] ･･････\.竜太は
+156. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] おまえを追いかけていて
+崖から足を滑らせた･･････
+157. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \.\S[2]\C[17]そうだ。
+すべてはおまえが元凶だ･･････
+158. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]\C[17]竜太が死んだことも･･･
+\.和真が死んだことも･･･
+159. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]\C[17]すべてはおまえのせいだ･･･！
+160. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]\C[17]竜太は死んでしまったのに
+161. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]\C[17]なぜおまえは生きている？
+162. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]\C[17]２人を･･････
+163. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]\C[17]２人を返せ！！
+164. [MARKER: Message] [FACE: Erase }}}}}}}}}}}}}}}}}}}}] \S[2]\C[17]リュウタ！！

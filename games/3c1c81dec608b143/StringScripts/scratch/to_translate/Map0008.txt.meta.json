@@ -1,0 +1,187 @@
+{
+    "filepath": "Map0008.txt",
+    "meta": [
+        {
+            "type": "message",
+            "start_line_idx": 5,
+            "end_line_idx": 5
+        },
+        {
+            "type": "message",
+            "start_line_idx": 12,
+            "end_line_idx": 12
+        },
+        {
+            "type": "message",
+            "start_line_idx": 17,
+            "end_line_idx": 17
+        },
+        {
+            "type": "message",
+            "start_line_idx": 24,
+            "end_line_idx": 24
+        },
+        {
+            "type": "message",
+            "start_line_idx": 31,
+            "end_line_idx": 31
+        },
+        {
+            "type": "message",
+            "start_line_idx": 38,
+            "end_line_idx": 38
+        },
+        {
+            "type": "message",
+            "start_line_idx": 43,
+            "end_line_idx": 44
+        },
+        {
+            "type": "message",
+            "start_line_idx": 51,
+            "end_line_idx": 51
+        },
+        {
+            "type": "message",
+            "start_line_idx": 58,
+            "end_line_idx": 58
+        },
+        {
+            "type": "message",
+            "start_line_idx": 63,
+            "end_line_idx": 63
+        },
+        {
+            "type": "message",
+            "start_line_idx": 70,
+            "end_line_idx": 70
+        },
+        {
+            "type": "message",
+            "start_line_idx": 79,
+            "end_line_idx": 79
+        },
+        {
+            "type": "message",
+            "start_line_idx": 84,
+            "end_line_idx": 84
+        },
+        {
+            "type": "message",
+            "start_line_idx": 91,
+            "end_line_idx": 92
+        },
+        {
+            "type": "message",
+            "start_line_idx": 99,
+            "end_line_idx": 99
+        },
+        {
+            "type": "message",
+            "start_line_idx": 106,
+            "end_line_idx": 106
+        },
+        {
+            "type": "message",
+            "start_line_idx": 111,
+            "end_line_idx": 112
+        },
+        {
+            "type": "message",
+            "start_line_idx": 119,
+            "end_line_idx": 119
+        }
+    ],
+    "items": [
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.なんだ？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.池ニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "お魚釣れるかもしれないニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･･････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "おっ魚、おっ魚♪"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.１人で釣ってくれ。\nじゃぁな。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "はニャ？！"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.？！"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.落ちたのか？！"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "ゴボゴボ　ごぶべでびゃ～っ"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.ビショビショになっちゃったニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "･･････\n誰のせいだ$n"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "反省してるニャ$d"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････ふぅ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "今度なにかあっても\n置いて行くぞ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.わ、\\.わかったニャ。"
+        }
+    ]
+}

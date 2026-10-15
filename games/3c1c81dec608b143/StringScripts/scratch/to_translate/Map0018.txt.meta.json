@@ -1,0 +1,367 @@
+{
+    "filepath": "Map0018.txt",
+    "meta": [
+        {
+            "type": "message",
+            "start_line_idx": 5,
+            "end_line_idx": 5
+        },
+        {
+            "type": "message",
+            "start_line_idx": 16,
+            "end_line_idx": 16
+        },
+        {
+            "type": "message",
+            "start_line_idx": 23,
+            "end_line_idx": 23
+        },
+        {
+            "type": "message",
+            "start_line_idx": 32,
+            "end_line_idx": 32
+        },
+        {
+            "type": "message",
+            "start_line_idx": 37,
+            "end_line_idx": 38
+        },
+        {
+            "type": "message",
+            "start_line_idx": 45,
+            "end_line_idx": 45
+        },
+        {
+            "type": "message",
+            "start_line_idx": 52,
+            "end_line_idx": 53
+        },
+        {
+            "type": "message",
+            "start_line_idx": 60,
+            "end_line_idx": 62
+        },
+        {
+            "type": "message",
+            "start_line_idx": 69,
+            "end_line_idx": 70
+        },
+        {
+            "type": "message",
+            "start_line_idx": 75,
+            "end_line_idx": 77
+        },
+        {
+            "type": "message",
+            "start_line_idx": 88,
+            "end_line_idx": 88
+        },
+        {
+            "type": "message",
+            "start_line_idx": 95,
+            "end_line_idx": 95
+        },
+        {
+            "type": "message",
+            "start_line_idx": 106,
+            "end_line_idx": 106
+        },
+        {
+            "type": "message",
+            "start_line_idx": 113,
+            "end_line_idx": 113
+        },
+        {
+            "type": "message",
+            "start_line_idx": 118,
+            "end_line_idx": 118
+        },
+        {
+            "type": "message",
+            "start_line_idx": 125,
+            "end_line_idx": 125
+        },
+        {
+            "type": "message",
+            "start_line_idx": 130,
+            "end_line_idx": 130
+        },
+        {
+            "type": "message",
+            "start_line_idx": 135,
+            "end_line_idx": 136
+        },
+        {
+            "type": "message",
+            "start_line_idx": 143,
+            "end_line_idx": 143
+        },
+        {
+            "type": "message",
+            "start_line_idx": 148,
+            "end_line_idx": 148
+        },
+        {
+            "type": "message",
+            "start_line_idx": 155,
+            "end_line_idx": 155
+        },
+        {
+            "type": "message",
+            "start_line_idx": 160,
+            "end_line_idx": 160
+        },
+        {
+            "type": "message",
+            "start_line_idx": 165,
+            "end_line_idx": 166
+        },
+        {
+            "type": "message",
+            "start_line_idx": 173,
+            "end_line_idx": 175
+        },
+        {
+            "type": "message",
+            "start_line_idx": 180,
+            "end_line_idx": 182
+        },
+        {
+            "type": "message",
+            "start_line_idx": 189,
+            "end_line_idx": 189
+        },
+        {
+            "type": "message",
+            "start_line_idx": 196,
+            "end_line_idx": 196
+        },
+        {
+            "type": "message",
+            "start_line_idx": 203,
+            "end_line_idx": 204
+        },
+        {
+            "type": "message",
+            "start_line_idx": 209,
+            "end_line_idx": 210
+        },
+        {
+            "type": "message",
+            "start_line_idx": 217,
+            "end_line_idx": 217
+        },
+        {
+            "type": "message",
+            "start_line_idx": 222,
+            "end_line_idx": 222
+        },
+        {
+            "type": "message",
+            "start_line_idx": 227,
+            "end_line_idx": 228
+        },
+        {
+            "type": "message",
+            "start_line_idx": 233,
+            "end_line_idx": 234
+        },
+        {
+            "type": "message",
+            "start_line_idx": 241,
+            "end_line_idx": 241
+        },
+        {
+            "type": "message",
+            "start_line_idx": 248,
+            "end_line_idx": 248
+        },
+        {
+            "type": "message",
+            "start_line_idx": 255,
+            "end_line_idx": 255
+        }
+    ],
+    "items": [
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "味方になってくれなかったニャ･･･"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "それ以上もってったらドロボーニャ。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "では、そなたもあさるな。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "鍵　鍵と･･･"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "あったニャ。\n\\.･･････ニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "どうした。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "薬草がいっぱい入ってるニャ。\nちょこっともらっていくかニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.\\.･･･そうだな。\n出世払いということで\n２つ３つ頂戴するか。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "･･･止めると思ったが\n\\.お主　意外とシュールじゃニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "ま、いいニャ。\n鍵と一緒に　\n薬草４つだけもらっていくニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "開いたニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "鍵は 紫の包みの中だと思うニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "ニャ～っ$e"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "･･･は、はニャ？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "い、今のは何だったニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\S[2]･････････。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.･･･随分とリアルな幻影だな。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.この男が抱えていた過去が\n妖気と一緒に 飛散したのだろう。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "過去が飛散？"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "なんで飛散したニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.さぁな。"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "ただ･･････"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.この男の姿は\nもう 普通の人の姿に戻ったようだ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.あ。\\.そういえば\nマコトの背中にあった\n黒い羽がなくなってるニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.さっきの幻影のカラスと\nマコトの黒い羽と\nなんか関わりがあったんかいニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.そうかもしれぬ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "カラスにとり憑かれていたニャ？"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "カラスというか\nカラスが持っていた闇というか･･･"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.心の空白に\n闇がとりつくことは よくあることだ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\S[2]闇･･････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.マコトは優しい奴だからニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "ホントはお主のことだって\n通してやりたかったんニャ。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "だからオイラに\nお主の味方をしろって･･･"
+        },
+        {
+            "face": "F鞍春",
+            "marker": "Message",
+            "text": "\\.･･････わかっている。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\S[3]･････････。"
+        },
+        {
+            "face": "Ｆタマ",
+            "marker": "Message",
+            "text": "\\.先･･････行くかニャ？"
+        }
+    ]
+}

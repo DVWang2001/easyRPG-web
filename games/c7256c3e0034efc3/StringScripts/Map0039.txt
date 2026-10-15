@@ -1,0 +1,105 @@
+﻿**********Event18**********
+-----Page1-----
+#Message#
+休想從這裡通過一步！！
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+（不論怎麼說，一對三實在是勝算太低了）
+##
+
+
+#Message#
+（該怎麼辦？）
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+你終於來了呢。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+救我是吹的什麼風啊？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+對我而言，真希望你別把我跟蘇芳那種貨色
+相提並論呢。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+明明對人家撒了那麼多謊，事到如今還在說
+些什麼呢？
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+哎呀，被發現了嗎？
+##
+
+
+#Message#
+也就是說，你的記憶已經恢復了嗎？
+##
+
+
+#Message#
+恭喜你。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+竟敢大言不慚。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 5, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+蘇芳就在這後面。
+##
+
+
+#Message#
+我因為某些原因不便出手，之後就拜託你們
+啦。
+##
+
+
+#Message#
+那麼。
+##
+
+
+{{{{{{{{{{{{{{{{{{{{ Select Face Graphic: 顔1, 1, Left, Normal }}}}}}}}}}}}}}}}}}}}
+
+#Message#
+什麼某些原因啊。
+##
+
+
+#Message#
+明明就一臉嫌麻煩的表情，虧你說得出口。
+##
+
+
+
+
